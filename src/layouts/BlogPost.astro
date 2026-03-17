@@ -1,0 +1,289 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import AdBanner from '../components/AdBanner.astro';
+import Sidebar from '../components/Sidebar.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  pubDate: Date;
+  updatedDate?: Date;
+  heroImage?: string;
+  category: string;
+  author: string;
+  readTime?: string;
+}
+
+const { title, description, pubDate, updatedDate, heroImage, category, author, readTime = '5 min read' } = Astro.props;
+
+const categoryClass = `category-badge category-badge--${category.toLowerCase()}`;
+const formattedDate = pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+
+<BaseLayout title={title} description={description} ogImage={heroImage}>
+  <article class="post">
+    <!-- Leaderboard Ad -->
+    <div class="post__ad-top">
+      <AdBanner size="leaderboard" />
+    </div>
+
+    <div class="post__hero">
+      <div class="post__hero-image" style={`background-image: url(${heroImage || '/images/placeholder.svg'})`}>
+        <div class="post__hero-overlay"></div>
+        <div class="post__hero-content container">
+          <span class={categoryClass}>{category}</span>
+          <h1 class="post__title">{title}</h1>
+          <div class="meta">
+            <span>{author}</span>
+            <span class="meta__dot"></span>
+            <time datetime={pubDate.toISOString()}>{formattedDate}</time>
+            <span class="meta__dot"></span>
+            <span>{readTime}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="post__body container">
+      <div class="post__layout">
+        <div class="post__content">
+          <slot />
+
+          {updatedDate && (
+            <p class="post__updated">
+              Last updated: {updatedDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+            </p>
+          )}
+
+          <!-- In-article ad -->
+          <div class="post__ad-inline">
+            <AdBanner size="in-article" />
+          </div>
+
+          <!-- Share / Tags area -->
+          <div class="post__footer">
+            <div class="post__tags">
+              <span class="post__tags-label">Tags:</span>
+              <a href={`/category/${category.toLowerCase()}`} class={categoryClass}>{category}</a>
+            </div>
+            <div class="post__share">
+              <span class="post__share-label">Share:</span>
+              <a href="#" class="post__share-btn" aria-label="Share on Twitter">𝕏</a>
+              <a href="#" class="post__share-btn" aria-label="Share on LinkedIn">in</a>
+              <a href="#" class="post__share-btn" aria-label="Share on Reddit">r/</a>
+            </div>
+          </div>
+        </div>
+
+        <aside class="post__sidebar">
+          <Sidebar />
+        </aside>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .post__ad-top {
+    max-width: var(--max-width);
+    margin: var(--space-lg) auto;
+    padding: 0 var(--space-lg);
+  }
+
+  .post__hero {
+    margin-bottom: var(--space-2xl);
+  }
+
+  .post__hero-image {
+    width: 100%;
+    min-height: 50vh;
+    max-height: 520px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+  }
+
+  .post__hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to top,
+      var(--bg-root) 0%,
+      rgba(7, 7, 13, 0.85) 30%,
+      rgba(7, 7, 13, 0.4) 60%,
+      rgba(7, 7, 13, 0.2) 100%
+    );
+  }
+
+  .post__hero-content {
+    position: relative;
+    z-index: 2;
+    padding-bottom: var(--space-2xl);
+  }
+
+  .post__hero-content .category-badge {
+    margin-bottom: var(--space-md);
+  }
+
+  .post__title {
+    font-size: clamp(1.8rem, 4vw, 3rem);
+    max-width: 800px;
+    margin-bottom: var(--space-md);
+  }
+
+  .post__layout {
+    display: grid;
+    grid-template-columns: 1fr var(--sidebar-width);
+    gap: var(--space-3xl);
+    align-items: start;
+  }
+
+  .post__content {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: var(--text-secondary);
+  }
+
+  .post__content :global(h2) {
+    margin-top: var(--space-2xl);
+    margin-bottom: var(--space-md);
+    padding-bottom: var(--space-sm);
+    border-bottom: 1px solid var(--border-subtle);
+  }
+
+  .post__content :global(h3) {
+    margin-top: var(--space-xl);
+    margin-bottom: var(--space-sm);
+  }
+
+  .post__content :global(p) {
+    margin-bottom: var(--space-lg);
+  }
+
+  .post__content :global(ul),
+  .post__content :global(ol) {
+    margin-bottom: var(--space-lg);
+    padding-left: var(--space-xl);
+  }
+
+  .post__content :global(li) {
+    margin-bottom: var(--space-sm);
+  }
+
+  .post__content :global(blockquote) {
+    border-left: 3px solid var(--accent);
+    padding-left: var(--space-lg);
+    margin: var(--space-xl) 0;
+    color: var(--text-primary);
+    font-style: italic;
+  }
+
+  .post__content :global(code) {
+    font-family: var(--font-mono);
+    font-size: 0.9em;
+    background: var(--bg-card);
+    padding: 0.15em 0.4em;
+    border-radius: var(--radius-sm);
+  }
+
+  .post__content :global(pre) {
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md);
+    padding: var(--space-lg);
+    overflow-x: auto;
+    margin-bottom: var(--space-lg);
+  }
+
+  .post__content :global(a) {
+    color: var(--accent);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .post__content :global(img) {
+    border-radius: var(--radius-md);
+    margin: var(--space-xl) 0;
+  }
+
+  .post__updated {
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-top: var(--space-xl);
+    padding: var(--space-md);
+    background: var(--bg-card);
+    border-radius: var(--radius-md);
+  }
+
+  .post__ad-inline {
+    margin: var(--space-2xl) 0;
+  }
+
+  .post__footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--space-lg) 0;
+    border-top: 1px solid var(--border-subtle);
+    margin-top: var(--space-2xl);
+  }
+
+  .post__tags {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+  }
+
+  .post__tags-label,
+  .post__share-label {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .post__share {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+  }
+
+  .post__share-btn {
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--radius-sm);
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    transition: all var(--duration-fast) var(--ease-out);
+  }
+
+  .post__share-btn:hover {
+    background: var(--accent-glow);
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .post__sidebar {
+    position: sticky;
+    top: calc(var(--header-height) + var(--topbar-height) + var(--space-lg));
+  }
+
+  @media (max-width: 1024px) {
+    .post__layout {
+      grid-template-columns: 1fr;
+    }
+    .post__sidebar {
+      position: static;
+    }
+  }
+</style>

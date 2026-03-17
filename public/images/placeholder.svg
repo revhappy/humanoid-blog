@@ -1,0 +1,19 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#10101C"/>
+  <rect x="0.5" y="0.5" width="1199" height="629" stroke="#282845"/>
+  <!-- Grid pattern -->
+  <defs>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#1C1C30" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <!-- Robot face icon -->
+  <rect x="540" y="235" width="120" height="120" rx="20" stroke="#282845" stroke-width="2"/>
+  <circle cx="572" cy="282" r="10" fill="#00F0B5" opacity="0.6"/>
+  <circle cx="628" cy="282" r="10" fill="#00F0B5" opacity="0.6"/>
+  <path d="M570 320C570 320 585 338 600 338C615 338 630 320 630 320" stroke="#00F0B5" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+  <line x1="600" y1="220" x2="600" y2="240" stroke="#282845" stroke-width="2" stroke-linecap="round"/>
+  <!-- Text -->
+  <text x="600" y="400" text-anchor="middle" fill="#5C5C78" font-family="monospace" font-size="14">HUMANOID</text>
+</svg>

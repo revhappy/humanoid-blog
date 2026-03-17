@@ -1,0 +1,187 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import HeroArticle from '../components/HeroArticle.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import Sidebar from '../components/Sidebar.astro';
+import AdBanner from '../components/AdBanner.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = (await getCollection('blog'))
+  .filter(post => !post.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const featuredPost = allPosts.find(p => p.data.featured) || allPosts[0];
+const remainingPosts = allPosts.filter(p => p.id !== featuredPost.id);
+---
+
+<BaseLayout title="Home">
+  <div class="home container">
+    <!-- Leaderboard Ad -->
+    <div class="home__ad-top">
+      <AdBanner size="leaderboard" />
+    </div>
+
+    <!-- Hero Featured Article -->
+    <section class="home__hero" aria-label="Featured article">
+      <HeroArticle
+        title={featuredPost.data.title}
+        description={featuredPost.data.description}
+        slug={featuredPost.slug}
+        category={featuredPost.data.category}
+        heroImage={featuredPost.data.heroImage}
+        author={featuredPost.data.author}
+        pubDate={featuredPost.data.pubDate}
+      />
+    </section>
+
+    <!-- Main Content + Sidebar -->
+    <div class="home__layout">
+      <section class="home__main" aria-label="Latest articles">
+        <div class="home__section-header">
+          <h2 class="home__section-title">
+            <span class="home__section-accent">//</span> Latest
+          </h2>
+          <a href="/category/all" class="home__view-all">View all &rarr;</a>
+        </div>
+
+        <div class="home__grid">
+          {remainingPosts.slice(0, 2).map(post => (
+            <ArticleCard
+              title={post.data.title}
+              description={post.data.description}
+              slug={post.slug}
+              category={post.data.category}
+              heroImage={post.data.heroImage}
+              author={post.data.author}
+              pubDate={post.data.pubDate}
+              size="large"
+            />
+          ))}
+        </div>
+
+        <!-- In-feed Ad -->
+        <div class="home__ad-infeed">
+          <AdBanner size="in-feed" />
+        </div>
+
+        <div class="home__grid home__grid--3col">
+          {remainingPosts.slice(2).map(post => (
+            <ArticleCard
+              title={post.data.title}
+              description={post.data.description}
+              slug={post.slug}
+              category={post.data.category}
+              heroImage={post.data.heroImage}
+              author={post.data.author}
+              pubDate={post.data.pubDate}
+            />
+          ))}
+        </div>
+      </section>
+
+      <aside class="home__sidebar">
+        <Sidebar />
+      </aside>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .home {
+    position: relative;
+    z-index: 1;
+    padding-bottom: var(--space-4xl);
+  }
+
+  .home__ad-top {
+    margin: var(--space-lg) 0;
+  }
+
+  .home__hero {
+    margin-bottom: var(--space-2xl);
+  }
+
+  .home__layout {
+    display: grid;
+    grid-template-columns: 1fr var(--sidebar-width);
+    gap: var(--space-3xl);
+    align-items: start;
+  }
+
+  .home__section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: var(--space-xl);
+    padding-bottom: var(--space-sm);
+    border-bottom: 1px solid var(--border-subtle);
+  }
+
+  .home__section-title {
+    font-family: var(--font-display);
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+  }
+
+  .home__section-accent {
+    color: var(--accent);
+    font-family: var(--font-mono);
+    font-weight: 400;
+  }
+
+  .home__view-all {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    transition: color var(--duration-fast);
+  }
+
+  .home__view-all:hover {
+    color: var(--accent);
+  }
+
+  .home__grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-lg);
+    margin-bottom: var(--space-xl);
+  }
+
+  .home__grid--3col {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .home__ad-infeed {
+    margin-bottom: var(--space-xl);
+  }
+
+  .home__sidebar {
+    position: sticky;
+    top: calc(var(--header-height) + var(--topbar-height) + var(--space-lg));
+  }
+
+  @media (max-width: 1100px) {
+    .home__layout {
+      grid-template-columns: 1fr;
+    }
+    .home__sidebar {
+      position: static;
+    }
+    .home__grid--3col {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 640px) {
+    .home__grid,
+    .home__grid--3col {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

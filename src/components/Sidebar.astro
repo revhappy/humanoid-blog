@@ -1,0 +1,203 @@
+---
+import AdBanner from './AdBanner.astro';
+import Newsletter from './Newsletter.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('blog');
+const trendingPosts = allPosts
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 5);
+
+const categories = [
+  { label: 'Humanoids', count: allPosts.filter(p => p.data.category === 'Humanoids').length, color: 'var(--accent)' },
+  { label: 'Robotics', count: allPosts.filter(p => p.data.category === 'Robotics').length, color: 'var(--blue)' },
+  { label: 'AI', count: allPosts.filter(p => p.data.category === 'AI').length, color: 'var(--amber)' },
+  { label: 'Research', count: allPosts.filter(p => p.data.category === 'Research').length, color: '#A882FF' },
+  { label: 'Industry', count: allPosts.filter(p => p.data.category === 'Industry').length, color: 'var(--hot)' },
+];
+---
+
+<div class="sidebar">
+  <!-- Trending -->
+  <div class="sidebar__section">
+    <h3 class="sidebar__heading">
+      <span class="sidebar__heading-icon">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="var(--hot)" stroke-width="2" stroke-linecap="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>
+      </span>
+      Trending
+    </h3>
+    <ol class="sidebar__trending">
+      {trendingPosts.map((post, i) => (
+        <li class="sidebar__trending-item">
+          <span class="sidebar__trending-num">{String(i + 1).padStart(2, '0')}</span>
+          <a href={`/blog/${post.slug}`} class="sidebar__trending-link">
+            <span class={`category-badge category-badge--${post.data.category.toLowerCase()}`} style="font-size: 0.6rem; padding: 0.15em 0.5em;">{post.data.category}</span>
+            <span class="sidebar__trending-title">{post.data.title}</span>
+          </a>
+        </li>
+      ))}
+    </ol>
+  </div>
+
+  <!-- Ad Slot -->
+  <AdBanner size="sidebar" />
+
+  <!-- Newsletter -->
+  <Newsletter />
+
+  <!-- Categories -->
+  <div class="sidebar__section">
+    <h3 class="sidebar__heading">
+      <span class="sidebar__heading-icon">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linecap="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+      </span>
+      Categories
+    </h3>
+    <div class="sidebar__categories">
+      {categories.map(cat => (
+        <a href={`/category/${cat.label.toLowerCase()}`} class="sidebar__category-item">
+          <span class="sidebar__category-dot" style={`background: ${cat.color}`}></span>
+          <span class="sidebar__category-label">{cat.label}</span>
+          <span class="sidebar__category-count">{cat.count}</span>
+        </a>
+      ))}
+    </div>
+  </div>
+
+  <!-- Second Ad Slot -->
+  <AdBanner size="sidebar-tall" />
+</div>
+
+<style>
+  .sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xl);
+  }
+
+  .sidebar__section {
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md);
+    padding: var(--space-lg);
+  }
+
+  .sidebar__heading {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-muted);
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    margin-bottom: var(--space-lg);
+    padding-bottom: var(--space-sm);
+    border-bottom: 1px solid var(--border-subtle);
+  }
+
+  .sidebar__heading-icon {
+    display: flex;
+    align-items: center;
+  }
+
+  /* Trending */
+  .sidebar__trending {
+    list-style: none;
+    counter-reset: trending;
+  }
+
+  .sidebar__trending-item {
+    display: flex;
+    gap: var(--space-md);
+    padding: var(--space-sm) 0;
+    border-bottom: 1px solid var(--border-subtle);
+  }
+
+  .sidebar__trending-item:last-child {
+    border-bottom: none;
+  }
+
+  .sidebar__trending-num {
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    font-weight: 800;
+    color: var(--border-strong);
+    line-height: 1;
+    flex-shrink: 0;
+    width: 28px;
+  }
+
+  .sidebar__trending-link {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+    text-decoration: none;
+    transition: all var(--duration-fast);
+  }
+
+  .sidebar__trending-link:hover .sidebar__trending-title {
+    color: var(--accent);
+  }
+
+  .sidebar__trending-title {
+    font-family: var(--font-display);
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    line-height: 1.3;
+    transition: color var(--duration-fast);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* Categories */
+  .sidebar__categories {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+  }
+
+  .sidebar__category-item {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    padding: var(--space-sm) var(--space-sm);
+    border-radius: var(--radius-sm);
+    text-decoration: none;
+    transition: all var(--duration-fast);
+  }
+
+  .sidebar__category-item:hover {
+    background: rgba(255, 255, 255, 0.03);
+  }
+
+  .sidebar__category-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 2px;
+    flex-shrink: 0;
+  }
+
+  .sidebar__category-label {
+    font-size: 0.88rem;
+    color: var(--text-secondary);
+    flex: 1;
+  }
+
+  .sidebar__category-item:hover .sidebar__category-label {
+    color: var(--text-primary);
+  }
+
+  .sidebar__category-count {
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    background: var(--bg-secondary);
+    padding: 0.15em 0.5em;
+    border-radius: var(--radius-sm);
+  }
+</style>

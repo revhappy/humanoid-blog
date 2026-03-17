@@ -1,0 +1,143 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  slug: string;
+  category: string;
+  heroImage?: string;
+  author: string;
+  pubDate: Date;
+}
+
+const { title, description, slug, category, heroImage, author, pubDate } = Astro.props;
+const categoryClass = `category-badge category-badge--${category.toLowerCase()}`;
+const formattedDate = pubDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+---
+
+<a href={`/blog/${slug}`} class="hero">
+  <div class="hero__image" style={`background-image: url(${heroImage || '/images/placeholder.svg'})`}>
+    <div class="hero__overlay"></div>
+    <div class="hero__content">
+      <div class="hero__badge-row">
+        <span class={categoryClass}>{category}</span>
+        <span class="hero__featured-tag">Featured</span>
+      </div>
+      <h1 class="hero__title">{title}</h1>
+      <p class="hero__excerpt">{description}</p>
+      <div class="meta">
+        <span>{author}</span>
+        <span class="meta__dot"></span>
+        <time datetime={pubDate.toISOString()}>{formattedDate}</time>
+      </div>
+    </div>
+  </div>
+  <div class="hero__glow"></div>
+</a>
+
+<style>
+  .hero {
+    display: block;
+    position: relative;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    text-decoration: none;
+    transition: transform var(--duration-normal) var(--ease-out);
+  }
+
+  .hero:hover {
+    transform: scale(1.005);
+  }
+
+  .hero:hover .hero__image {
+    transform: scale(1.03);
+  }
+
+  .hero__image {
+    width: 100%;
+    min-height: 480px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    transition: transform var(--duration-slow) var(--ease-out);
+  }
+
+  .hero__overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to top,
+      var(--bg-root) 0%,
+      rgba(7, 7, 13, 0.8) 35%,
+      rgba(7, 7, 13, 0.3) 65%,
+      rgba(7, 7, 13, 0.15) 100%
+    );
+  }
+
+  .hero__content {
+    position: relative;
+    z-index: 2;
+    padding: var(--space-2xl) var(--space-2xl) var(--space-2xl);
+    max-width: 720px;
+  }
+
+  .hero__badge-row {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    margin-bottom: var(--space-md);
+  }
+
+  .hero__featured-tag {
+    font-family: var(--font-mono);
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--hot);
+    background: var(--hot-glow);
+    border: 1px solid rgba(255, 45, 85, 0.25);
+    padding: 0.2em 0.6em;
+    border-radius: var(--radius-sm);
+  }
+
+  .hero__title {
+    font-size: clamp(1.8rem, 4vw, 2.8rem);
+    font-weight: 800;
+    line-height: 1.1;
+    margin-bottom: var(--space-md);
+    color: var(--text-primary);
+  }
+
+  .hero__excerpt {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin-bottom: var(--space-lg);
+    max-width: 560px;
+  }
+
+  .hero__glow {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, var(--accent), var(--blue), var(--accent));
+    opacity: 0;
+    transition: opacity var(--duration-normal);
+  }
+
+  .hero:hover .hero__glow {
+    opacity: 1;
+  }
+
+  @media (max-width: 768px) {
+    .hero__image {
+      min-height: 360px;
+    }
+    .hero__content {
+      padding: var(--space-lg);
+    }
+  }
+</style>

@@ -1,0 +1,170 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import Sidebar from '../../components/Sidebar.astro';
+import AdBanner from '../../components/AdBanner.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('blog');
+  const categories = [...new Set(allPosts.map(p => p.data.category))];
+
+  return categories.map(category => ({
+    params: { category: category.toLowerCase() },
+    props: {
+      category,
+      posts: allPosts
+        .filter(p => p.data.category === category && !p.data.draft)
+        .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+    },
+  }));
+}
+
+const { category, posts } = Astro.props;
+---
+
+<BaseLayout title={category} description={`Latest ${category} articles on HUMANOID`}>
+  <div class="cat-page container">
+    <div class="cat-page__header">
+      <div class="cat-page__breadcrumb">
+        <a href="/">Home</a>
+        <span class="cat-page__separator">/</span>
+        <span>{category}</span>
+      </div>
+      <h1 class="cat-page__title">
+        <span class={`category-badge category-badge--${category.toLowerCase()}`}>{category}</span>
+        <span class="cat-page__count">{posts.length} article{posts.length !== 1 ? 's' : ''}</span>
+      </h1>
+    </div>
+
+    <div class="cat-page__ad-top">
+      <AdBanner size="leaderboard" />
+    </div>
+
+    <div class="cat-page__layout">
+      <section class="cat-page__main">
+        <div class="cat-page__grid">
+          {posts.map((post, i) => (
+            <ArticleCard
+              title={post.data.title}
+              description={post.data.description}
+              slug={post.slug}
+              category={post.data.category}
+              heroImage={post.data.heroImage}
+              author={post.data.author}
+              pubDate={post.data.pubDate}
+              size={i === 0 ? 'large' : 'normal'}
+            />
+          ))}
+        </div>
+
+        {posts.length === 0 && (
+          <div class="cat-page__empty">
+            <p>No articles in this category yet. Check back soon.</p>
+          </div>
+        )}
+      </section>
+
+      <aside class="cat-page__sidebar">
+        <Sidebar />
+      </aside>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .cat-page {
+    position: relative;
+    z-index: 1;
+    padding-bottom: var(--space-4xl);
+  }
+
+  .cat-page__header {
+    padding: var(--space-2xl) 0;
+  }
+
+  .cat-page__breadcrumb {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    margin-bottom: var(--space-md);
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+  }
+
+  .cat-page__breadcrumb a {
+    color: var(--text-muted);
+    transition: color var(--duration-fast);
+  }
+
+  .cat-page__breadcrumb a:hover {
+    color: var(--accent);
+  }
+
+  .cat-page__separator {
+    opacity: 0.4;
+  }
+
+  .cat-page__title {
+    display: flex;
+    align-items: center;
+    gap: var(--space-md);
+  }
+
+  .cat-page__title .category-badge {
+    font-size: 1rem;
+    padding: 0.3em 1em;
+  }
+
+  .cat-page__count {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    color: var(--text-muted);
+  }
+
+  .cat-page__ad-top {
+    margin-bottom: var(--space-xl);
+  }
+
+  .cat-page__layout {
+    display: grid;
+    grid-template-columns: 1fr var(--sidebar-width);
+    gap: var(--space-3xl);
+    align-items: start;
+  }
+
+  .cat-page__grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-lg);
+  }
+
+  .cat-page__empty {
+    text-align: center;
+    padding: var(--space-4xl) 0;
+    color: var(--text-muted);
+    font-family: var(--font-mono);
+    font-size: 0.9rem;
+  }
+
+  .cat-page__sidebar {
+    position: sticky;
+    top: calc(var(--header-height) + var(--topbar-height) + var(--space-lg));
+  }
+
+  @media (max-width: 1100px) {
+    .cat-page__layout {
+      grid-template-columns: 1fr;
+    }
+    .cat-page__sidebar {
+      position: static;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .cat-page__grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

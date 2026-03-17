@@ -1,0 +1,124 @@
+---
+---
+
+<div class="newsletter">
+  <div class="newsletter__icon">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="1.5" stroke-linecap="round">
+      <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+      <polyline points="22,6 12,13 2,6"/>
+    </svg>
+  </div>
+  <h3 class="newsletter__title">The Weekly Circuit</h3>
+  <p class="newsletter__text">
+    Get the top humanoid robotics stories delivered every Saturday. No spam, unsubscribe anytime.
+  </p>
+  <form class="newsletter__form" action="#" method="post">
+    <input
+      type="email"
+      placeholder="you@example.com"
+      class="newsletter__input"
+      required
+      aria-label="Email address"
+    />
+    <button type="submit" class="newsletter__btn">Subscribe</button>
+  </form>
+  <p class="newsletter__note">Join 2,400+ robotics enthusiasts</p>
+</div>
+
+<style>
+  .newsletter {
+    background: linear-gradient(135deg, var(--bg-card) 0%, rgba(0, 240, 181, 0.04) 100%);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md);
+    padding: var(--space-xl);
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .newsletter::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--accent), transparent);
+  }
+
+  .newsletter__icon {
+    margin-bottom: var(--space-md);
+    display: flex;
+    justify-content: center;
+  }
+
+  .newsletter__title {
+    font-family: var(--font-display);
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: var(--space-sm);
+  }
+
+  .newsletter__text {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+    margin-bottom: var(--space-lg);
+  }
+
+  .newsletter__form {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+  }
+
+  .newsletter__input {
+    width: 100%;
+    background: var(--bg-root);
+    border: 1px solid var(--border-default);
+    border-radius: var(--radius-sm);
+    padding: 0.65rem var(--space-md);
+    font-family: var(--font-body);
+    font-size: 0.85rem;
+    color: var(--text-primary);
+    outline: none;
+    transition: border-color var(--duration-fast);
+    text-align: center;
+  }
+
+  .newsletter__input:focus {
+    border-color: var(--accent);
+  }
+
+  .newsletter__input::placeholder {
+    color: var(--text-muted);
+  }
+
+  .newsletter__btn {
+    width: 100%;
+    padding: 0.65rem;
+    background: var(--accent);
+    border: none;
+    border-radius: var(--radius-sm);
+    font-family: var(--font-display);
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--bg-root);
+    cursor: pointer;
+    transition: all var(--duration-fast);
+    letter-spacing: 0.02em;
+  }
+
+  .newsletter__btn:hover {
+    background: var(--accent-dim);
+    transform: translateY(-1px);
+  }
+
+  .newsletter__note {
+    font-family: var(--font-mono);
+    font-size: 0.65rem;
+    color: var(--text-muted);
+    margin-top: var(--space-md);
+  }
+</style>
