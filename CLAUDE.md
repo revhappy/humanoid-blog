@@ -2,13 +2,15 @@
 
 This is an Astro-based blog about humanoid robotics, AI, and intelligent machines. It deploys to Firebase Hosting via GitHub Actions on every push to `main`.
 
-## Quick Start: Publishing a New Article
+## Content Creation Workflow
 
-1. Create a new `.md` file in `src/content/blog/`
-2. Use kebab-case for filenames (e.g., `tesla-optimus-new-update.md`)
-3. Add the required frontmatter (see template below)
-4. Write the article body in Markdown
-5. Commit and push to `main` — GitHub Actions will build and deploy automatically
+**Read `AGENTS.md` for the full step-by-step playbook.** The short version:
+
+1. **Research first** — Check @robbs2k's AI & Robotics list on X.com (`https://x.com/robbs2k/lists`), then run web searches to verify and expand
+2. **Log findings** — Append to `src/content/research-log.md` to avoid duplicate coverage
+3. **Write the article** — Create a `.md` file in `src/content/blog/` with proper frontmatter
+4. **Verify** — Build test, fact-check, run pre-publish checklist
+5. **Publish** — Commit and push to `main` — GitHub Actions auto-deploys
 
 ## Article Frontmatter Template
 
