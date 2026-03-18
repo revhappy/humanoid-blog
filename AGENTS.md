@@ -10,7 +10,34 @@ Daily Research Scan → Log Findings → Select Best Story → Deep Research →
 
 Every push to `main` triggers GitHub Actions which builds the site and deploys to Firebase. As an agent, you follow the steps below.
 
-**IMPORTANT:** Every article must be grounded in real, verified, current news. Do NOT fabricate stories, companies, quotes, or statistics. If you cannot verify a claim via web search, do not include it.
+## STRICT CONTENT RULES — READ BEFORE ANYTHING ELSE
+
+These are non-negotiable. Violating them produces false information published under this brand.
+
+### NO HALLUCINATION — ZERO TOLERANCE
+- **Every single claim in an article must be directly traceable to a URL you fetched during this session.** Not from training data. Not "commonly known." From a URL.
+- **Never pad articles.** If your sources only give you 300 words of verified facts, write a 300-word article. Do NOT expand it with extrapolated details from training knowledge.
+- **Never fabricate quotes.** If you did not read a quote at a source URL, it does not go in the article. Not even paraphrased.
+- **Never invent numbers.** Funding amounts, unit counts, specs, dates, market caps — only include them if you read them at a source URL this session.
+- **If you are not sure whether something is true, do not include it.** Hedge language ("reportedly", "according to") still requires a source URL.
+
+### THE X.COM LIST PROBLEM
+The X.com list at `https://x.com/robbs2k/lists` requires a login to view and **will likely be inaccessible**. If you cannot load it, say so immediately — do NOT silently fall back to general web searches and pretend you used the list. Tell the user: "I could not access the X list — do you want me to proceed with web searches instead?"
+
+### SOURCE CITATION REQUIREMENT
+Every article must end with a `<!-- Sources -->` comment block listing every URL you actually fetched:
+
+```markdown
+<!-- Sources
+- https://example.com/article-about-robot
+- https://company.com/press-release
+-->
+```
+
+If you cannot list at least 2 real URLs you fetched for a story, do not publish the article.
+
+### ARTICLE LENGTH = VERIFIED CONTENT ONLY
+Write only as much as your sources support. A short, accurate 300-word article is far better than a padded, partially fabricated 800-word article.
 
 ---
 
@@ -140,11 +167,13 @@ Once you've picked your story, do a deep dive:
 - [ ] Check the **timeline**: when was this announced? Is it today's news or old?
 
 ### Fact-Checking Rules
-- Every claim needs a source found via web search
+- Every claim needs a source URL you actually fetched this session — training data does not count
+- Find the **primary source** first (official press release, company blog, SEC filing). Secondary sources alone are not enough for specific numbers.
 - If two sources disagree on a number, note the discrepancy or use the primary source
-- If you can only find one unverified source, hedge with language like "reportedly" or "according to"
-- NEVER fabricate quotes — only use quotes you found in real sources
-- NEVER invent statistics or funding amounts
+- If you can only find one source for a claim, hedge: "reportedly" or "according to [Source]"
+- NEVER fabricate quotes — only include quotes you read at a real URL this session
+- NEVER invent statistics, funding amounts, specs, or dates
+- If deep research turns up less verified detail than expected, write a shorter article — do NOT fill the gap with training knowledge
 
 ---
 
@@ -248,14 +277,17 @@ Search terms: `robot`, `humanoid robot`, `artificial intelligence`, `factory aut
 
 ## Step 5: Pre-Publish Checklist
 
-Before committing, verify:
-- [ ] All claims are based on real sources found via web search
-- [ ] No fabricated quotes, stats, or company names
+Before committing, verify every item:
+- [ ] I can point to a real URL for every claim in this article
+- [ ] The source comment block at the bottom lists at least 2 URLs I actually fetched
+- [ ] Zero fabricated quotes — every quote came from a URL I fetched this session
+- [ ] Zero invented numbers — every stat, dollar amount, date, and spec has a source URL
+- [ ] I did NOT pad the article with training data knowledge beyond what the sources say
+- [ ] If the X list was inaccessible, I told the user before writing
 - [ ] Frontmatter has all required fields
 - [ ] `pubDate` is today's date
 - [ ] `category` matches one of the 6 valid options (exact spelling)
 - [ ] Description is under 160 characters
-- [ ] Article is 400-1500 words
 - [ ] No placeholder text or TODOs remain
 - [ ] Research log (`src/content/research-log.md`) is updated
 
