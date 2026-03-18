@@ -12,6 +12,7 @@ const allPosts = (await getCollection('blog'))
 
 const featuredPost = allPosts.find(p => p.data.featured) || allPosts[0];
 const remainingPosts = allPosts.filter(p => p.id !== featuredPost.id);
+
 ---
 
 <BaseLayout title="Home">
@@ -26,7 +27,7 @@ const remainingPosts = allPosts.filter(p => p.id !== featuredPost.id);
       <HeroArticle
         title={featuredPost.data.title}
         description={featuredPost.data.description}
-        slug={featuredPost.slug}
+        slug={featuredPost.id}
         category={featuredPost.data.category}
         heroImage={featuredPost.data.heroImage}
         author={featuredPost.data.author}
@@ -49,7 +50,7 @@ const remainingPosts = allPosts.filter(p => p.id !== featuredPost.id);
             <ArticleCard
               title={post.data.title}
               description={post.data.description}
-              slug={post.slug}
+              slug={post.id}
               category={post.data.category}
               heroImage={post.data.heroImage}
               author={post.data.author}
@@ -69,7 +70,7 @@ const remainingPosts = allPosts.filter(p => p.id !== featuredPost.id);
             <ArticleCard
               title={post.data.title}
               description={post.data.description}
-              slug={post.slug}
+              slug={post.id}
               category={post.data.category}
               heroImage={post.data.heroImage}
               author={post.data.author}

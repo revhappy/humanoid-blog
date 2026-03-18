@@ -30,7 +30,7 @@ const categories = [
       {trendingPosts.map((post, i) => (
         <li class="sidebar__trending-item">
           <span class="sidebar__trending-num">{String(i + 1).padStart(2, '0')}</span>
-          <a href={`/blog/${post.slug}`} class="sidebar__trending-link">
+          <a href={`/blog/${post.id}`} class="sidebar__trending-link">
             <span class={`category-badge category-badge--${post.data.category.toLowerCase()}`} style="font-size: 0.6rem; padding: 0.15em 0.5em;">{post.data.category}</span>
             <span class="sidebar__trending-title">{post.data.title}</span>
           </a>
