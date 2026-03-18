@@ -4,7 +4,7 @@ description: "Tesla's latest humanoid robot prototype demonstrates real-world wa
 pubDate: 2026-03-14
 category: "Humanoids"
 author: "Marcus Chen"
-featured: true
+featured: false
 heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=630&fit=crop"
 readTime: "6 min read"
 ---
