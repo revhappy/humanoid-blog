@@ -14,25 +14,26 @@
 
 /* --- Design Tokens --- */
 :root {
-  /* Backgrounds */
-  --bg-root: #07070D;
-  --bg-primary: #0B0B14;
-  --bg-secondary: #10101C;
-  --bg-card: #141422;
-  --bg-card-hover: #1A1A2E;
-  --bg-surface: #1E1E32;
-  --bg-elevated: #252540;
+  /* Backgrounds — neutral charcoal, less blue-violet cast */
+  --bg-root: #0A0A0B;
+  --bg-primary: #0E0E10;
+  --bg-secondary: #141416;
+  --bg-card: #17171A;
+  --bg-card-hover: #1C1C20;
+  --bg-surface: #202024;
+  --bg-elevated: #28282E;
 
   /* Borders */
-  --border-subtle: #1C1C30;
-  --border-default: #282845;
-  --border-strong: #3A3A5C;
+  --border-subtle: #26262C;
+  --border-default: #34343C;
+  --border-strong: #4A4A54;
 
   /* Text */
-  --text-primary: #E2E2EC;
-  --text-secondary: #9595B0;
-  --text-muted: #5C5C78;
-  --text-inverse: #07070D;
+  /* Neutral off-whites — less blue/purple cast for legibility */
+  --text-primary: #F0F0F2;
+  --text-secondary: #B4B4BC;
+  --text-muted: #8A8A94;
+  --text-inverse: #0A0A0C;
 
   /* Accents */
   --accent: #00F0B5;
@@ -1416,6 +1417,46 @@ img {
   color: var(--accent);
   text-decoration: underline;
   text-underline-offset: 3px;
+}
+
+/* Visible Sources footer (last h2 is typically ## Sources) */
+.post__content h2 {
+  scroll-margin-top: 5rem;
+}
+
+.post__content h2:last-of-type {
+  margin-top: var(--space-2xl);
+  padding-top: var(--space-lg);
+  border-top: 1px solid var(--border-subtle);
+  font-size: 0.95rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.post__content h2:last-of-type + ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: var(--space-md);
+}
+
+.post__content h2:last-of-type + ul li {
+  margin-bottom: var(--space-sm);
+  font-size: 0.92rem;
+  line-height: 1.5;
+  color: var(--text-secondary);
+}
+
+.post__content h2:last-of-type + ul a {
+  color: var(--text-secondary);
+  text-decoration: none;
+  border-bottom: 1px solid var(--border-default);
+  word-break: break-word;
+}
+
+.post__content h2:last-of-type + ul a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
 }
 
 /* Embedded media (YouTube, X) */

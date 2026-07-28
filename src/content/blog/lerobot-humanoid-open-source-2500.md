@@ -28,7 +28,7 @@ The release is organized as more than a CAD file. According to the project autho
 
 Repos live under the open workspace around `lerobot-humanoid` (hardware, runtime, identification, and legged-zoo packages linked from the announcement). The authors are explicit: this is **not** the most advanced humanoid on Earth. It is meant to be a platform you can reproduce and learn from.
 
-## Why Homebrew Still Matters
+## Why Open Platforms Matter
 
 Humanoid learning has a platform bottleneck. Models and datasets get open-sourced; the bodies that generate real data often stay locked in well-funded labs. LeRobot Humanoid targets the gap: cheap enough to rebuild when a part snaps, documented enough that a second lab can close the loop.
 
@@ -36,12 +36,13 @@ The project is still experimental. Real-robot policies need careful bring-up, lo
 
 ## A Human's Take
 
-This is the antidote to “humanoids only exist if you raise $500M” energy. A $2,500 printable biped won’t replace Optimus on a line — and it isn’t trying to. It gives students, indie researchers, and stubborn garage builders a shared body to break and improve.
+Not every useful platform needs half a billion in funding. A $2,500 printable biped won’t replace Optimus on a line — and it isn’t trying to. It gives students, researchers, and small teams a shared body to break and improve.
 
-Breakthroughs don’t only arrive as Series C decks. Sometimes they arrive as a BOM, a GitHub org, and a standing policy that almost doesn’t fall over. If a few dozen groups actually build these and publish policies, the open humanoid learning ecosystem gets a lot more interesting than another closed demo.
+Breakthroughs don’t only arrive as Series C decks. Sometimes they arrive as a BOM, a GitHub org, and a standing policy that almost doesn’t fall over. If a few dozen groups actually build these and publish policies, open humanoid learning gets a lot more interesting than another closed demo.
 
-<!-- Sources
-- https://huggingface.co/blog/VirgileBatto/lerobot-humanoid
-- https://interestingengineering.com/ai-robotics/us-hugging-face-3d-printed-lerobot
-- https://github.com/Virgileboat/lerobot-humanoid
--->
+## Sources
+
+- [Hugging Face - LeRobot Humanoid post](https://huggingface.co/blog/VirgileBatto/lerobot-humanoid)
+- [Interesting Engineering - LeRobot coverage](https://interestingengineering.com/ai-robotics/us-hugging-face-3d-printed-lerobot)
+- [GitHub - project repository](https://github.com/Virgileboat/lerobot-humanoid)
+

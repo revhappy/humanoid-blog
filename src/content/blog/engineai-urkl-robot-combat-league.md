@@ -51,10 +51,11 @@ I’m not here for the championship belt. I’m here for the failure modes that 
 
 If EngineAI (and the teams) publish what broke, what they fixed, and how T800 control software improved across the 2026 season, this is a legitimate R&D channel with better marketing than most white papers. If it’s only highlight reels, it’s still a hell of a show — and not much more.
 
-<!-- Sources
-- https://www.globaltimes.cn/page/202607/1366175.shtml
-- https://caliber.az/en/post/china-stages-world-s-first-humanoid-robot-fighting-tournament
-- https://www.globaltimes.cn/page/202602/1355090.shtml
-- https://pandaily.com/engineai-launches-world-s-first-commercial-humanoid-robot-fighting-league
-- https://www.youtube.com/watch?v=GKqDjawv-6k
--->
+## Sources
+
+- [Global Times - EngineAI URKL event](https://www.globaltimes.cn/page/202607/1366175.shtml)
+- [Caliber.Az - robot combat tournament](https://caliber.az/en/post/china-stages-world-s-first-humanoid-robot-fighting-tournament)
+- [Global Times - URKL league launch](https://www.globaltimes.cn/page/202602/1355090.shtml)
+- [Pandaily - EngineAI fighting league](https://pandaily.com/engineai-launches-world-s-first-commercial-humanoid-robot-fighting-league)
+- [YouTube - URKL coverage](https://www.youtube.com/watch?v=GKqDjawv-6k)
+

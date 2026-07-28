@@ -14,7 +14,7 @@ This is an Astro-based blog about humanoid robotics, AI, and intelligent machine
 
 **On-demand mode:** Run the full pipeline when asked. Homepage hero rotates daily among newest posts (daily rebuild cron in deploy.yml).
 
-**Voices:** **Robb Harlan** (mid-40s engineer, skeptical of hype) or **Shar Hendrix** (robot enthusiast covering startups and indie builders). Details in `AGENTS.md`.
+**Voices:** **Robb Harlan** (mid-40s engineer, skeptical of hype) or **Shar Hendrix** (robot enthusiast covering startups and smaller teams). Details in `AGENTS.md`.
 
 ## Article Frontmatter Template
 

@@ -47,8 +47,9 @@ A Series A with Bosch as contract manufacturer is a different animal than a lab 
 
 Still, $1.35 billion post-money before scaled commercial shipping is a bet on execution speed, not proof of product-market fit. Q4 2026 betas and wheeled mass manufacturing are the near-term checkpoints I care about. If those slip, the valuation story gets rewritten fast. If they land — with real hours on customer floors — Europe just put a serious industrial humanoid player on the board, and the US/China duopoly narrative gets less tidy.
 
-<!-- Sources
-- https://thehumanoid.ai/humanoid-raises-152-million-at-1-35-billion-post-money-valuation-becoming-europes-first-pure-play-humanoid-robotics-unicorn/
-- https://thenextweb.com/news/humanoid-152m-series-a-robotics-unicorn-bosch
-- https://www.therobotreport.com/uk-based-humanoid-secures-152m-in-series-a-funding/
--->
+## Sources
+
+- [Humanoid (UK) - Series A announcement](https://thehumanoid.ai/humanoid-raises-152-million-at-1-35-billion-post-money-valuation-becoming-europes-first-pure-play-humanoid-robotics-unicorn/)
+- [TNW - Humanoid Series A / Bosch](https://thenextweb.com/news/humanoid-152m-series-a-robotics-unicorn-bosch)
+- [The Robot Report - UK Humanoid funding](https://www.therobotreport.com/uk-based-humanoid-secures-152m-in-series-a-funding/)
+

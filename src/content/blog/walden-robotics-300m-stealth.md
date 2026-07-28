@@ -49,9 +49,10 @@ I like the form-factor honesty. If your customer is a car plant, wheels plus sta
 
 What I want next is boring: hours per shift without a human “pilot,” failure modes in writing, and a price per hour of useful work. $1.1B on a seed-stage reveal is a lot of faith. The Toyota floor since February is the only claim that keeps me reading past the logo wall.
 
-<!-- Sources
-- https://www.waldenrobotics.com/news/walden-robotics-launches-from-stealth
-- https://www.bostonglobe.com/2026/07/15/business/walden-robotics-cambridge-toyota-humanoid/
-- https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation
-- https://twitter.com/LeoKharon/status/2081273421162274858
--->
+## Sources
+
+- [Walden Robotics - launch announcement](https://www.waldenrobotics.com/news/walden-robotics-launches-from-stealth)
+- [Boston Globe - Walden Robotics](https://www.bostonglobe.com/2026/07/15/business/walden-robotics-cambridge-toyota-humanoid/)
+- [Bloomberg - Walden Robotics](https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation)
+- [X - related post](https://twitter.com/LeoKharon/status/2081273421162274858)
+

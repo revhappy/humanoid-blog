@@ -32,7 +32,8 @@ Opening the robots to the public is a smart, slightly chaotic way to learn what 
 
 The hard part is still ahead: seed money plus an open-ended experiment is not a product yet. If Enigma finds a control pattern as lazy-easy as a volume dial, the whole field benefits. If not, we still get a rare public window into human-robot interaction research — and a reminder that “foundation model” is not the same as “someone would use this at home.”
 
-<!-- Sources
-- https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/
-- https://www.eweek.com/news/enigma-71m-human-robot-interaction/
--->
+## Sources
+
+- [TechCrunch - Enigma seed coverage](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/)
+- [eWeek - Enigma coverage](https://www.eweek.com/news/enigma-71m-human-robot-interaction/)
+

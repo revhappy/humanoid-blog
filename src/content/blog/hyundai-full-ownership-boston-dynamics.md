@@ -43,9 +43,10 @@ Control is underrated in robotics coverage. Fancy walking videos don't tell you 
 
 I'm watching two things: whether those 2028 dates hold, and whether "full ownership" actually shortens the path from demo to takt time. Until a robot is measured against downtime, scrap rate, and shift handoffs, it's still mostly marketing — even when the marketing is very good.
 
-<!-- Sources
-- https://www.hyundai.com/worldwide/en/newsroom/detail/0000001225
-- https://www.morningstar.com/news/marketwatch/2026071690/hyundai-motor-deal-with-softbank-for-boston-dynamics-stake-is-as-wild-as-the-robot-videos
-- https://www.upi.com/Top_News/World-News/2026/07/16/hyundai-softbank-boston-dynamics/5321784237944/
-- https://qz.com/hyundai-softbank-boston-dynamics-stake-acquisition-071626
--->
+## Sources
+
+- [Hyundai Motor Group - Boston Dynamics statement](https://www.hyundai.com/worldwide/en/newsroom/detail/0000001225)
+- [MarketWatch via Morningstar - SoftBank stake analysis](https://www.morningstar.com/news/marketwatch/2026071690/hyundai-motor-deal-with-softbank-for-boston-dynamics-stake-is-as-wild-as-the-robot-videos)
+- [UPI - Hyundai / SoftBank stake](https://www.upi.com/Top_News/World-News/2026/07/16/hyundai-softbank-boston-dynamics/5321784237944/)
+- [Quartz - Hyundai / SoftBank stake](https://qz.com/hyundai-softbank-boston-dynamics-stake-acquisition-071626)
+

@@ -41,7 +41,8 @@ This is the kind of robotics story that doesn’t make stadium demos but might a
 
 I’m watching whether those 2.8 GW of contracted work turn into paid, repeatable deployments — and whether the “generalizable” training story holds when the weather, mud, and inventory chaos get worse than a pilot site. If it does, humanoids aren’t the only path to physical AI that matters.
 
-<!-- Sources
-- https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/
-- https://thenextweb.com/news/gritt-32m-physical-ai-construction-solar
--->
+## Sources
+
+- [TechCrunch - Gritt stealth exit](https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/)
+- [TNW - Gritt solar robots](https://thenextweb.com/news/gritt-32m-physical-ai-construction-solar)
+

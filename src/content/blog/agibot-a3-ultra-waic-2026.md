@@ -52,8 +52,9 @@ I'm glad someone is talking about uptime and line integration in the same breath
 
 What I want next is not another booth dance. I want customer names who will say, on the record, what the robot costs to run per hour versus the human baseline, how often it needs a human babysitter, and what broke first. Until those answers are public, A3 Ultra is a serious product *announcement*. The shift work still has to prove itself outside Shanghai.
 
-<!-- Sources
-- https://www.agibot.com/article/231/detail/85.html
-- https://www.therobotreport.com/agibot-unveils-four-embodied-ai-products-real-world-operations-waic/
-- https://www.eweek.com/news/agibot-a3-ultra-humanoid-robot-waic-2026-apac-china/
--->
+## Sources
+
+- [AGIBOT - official product announcement](https://www.agibot.com/article/231/detail/85.html)
+- [The Robot Report - AGIBOT WAIC](https://www.therobotreport.com/agibot-unveils-four-embodied-ai-products-real-world-operations-waic/)
+- [eWeek - AGIBOT A3 Ultra](https://www.eweek.com/news/agibot-a3-ultra-humanoid-robot-waic-2026-apac-china/)
+

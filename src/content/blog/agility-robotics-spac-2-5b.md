@@ -49,9 +49,10 @@ Public markets are a brutal scoreboard. For years the humanoid sector has been p
 
 I’m not celebrating the ticker. I’m watching three things after close: how much trust cash actually sticks after redemptions, whether Digit v5 ships against that $300M order stack, and whether “cooperative safety” becomes a certifiable product or a slide deck phrase. If AGLT forces quarterly honesty about unit economics, the whole industry gets a cleaner measuring stick. That alone is worth the noise.
 
-<!-- Sources
-- https://www.agilityrobotics.com/content/agility-robotics-to-go-public-through-merger-with-churchill-capital-corp-xi
-- https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/
-- https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/
-- https://www.youtube.com/watch?v=xM1BJ47XF5w
--->
+## Sources
+
+- [Agility Robotics - press release](https://www.agilityrobotics.com/content/agility-robotics-to-go-public-through-merger-with-churchill-capital-corp-xi)
+- [TechCrunch - Agility SPAC coverage](https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/)
+- [TechCrunch - Agility Fremont facility](https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/)
+- [YouTube - Digit at work](https://www.youtube.com/watch?v=xM1BJ47XF5w)
+

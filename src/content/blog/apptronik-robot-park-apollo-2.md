@@ -38,8 +38,8 @@ This is one of the more honest industrial stories in humanoids right now — not
 
 Watch the boring metrics: hours logged, tasks that look like actual SOPs, and wheeled Apollo next to humans without a velvet rope.
 
-<!-- Sources
-- https://apptronik.com/news-collection/welcome-to-robot-park-where-apptroniks-apollo-goes-to-work
-- https://apptronik.com/company/press-releases
-- https://techcrunch.com/wp-content/uploads/2025/01/apptronik.jpg
--->
+## Sources
+
+- [Apptronik - Robot Park press release](https://apptronik.com/news-collection/welcome-to-robot-park-where-apptroniks-apollo-goes-to-work)
+- [Apptronik - press releases index](https://apptronik.com/company/press-releases)
+
