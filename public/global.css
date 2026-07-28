@@ -97,20 +97,6 @@ body {
   overflow-x: hidden;
 }
 
-/* Subtle grid pattern background */
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  background-image:
-    linear-gradient(var(--border-subtle) 1px, transparent 1px),
-    linear-gradient(90deg, var(--border-subtle) 1px, transparent 1px);
-  background-size: 60px 60px;
-  opacity: 0.3;
-  pointer-events: none;
-  z-index: 0;
-}
-
 /* Accent glow bar at very top */
 body::after {
   content: '';
@@ -150,7 +136,7 @@ h3 { font-size: clamp(1.2rem, 2vw, 1.6rem); }
 h4 { font-size: clamp(1rem, 1.5vw, 1.25rem); }
 
 p {
-  color: var(--text-secondary);
+  color: var(--text-primary);
   line-height: 1.7;
 }
 
@@ -1363,7 +1349,7 @@ img {
 .post__content {
   font-size: 1.05rem;
   line-height: 1.8;
-  color: var(--text-secondary);
+  color: var(--text-primary);
 }
 
 .post__content h2 {
