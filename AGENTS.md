@@ -254,7 +254,7 @@ description: "1-2 sentence summary under 160 characters for SEO"
 pubDate: YYYY-MM-DD
 category: "Humanoids"
 author: "Robb Harlan"  # or "Shar Hendrix"
-heroImage: "https://images.unsplash.com/photo-XXXXX?w=1200&h=630&fit=crop"
+heroImage: "images/heroes/your-slug.jpg"  # from a cited source page only
 readTime: "X min read"
 featured: false
 draft: false
@@ -269,7 +269,7 @@ draft: false
 
 ### Optional Frontmatter Fields
 - `author` — Defaults to "HUMANOID Staff" in schema; **new posts use `Robb Harlan` or `Shar Hendrix`**
-- `heroImage` — Unsplash URL with `?w=1200&h=630&fit=crop`
+- `heroImage` — Local path under `images/heroes/…` downloaded from a **cited source article** (never stock/Unsplash)
 - `readTime` — e.g., "5 min read" (calculate at ~200 words/minute)
 - `featured` — Set `true` to make homepage hero (only one at a time)
 - `draft` — Set `true` to hide from the site
@@ -329,38 +329,50 @@ Not a restatement of the lede — analysis and implications only.
 |-------------|------|
 | **Hero** | 1 frontmatter `heroImage` (card + top of post) |
 | **In-body images** | **At least 1** mid-article image; prefer **2–3 total** distinct stills across hero + body when sources have them |
-| **Video** | **If a usable official / press / YouTube demo exists, embed it.** Do not skip a good launch video. |
+| **Video** | **If a usable official / press / YouTube demo exists on a source page, embed it.** Do not skip a good launch video. |
 
-**Do not reuse generic Unsplash stock across articles.** Prefer images from:
+#### HARD RULE — images only from source articles
 
-1. Company press release / product page / official blog  
-2. Secondary coverage that credits company photos (TechCrunch, etc.)  
-3. Official social / media kit stills  
-4. Frame grabs only if the company posted them as stills (don’t invent screenshots)
+**Every image (hero and in-body) must come from a URL you actually fetched for this story and list under `## Sources`.**
+
+Allowed origins only:
+
+1. **Primary source pages** for the story — company press release, product page, official blog, launch post  
+2. **Secondary coverage you cite** — TechCrunch, Robot Report, etc. **only if that page’s photo is about this story** (og:image / inline article art)  
+3. **Official video pages** linked in Sources (YouTube embed of that same clip)
+
+**Never use:**
+
+- Unsplash, Pexels, Getty, or any stock library  
+- Generic “robot” photos unrelated to this company/product  
+- Recycled heroes from older posts about a different story  
+- AI-generated or invented screenshots  
+- Random homepage gallery shots that are not on a cited source URL  
+
+If a source page has **no usable still**, publish with fewer images — do **not** fill with stock. Prefer one real source photo over three unrelated ones.
 
 **Image workflow:**
-1. Fetch primary source pages and extract 2–3 representative image URLs when available  
-2. Download into `public/images/heroes/` (or `public/images/articles/`) as `<slug>.jpg`, `<slug>-2.jpg`, `<slug>-3.jpg`  
-3. Frontmatter hero: `heroImage: "images/heroes/<slug>.jpg"`  
-4. In-body images use the **site base path** (GitHub Pages):
+1. While researching, open each source URL and pull **that page’s** images (og:image, press kit on the same page, inline figures)  
+2. Download into `public/images/heroes/` as `<slug>.jpg`, `<slug>-2.jpg`, …  
+3. Frontmatter: `heroImage: "images/heroes/<slug>.jpg"`  
+4. Caption **must name the source** (company / outlet)  
+5. In-body paths use the **site base** (GitHub Pages):
 
 ```markdown
 ![Digit moving totes in a warehouse](/humanoid-blog/images/heroes/agility-digit-2.jpg)
 
 <figure>
   <img src="/humanoid-blog/images/heroes/agility-digit-3.jpg" alt="Close-up of Digit hands" loading="lazy" />
-  <figcaption>Digit at a customer site. Source: Agility Robotics.</figcaption>
+  <figcaption>Digit at a customer site. Source: Agility Robotics press release.</figcaption>
 </figure>
 ```
 
-5. Prefer the actual robot/product/demo over founders-only shots when both exist  
-6. Caption or alt text should say what it is; credit source when not yours  
+6. Prefer the actual robot/product/demo over founders-only shots when both exist **on a cited source**  
+7. In research log or Sources, it must be obvious which page the still came from  
 
-Unsplash is a **last resort** only when no usable official still exists — and even then pick a distinct image per article, never recycle the same photo.
+**Video embed (when available on a source):**
 
-**Video embed (when available):**
-
-Search company YouTube, press pages, and the lead X post for demos. Prefer official channels. Place early (after lede or first section):
+Prefer official channels linked from company/press coverage. Place early (after lede or first section):
 
 ```html
 <div class="video-embed">
@@ -376,7 +388,6 @@ Search company YouTube, press pages, and the lead X post for demos. Prefer offic
 ```
 
 - Use `youtube.com/embed/ID` (not `watch?v=`)  
-- If only an X video exists and no YouTube, link the X post in Sources and still use in-body stills; optional raw video URL only if it plays in-browser  
 - Always list the video URL in `## Sources`  
 - Do **not** invent or deep-fake media  
 
@@ -391,8 +402,10 @@ Before committing, verify every item:
 - [ ] Zero invented numbers — every stat, dollar amount, date, and spec has a source URL
 - [ ] I did NOT pad the article with training data knowledge beyond what the sources say
 - [ ] If the X list was inaccessible, I told the user before writing
-- [ ] **Hero image set** and at least **1 in-body image** (prefer 2–3 stills total when available)
-- [ ] **Video embedded** when an official/demo clip exists; caption + Sources entry included
+- [ ] **Every image** (hero + body) was taken from a **cited source article URL** — no stock/Unsplash/recycled unrelated photos
+- [ ] **Hero + ≥1 in-body image** when sources provide stills (prefer 2–3 total)
+- [ ] **Video embedded** when an official/demo clip exists on a source; caption + Sources entry included
+- [ ] Figcaptions credit the source outlet/company
 - [ ] Frontmatter has all required fields
 - [ ] `pubDate` is today's date
 - [ ] `category` matches one of the 6 valid options (exact spelling)
@@ -483,7 +496,7 @@ If no article is featured, the most recent by date becomes the hero automaticall
 |---------|----------|
 | Build fails | Check frontmatter — category must match exact enum values |
 | Article doesn't appear | Check `draft: false` and `pubDate` is not in the future |
-| Images broken | Verify Unsplash URL has `?w=1200&h=630&fit=crop` |
+| Images broken | Confirm local `images/heroes/…` file exists and path uses `/humanoid-blog/` base in body |
 | Push rejected | Run `git pull --rebase origin main` first |
 | Merge conflict in research-log | Accept both changes, re-commit |
 | Path issues on Windows | Use `node "./node_modules/astro/astro.js"` not `npx astro` |

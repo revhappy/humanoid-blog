@@ -10,7 +10,8 @@ Living notes for anyone writing or publishing here. Keep the look fun, technical
 - **Mix:** Real demos, small startups, open projects, technical “wait, they shipped that?” stories — plus industry when it matters.
 - **Not required:** Buzzwords like “homebrew,” “disrupting,” “game-changing.” Just show the work.
 - **Always:** Facts from fetched URLs only. Visible `## Sources` at the end of every post.
-- **Media (required):** Source-matched **hero + at least 1 in-body image** (prefer **2–3** stills total when available). **Embed a video** when an official/demo clip exists (YouTube preferred). See Media section below.
+- **Media (required):** **hero + at least 1 in-body image** (prefer **2–3** stills when sources have them). **Embed a video** when a source has one.  
+- **Images always from source articles only** — no Unsplash, stock, or unrelated recycled photos. Every still must come from a URL listed in `## Sources`.
 
 ### Story shape we love (example, not a template)
 
@@ -122,29 +123,34 @@ This is a **primary daily source** for populating the feed. Scan recent posts fo
 
 | Piece | Minimum | Prefer |
 |-------|---------|--------|
-| Hero (`heroImage`) | 1 | Official product/robot shot |
-| In-body images | **≥1** | **2–3 total stills** (hero + body) when sources have them |
-| Video embed | When available | Always embed official launch/demo clips |
+| Hero (`heroImage`) | 1 | Still from primary source page |
+| In-body images | **≥1** | **2–3 total** when cited sources have them |
+| Video embed | When on a source | Official launch/demo on a cited URL |
 
-**Images**
-- Download to `public/images/heroes/<slug>.jpg`, `<slug>-2.jpg`, …
-- Frontmatter: `heroImage: "images/heroes/<slug>.jpg"`
-- In body (base path required for GitHub Pages):
+#### Images: only from source articles (non-negotiable)
+
+1. Open a URL that will appear under `## Sources`  
+2. Take **that page’s** art (og:image, press photo, inline figure) — not a random site elsewhere  
+3. Download to `public/images/heroes/<slug>.jpg`  
+4. Caption with company/outlet name  
+5. **Never** Unsplash, Getty, Pexels, generic robots, or reuse from an unrelated post  
+
+Fewer real source photos beats padded stock. Full detail: `AGENTS.md`.
+
+**In body** (base path for GitHub Pages):
 
 ```markdown
 ![Alt describing the robot/scene](/humanoid-blog/images/heroes/slug-2.jpg)
 ```
 
-Or with caption:
-
 ```html
 <figure>
   <img src="/humanoid-blog/images/heroes/slug-2.jpg" alt="..." loading="lazy" />
-  <figcaption>What it is. Source: Company.</figcaption>
+  <figcaption>What it is. Source: Company press / Outlet.</figcaption>
 </figure>
 ```
 
-**Video (when available)** — place after lede or first H2:
+**Video (when on a source)** — after lede or first H2:
 
 ```html
 <div class="video-embed">
@@ -153,7 +159,7 @@ Or with caption:
 <p class="embed-caption">What the clip shows. Source: Company / YouTube.</p>
 ```
 
-List every media source URL under `## Sources`. Full detail: `AGENTS.md`.
+List every media page under `## Sources`.
 
 ### 3. Selection filter (fun + substance)
 

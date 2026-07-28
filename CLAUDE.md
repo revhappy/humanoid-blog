@@ -25,7 +25,7 @@ description: "A 1-2 sentence summary for SEO and article cards (keep under 160 c
 pubDate: 2026-03-16
 category: "Humanoids"
 author: "Robb Harlan"
-heroImage: "https://images.unsplash.com/photo-XXXXXXX?w=1200&h=630&fit=crop"
+heroImage: "images/heroes/your-slug.jpg"
 readTime: "5 min read"
 featured: false
 draft: false
@@ -40,7 +40,7 @@ draft: false
 
 ### Optional Fields
 - `author` — Author name (defaults to "HUMANOID Staff")
-- `heroImage` — URL to hero image. Use Unsplash URLs with `?w=1200&h=630&fit=crop` for consistent sizing
+- `heroImage` — Local path under `images/heroes/…` from a **cited source article** only (never stock/Unsplash)
 - `readTime` — Estimated read time (e.g., "5 min read")
 - `featured` — Set to `true` to make this the hero article on the homepage (only one should be featured at a time)
 - `draft` — Set to `true` to hide from the site
@@ -78,15 +78,19 @@ draft: false
 ## Media (images + video)
 
 **Required on every article:**
-- **Hero** via `heroImage` (source-matched, not recycled Unsplash)
+- **Hero** via `heroImage`
 - **At least 1 in-body image**; prefer **2–3 total stills** when sources have them
-- **Embed video** when an official/demo YouTube (or equivalent) exists
+- **Embed video** when a cited source has an official/demo clip
 
-1. Pull stills from company press / product pages / credited news photos  
+### HARD RULE: images only from source articles
+Every still must be downloaded from a URL listed in that post’s `## Sources` (company press, product page, or secondary article you’re citing). **No Unsplash, stock libraries, generic robot photos, or recycled unrelated heroes.** If sources lack images, use fewer — never pad with stock.
+
+1. Pull stills from those source pages only  
 2. Save under `public/images/heroes/<slug>.jpg`, `<slug>-2.jpg`, …  
 3. Frontmatter: `heroImage: "images/heroes/<slug>.jpg"`  
 4. In body: `![alt](/humanoid-blog/images/heroes/<slug>-2.jpg)` (include site base)  
-5. Video:
+5. Figcaption credits the source  
+6. Video (from a source URL):
 
 ```html
 <div class="video-embed">
@@ -95,7 +99,7 @@ draft: false
 <p class="embed-caption">Caption. Source: Company / YouTube.</p>
 ```
 
-Unsplash only as last resort, unique per article. Full rules in `AGENTS.md` and `NOTES.md`.
+Full rules in `AGENTS.md` and `NOTES.md`.
 
 ## Managing Featured Articles
 
