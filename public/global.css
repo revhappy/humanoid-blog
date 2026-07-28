@@ -1450,8 +1450,26 @@ img {
 }
 
 .post__content img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
   border-radius: var(--radius-md);
   margin: var(--space-xl) 0;
+}
+
+.post__content figure {
+  margin: var(--space-xl) 0;
+}
+
+.post__content figure img {
+  margin: 0 0 var(--space-sm);
+}
+
+.post__content figcaption {
+  font-size: 0.875rem;
+  color: var(--text-muted, #888);
+  line-height: 1.4;
 }
 
 .post__updated {
