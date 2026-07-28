@@ -11,7 +11,22 @@ Living notes for anyone writing or publishing here. Keep the look fun, technical
 - **Not required:** Buzzwords like “homebrew,” “disrupting,” “game-changing.” Just show the work.
 - **Always:** Facts from fetched URLs only. Visible `## Sources` at the end of every post. Source-matched hero images under `public/images/heroes/`.
 
-Example of the *kind* of lead we want (not a template to copy): startups shipping a real service with a price tag and footage — e.g. Tau Robotics launching a humanoid cleaning service in SF at **$30/hour** ([X post](https://x.com/alexkoch_ai/status/2082135074615763251), [tau-robotics.com](https://www.tau-robotics.com/)). Lead from the post → dig into the company site and other coverage.
+### Story shape we love (example, not a template)
+
+Startups shipping something real with a **price**, a **city**, and **footage** — e.g. **Tau Robotics** launching a humanoid cleaning service in SF at **$30/hour** ([X post](https://x.com/alexkoch_ai/status/2082135074615763251), [tau-robotics.com](https://www.tau-robotics.com/)).
+
+Lead from X → dig into the company site and other coverage. Prefer that shape over vague “AI will change everything” rounds.
+
+Other good shapes:
+
+| Pattern | Why it works |
+|---------|----------------|
+| Service with a price | Readers can argue over coffee ($30/hr clean, $499/mo robot) |
+| Small team / hands / tools | Dexterous hands, smart skins, open twins |
+| Open platform | Printable bipeds, pip-installable robot models |
+| Site-specific robots | Solar install, shipyard welding, warehouse totes |
+| Lab breakthrough with video | Real-to-sim that actually runs an hour on metal |
+| Industry still fun | Factories, order books, odd ownership deals |
 
 ---
 
@@ -24,8 +39,10 @@ Example of the *kind* of lead we want (not a template to copy): startups shippin
 | **Byline** | `Robb Harlan` |
 | **Who** | Male, mid-40s; engineer / technologist |
 | **Voice** | Natural, plain first, technical when it earns its keep. Skeptical of hype. Cares whether it works a real shift, costs, control, supply chain. |
-| **Usually covers** | Industry deals, ownership, public markets, big-company deployments, hard analysis |
+| **Usually covers** | Industry deals, ownership, public markets, factories, big-company deployments, hard analysis, research with real stakes |
 | **Never** | Preach politics (quiet preferences only); invent quotes or numbers |
+
+**Robb’s “A Human’s Take”:** judgment about reliability, shipping, and what could still go wrong. Dry humor ok; no TED-talk crescendo.
 
 ### Shar Hendrix
 
@@ -35,9 +52,17 @@ Example of the *kind* of lead we want (not a template to copy): startups shippin
 | **Who** | Robot enthusiast / tech writer |
 | **Voice** | Curious and clear. Light humor without heavy slang. Never announces age. Explains plainly. |
 | **Usually covers** | Startups, open-source platforms, weird/cool demos, consumer services, small teams shipping something tangible |
-| **Never** | Age/demo talk, emoji spam, forced slang, empty buzzwords |
+| **Never** | Age/demo talk, emoji spam, forced slang, empty buzzwords (“homebrew,” “disrupt,” etc.) |
 
-**How to divvy:** Alternate or match story type — Shar for fun/startup/service/open projects; Robb for capital, structure, industrial scale. Either can write either lane if the story fits.
+**Shar’s “A Human’s Take”:** what made them smile or pause; what to watch next; still grounded in the sources.
+
+### How to divvy (for now)
+
+- **Shar** → fun/startup/service/open/demo-first pieces  
+- **Robb** → capital, factories, structure, industrial scale, research-with-stakes  
+- Either can cross lanes if the story fits the voice better  
+- Alternate when in doubt so both bylines stay active  
+- **Do not invent a third byline** unless the owner asks
 
 Every article ends with:
 
@@ -57,19 +82,30 @@ Every article ends with:
 
 ## How to source articles (daily pipeline)
 
-### 1. Primary lead source (breaking / feed)
+### 1. Primary lead source (breaking / daily feed)
 
-**X list (required daily scan):**
+**X list — scan this first, every session:**
 
 https://x.com/i/lists/1805786050763087967
 
-Scan recent posts for: product launches, demos with real numbers, small teams shipping, cool technical projects, industry moves worth a story.
+This is a **primary daily source** for populating the feed. Scan recent posts for product launches, demos with real numbers, small teams shipping, cool technical projects, and industry moves worth a story.
+
+**How to use the list:**
+
+1. Skim last 24–48 hours (or since last scan)
+2. Flag posts that are **groundbreaking, fun, cool, or concrete** (price, place, units, open repo, factory)
+3. Treat each flag as a **lead only** — never republish the thread as the article
+4. Dig to company site / press / secondary coverage
+5. Log candidates in `src/content/research-log.md`
+
+**If the list is inaccessible** (login wall, tool failure): say so clearly. Do **not** pretend you scanned it. Ask whether to proceed with public X search + web, or wait.
 
 **Also useful:**
 
 - https://x.com/robbs2k/lists (if accessible; disclose if not)
 - Company sites, press rooms
 - The Robot Report, TechCrunch robotics, IEEE Spectrum, company blogs
+- ArXiv / lab blogs for research pieces
 
 ### 2. Lead → story rules
 
@@ -78,7 +114,8 @@ Scan recent posts for: product launches, demos with real numbers, small teams sh
 3. Add **1–2 secondary** sources when available.
 4. Only claims from URLs fetched this session.
 5. Prefer stories with a **concrete hook**: price, demo, open repo, deployment, hours, unit count.
-6. Hero image from **that story’s** media (download to `public/images/heroes/slug.ext`).
+6. Hero image from **that story’s** media (download to `public/images/heroes/slug.ext`). Prefer official stills over stock Unsplash reuse.
+7. Short is fine. Verified 300 words beats padded 800.
 
 ### 3. Selection filter (fun + substance)
 
@@ -89,7 +126,7 @@ Rate roughly:
 - **Specificity** — Numbers, product, place, people?
 - **Not already covered** — Check `src/content/blog/` + research log
 
-Target mix over a week: more **projects & startups** than pure funding roundups; industry still welcome when it’s a real milestone.
+Target mix over a week: **more projects & startups** than pure funding roundups; industry still welcome when it’s a real milestone (factory open, order book, public listing path).
 
 ### 4. Publish
 
@@ -102,20 +139,10 @@ Full rules: `AGENTS.md`.
 
 ---
 
-## Story patterns we like
-
-| Pattern | Example direction |
-|---------|-------------------|
-| Service with a price | Humanoid cleaning at $30/hr, invite-only city |
-| Small team / hands / tools | Dexterous hands seed, sensor gloves |
-| Open platform | Printable biped + full software stack |
-| Site-specific robots | Solar install, construction, grid inspection |
-| Industry still fun | Odd ownership deals, “robots outnumber staff” |
-
----
-
 ## Notes for agents
 
-- List URL above is a **primary daily source** for the feed.
+- List URL above is a **primary daily source** for the feed — start there.
 - Disclose if the list is inaccessible; then use public X search + web, don’t pretend you scanned it.
 - Keep Robb/Shar consistent; don’t invent third bylines unless asked.
+- Site live path: GitHub Pages under repo base (see `src/lib/paths.ts`).
+- Featured: only one `featured: true` at a time.

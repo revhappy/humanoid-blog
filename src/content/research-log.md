@@ -150,3 +150,36 @@ July 2026 only: Agility, Walden, EngineAI, Hyundai/BD, AGIBOT, UK Humanoid, Appt
 
 ### X list note
 List scan via tools returned noisy/latest stream; supplemented with Tau lead + web verification of related cool/industry stories.
+
+## 2026-07-28 (batch 6) — NOTES refresh + list-driven fun batch
+
+### Notes
+- Expanded NOTES.md: full Robb/Shar personas, daily sourcing pipeline, primary X list https://x.com/i/lists/1805786050763087967, Tau-style pattern as editorial target
+- Blog vibe: fun budding robotics blog — breakthroughs, startups, cool projects first; industry second
+
+### X list / web candidates
+1. **[COVERED]** Tau $30/hr SF cleaning — already batch 5
+2. **[CANDIDATE→WRITTEN]** Generative Bionics Gene.01 — 6 months, smart skin, open twin — fun startup
+3. **[CANDIDATE→WRITTEN]** AheadForm Origin faces at WAIC — cool uncanny heads
+4. **[CANDIDATE→WRITTEN]** 1X NEO 25-DoF hands — technical cool
+5. **[CANDIDATE→WRITTEN]** 1X Hayward factory + pricing — industry with concrete numbers
+6. **[CANDIDATE→WRITTEN]** World Labs R2S2R / SceniX — research breakthrough
+7. **[CANDIDATE→WRITTEN]** Agility Fremont Physical AI hub — industry + deployment
+
+### Written (6) — divvy
+**Shar Hendrix**
+1. generative-bionics-gene01.md
+2. aheadform-origin-f1-waic.md
+3. 1x-neo-hands-25-dof.md
+
+**Robb Harlan**
+4. 1x-neo-factory-hayward.md
+5. world-labs-r2s2r-scenix.md
+6. agility-fremont-physical-ai-hub.md
+
+### List access note
+List timeline via keyword search is noisy (replies/ads mixed in). Used semantic/keyword X + web primary sources for verification. Primary company pages fetched for all six stories.
+
+### Parked
+- Xiaomi Robotics-1 on Hugging Face (need stronger primary)
+- Collaborative Robotics / Proxie Deployed podcast (thin for article)
