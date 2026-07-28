@@ -96,21 +96,29 @@ Write only as much as your sources support. A short, accurate 300-word article i
 
 Before writing anything, conduct a thorough scan of the humanoid robotics landscape. Run **multiple** web searches to find what's actually happening today. Cover categories: **Humanoids, Robotics, AI, Research, Industry** (and Deals when relevant).
 
-### Primary Source: @robbs2k X.com AI & Robotics List
+### Primary Source: Curated X list (daily feed)
 
-**START HERE.** Before running general searches, check the curated X list:
+**START HERE** for daily leads:
+
+```
+https://x.com/i/lists/1805786050763087967
+```
+
+This is a **primary source for breaking / cool robotics news** for the feed. Scan last 24–48 hours for launches, demos, startups shipping real things, and technical projects.
+
+Also check owner lists when available:
 
 ```
 https://x.com/robbs2k/lists
 ```
 
-Find the **AI & Robotics** list and scan recent posts. This list is curated by the blog owner and contains the most relevant accounts, companies, and researchers in the humanoid robotics space. It is the single best source for what's trending and newsworthy right now.
+To scan:
+1. Read recent posts on the list above
+2. Note announcements, demos, pricing, open projects, deployments
+3. Use posts as **leads only** — then verify via company sites and secondary reporting
+4. Prefer fun/technical breakthroughs and small teams as well as industry news
 
-To scan the list:
-1. Navigate to `https://x.com/robbs2k` and find the AI & Robotics list
-2. Read through recent posts (last 24-48 hours)
-3. Note any announcements, demos, funding news, or product launches
-4. Use these posts as **leads only** — then verify and expand via primary web sources
+See **`NOTES.md`** for full persona notes, vibe, and selection patterns (e.g. Tau-style service launches).
 
 ### Secondary: Web Search Queries (run after checking the X list)
 

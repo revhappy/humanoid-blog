@@ -131,3 +131,22 @@ July 2026 only: Agility, Walden, EngineAI, Hyundai/BD, AGIBOT, UK Humanoid, Appt
 ### Parked for later
 - Proception $11M robotic hands (ex-Tesla, YC) â€” strong small-startup hand story
 
+
+---
+
+## 2026-07-28 (batch 5) — NOTES + list-driven fun batch
+
+### Notes
+- Added NOTES.md: personas, sourcing, vibe, primary X list https://x.com/i/lists/1805786050763087967
+- Example lead pattern: Tau $30/hr SF cleaning (alexkoch_ai)
+
+### Written (6)
+1. tau-robotics-30-hour-sf-cleaning.md — Shar
+2. gatsby-first-us-humanoid-home-clean.md — Shar
+3. proception-11m-robot-hands.md — Shar
+4. atoms-kalanick-1-7b-a16z.md — Robb
+5. genisom-ai-icra-10000-units.md — Robb
+6. figure-robots-outnumber-humans.md — Robb
+
+### X list note
+List scan via tools returned noisy/latest stream; supplemented with Tau lead + web verification of related cool/industry stories.

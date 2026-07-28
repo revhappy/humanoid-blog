@@ -6,7 +6,7 @@ This is an Astro-based blog about humanoid robotics, AI, and intelligent machine
 
 **Read `AGENTS.md` for the full step-by-step playbook.** The short version:
 
-1. **Research first** — Check @robbs2k's AI & Robotics list on X.com (`https://x.com/robbs2k/lists`) for **leads only**, then dig to primary sources (press releases, company blogs, Reuters-class coverage). Do not repost X threads.
+1. **Research first** — Scan primary X list `https://x.com/i/lists/1805786050763087967` (and robbs2k lists if available) for **leads only**, then dig to company sites and secondary coverage. Do not repost X threads. See `NOTES.md` for personas and sourcing.
 2. **Log findings** — Append to `src/content/research-log.md` to avoid duplicate coverage
 3. **Write the article** — Create a `.md` file in `src/content/blog/` with proper frontmatter; byline **Robb Harlan** or **Shar Hendrix**; end with **`## A Human's Take`**
 4. **Verify** — Build test, fact-check, run pre-publish checklist (every claim from a URL fetched this session)
