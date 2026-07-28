@@ -1418,6 +1418,37 @@ img {
   text-underline-offset: 3px;
 }
 
+/* Embedded media (YouTube, X) */
+.post__content .video-embed {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin: var(--space-xl) 0;
+  border-radius: var(--radius-md, 8px);
+  overflow: hidden;
+  background: #0a0a0a;
+}
+
+.post__content .video-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.post__content .x-embed {
+  margin: var(--space-xl) 0;
+  max-width: 550px;
+}
+
+.post__content .embed-caption {
+  margin-top: calc(var(--space-sm) * -0.5);
+  margin-bottom: var(--space-lg);
+  font-size: 0.875rem;
+  color: var(--text-muted, #888);
+}
+
 .post__content img {
   border-radius: var(--radius-md);
   margin: var(--space-xl) 0;

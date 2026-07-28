@@ -78,3 +78,24 @@ This file tracks daily research scans and article decisions. Agents append to th
 - Agility SPAC (AGLT ticker planned) — good Industry/Deals follow-up
 - Walden Robotics (TRI spinout, Russ Tedrake) — deep research when ready
 - Blog rename deferred; keep visual design, change brand later
+
+---
+
+## 2026-07-28 (batch 2) — Three more articles + video embeds
+
+### Selected for Writing
+1. **Agility Robotics SPAC $2.5B** — `agility-robotics-spac-2-5b.md` — Industry — YouTube Digit embed
+2. **Walden Robotics $300M stealth** — `walden-robotics-300m-stealth.md` — Industry — X post embed with video
+3. **EngineAI URKL combat league** — `engineai-urkl-robot-combat-league.md` — Humanoids — YouTube embed
+
+### Sources (primary fetched)
+- agilityrobotics.com SPAC PR; TechCrunch SPAC + Fremont
+- waldenrobotics.com launch; Boston Globe; Bloomberg listing; X @LeoKharon status
+- Global Times Jul 17 URKL; Caliber; Global Times Feb launch; Pandaily; YouTube URKL
+
+### Site change
+- `public/global.css` — `.video-embed`, `.x-embed`, `.embed-caption` for in-article media
+
+### Notes
+- Prefer YouTube iframes for reliability; X embeds need widgets.js + fallback link
+- Agility close still pending 2026 — follow S-4 / redemptions
