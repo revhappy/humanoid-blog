@@ -4,6 +4,9 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # Rebuild daily so homepage hero/previews rotate with the calendar day
+  schedule:
+    - cron: '0 12 * * *'
 
 jobs:
   build-and-deploy:

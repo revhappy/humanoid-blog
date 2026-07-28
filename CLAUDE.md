@@ -8,13 +8,13 @@ This is an Astro-based blog about humanoid robotics, AI, and intelligent machine
 
 1. **Research first** — Check @robbs2k's AI & Robotics list on X.com (`https://x.com/robbs2k/lists`) for **leads only**, then dig to primary sources (press releases, company blogs, Reuters-class coverage). Do not repost X threads.
 2. **Log findings** — Append to `src/content/research-log.md` to avoid duplicate coverage
-3. **Write the article** — Create a `.md` file in `src/content/blog/` with proper frontmatter; byline **Alex Harlan**; end with **`## A Human's Take`**
+3. **Write the article** — Create a `.md` file in `src/content/blog/` with proper frontmatter; byline **Alex Harlan** or **Shar Hendrix**; end with **`## A Human's Take`**
 4. **Verify** — Build test, fact-check, run pre-publish checklist (every claim from a URL fetched this session)
 5. **Publish** — Commit and push to `main` — GitHub Actions auto-deploys
 
-**On-demand mode:** Run the full pipeline when asked. No silent scheduled publishes unless requested.
+**On-demand mode:** Run the full pipeline when asked. Homepage hero rotates daily among newest posts (daily rebuild cron in deploy.yml).
 
-**Voice:** Alex Harlan — mid-40s engineer/technologist; plain language first, technical when it matters; skeptical of hype; never state politics in posts. Details in `AGENTS.md`.
+**Voices:** **Alex Harlan** (mid-40s engineer, skeptical of hype) or **Shar Hendrix** (20-something robot enthusiast, playful). Details in `AGENTS.md`.
 
 ## Article Frontmatter Template
 

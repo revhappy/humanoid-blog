@@ -99,3 +99,21 @@ This file tracks daily research scans and article decisions. Agents append to th
 ### Notes
 - Prefer YouTube iframes for reliability; X embeds need widgets.js + fallback link
 - Agility close still pending 2026 — follow S-4 / redemptions
+
+---
+
+## 2026-07-28 (batch 3) — Purge March posts + Shar Hendrix + daily hero
+
+### Actions
+- **Deleted** all March 2026 seed/older articles (11 files) so homepage/previews only surface July coverage
+- **Homepage:** daily rotation among top 5 newest posts (`index.astro`); hero badge “Today”
+- **CI:** `deploy.yml` cron `0 12 * * *` rebuilds so rotation updates every day on Firebase
+- **New author:** Shar Hendrix (playful 20-something) — two articles
+
+### Written
+1. `apptronik-robot-park-apollo-2.md` — Shar Hendrix — Apptronik Robot Park + Apollo 2
+2. `enigma-71m-robots-online.md` — Shar Hendrix — Enigma $71M seed + robots.online
+
+### Remaining catalog (after purge + adds)
+July 2026 only: Agility, Walden, EngineAI, Hyundai/BD, AGIBOT, UK Humanoid, Apptronik Robot Park, Enigma — 8 posts total
+

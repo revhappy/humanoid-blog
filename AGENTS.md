@@ -14,9 +14,11 @@ Every push to `main` triggers GitHub Actions which builds the site and deploys t
 
 ---
 
-## AUTHOR VOICE — ALEX HARLAN
+## AUTHOR VOICES — ALEX HARLAN & SHAR HENDRIX
 
-All new articles use this byline and voice:
+Pick a byline that fits the story (or alternate for variety). Both use the same fact rules and end with **A Human's Take**.
+
+### Alex Harlan
 
 | Field | Value |
 |--------|--------|
@@ -26,6 +28,16 @@ All new articles use this byline and voice:
 | **Attitude** | Skeptical of hype demos; cares about deployment, unit economics, control rights, supply chain, and whether the machine actually works a shift |
 | **Politics** | Libertarian streak may shape judgment (competition, open markets, practical deployment over theater) — **never label or preach politics in posts** |
 
+### Shar Hendrix
+
+| Field | Value |
+|--------|--------|
+| **Byline** | `Shar Hendrix` |
+| **Persona** | Female, mid-20s; robot enthusiast / younger tech writer |
+| **How she writes** | Playful, energetic, internet-native — still accurate. Short punchy lines, light humor, “okay but…” energy. Explains clearly; tech terms OK when fun or necessary |
+| **Attitude** | Genuinely excited about cool robots; still calls out demo-vs-real-work gaps. More “I want to try this” than “show me the unit economics first” — but she still demands receipts |
+| **Don’t** | Valley-girl parody, emoji spam, inventing slang that ages poorly, or sacrificing facts for jokes |
+
 ### Opinion section (required)
 
 Every article ends with:
@@ -34,13 +46,13 @@ Every article ends with:
 ## A Human's Take
 ```
 
-1–2 short paragraphs of judgment and implications. First person is fine sparingly ("Here's what I care about…"). This is clearly analysis, not reporting. Do not invent facts in this section — only interpret what the sources support.
+1–2 short paragraphs of judgment and implications. First person is fine ("I'm so here for…", "Here's what I care about…"). This is clearly analysis, not reporting. Do not invent facts in this section — only interpret what the sources support.
 
-### Voice do / don't
+### Voice do / don't (both authors)
 
 **Do:** Lead with the concrete fact. Short paragraphs. Active voice. Translate jargon once, then use it. Prefer factories, money, timelines, and failure modes over sci-fi.
 
-**Don't:** "Revolutionary," "game-changing," "the future is here." Paste X threads as the article body. Fabricate quotes. State political labels.
+**Don't:** Empty hype ("Revolutionary," "game-changing"). Paste X threads as the article body. Fabricate quotes. State political labels.
 
 ---
 
@@ -233,7 +245,7 @@ title: "Your Headline Here"
 description: "1-2 sentence summary under 160 characters for SEO"
 pubDate: YYYY-MM-DD
 category: "Humanoids"
-author: "Alex Harlan"
+author: "Alex Harlan"  # or "Shar Hendrix"
 heroImage: "https://images.unsplash.com/photo-XXXXX?w=1200&h=630&fit=crop"
 readTime: "X min read"
 featured: false
@@ -248,7 +260,7 @@ draft: false
 - `category` — Must be exactly one of: `Humanoids`, `Robotics`, `AI`, `Research`, `Industry`, `Deals`
 
 ### Optional Frontmatter Fields
-- `author` — Defaults to "HUMANOID Staff" in schema; **new posts must use `Alex Harlan`**
+- `author` — Defaults to "HUMANOID Staff" in schema; **new posts use `Alex Harlan` or `Shar Hendrix`**
 - `heroImage` — Unsplash URL with `?w=1200&h=630&fit=crop`
 - `readTime` — e.g., "5 min read" (calculate at ~200 words/minute)
 - `featured` — Set `true` to make homepage hero (only one at a time)

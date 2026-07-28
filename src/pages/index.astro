@@ -10,7 +10,15 @@ const allPosts = (await getCollection('blog'))
   .filter(post => !post.data.draft)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-const featuredPost = allPosts.find(p => p.data.featured) || allPosts[0];
+// Homepage hero rotates daily among the newest posts.
+// Manual `featured: true` still wins when set; otherwise UTC day picks from the top 5.
+// Production refreshes via daily GitHub Actions rebuild (see deploy.yml schedule).
+const manualFeatured = allPosts.find(p => p.data.featured);
+const heroPool = allPosts.slice(0, Math.min(5, allPosts.length));
+const dayIndex = Math.floor(Date.now() / 86_400_000);
+const featuredPost =
+  manualFeatured ||
+  (heroPool.length ? heroPool[dayIndex % heroPool.length] : allPosts[0]);
 const remainingPosts = allPosts.filter(p => p.id !== featuredPost.id);
 
 ---
