@@ -5,10 +5,44 @@ This file is the step-by-step guide for any AI agent (Claude Code, Cowork, custo
 ## The Full Workflow
 
 ```
-Daily Research Scan → Log Findings → Select Best Story → Deep Research → Write → Publish
+Lead Scan (X + Web) → Log Findings → Select Best Story → Deep Research (primary sources) → Write (report + A Human's Take) → Publish
 ```
 
+**Mode:** On-demand. When the user asks to research/write/publish, run the full pipeline end-to-end. Do not run silent scheduled publishes unless the user later requests automation.
+
 Every push to `main` triggers GitHub Actions which builds the site and deploys to Firebase. As an agent, you follow the steps below.
+
+---
+
+## AUTHOR VOICE — ALEX HARLAN
+
+All new articles use this byline and voice:
+
+| Field | Value |
+|--------|--------|
+| **Byline** | `Alex Harlan` |
+| **Persona** | Male, mid-40s; engineer/technologist background |
+| **How he writes** | Natural and human — not corporate staff wire. Explains in layman's terms first, then uses real technical language where it earns its keep |
+| **Attitude** | Skeptical of hype demos; cares about deployment, unit economics, control rights, supply chain, and whether the machine actually works a shift |
+| **Politics** | Libertarian streak may shape judgment (competition, open markets, practical deployment over theater) — **never label or preach politics in posts** |
+
+### Opinion section (required)
+
+Every article ends with:
+
+```markdown
+## A Human's Take
+```
+
+1–2 short paragraphs of judgment and implications. First person is fine sparingly ("Here's what I care about…"). This is clearly analysis, not reporting. Do not invent facts in this section — only interpret what the sources support.
+
+### Voice do / don't
+
+**Do:** Lead with the concrete fact. Short paragraphs. Active voice. Translate jargon once, then use it. Prefer factories, money, timelines, and failure modes over sci-fi.
+
+**Don't:** "Revolutionary," "game-changing," "the future is here." Paste X threads as the article body. Fabricate quotes. State political labels.
+
+---
 
 ## STRICT CONTENT RULES — READ BEFORE ANYTHING ELSE
 
@@ -21,8 +55,13 @@ These are non-negotiable. Violating them produces false information published un
 - **Never invent numbers.** Funding amounts, unit counts, specs, dates, market caps — only include them if you read them at a source URL this session.
 - **If you are not sure whether something is true, do not include it.** Hedge language ("reportedly", "according to") still requires a source URL.
 
+### X.COM = LEADS ONLY — NOT THE ARTICLE
+- Scan X (including @robbs2k AI & Robotics list when accessible) for **leads**: announcements, demos, funding chatter, product launches.
+- **Never repost an X thread as a blog post.** Dig deeper: company press release, SEC/regulatory filing, official blog, Reuters/Bloomberg/The Robot Report-class coverage.
+- Summarize the **big picture from primary and secondary sources**. Mention an X post only when it adds something real (e.g. a named executive statement you verified, or market reaction) — and still source the facts elsewhere when possible.
+
 ### THE X.COM LIST PROBLEM
-The X.com list at `https://x.com/robbs2k/lists` requires a login to view and **will likely be inaccessible**. If you cannot load it, say so immediately — do NOT silently fall back to general web searches and pretend you used the list. Tell the user: "I could not access the X list — do you want me to proceed with web searches instead?"
+The X.com list at `https://x.com/robbs2k/lists` requires a login to view and **will likely be inaccessible**. If you cannot load it, say so immediately — do NOT silently fall back to general web searches and pretend you used the list. Tell the user: "I could not access the X list — do you want me to proceed with web searches instead?" Public X search tools + web verification are fine after disclosure.
 
 ### SOURCE CITATION REQUIREMENT
 Every article must end with a `<!-- Sources -->` comment block listing every URL you actually fetched:
@@ -43,7 +82,7 @@ Write only as much as your sources support. A short, accurate 300-word article i
 
 ## Step 1: Daily Research Scan
 
-Before writing anything, conduct a thorough scan of the humanoid robotics landscape. Run **multiple** web searches to find what's actually happening today:
+Before writing anything, conduct a thorough scan of the humanoid robotics landscape. Run **multiple** web searches to find what's actually happening today. Cover categories: **Humanoids, Robotics, AI, Research, Industry** (and Deals when relevant).
 
 ### Primary Source: @robbs2k X.com AI & Robotics List
 
@@ -59,7 +98,7 @@ To scan the list:
 1. Navigate to `https://x.com/robbs2k` and find the AI & Robotics list
 2. Read through recent posts (last 24-48 hours)
 3. Note any announcements, demos, funding news, or product launches
-4. Use these posts as leads — then verify and expand via web search
+4. Use these posts as **leads only** — then verify and expand via primary web sources
 
 ### Secondary: Web Search Queries (run after checking the X list)
 
@@ -194,7 +233,7 @@ title: "Your Headline Here"
 description: "1-2 sentence summary under 160 characters for SEO"
 pubDate: YYYY-MM-DD
 category: "Humanoids"
-author: "HUMANOID Staff"
+author: "Alex Harlan"
 heroImage: "https://images.unsplash.com/photo-XXXXX?w=1200&h=630&fit=crop"
 readTime: "X min read"
 featured: false
@@ -209,7 +248,7 @@ draft: false
 - `category` — Must be exactly one of: `Humanoids`, `Robotics`, `AI`, `Research`, `Industry`, `Deals`
 
 ### Optional Frontmatter Fields
-- `author` — Author name (defaults to "HUMANOID Staff")
+- `author` — Defaults to "HUMANOID Staff" in schema; **new posts must use `Alex Harlan`**
 - `heroImage` — Unsplash URL with `?w=1200&h=630&fit=crop`
 - `readTime` — e.g., "5 min read" (calculate at ~200 words/minute)
 - `featured` — Set `true` to make homepage hero (only one at a time)
@@ -233,38 +272,34 @@ draft: false
 
 2-3 sentences covering the core news. Lead with the most important fact.
 
-## Section Title
+## What Happened / Section Title
 
-Analysis, details, specs. Use bullet points for feature lists:
+Verified reporting from primary + secondary sources. Specs, money, timelines only if sourced this session.
+
+## Context / Details
+
+Competitive framing from sources. Use bullets for feature lists:
 
 - **Feature name**: Description of the feature
 - **Another feature**: What it does
 
-## Another Section
-
-More depth. Include blockquotes for notable quotes:
+Blockquotes only for quotes you actually read:
 
 > "Quoted text here," said Person Name, their title at Company.
 
-## Numbers / Timeline / Specs Section
+## A Human's Take
 
-Use numbered lists for timelines:
-
-1. **Q1 2026**: First milestone
-2. **Q2 2026**: Second milestone
-
-## What This Means / Looking Ahead
-
-Closing analysis. What are the implications?
+1–2 paragraphs. What it means, what to watch, plain judgment in Alex Harlan's voice.
+Not a restatement of the lede — analysis and implications only.
 ```
 
 ### Writing Style Rules
-- Professional tech journalism — informative, analytical, NOT hype
+- Sound like a mid-40s engineer explaining the news to a smart friend — natural, not "brand voice"
 - Active voice, present tense for current events
 - Specific numbers over vague claims ("raised $2.6B" not "raised significant funding")
 - Short paragraphs (2-4 sentences each)
 - Bold key terms on first mention in lists
-- 400-1500 words depending on story depth
+- Length = verified content only (often 400–900 words; longer only when sources support it)
 
 ### Hero Images
 Search Unsplash and append sizing params:

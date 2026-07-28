@@ -47,3 +47,34 @@ This file tracks daily research scans and article decisions. Agents append to th
 - BotQ (Figure's factory) scaling trajectory worth tracking — 12,000 units/year growing to 100,000
 - Sunday Robotics Memo beta expected before Thanksgiving 2026 — follow up on launch
 - NVIDIA GR00T N2 is a preview only; full release worth covering when it ships
+
+---
+
+## 2026-07-28 — Agent Research Scan (Alex Harlan voice + auto-publish playbook)
+
+### X List Scan (@robbs2k AI & Robotics)
+- Curated list at x.com/robbs2k/lists was not reliably accessible without login (per playbook disclosure). Proceeded with public X semantic search + web primary sources after user approved full publish plan.
+- X leads (Jul 2026): UK Humanoid $152M Series A chatter; Walden Robotics stealth/seed + Toyota plant pilot; Agility SPAC discussion; Hyundai/Boston Dynamics ownership news circulating.
+
+### Web Search Findings
+1. **[CANDIDATE → WRITTEN]** Hyundai Motor Group pursuing SoftBank's remaining Boston Dynamics stake after put option (Jul 16) — hyundai.com newsroom; MarketWatch/Morningstar; UPI — Atlas HMGMA 2028/2030 timeline
+2. **[CANDIDATE → WRITTEN]** AGIBOT A3 Ultra + three other products at WAIC 2026 (Jul 18) — agibot.com; therobotreport.com; eweek.com
+3. **[CANDIDATE → WRITTEN]** UK company Humanoid $152M Series A at $1.35B post-money (Jul 21) — thehumanoid.ai; thenextweb.com; therobotreport.com — Bosch CM, Schaeffler commercial angle
+4. **[SKIP: later batch]** Agility Robotics $2.5B SPAC / Churchill Capital XI — strong story, parked for next run
+5. **[SKIP: later batch]** Walden Robotics out of stealth / Toyota plant pilot — needs deeper primary fetch
+6. **[SKIP: already covered / different angle]** Electric Atlas product history — existing `boston-dynamics-electric-atlas.md`; new piece is ownership/control only
+7. **[SKIP: thin / policy rumor]** Possible US import restrictions on Chinese robots — wait for primary gov/Reuters confirmation
+
+### Selected for Writing
+- Story 1: Hyundai full BD ownership — Industry — `hyundai-full-ownership-boston-dynamics.md`
+- Story 2: AGIBOT A3 Ultra WAIC — Humanoids — `agibot-a3-ultra-waic-2026.md`
+- Story 3: UK Humanoid Series A — Industry — `uk-humanoid-152m-series-a.md`
+- Originally spotted via: web search + public X leads; verified via primary company/newsroom sources
+- Playbook updates: AGENTS.md + CLAUDE.md — Alex Harlan voice, A Human's Take, X-as-leads-only, on-demand auto-publish
+
+### Notes for Future Agents
+- Follow Hyundai Atlas at HMGMA: sequencing 2028, assembly 2030
+- UK Humanoid beta robots Q4 2026; wheeled mass manufacturing claim — verify when hardware ships
+- Agility SPAC (AGLT ticker planned) — good Industry/Deals follow-up
+- Walden Robotics (TRI spinout, Russ Tedrake) — deep research when ready
+- Blog rename deferred; keep visual design, change brand later

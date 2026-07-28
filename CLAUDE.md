@@ -6,11 +6,15 @@ This is an Astro-based blog about humanoid robotics, AI, and intelligent machine
 
 **Read `AGENTS.md` for the full step-by-step playbook.** The short version:
 
-1. **Research first** — Check @robbs2k's AI & Robotics list on X.com (`https://x.com/robbs2k/lists`), then run web searches to verify and expand
+1. **Research first** — Check @robbs2k's AI & Robotics list on X.com (`https://x.com/robbs2k/lists`) for **leads only**, then dig to primary sources (press releases, company blogs, Reuters-class coverage). Do not repost X threads.
 2. **Log findings** — Append to `src/content/research-log.md` to avoid duplicate coverage
-3. **Write the article** — Create a `.md` file in `src/content/blog/` with proper frontmatter
-4. **Verify** — Build test, fact-check, run pre-publish checklist
+3. **Write the article** — Create a `.md` file in `src/content/blog/` with proper frontmatter; byline **Alex Harlan**; end with **`## A Human's Take`**
+4. **Verify** — Build test, fact-check, run pre-publish checklist (every claim from a URL fetched this session)
 5. **Publish** — Commit and push to `main` — GitHub Actions auto-deploys
+
+**On-demand mode:** Run the full pipeline when asked. No silent scheduled publishes unless requested.
+
+**Voice:** Alex Harlan — mid-40s engineer/technologist; plain language first, technical when it matters; skeptical of hype; never state politics in posts. Details in `AGENTS.md`.
 
 ## Article Frontmatter Template
 
@@ -20,7 +24,7 @@ title: "Your Article Title Here"
 description: "A 1-2 sentence summary for SEO and article cards (keep under 160 chars)"
 pubDate: 2026-03-16
 category: "Humanoids"
-author: "HUMANOID Staff"
+author: "Alex Harlan"
 heroImage: "https://images.unsplash.com/photo-XXXXXXX?w=1200&h=630&fit=crop"
 readTime: "5 min read"
 featured: false
@@ -45,18 +49,18 @@ draft: false
 ## Content Guidelines
 
 ### Tone & Style
-- Professional tech journalism — informative, analytical, not hype-driven
-- Lead with the news, then provide context and analysis
-- Use specific numbers and facts where possible
-- Include quotes from company representatives when relevant
-- End with forward-looking analysis or industry implications
+- Natural tech journalism in Alex Harlan's voice — informative, analytical, not hype-driven
+- Lead with the news, then provide context from verified sources only
+- Use specific numbers and facts where sources support them
+- Include quotes from company representatives only when read at a source URL this session
+- End with **A Human's Take** (1–2 paragraphs of implications/judgment)
 
 ### Article Structure
 - **Opening paragraph**: The news/core story in 2-3 sentences
 - **H2 sections**: Break the article into 3-5 digestible sections
 - **Bullet points / numbered lists**: For specs, features, timelines
 - **Blockquotes**: For notable quotes (use `>` markdown syntax)
-- **Conclusion section**: What this means for the industry
+- **A Human's Take**: Required closing analysis section
 
 ### Article Length
 - Standard news: 400-800 words
