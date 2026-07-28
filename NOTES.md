@@ -9,7 +9,8 @@ Living notes for anyone writing or publishing here. Keep the look fun, technical
 - **Tone:** Light, clear, a little playful — breakthroughs and cool projects first; industry money second.
 - **Mix:** Real demos, small startups, open projects, technical “wait, they shipped that?” stories — plus industry when it matters.
 - **Not required:** Buzzwords like “homebrew,” “disrupting,” “game-changing.” Just show the work.
-- **Always:** Facts from fetched URLs only. Visible `## Sources` at the end of every post. Source-matched hero images under `public/images/heroes/`.
+- **Always:** Facts from fetched URLs only. Visible `## Sources` at the end of every post.
+- **Media (required):** Source-matched **hero + at least 1 in-body image** (prefer **2–3** stills total when available). **Embed a video** when an official/demo clip exists (YouTube preferred). See Media section below.
 
 ### Story shape we love (example, not a template)
 
@@ -114,8 +115,45 @@ This is a **primary daily source** for populating the feed. Scan recent posts fo
 3. Add **1–2 secondary** sources when available.
 4. Only claims from URLs fetched this session.
 5. Prefer stories with a **concrete hook**: price, demo, open repo, deployment, hours, unit count.
-6. Hero image from **that story’s** media (download to `public/images/heroes/slug.ext`). Prefer official stills over stock Unsplash reuse.
+6. **Collect media while researching:** hero still + 1–2 extra stills; grab YouTube/demo embed if present.
 7. Short is fine. Verified 300 words beats padded 800.
+
+### Media requirements (every post)
+
+| Piece | Minimum | Prefer |
+|-------|---------|--------|
+| Hero (`heroImage`) | 1 | Official product/robot shot |
+| In-body images | **≥1** | **2–3 total stills** (hero + body) when sources have them |
+| Video embed | When available | Always embed official launch/demo clips |
+
+**Images**
+- Download to `public/images/heroes/<slug>.jpg`, `<slug>-2.jpg`, …
+- Frontmatter: `heroImage: "images/heroes/<slug>.jpg"`
+- In body (base path required for GitHub Pages):
+
+```markdown
+![Alt describing the robot/scene](/humanoid-blog/images/heroes/slug-2.jpg)
+```
+
+Or with caption:
+
+```html
+<figure>
+  <img src="/humanoid-blog/images/heroes/slug-2.jpg" alt="..." loading="lazy" />
+  <figcaption>What it is. Source: Company.</figcaption>
+</figure>
+```
+
+**Video (when available)** — place after lede or first H2:
+
+```html
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/VIDEO_ID" title="..." allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="embed-caption">What the clip shows. Source: Company / YouTube.</p>
+```
+
+List every media source URL under `## Sources`. Full detail: `AGENTS.md`.
 
 ### 3. Selection filter (fun + substance)
 

@@ -321,20 +321,64 @@ Not a restatement of the lede — analysis and implications only.
 - Bold key terms on first mention in lists
 - Length = verified content only (often 400–900 words; longer only when sources support it)
 
-### Hero Images (must match the story)
+### Media: images + video (required)
+
+**Every article must include media — not just a hero.**
+
+| Requirement | Rule |
+|-------------|------|
+| **Hero** | 1 frontmatter `heroImage` (card + top of post) |
+| **In-body images** | **At least 1** mid-article image; prefer **2–3 total** distinct stills across hero + body when sources have them |
+| **Video** | **If a usable official / press / YouTube demo exists, embed it.** Do not skip a good launch video. |
+
 **Do not reuse generic Unsplash stock across articles.** Prefer images from:
 
 1. Company press release / product page / official blog  
-2. Secondary coverage that credits company photos (TechCrunch, Global Times, etc.)  
-3. Official social/media kit stills  
+2. Secondary coverage that credits company photos (TechCrunch, etc.)  
+3. Official social / media kit stills  
+4. Frame grabs only if the company posted them as stills (don’t invent screenshots)
 
-**Workflow:**
-1. Fetch the primary source page and extract a representative image URL  
-2. Download into `public/images/heroes/<slug>.jpg` (or `.png`) so GitHub Pages does not break if remote hosts hotlink-block  
-3. Set frontmatter: `heroImage: "images/heroes/<slug>.jpg"` (resolved via `resolveImage()` + site base)  
-4. Prefer the actual robot/product, factory deployment, or official event photo over founders-only shots when both exist  
+**Image workflow:**
+1. Fetch primary source pages and extract 2–3 representative image URLs when available  
+2. Download into `public/images/heroes/` (or `public/images/articles/`) as `<slug>.jpg`, `<slug>-2.jpg`, `<slug>-3.jpg`  
+3. Frontmatter hero: `heroImage: "images/heroes/<slug>.jpg"`  
+4. In-body images use the **site base path** (GitHub Pages):
+
+```markdown
+![Digit moving totes in a warehouse](/humanoid-blog/images/heroes/agility-digit-2.jpg)
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/agility-digit-3.jpg" alt="Close-up of Digit hands" loading="lazy" />
+  <figcaption>Digit at a customer site. Source: Agility Robotics.</figcaption>
+</figure>
+```
+
+5. Prefer the actual robot/product/demo over founders-only shots when both exist  
+6. Caption or alt text should say what it is; credit source when not yours  
 
 Unsplash is a **last resort** only when no usable official still exists — and even then pick a distinct image per article, never recycle the same photo.
+
+**Video embed (when available):**
+
+Search company YouTube, press pages, and the lead X post for demos. Prefer official channels. Place early (after lede or first section):
+
+```html
+<div class="video-embed">
+  <iframe
+    src="https://www.youtube.com/embed/VIDEO_ID"
+    title="Short descriptive title"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    loading="lazy"
+  ></iframe>
+</div>
+<p class="embed-caption">What the clip shows. Source: Company / YouTube.</p>
+```
+
+- Use `youtube.com/embed/ID` (not `watch?v=`)  
+- If only an X video exists and no YouTube, link the X post in Sources and still use in-body stills; optional raw video URL only if it plays in-browser  
+- Always list the video URL in `## Sources`  
+- Do **not** invent or deep-fake media  
 
 ---
 
@@ -342,11 +386,13 @@ Unsplash is a **last resort** only when no usable official still exists — and 
 
 Before committing, verify every item:
 - [ ] I can point to a real URL for every claim in this article
-- [ ] The source comment block at the bottom lists at least 2 URLs I actually fetched
+- [ ] Visible `## Sources` lists at least 2 URLs I actually fetched
 - [ ] Zero fabricated quotes — every quote came from a URL I fetched this session
 - [ ] Zero invented numbers — every stat, dollar amount, date, and spec has a source URL
 - [ ] I did NOT pad the article with training data knowledge beyond what the sources say
 - [ ] If the X list was inaccessible, I told the user before writing
+- [ ] **Hero image set** and at least **1 in-body image** (prefer 2–3 stills total when available)
+- [ ] **Video embedded** when an official/demo clip exists; caption + Sources entry included
 - [ ] Frontmatter has all required fields
 - [ ] `pubDate` is today's date
 - [ ] `category` matches one of the 6 valid options (exact spelling)

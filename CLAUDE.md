@@ -75,15 +75,27 @@ draft: false
 - **Industry** — Business news, funding, partnerships, market analysis
 - **Deals** — Product launches, pricing, availability, consumer offers
 
-## Hero Images
+## Media (images + video)
 
-**Prefer source-matched photos**, not recycled Unsplash stock.
+**Required on every article:**
+- **Hero** via `heroImage` (source-matched, not recycled Unsplash)
+- **At least 1 in-body image**; prefer **2–3 total stills** when sources have them
+- **Embed video** when an official/demo YouTube (or equivalent) exists
 
 1. Pull stills from company press / product pages / credited news photos  
-2. Save under `public/images/heroes/<slug>.jpg`  
+2. Save under `public/images/heroes/<slug>.jpg`, `<slug>-2.jpg`, …  
 3. Frontmatter: `heroImage: "images/heroes/<slug>.jpg"`  
+4. In body: `![alt](/humanoid-blog/images/heroes/<slug>-2.jpg)` (include site base)  
+5. Video:
 
-Unsplash only as last resort, unique per article. Full rules in `AGENTS.md`.
+```html
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/VIDEO_ID" title="..." allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="embed-caption">Caption. Source: Company / YouTube.</p>
+```
+
+Unsplash only as last resort, unique per article. Full rules in `AGENTS.md` and `NOTES.md`.
 
 ## Managing Featured Articles
 
