@@ -50,41 +50,31 @@ const remainingPosts = allPosts.filter(p => p.id !== featuredPost.id);
         <div class="home__section-header">
           <h2 class="home__section-title">
             <span class="home__section-accent">//</span> Latest
+            <span class="home__section-count">{remainingPosts.length}</span>
           </h2>
-          <a href={withBase('category/humanoids')} class="home__view-all">View all &rarr;</a>
+          <a href={withBase('category/humanoids')} class="home__view-all">Categories &rarr;</a>
         </div>
 
-        <div class="home__grid">
-          {remainingPosts.slice(0, 2).map(post => (
-            <ArticleCard
-              title={post.data.title}
-              description={post.data.description}
-              slug={post.id}
-              category={post.data.category}
-              heroImage={post.data.heroImage}
-              author={post.data.author}
-              pubDate={post.data.pubDate}
-              size="large"
-            />
-          ))}
-        </div>
-
-        <!-- In-feed Ad -->
-        <div class="home__ad-infeed">
-          <AdBanner size="in-feed" />
-        </div>
-
-        <div class="home__grid home__grid--3col">
-          {remainingPosts.slice(2).map(post => (
-            <ArticleCard
-              title={post.data.title}
-              description={post.data.description}
-              slug={post.id}
-              category={post.data.category}
-              heroImage={post.data.heroImage}
-              author={post.data.author}
-              pubDate={post.data.pubDate}
-            />
+        {/* Full scroll feed — every non-hero article, newest first */}
+        <div class="home__feed">
+          {remainingPosts.map((post, i) => (
+            <div class="home__feed-item">
+              <ArticleCard
+                title={post.data.title}
+                description={post.data.description}
+                slug={post.id}
+                category={post.data.category}
+                heroImage={post.data.heroImage}
+                author={post.data.author}
+                pubDate={post.data.pubDate}
+                size="large"
+              />
+              {i === 1 && (
+                <div class="home__ad-infeed">
+                  <AdBanner size="in-feed" />
+                </div>
+              )}
+            </div>
           ))}
         </div>
       </section>
@@ -143,6 +133,14 @@ const remainingPosts = allPosts.filter(p => p.id !== featuredPost.id);
     font-weight: 400;
   }
 
+  .home__section-count {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    margin-left: 0.15rem;
+  }
+
   .home__view-all {
     font-family: var(--font-mono);
     font-size: 0.72rem;
@@ -156,19 +154,25 @@ const remainingPosts = allPosts.filter(p => p.id !== featuredPost.id);
     color: var(--accent);
   }
 
-  .home__grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: var(--space-lg);
-    margin-bottom: var(--space-xl);
+  /* Continuous scroll feed of every article */
+  .home__feed {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xl);
   }
 
-  .home__grid--3col {
-    grid-template-columns: repeat(3, 1fr);
+  .home__feed-item {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xl);
+  }
+
+  .home__feed :global(.card) {
+    width: 100%;
   }
 
   .home__ad-infeed {
-    margin-bottom: var(--space-xl);
+    width: 100%;
   }
 
   .home__sidebar {
@@ -182,16 +186,6 @@ const remainingPosts = allPosts.filter(p => p.id !== featuredPost.id);
     }
     .home__sidebar {
       position: static;
-    }
-    .home__grid--3col {
-      grid-template-columns: repeat(2, 1fr);
-    }
-  }
-
-  @media (max-width: 640px) {
-    .home__grid,
-    .home__grid--3col {
-      grid-template-columns: 1fr;
     }
   }
 </style>
