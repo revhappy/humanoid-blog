@@ -12,6 +12,11 @@ draft: false
 
 **Travis Kalanick’s** robotics company **Atoms** raised **$1.7 billion** in a round led by **Andreessen Horowitz**, TechCrunch reported July 22, 2026. **Ben Horowitz** will join the board. **Bain Capital**, **Fifth Wall**, and others participated — and so did **Uber**, reconnecting Kalanick with the company he founded and left under pressure in 2017.
 
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/atoms-vision.webp" alt="Atoms company visual from official site" loading="lazy" />
+  <figcaption>Visual from Atoms’ official site. Source: Atoms (atoms.co).</figcaption>
+</figure>
 ## What Atoms Is
 
 Atoms is described as a rebranded holding structure on top of Kalanick’s post-Uber work — including the **Cloud Kitchens** project — and the acquisition of **Pronto**, the heavy-industry automation company run by former Uber colleague **Anthony Levandowski**.

@@ -12,6 +12,16 @@ draft: false
 
 Another San Francisco cleaning story, different pitch. **Gatsby** (under **West Egg Labs**) says a humanoid completed what it calls the **first consumer home cleaning by a humanoid robot in the United States**. Fox News CyberGuy coverage describes a waitlist customer booked through Gatsby’s **iOS app**, with the robot working the full apartment.
 
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/gatsby-body.jpg" alt="Gatsby humanoid robot cleaning a US apartment" loading="lazy" />
+  <figcaption>Gatsby apartment clean. Source: Gatsby / Fox News CyberGuy.</figcaption>
+</figure>
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/gatsby2-body.jpg" alt="Gatsby press photo of humanoid home cleaning" loading="lazy" />
+  <figcaption>Company press still. Source: Gatsby (gatsby.bot).</figcaption>
+</figure>
 ## The Offer
 
 According to that report (company claims via Gatsby):

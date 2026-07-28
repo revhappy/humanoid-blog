@@ -12,6 +12,16 @@ draft: false
 
 London-based robotics company **Humanoid** (the company, not this blog) announced on July 21 that it closed a **$152 million Series A** at a **$1.35 billion post-money valuation**. The round was led by Prime Movers Lab, with participation from Schaeffler, Bosch, Fubon Financial Holding Venture Capital, and Aglaé Ventures. Total capital raised to date: **$270 million**, about two years after founding.
 
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/uk-robot.jpg" alt="Humanoid HMND wheeled industrial robot" loading="lazy" />
+  <figcaption>HMND platform. Source: Humanoid (thehumanoid.ai).</figcaption>
+</figure>
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/uk-hmnd.png" alt="Humanoid Series A announcement graphic" loading="lazy" />
+  <figcaption>Series A announcement still. Source: Humanoid.</figcaption>
+</figure>
 That is a lot of money for a company that, by its own account and secondary reporting, has not yet shipped a commercial unit at scale. The interesting part is not the unicorn label. It is who showed up with factories and industrial calendars attached.
 
 ## What the Money Is For

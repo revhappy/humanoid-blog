@@ -12,6 +12,21 @@ draft: false
 
 Apptronik’s pitch for **Robot Park** is less about a single stage demo and more about volume. On June 30, 2026, the Austin company said it opened a newly expanded flagship facility — nearly **90,000 square feet** — where fleets of **Apollo 2** humanoids run logistics, manufacturing, and retail-style tasks so the data can feed embodied AI models.
 
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/apptronik-header.jpg" alt="Apptronik Apollo humanoid" loading="lazy" />
+  <figcaption>Apollo platform still. Source: Apptronik.</figcaption>
+</figure>
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/apptronik-header-v3.jpg" alt="Apptronik website header showing Apollo" loading="lazy" />
+  <figcaption>Apptronik site header. Source: Apptronik.</figcaption>
+</figure>
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/apptronik-gallery.webp" alt="Apollo humanoid in industrial setting" loading="lazy" />
+  <figcaption>Apollo gallery still. Source: Apptronik.</figcaption>
+</figure>
 Those models sit inside a research partnership with **Google DeepMind** on Gemini Robotics. Apptronik’s line is simple: robots working every day, collecting data, improving with each cycle.
 
 ## What’s Actually New

@@ -12,6 +12,11 @@ draft: false
 
 While billion-dollar humanoid companies chase factory contracts, a different thread is opening on the workbench. On May 21, 2026, a Hugging Face community post introduced **LeRobot Humanoid** — an **open, low-cost bipedal robot** aimed at people who want to **build, modify, break, repair, simulate, train, and control** a humanoid, not just watch one on a livestream.
 
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/lerobot-body.jpg" alt="LeRobot open-source 3D-printed humanoid" loading="lazy" />
+  <figcaption>LeRobot Humanoid project visual. Source: Hugging Face blog.</figcaption>
+</figure>
 The current bipedal platform costs around **$2,500 in parts** (sourcing, shipping, and taxes vary). It is built from **3D-printed parts**, off-the-shelf components, and affordable actuators and electronics.
 
 ## Full Stack, Not Just a STL Dump

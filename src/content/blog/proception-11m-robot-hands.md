@@ -12,6 +12,11 @@ draft: false
 
 Hands are still the unglamorous boss fight of humanoids. **Proception** is trying to sell that boss fight as a product.
 
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/proception-body.jpg" alt="Proception ProHand and ProGlove" loading="lazy" />
+  <figcaption>ProHand 1.0 and ProGlove. Source: Proception / TechCrunch.</figcaption>
+</figure>
 TechCrunch reports the Mountain View startup raised an **$11 million seed** led by **First Round Capital**, with **Y Combinator** and **BoxGroup**. Founder **Jay Li** — formerly a technical lead on Tesla’s **Optimus** program — settled a trade-secret lawsuit with Tesla (suit dismissed earlier in the month of the announcement). Tesla did not comment to TechCrunch.
 
 ## What They’re Building

@@ -12,6 +12,21 @@ draft: false
 
 **World Labs** — Fei-Fei Li’s spatial-intelligence company — just published early results from a **real-to-sim-to-real (R2S2R)** engine built with the team from **SceniX**, which joined World Labs on **July 21, 2026**. The July 28 technical post is unusually blunt for a research lab: policies trained **entirely in simulation**, with **zero real-world training data**, transferring to physical robots and running **autonomously for about an hour** on several tasks.
 
+
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/-tabaM5l3s0" title="World Labs SceniX and spatial intelligence conversation" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="embed-caption">Fei-Fei Li and Yunzhu Li with Martin Casado on simulation and robotics. Source: World Labs / YouTube.</p>
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/world-labs-r2s2r.jpg" alt="Diagram of real-to-sim-to-real robot training worlds" loading="lazy" />
+  <figcaption>R2S2R: one real task expanded into simulated variations. Source: World Labs.</figcaption>
+</figure>
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/world-labs-scenix.jpg" alt="World Labs SceniX acquisition visual" loading="lazy" />
+  <figcaption>SceniX joins World Labs. Source: World Labs.</figcaption>
+</figure>
 If that holds up outside the blog, it is one of the more practical robotics breakthroughs of the summer.
 
 ## What R2S2R Is Trying to Fix
@@ -49,3 +64,4 @@ I have watched enough sim-to-real demos die on a soft cable. If World Labs can k
 - [World Labs — Building Worlds That Train Robots (R2S2R)](https://www.worldlabs.ai/blog/real-to-sim-to-real)
 - [World Labs — Acquires SceniX](https://www.worldlabs.ai/blog/scenix)
 - [Fei-Fei Li — related R2S2R discussion on X](https://x.com/drfeifei/status/2082137339430859021)
+- [YouTube — World Labs / SceniX conversation](https://www.youtube.com/watch?v=-tabaM5l3s0)

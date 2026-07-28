@@ -12,6 +12,11 @@ draft: false
 
 Not every robot story starts with a billion-dollar humanoid. At **ICRA 2026** in Vienna, **GENISOM AI** showed deployable platforms that The Robot Report framed as past the concept stage.
 
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/genisom-body.jpg" alt="GENISOM AI robotics platform at ICRA" loading="lazy" />
+  <figcaption>GENISOM featured still. Source: The Robot Report / GENISOM.</figcaption>
+</figure>
 According to that coverage:
 
 - Company founded **December 2023**

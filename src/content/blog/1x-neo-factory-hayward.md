@@ -12,6 +12,16 @@ draft: false
 
 **1X Technologies** has done the unglamorous thing humanoid startups keep promising: stand up a factory. On April 30, 2026 the company walked through its **NEO Factory** in **Hayward, California** — billed as **America’s first vertically integrated high-volume humanoid robot plant** — and said full-scale production is underway.
 
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/1x-factory2.jpg" alt="1X NEO manufacturing process inside the Hayward factory" loading="lazy" />
+  <figcaption>Inside the NEO Factory manufacturing process. Source: 1X Technologies.</figcaption>
+</figure>
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/1x-neo-order.jpg" alt="NEO home robot product view" loading="lazy" />
+  <figcaption>NEO product photography from 1X. Source: 1X Technologies.</figcaption>
+</figure>
 This is industry news with a fun punchline. Someone is actually building home humanoids in volume, not only posting balance videos.
 
 ## The Plant, in Numbers

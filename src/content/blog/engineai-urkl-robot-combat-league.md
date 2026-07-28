@@ -12,6 +12,11 @@ draft: false
 
 In mid-July 2026, Shenzhen hosted what organizers billed as the world’s first freestyle combat competition for **full-size humanoid robots**. The league is called **Ultimate Robot Knock-out Legend (URKL)**. Local firm **EngineAI** organizes it, and every team fights on the same platform: EngineAI’s **T800** humanoid.
 
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/engineai-body.jpg" alt="EngineAI URKL humanoid robot combat event" loading="lazy" />
+  <figcaption>URKL coverage still. Source: Global Times.</figcaption>
+</figure>
 It looks like entertainment. The engineering case is a live stress test — balance under impact, sensor fusion when vision is degraded, and recovery after a knockdown — conditions you do not get from a carefully lit warehouse demo.
 
 <div class="video-embed">

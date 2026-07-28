@@ -12,6 +12,16 @@ draft: false
 
 **Agility Robotics** opened a **60,000-square-foot** facility in **Fremont, California** (announced July 16, 2026) as a **Physical AI** hub for teaching **Digit** new skills. Manufacturing stays at **RoboFab** in Salem, Oregon. Software, skill training, and deployment support get a Bay Area address — minutes from where Tesla is expected to scale **Optimus**.
 
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/agility-digit-tc.jpg" alt="Agility Digit humanoid robot" loading="lazy" />
+  <figcaption>Digit, Agility’s commercial humanoid. Source: Agility Robotics / press coverage.</figcaption>
+</figure>
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/agility-press.png" alt="Agility Fremont facility press graphic" loading="lazy" />
+  <figcaption>Fremont Physical AI hub announcement still. Source: Agility Robotics.</figcaption>
+</figure>
 Industry story, still fun: the company already moving totes for real customers just bought itself a bigger classroom.
 
 ## What Agility Says the Site Does

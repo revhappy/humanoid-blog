@@ -12,6 +12,11 @@ draft: false
 
 **Walden Robotics**, a Cambridge, Massachusetts full-stack Physical AI company spun out of Toyota Research Institute, came out of stealth on July 15 with **$300 million** in funding at a **$1.1 billion** valuation. The round was co-led by Toyota (Toyota Motor Corp, Toyota Invention Partners, and Toyota Ventures) and Deviation Capital, with participation from NVIDIA, Boeing, Samsung Ventures, CoreWeave Ventures, Prologis Ventures, and others.
 
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/walden-body.jpg" alt="Walden Robotics launch hero image" loading="lazy" />
+  <figcaption>From Walden’s launch announcement. Source: Walden Robotics.</figcaption>
+</figure>
 The product pitch is blunt: general-purpose robots that do useful work **today**, side-by-side with people, and keep learning on the job.
 
 <blockquote class="twitter-tweet x-embed" data-media-max-width="560">

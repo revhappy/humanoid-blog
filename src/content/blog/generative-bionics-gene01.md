@@ -12,6 +12,11 @@ draft: false
 
 Italian deep-tech outfit **Generative Bionics** just put a fully functional industrial humanoid on the table — and the timeline is the headline. **Gene.01** went from concept to working platform in **six months**, the company said in a July 20, 2026 announcement, and it arrives with a full-body multimodal skin plus an open digital twin developers can install the same way they install other robotics tools.
 
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/gene-pr.jpg" alt="Generative Bionics Gene.01 humanoid robot platform" loading="lazy" />
+  <figcaption>Gene.01 platform. Source: Generative Bionics / PR Newswire.</figcaption>
+</figure>
 This is the kind of startup story that fits a fun robotics feed: concrete hardware, a clear shipping story, and something builders can actually try before the metal shows up.
 
 ## What’s on the Robot

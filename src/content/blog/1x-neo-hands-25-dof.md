@@ -12,6 +12,21 @@ draft: false
 
 If a humanoid is a computer that walks, **1X Technologies** just published a better I/O layer. On July 9, 2026 the company unveiled new **tendon-driven hands** for its **NEO** home robot: **25 degrees of freedom**, all force-controlled, and — in the company’s words — **“an API to the physical world.”**
 
+
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/QRyXV3csReA" title="1X NEO hands demo" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
+<p class="embed-caption">Official NEO hands announcement footage. Source: 1X Technologies / YouTube.</p>
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/1x-hands-close.jpg" alt="Close-up of 1X NEO 25-DoF tendon-driven hand" loading="lazy" />
+  <figcaption>NEO hand close-up. Source: 1X Technologies.</figcaption>
+</figure>
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/1x-hands-video.jpg" alt="1X NEO hands video thumbnail" loading="lazy" />
+  <figcaption>From the official hands video. Source: 1X Technologies.</figcaption>
+</figure>
 These are the hands 1X says will ship on **every NEO**.
 
 ## The Specs That Matter
@@ -42,3 +57,4 @@ Calling a hand an “API” is marketing — and also accurate. If NEO is going 
 
 - [1X — NEO’s Hands (official)](https://www.1x.tech/discover/neos-hands)
 - [Robotics & Automation News — 25-DoF NEO hands](https://roboticsandautomationnews.com/2026/07/17/1x-unveils-25-degree-of-freedom-humanoid-robot-hands-for-neo/103405/)
+- [YouTube — NEO hands announcement](https://www.youtube.com/watch?v=QRyXV3csReA)

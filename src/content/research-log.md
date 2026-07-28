@@ -183,3 +183,8 @@ List timeline via keyword search is noisy (replies/ads mixed in). Used semantic/
 ### Parked
 - Xiaomi Robotics-1 on Hugging Face (need stronger primary)
 - Collaborative Robotics / Proxie Deployed podcast (thin for article)
+
+## 2026-07-28 — In-body source media pass
+- Added figure(s) from company/press sources to all 22 posts (no stock Unsplash/Getty for body)
+- Videos: 1X hands + World Labs embeds; Agility/EngineAI already had YouTube
+- Assets under public/images/heroes/*-body* and story-specific stills

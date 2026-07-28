@@ -12,6 +12,16 @@ draft: false
 
 Agility Robotics — the Oregon company behind the bipedal warehouse humanoid **Digit** — plans to go public through a merger with Churchill Capital Corp XI (NASDAQ: CCXI). The deal values Agility at a **$2.5 billion** pre-money equity value and is expected to deliver more than **$620 million** in gross proceeds, including about **$200 million** from a PIPE at $10 per share. If it closes, the combined company is expected to trade under the ticker **AGLT**.
 
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/agility-digit-spac.jpg" alt="Agility Digit robot related to SPAC announcement" loading="lazy" />
+  <figcaption>Digit hardware context for the public listing path. Source: Agility Robotics / press.</figcaption>
+</figure>
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/agility-fremont.jpg" alt="Agility Fremont facility" loading="lazy" />
+  <figcaption>Agility’s Bay Area expansion. Source: Agility Robotics / TechCrunch.</figcaption>
+</figure>
 This is not a “we might ship someday” pitch. Agility’s own release says Digit is already in commercial environments with customers including Schaeffler, GXO, Toyota Motor Manufacturing Canada, and Mercado Libre.
 
 <div class="video-embed">

@@ -12,6 +12,11 @@ draft: false
 
 Not every robotics story needs a bipedal mascot. **Gritt**, founded by Carnegie Mellon–trained roboticists **Puneet Puri** (CEO) and **Vishal Dugar** (CTO), came out of stealth on July 21, 2026 with a focused bet: make outdoor construction sites less dependent on scarce labor — starting with **solar farms**.
 
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/gritt-body.jpg" alt="Gritt construction robot system for solar installation" loading="lazy" />
+  <figcaption>Gritt field hardware. Source: Gritt / TechCrunch.</figcaption>
+</figure>
 According to TechCrunch, the company raised a **$26 million Series A** led by **Obvious Ventures**, with **Union Square Ventures** and **Active Impact Investment** participating. Combined with an earlier seed (First Round Capital, Climactic, Congruent Ventures, VSC Ventures), **total funding is about $32 million**.
 
 ## What the System Does

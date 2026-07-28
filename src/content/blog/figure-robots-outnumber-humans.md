@@ -12,6 +12,11 @@ draft: false
 
 Sometimes the graph is the story. In June 2026, **Figure AI** CEO **Brett Adcock** posted that **for the first time, robots outnumber humans at Figure**.
 
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/figure-body.jpg" alt="Figure AI humanoid robots on a factory floor" loading="lazy" />
+  <figcaption>Figure robots in production context. Source: India Today / Figure AI coverage.</figcaption>
+</figure>
 India Today’s write-up of that announcement (citing Adcock’s chart) puts approximate shapes on the curves:
 
 - Robot count rising sharply after manufacturing started, **crossing ~100 by end of 2025** and reaching roughly **740 by Q2 2026**

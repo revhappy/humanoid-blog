@@ -12,6 +12,21 @@ draft: false
 
 Hyundai Motor Group said on July 16 that its shareholders are pursuing SoftBank's entire remaining stake in Boston Dynamics under existing deal terms. SoftBank triggered the move by exercising a put option — a contractual right to force a sale of its shares — and Hyundai is treating full ownership as part of a longer robotics strategy, not a side bet.
 
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/atlas-electric.jpg" alt="Boston Dynamics electric Atlas humanoid" loading="lazy" />
+  <figcaption>Electric Atlas. Source: Boston Dynamics / press archive.</figcaption>
+</figure>
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/atlas-blue.jpg" alt="Boston Dynamics Atlas humanoid robot" loading="lazy" />
+  <figcaption>Atlas product still. Source: Boston Dynamics.</figcaption>
+</figure>
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/atlas-orbit-shot.jpg" alt="Atlas Orbit software screenshot" loading="lazy" />
+  <figcaption>Atlas Orbit tooling. Source: Boston Dynamics.</figcaption>
+</figure>
 This is a control story more than a product launch. The robots were already impressive on video. The question has always been who decides how fast Atlas leaves the demo stage and enters a real plant.
 
 ## What Hyundai Actually Said
