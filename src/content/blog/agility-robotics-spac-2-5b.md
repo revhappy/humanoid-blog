@@ -3,7 +3,7 @@ title: "Agility Robotics Heads for a Public Listing at $2.5B"
 description: "Digit's maker plans a SPAC merger with Churchill Capital XI, more than $300M in Digit v5 orders, and ticker AGLT if the deal closes."
 pubDate: 2026-07-28
 category: "Industry"
-author: "Alex Harlan"
+author: "Robb Harlan"
 heroImage: "images/heroes/agility-digit-tc.jpg"
 readTime: "6 min read"
 featured: false

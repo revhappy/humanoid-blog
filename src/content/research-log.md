@@ -117,3 +117,17 @@ This file tracks daily research scans and article decisions. Agents append to th
 ### Remaining catalog (after purge + adds)
 July 2026 only: Agility, Walden, EngineAI, Hyundai/BD, AGIBOT, UK Humanoid, Apptronik Robot Park, Enigma — 8 posts total
 
+---
+
+## 2026-07-28 (batch 4) — Robb rename + Shar rewrites + homebrew
+
+### Actions
+- Renamed **Alex Harlan → Robb Harlan** on all Robb bylines + playbooks
+- Shar persona: no age announcements, lighter slang; covers startups/indie/open-source
+- Rewrote Apptronik + Enigma Shar pieces
+- **New Shar:** `gritt-32m-solar-construction-robots.md` (CMU founders, off-the-shelf arms on solar sites)
+- **New Shar:** `lerobot-humanoid-open-source-2500.md` (Hugging Face open $2.5k 3D-printed biped)
+
+### Parked for later
+- Proception $11M robotic hands (ex-Tesla, YC) — strong small-startup hand story
+

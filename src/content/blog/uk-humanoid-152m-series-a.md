@@ -3,7 +3,7 @@ title: "UK Startup Humanoid Hits $1.35B on a $152M Series A"
 description: "London-based Humanoid raised $152 million led by Prime Movers Lab, with Bosch lined up as contract manufacturer and industrial partners on the cap table."
 pubDate: 2026-07-28
 category: "Industry"
-author: "Alex Harlan"
+author: "Robb Harlan"
 heroImage: "images/heroes/uk-humanoid-series-a.png"
 readTime: "5 min read"
 featured: false

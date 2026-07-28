@@ -8,13 +8,13 @@ This is an Astro-based blog about humanoid robotics, AI, and intelligent machine
 
 1. **Research first** — Check @robbs2k's AI & Robotics list on X.com (`https://x.com/robbs2k/lists`) for **leads only**, then dig to primary sources (press releases, company blogs, Reuters-class coverage). Do not repost X threads.
 2. **Log findings** — Append to `src/content/research-log.md` to avoid duplicate coverage
-3. **Write the article** — Create a `.md` file in `src/content/blog/` with proper frontmatter; byline **Alex Harlan** or **Shar Hendrix**; end with **`## A Human's Take`**
+3. **Write the article** — Create a `.md` file in `src/content/blog/` with proper frontmatter; byline **Robb Harlan** or **Shar Hendrix**; end with **`## A Human's Take`**
 4. **Verify** — Build test, fact-check, run pre-publish checklist (every claim from a URL fetched this session)
 5. **Publish** — Commit and push to `main` — GitHub Actions auto-deploys
 
 **On-demand mode:** Run the full pipeline when asked. Homepage hero rotates daily among newest posts (daily rebuild cron in deploy.yml).
 
-**Voices:** **Alex Harlan** (mid-40s engineer, skeptical of hype) or **Shar Hendrix** (20-something robot enthusiast, playful). Details in `AGENTS.md`.
+**Voices:** **Robb Harlan** (mid-40s engineer, skeptical of hype) or **Shar Hendrix** (robot enthusiast covering startups and indie builders). Details in `AGENTS.md`.
 
 ## Article Frontmatter Template
 
@@ -24,7 +24,7 @@ title: "Your Article Title Here"
 description: "A 1-2 sentence summary for SEO and article cards (keep under 160 chars)"
 pubDate: 2026-03-16
 category: "Humanoids"
-author: "Alex Harlan"
+author: "Robb Harlan"
 heroImage: "https://images.unsplash.com/photo-XXXXXXX?w=1200&h=630&fit=crop"
 readTime: "5 min read"
 featured: false
@@ -49,7 +49,7 @@ draft: false
 ## Content Guidelines
 
 ### Tone & Style
-- Natural tech journalism in Alex Harlan's voice — informative, analytical, not hype-driven
+- Natural tech journalism in Robb Harlan's voice — informative, analytical, not hype-driven
 - Lead with the news, then provide context from verified sources only
 - Use specific numbers and facts where sources support them
 - Include quotes from company representatives only when read at a source URL this session

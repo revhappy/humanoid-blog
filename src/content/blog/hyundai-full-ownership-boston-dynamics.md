@@ -3,7 +3,7 @@ title: "Hyundai Moves to Own Boston Dynamics Outright"
 description: "SoftBank exercised its put option. Hyundai Motor Group is buying the remaining stake and lining up Atlas for factory work by 2028."
 pubDate: 2026-07-28
 category: "Industry"
-author: "Alex Harlan"
+author: "Robb Harlan"
 heroImage: "images/heroes/atlas-orbit.jpg"
 readTime: "5 min read"
 featured: false

@@ -3,7 +3,7 @@ title: "EngineAI’s Humanoid Fight League Is Not Just Spectacle"
 description: "Shenzhen’s URKL puts full-size T800 robots in freestyle combat — 32 teams, live bouts, and a deliberate stress test for balance, sensing, and recovery."
 pubDate: 2026-07-28
 category: "Humanoids"
-author: "Alex Harlan"
+author: "Robb Harlan"
 heroImage: "images/heroes/engineai-urkl.jpg"
 readTime: "5 min read"
 featured: false

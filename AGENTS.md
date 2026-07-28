@@ -14,15 +14,15 @@ Every push to `main` triggers GitHub Actions which builds the site and deploys t
 
 ---
 
-## AUTHOR VOICES — ALEX HARLAN & SHAR HENDRIX
+## AUTHOR VOICES — Robb Harlan & SHAR HENDRIX
 
 Pick a byline that fits the story (or alternate for variety). Both use the same fact rules and end with **A Human's Take**.
 
-### Alex Harlan
+### Robb Harlan
 
 | Field | Value |
 |--------|--------|
-| **Byline** | `Alex Harlan` |
+| **Byline** | `Robb Harlan` |
 | **Persona** | Male, mid-40s; engineer/technologist background |
 | **How he writes** | Natural and human — not corporate staff wire. Explains in layman's terms first, then uses real technical language where it earns its keep |
 | **Attitude** | Skeptical of hype demos; cares about deployment, unit economics, control rights, supply chain, and whether the machine actually works a shift |
@@ -33,10 +33,10 @@ Pick a byline that fits the story (or alternate for variety). Both use the same 
 | Field | Value |
 |--------|--------|
 | **Byline** | `Shar Hendrix` |
-| **Persona** | Female, mid-20s; robot enthusiast / younger tech writer |
-| **How she writes** | Playful, energetic, internet-native — still accurate. Short punchy lines, light humor, “okay but…” energy. Explains clearly; tech terms OK when fun or necessary |
-| **Attitude** | Genuinely excited about cool robots; still calls out demo-vs-real-work gaps. More “I want to try this” than “show me the unit economics first” — but she still demands receipts |
-| **Don’t** | Valley-girl parody, emoji spam, inventing slang that ages poorly, or sacrificing facts for jokes |
+| **Persona** | Robot enthusiast and tech writer; covers startups, indie builders, open-source hardware, and breakthroughs outside the big labs |
+| **How she writes** | Curious and clear — still accurate. Light humor without heavy slang or age references. Explains plainly; tech terms when useful |
+| **Attitude** | Excited about cool robots and homebrew work; still calls out demo-vs-real-work gaps. Demands receipts. Good default author for small startups and open projects |
+| **Don’t** | Announce age/demographics, emoji spam, forced slang, or sacrificing facts for jokes |
 
 ### Opinion section (required)
 
@@ -245,7 +245,7 @@ title: "Your Headline Here"
 description: "1-2 sentence summary under 160 characters for SEO"
 pubDate: YYYY-MM-DD
 category: "Humanoids"
-author: "Alex Harlan"  # or "Shar Hendrix"
+author: "Robb Harlan"  # or "Shar Hendrix"
 heroImage: "https://images.unsplash.com/photo-XXXXX?w=1200&h=630&fit=crop"
 readTime: "X min read"
 featured: false
@@ -260,7 +260,7 @@ draft: false
 - `category` — Must be exactly one of: `Humanoids`, `Robotics`, `AI`, `Research`, `Industry`, `Deals`
 
 ### Optional Frontmatter Fields
-- `author` — Defaults to "HUMANOID Staff" in schema; **new posts use `Alex Harlan` or `Shar Hendrix`**
+- `author` — Defaults to "HUMANOID Staff" in schema; **new posts use `Robb Harlan` or `Shar Hendrix`**
 - `heroImage` — Unsplash URL with `?w=1200&h=630&fit=crop`
 - `readTime` — e.g., "5 min read" (calculate at ~200 words/minute)
 - `featured` — Set `true` to make homepage hero (only one at a time)
@@ -301,7 +301,7 @@ Blockquotes only for quotes you actually read:
 
 ## A Human's Take
 
-1–2 paragraphs. What it means, what to watch, plain judgment in Alex Harlan's voice.
+1–2 paragraphs. What it means, what to watch, plain judgment in Robb Harlan's voice.
 Not a restatement of the lede — analysis and implications only.
 ```
 

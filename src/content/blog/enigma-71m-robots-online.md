@@ -1,6 +1,6 @@
 ---
-title: "Enigma Raised $71M So You Can Boss Robots Around Online"
-description: "Stealth-exit robotics lab wants robot control as easy as a volume knob — and is putting 100+ AI robots online for the world to poke."
+title: "Enigma Raises $71M to Make Robot Control Feel Obvious"
+description: "The stealth-exit lab is putting 100+ AI robots online so the world can teach it how humans actually want to boss machines around."
 pubDate: 2026-07-28
 category: "AI"
 author: "Shar Hendrix"
@@ -10,34 +10,27 @@ featured: false
 draft: false
 ---
 
-Hot take from a 20-something who has definitely argued with a smart speaker: the robot problem might not just be “make the arm smarter.” It might be “stop making me write a novel to get it to put a cup down.”
+Plenty of labs are racing to train foundation models for robots. **Enigma** is betting the bottleneck is also the **interface** — how people talk to machines without spending fifteen minutes explaining where the dishes go.
 
-That’s basically the bet **Enigma** is making. The research-lab startup came out of stealth with a **$71 million seed** (TechCrunch, July 27, 2026) led by **Index Ventures** and **Ribbit Capital**, with participation from **Sarah Guo’s Conviction Partners**. eWeek also notes broader angel/strategic participation from folks tied to OpenAI, Anthropic, DeepMind, xAI, Cognition, and Wiz — star-studded, even if the product is still very “watch this space.”
+The research-lab startup came out of stealth with a **$71 million seed** (TechCrunch, July 27, 2026) led by **Index Ventures** and **Ribbit Capital**, with participation from **Sarah Guo’s Conviction Partners**. eWeek also notes wider angel and strategic participation from people tied to OpenAI, Anthropic, DeepMind, xAI, Cognition, and Wiz.
 
+## The Experiment: robots.online
 
-## The Big Experiment: robots.online
+Enigma is launching a public test: **more than 100** of its AI robots (TechCrunch; eWeek says 100 available online) that people can interact with over the internet. The machines sit in hangars in **Israel** and **California**. Reported tasks include drawing with a paintbrush, sword fighting, and simple chemistry-style flask work.
 
-Instead of only bragging about models in a lab, Enigma is launching a public experiment: **more than 100** of its AI robots (TechCrunch; eWeek says **100** available online) that people can interact with over the internet. The machines live in hangars in **Israel** and **California**. Reported party tricks include:
+The company says it built both the arms and the underlying models from the ground up. The point of opening the doors: collect how humans naturally try to direct robots — text, audio, video demos, tap-and-drag UI — and hunt for an interface that doesn’t make people quit and do the job themselves.
 
-- Drawing with a paintbrush  
-- Sword fighting (yes, really)  
-- Simple chemistry-style flask pick-and-mix  
+CEO **Jonathan Jacobi** (co-founder with **Gal Niv**) told TechCrunch the volume-knob analogy: you wouldn’t accept volume control as guessing percentages with no feedback. Robot control shouldn’t feel that broken either. Index partner **Shardul Shah** liked that the founders are not classic roboticists — outsiders starting from “what’s the ultimate experience?”
 
-The company says it built both the arms and the underlying models from the ground up. The point of the chaos? Collect **how humans actually try to boss machines around** — text, audio, video demos, tap/drag UI — and hunt for the interface that doesn’t make you want to do the dishes yourself after 15 minutes of explaining.
+## Who’s Building It
 
-CEO **Jonathan Jacobi** (co-founder with **Gal Niv**) told TechCrunch the volume-knob analogy: you wouldn’t accept adjusting volume by guessing percentages with no feedback. Robot control shouldn’t feel that cursed either. Index partner **Shardul Shah** liked that the founders are *not* classic roboticists — outsiders asking “what’s the ultimate experience?” first.
-
-## Who Are These People?
-
-Jacobi was Microsoft’s youngest-ever employee (recruited during Assaf Rappaport’s time there, per TechCrunch). He and Niv met as teen hackers, bonded in Israel’s **Unit 8200**, then dragged “smartest friends” — AI lab alums, Olympiad types, even some PhD dropouts — into embodied AI. Less than a year old as a company. Healthcare, logistics, and entertainment partnerships are already in the mix, though Jacobi didn’t unpack specific products for TechCrunch.
+Jacobi was Microsoft’s youngest-ever employee; he and Niv met as teen hackers and later worked together in Israel’s **Unit 8200**. The company is less than a year old. Healthcare, logistics, and entertainment partnerships are already in play, though Jacobi did not unpack a specific commercial product for TechCrunch.
 
 ## A Human's Take
 
-I am *so* here for “let randos on the internet pilot robots and learn from the chaos.” That’s either going to produce the iPhone moment of robot UX… or the funniest dataset of people trying to make a robot draw a cat. Both outcomes are content; only one is a business.
+Opening the robots to the public is a smart, slightly chaotic way to learn what people actually do with a machine — not what a lab script assumes. That could surface a real interface breakthrough, or a pile of messy interaction data. Either outcome is useful if they publish what they learn.
 
-Playful brain: 100 robots online is the coolest science fair booth ever. Slightly older brain: seed-stage + open-ended experiment + no clear product SKU yet means the hard part is still ahead. If Enigma finds an interface that makes robot help feel as lazy-easy as a volume dial, the whole industry wins. If not, we still get sword-fighting arms and a reminder that “foundation model” is not the same as “my roommate would use this.”
-
-I’ll be at robots.online. Please don’t make me write a three-paragraph prompt to pick up a flask.
+The hard part is still ahead: seed money plus an open-ended experiment is not a product yet. If Enigma finds a control pattern as lazy-easy as a volume dial, the whole field benefits. If not, we still get a rare public window into human-robot interaction research — and a reminder that “foundation model” is not the same as “someone would use this at home.”
 
 <!-- Sources
 - https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/

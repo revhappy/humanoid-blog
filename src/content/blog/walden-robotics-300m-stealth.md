@@ -3,7 +3,7 @@ title: "Walden Robotics Leaves Stealth With $300M and a Toyota Plant Job"
 description: "TRI spinout led by MIT's Russ Tedrake raises at a $1.1B valuation, putting wheeled humanoids on real factory shifts instead of demo stages."
 pubDate: 2026-07-28
 category: "Industry"
-author: "Alex Harlan"
+author: "Robb Harlan"
 heroImage: "images/heroes/walden-robot.jpg"
 readTime: "5 min read"
 featured: false

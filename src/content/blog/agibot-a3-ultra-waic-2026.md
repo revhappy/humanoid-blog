@@ -3,7 +3,7 @@ title: "AGIBOT's A3 Ultra Isn't Trying to Win a Dance Contest"
 description: "At WAIC 2026 in Shanghai, AGIBOT launched a full-size humanoid built for long shifts — plus industrial and dexterous systems aimed at real workflows."
 pubDate: 2026-07-28
 category: "Humanoids"
-author: "Alex Harlan"
+author: "Robb Harlan"
 heroImage: "images/heroes/agibot-a3-ultra.jpg"
 readTime: "5 min read"
 featured: false
