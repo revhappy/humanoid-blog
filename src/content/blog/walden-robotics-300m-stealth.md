@@ -4,7 +4,7 @@ description: "TRI spinout led by MIT's Russ Tedrake raises at a $1.1B valuation,
 pubDate: 2026-07-28
 category: "Industry"
 author: "Alex Harlan"
-heroImage: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop"
+heroImage: "images/heroes/walden-robot.jpg"
 readTime: "5 min read"
 featured: false
 draft: false
@@ -30,10 +30,6 @@ Tedrake told the Globe the training barrier has dropped: show demonstrations and
 
 ## What’s Actually Deployed
 
-<figure>
-  <img src="https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=1200&h=675&fit=crop" alt="Engineer working with machinery on a manufacturing floor" width="1200" height="675" loading="lazy" />
-  <figcaption>Factory floors are where Walden says its robots already run real shifts — not lab demos. Photo: Unsplash.</figcaption>
-</figure>
 
 According to Walden’s launch post:
 

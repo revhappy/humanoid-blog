@@ -4,7 +4,7 @@ description: "SoftBank exercised its put option. Hyundai Motor Group is buying t
 pubDate: 2026-07-28
 category: "Industry"
 author: "Alex Harlan"
-heroImage: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&h=630&fit=crop"
+heroImage: "images/heroes/atlas-orbit.jpg"
 readTime: "5 min read"
 featured: false
 draft: false

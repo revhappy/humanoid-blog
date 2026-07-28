@@ -77,9 +77,13 @@ draft: false
 
 ## Hero Images
 
-Use Unsplash for free, high-quality images. Append `?w=1200&h=630&fit=crop` to any Unsplash image URL.
+**Prefer source-matched photos**, not recycled Unsplash stock.
 
-Good search terms: `robot`, `humanoid`, `artificial intelligence`, `factory automation`, `robotics lab`, `mechanical`, `circuit board`, `futuristic`
+1. Pull stills from company press / product pages / credited news photos  
+2. Save under `public/images/heroes/<slug>.jpg`  
+3. Frontmatter: `heroImage: "images/heroes/<slug>.jpg"`  
+
+Unsplash only as last resort, unique per article. Full rules in `AGENTS.md`.
 
 ## Managing Featured Articles
 

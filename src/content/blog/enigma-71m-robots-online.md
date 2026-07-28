@@ -4,7 +4,7 @@ description: "Stealth-exit robotics lab wants robot control as easy as a volume 
 pubDate: 2026-07-28
 category: "AI"
 author: "Shar Hendrix"
-heroImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=630&fit=crop"
+heroImage: "images/heroes/enigma-founders.jpg"
 readTime: "5 min read"
 featured: false
 draft: false
@@ -14,10 +14,6 @@ Hot take from a 20-something who has definitely argued with a smart speaker: the
 
 That’s basically the bet **Enigma** is making. The research-lab startup came out of stealth with a **$71 million seed** (TechCrunch, July 27, 2026) led by **Index Ventures** and **Ribbit Capital**, with participation from **Sarah Guo’s Conviction Partners**. eWeek also notes broader angel/strategic participation from folks tied to OpenAI, Anthropic, DeepMind, xAI, Cognition, and Wiz — star-studded, even if the product is still very “watch this space.”
 
-<figure>
-  <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=675&fit=crop" alt="Humanoid robot figure in a modern indoor setting" width="1200" height="675" loading="lazy" />
-  <figcaption>Enigma’s pitch isn’t a perfect humanoid body — it’s whether talking to a robot can feel less cursed. Photo: Unsplash.</figcaption>
-</figure>
 
 ## The Big Experiment: robots.online
 

@@ -4,7 +4,7 @@ description: "Austin’s expanded Robot Park puts fleets of Apollo 2 to work col
 pubDate: 2026-07-28
 category: "Humanoids"
 author: "Shar Hendrix"
-heroImage: "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1200&h=630&fit=crop"
+heroImage: "images/heroes/apptronik-apollo.jpg"
 readTime: "5 min read"
 featured: false
 draft: false
@@ -14,10 +14,6 @@ Okay so imagine this: a nearly **90,000-square-foot** building in Austin where h
 
 And no, this is not “one robot does a dance for a keynote.” Apptronik is talking **fleets of Apollo 2** robots, bipedal *and* wheeled, looping through real customer-style tasks while feeding a research partnership with **Google DeepMind** on Gemini Robotics models.
 
-<figure>
-  <img src="https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=1200&h=675&fit=crop" alt="Industrial robot arm on a factory production line" width="1200" height="675" loading="lazy" />
-  <figcaption>Robot Park is where Apptronik wants Apollo to grind reps, not pose for the camera. Photo: Unsplash.</figcaption>
-</figure>
 
 ## What’s Actually New
 

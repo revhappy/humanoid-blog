@@ -4,7 +4,7 @@ description: "At WAIC 2026 in Shanghai, AGIBOT launched a full-size humanoid bui
 pubDate: 2026-07-28
 category: "Humanoids"
 author: "Alex Harlan"
-heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=630&fit=crop"
+heroImage: "images/heroes/agibot-a3-ultra.jpg"
 readTime: "5 min read"
 featured: false
 draft: false

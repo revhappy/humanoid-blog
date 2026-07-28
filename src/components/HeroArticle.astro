@@ -1,5 +1,5 @@
 ---
-import { withBase } from '../lib/paths';
+import { withBase, resolveImage } from '../lib/paths';
 
 interface Props {
   title: string;
@@ -14,7 +14,7 @@ interface Props {
 const { title, description, slug, category, heroImage, author, pubDate } = Astro.props;
 const categoryClass = `category-badge category-badge--${category.toLowerCase()}`;
 const formattedDate = pubDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
-const img = heroImage || withBase('images/placeholder.svg');
+const img = resolveImage(heroImage);
 ---
 
 <a href={withBase(`blog/${slug}`)} class="hero">

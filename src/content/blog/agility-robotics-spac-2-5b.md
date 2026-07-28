@@ -4,7 +4,7 @@ description: "Digit's maker plans a SPAC merger with Churchill Capital XI, more 
 pubDate: 2026-07-28
 category: "Industry"
 author: "Alex Harlan"
-heroImage: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1200&h=630&fit=crop"
+heroImage: "images/heroes/agility-digit-tc.jpg"
 readTime: "6 min read"
 featured: false
 draft: false
@@ -36,11 +36,6 @@ From Agility’s June 24, 2026 announcement (and matching TechCrunch coverage):
 Existing Agility shareholders are rolling **100%** of equity into the combined company with a **180-day** lockup — alignment, on paper, with public holders.
 
 ## What Digit Is Doing Today
-
-<figure>
-  <img src="https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=1200&h=675&fit=crop" alt="Industrial robot arm on a factory production line" width="1200" height="675" loading="lazy" />
-  <figcaption>Industrial automation on a production floor — the environment Digit is built for, not a demo stage. Photo: Unsplash.</figcaption>
-</figure>
 
 TechCrunch notes Digit across nine customer sites. Agility’s framing is industrial only: manufacturing, distribution, logistics — not a home robot fantasy. CEO Peggy Johnson’s public line has been that humanoids matter for labor shortages, productivity, and supply-chain resilience, with commercially deployed units already in customer environments.
 

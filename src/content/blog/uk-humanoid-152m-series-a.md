@@ -4,7 +4,7 @@ description: "London-based Humanoid raised $152 million led by Prime Movers Lab,
 pubDate: 2026-07-28
 category: "Industry"
 author: "Alex Harlan"
-heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=630&fit=crop"
+heroImage: "images/heroes/uk-humanoid-series-a.png"
 readTime: "5 min read"
 featured: false
 draft: false

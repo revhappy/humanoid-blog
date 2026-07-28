@@ -4,7 +4,7 @@ description: "Shenzhen’s URKL puts full-size T800 robots in freestyle combat �
 pubDate: 2026-07-28
 category: "Humanoids"
 author: "Alex Harlan"
-heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=630&fit=crop"
+heroImage: "images/heroes/engineai-urkl.jpg"
 readTime: "5 min read"
 featured: false
 draft: false
@@ -34,10 +34,6 @@ Earlier 2026 coverage of the league’s launch (Global Times / Pandaily reportin
 
 ## What the T800 Is Claimed to Do
 
-<figure>
-  <img src="https://images.unsplash.com/photo-1535378620166-273708d44e4c?w=1200&h=675&fit=crop" alt="Humanoid robot standing in a bright indoor space" width="1200" height="675" loading="lazy" />
-  <figcaption>Full-size bipedal platforms live and die by balance and recovery — the same physics URKL punishes in public. Photo: Unsplash.</figcaption>
-</figure>
 
 EngineAI’s T800, per Caliber’s summary of organizer materials, stands about **1.73 meters** tall and is described as capable of uppercuts, spinning kicks, and recovery after being knocked down, with posture control, dynamic perception, and shock absorption aimed at high-intensity contact.
 

@@ -7,3 +7,10 @@ export function withBase(path = ''): string {
   const clean = path.replace(/^\//, '');
   return `${base}${clean}`;
 }
+
+/** Resolve hero/card images: absolute http(s) stay as-is; local paths get base prefix. */
+export function resolveImage(src?: string, fallback = 'images/placeholder.svg'): string {
+  if (!src) return withBase(fallback);
+  if (/^https?:\/\//i.test(src)) return src;
+  return withBase(src.replace(/^\//, ''));
+}

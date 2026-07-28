@@ -313,12 +313,20 @@ Not a restatement of the lede — analysis and implications only.
 - Bold key terms on first mention in lists
 - Length = verified content only (often 400–900 words; longer only when sources support it)
 
-### Hero Images
-Search Unsplash and append sizing params:
-```
-https://images.unsplash.com/photo-XXXXXXX?w=1200&h=630&fit=crop
-```
-Search terms: `robot`, `humanoid robot`, `artificial intelligence`, `factory automation`, `robotics`, `futuristic technology`
+### Hero Images (must match the story)
+**Do not reuse generic Unsplash stock across articles.** Prefer images from:
+
+1. Company press release / product page / official blog  
+2. Secondary coverage that credits company photos (TechCrunch, Global Times, etc.)  
+3. Official social/media kit stills  
+
+**Workflow:**
+1. Fetch the primary source page and extract a representative image URL  
+2. Download into `public/images/heroes/<slug>.jpg` (or `.png`) so GitHub Pages does not break if remote hosts hotlink-block  
+3. Set frontmatter: `heroImage: "images/heroes/<slug>.jpg"` (resolved via `resolveImage()` + site base)  
+4. Prefer the actual robot/product, factory deployment, or official event photo over founders-only shots when both exist  
+
+Unsplash is a **last resort** only when no usable official still exists — and even then pick a distinct image per article, never recycle the same photo.
 
 ---
 
