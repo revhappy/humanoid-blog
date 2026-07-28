@@ -5,6 +5,7 @@ import ArticleCard from '../components/ArticleCard.astro';
 import Sidebar from '../components/Sidebar.astro';
 import AdBanner from '../components/AdBanner.astro';
 import { getCollection } from 'astro:content';
+import { withBase } from '../lib/paths';
 
 const allPosts = (await getCollection('blog'))
   .filter(post => !post.data.draft)
@@ -50,7 +51,7 @@ const remainingPosts = allPosts.filter(p => p.id !== featuredPost.id);
           <h2 class="home__section-title">
             <span class="home__section-accent">//</span> Latest
           </h2>
-          <a href="/category/all" class="home__view-all">View all &rarr;</a>
+          <a href={withBase('category/humanoids')} class="home__view-all">View all &rarr;</a>
         </div>
 
         <div class="home__grid">

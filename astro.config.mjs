@@ -1,7 +1,9 @@
 import { defineConfig } from 'astro/config';
 
+// GitHub Pages project site: https://revhappy.github.io/humanoid-blog/
 export default defineConfig({
-  site: 'https://humanoid-blog.web.app',
+  site: 'https://revhappy.github.io',
+  base: '/humanoid-blog',
   output: 'static',
   build: {
     assets: '_assets'

@@ -1,4 +1,6 @@
 ---
+import { withBase } from '../lib/paths';
+
 interface Props {
   title: string;
   description: string;
@@ -13,11 +15,12 @@ interface Props {
 const { title, description, slug, category, heroImage, author, pubDate, size = 'normal' } = Astro.props;
 const categoryClass = `category-badge category-badge--${category.toLowerCase()}`;
 const formattedDate = pubDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+const img = heroImage || withBase('images/placeholder.svg');
 ---
 
-<a href={`/blog/${slug}`} class:list={['card', `card--${size}`]}>
+<a href={withBase(`blog/${slug}`)} class:list={['card', `card--${size}`]}>
   <div class="card__image-wrap">
-    <div class="card__image" style={`background-image: url(${heroImage || '/images/placeholder.svg'})`}></div>
+    <div class="card__image" style={`background-image: url(${img})`}></div>
     <span class={`card__category ${categoryClass}`}>{category}</span>
   </div>
   <div class="card__body">

@@ -1,11 +1,13 @@
 ---
+import { withBase } from '../lib/paths';
+
 const navItems = [
-  { label: 'Humanoids', href: '/category/humanoids' },
-  { label: 'Robotics', href: '/category/robotics' },
-  { label: 'AI', href: '/category/ai' },
-  { label: 'Research', href: '/category/research' },
-  { label: 'Industry', href: '/category/industry' },
-  { label: 'Deals', href: '/category/deals' },
+  { label: 'Humanoids', href: withBase('category/humanoids') },
+  { label: 'Robotics', href: withBase('category/robotics') },
+  { label: 'AI', href: withBase('category/ai') },
+  { label: 'Research', href: withBase('category/research') },
+  { label: 'Industry', href: withBase('category/industry') },
+  { label: 'Deals', href: withBase('category/deals') },
 ];
 
 const currentPath = Astro.url.pathname;
@@ -19,12 +21,12 @@ const currentPath = Astro.url.pathname;
       <span class="topbar__tagline">Tracking the rise of intelligent machines</span>
     </div>
     <div class="topbar__right">
-      <a href="/about" class="topbar__link">About</a>
-      <a href="/contact" class="topbar__link">Contact</a>
+      <a href={withBase('about')} class="topbar__link">About</a>
+      <a href={withBase('contact')} class="topbar__link">Contact</a>
       <div class="topbar__social">
         <a href="#" aria-label="Twitter" class="topbar__social-link">𝕏</a>
         <a href="#" aria-label="YouTube" class="topbar__social-link">YT</a>
-        <a href="/rss.xml" aria-label="RSS Feed" class="topbar__social-link">RSS</a>
+        <a href={withBase('rss.xml')} aria-label="RSS Feed" class="topbar__social-link">RSS</a>
       </div>
     </div>
   </div>
@@ -33,7 +35,7 @@ const currentPath = Astro.url.pathname;
 <!-- Main header -->
 <header class="header" id="site-header">
   <div class="header__inner container">
-    <a href="/" class="header__logo" aria-label="HUMANOID home">
+    <a href={withBase()} class="header__logo" aria-label="HUMANOID home">
       <span class="header__logo-icon">
         <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
           <rect x="2" y="2" width="24" height="24" rx="4" stroke="currentColor" stroke-width="1.5"/>

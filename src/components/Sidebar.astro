@@ -2,6 +2,7 @@
 import AdBanner from './AdBanner.astro';
 import Newsletter from './Newsletter.astro';
 import { getCollection } from 'astro:content';
+import { withBase } from '../lib/paths';
 
 const allPosts = await getCollection('blog');
 const trendingPosts = allPosts
@@ -30,7 +31,7 @@ const categories = [
       {trendingPosts.map((post, i) => (
         <li class="sidebar__trending-item">
           <span class="sidebar__trending-num">{String(i + 1).padStart(2, '0')}</span>
-          <a href={`/blog/${post.id}`} class="sidebar__trending-link">
+          <a href={withBase(`blog/${post.id}`)} class="sidebar__trending-link">
             <span class={`category-badge category-badge--${post.data.category.toLowerCase()}`} style="font-size: 0.6rem; padding: 0.15em 0.5em;">{post.data.category}</span>
             <span class="sidebar__trending-title">{post.data.title}</span>
           </a>
@@ -55,7 +56,7 @@ const categories = [
     </h3>
     <div class="sidebar__categories">
       {categories.map(cat => (
-        <a href={`/category/${cat.label.toLowerCase()}`} class="sidebar__category-item">
+        <a href={withBase(`category/${cat.label.toLowerCase()}`)} class="sidebar__category-item">
           <span class="sidebar__category-dot" style={`background: ${cat.color}`}></span>
           <span class="sidebar__category-label">{cat.label}</span>
           <span class="sidebar__category-count">{cat.count}</span>

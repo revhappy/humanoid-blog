@@ -4,6 +4,7 @@ import ArticleCard from '../../components/ArticleCard.astro';
 import Sidebar from '../../components/Sidebar.astro';
 import AdBanner from '../../components/AdBanner.astro';
 import { getCollection } from 'astro:content';
+import { withBase } from '../../lib/paths';
 
 export async function getStaticPaths() {
   const allPosts = await getCollection('blog');
@@ -27,7 +28,7 @@ const { category, posts } = Astro.props;
   <div class="cat-page container">
     <div class="cat-page__header">
       <div class="cat-page__breadcrumb">
-        <a href="/">Home</a>
+        <a href={withBase()}>Home</a>
         <span class="cat-page__separator">/</span>
         <span>{category}</span>
       </div>

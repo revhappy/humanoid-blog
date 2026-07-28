@@ -1,12 +1,9 @@
 name: Build & Deploy to Firebase
 
+# Optional: only run manually once FIREBASE_SERVICE_ACCOUNT + FIREBASE_PROJECT_ID secrets exist.
+# Primary public host is GitHub Pages (pages.yml).
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
-  # Rebuild daily so homepage hero/previews rotate with the calendar day
-  schedule:
-    - cron: '0 12 * * *'
 
 jobs:
   build-and-deploy:
