@@ -3,7 +3,6 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import HeroArticle from '../components/HeroArticle.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import Sidebar from '../components/Sidebar.astro';
-import AdBanner from '../components/AdBanner.astro';
 import { getCollection } from 'astro:content';
 import { withBase } from '../lib/paths';
 
@@ -26,11 +25,6 @@ const remainingPosts = allPosts.filter(p => p.id !== featuredPost.id);
 
 <BaseLayout title="Home">
   <div class="home container">
-    <!-- Leaderboard Ad -->
-    <div class="home__ad-top">
-      <AdBanner size="leaderboard" />
-    </div>
-
     <!-- Hero Featured Article -->
     <section class="home__hero" aria-label="Featured article">
       <HeroArticle
@@ -57,7 +51,7 @@ const remainingPosts = allPosts.filter(p => p.id !== featuredPost.id);
 
         {/* Full scroll feed — every non-hero article, newest first */}
         <div class="home__feed">
-          {remainingPosts.map((post, i) => (
+          {remainingPosts.map((post) => (
             <div class="home__feed-item">
               <ArticleCard
                 title={post.data.title}
@@ -69,11 +63,6 @@ const remainingPosts = allPosts.filter(p => p.id !== featuredPost.id);
                 pubDate={post.data.pubDate}
                 size="large"
               />
-              {i === 1 && (
-                <div class="home__ad-infeed">
-                  <AdBanner size="in-feed" />
-                </div>
-              )}
             </div>
           ))}
         </div>
@@ -91,10 +80,7 @@ const remainingPosts = allPosts.filter(p => p.id !== featuredPost.id);
     position: relative;
     z-index: 1;
     padding-bottom: var(--space-4xl);
-  }
-
-  .home__ad-top {
-    margin: var(--space-lg) 0;
+    padding-top: var(--space-lg);
   }
 
   .home__hero {
@@ -168,10 +154,6 @@ const remainingPosts = allPosts.filter(p => p.id !== featuredPost.id);
   }
 
   .home__feed :global(.card) {
-    width: 100%;
-  }
-
-  .home__ad-infeed {
     width: 100%;
   }
 

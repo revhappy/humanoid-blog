@@ -2,17 +2,16 @@
 import { withBase } from '../lib/paths';
 import { siteConfig } from '../lib/site';
 
+// Public nav — Deals reserved for sponsors later (still valid in content schema)
 const navItems = [
   { label: 'Humanoids', href: withBase('category/humanoids') },
   { label: 'Robotics', href: withBase('category/robotics') },
   { label: 'AI', href: withBase('category/ai') },
   { label: 'Research', href: withBase('category/research') },
   { label: 'Industry', href: withBase('category/industry') },
-  { label: 'Deals', href: withBase('category/deals') },
 ];
 
 const currentPath = Astro.url.pathname;
-const searchIndexUrl = withBase('search-index.json');
 ---
 
 <!-- Top utility bar -->
@@ -66,13 +65,6 @@ const searchIndexUrl = withBase('search-index.json');
     </nav>
 
     <div class="header__actions">
-      <button class="header__search-btn" aria-label="Search" id="search-toggle">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
-          <circle cx="11" cy="11" r="8"/>
-          <line x1="21" y1="21" x2="16.65" y2="16.65"/>
-        </svg>
-      </button>
-
       <button class="header__menu-btn" aria-label="Menu" id="mobile-menu-toggle">
         <span></span>
         <span></span>
@@ -91,104 +83,7 @@ const searchIndexUrl = withBase('search-index.json');
   </div>
 </header>
 
-<!-- Search overlay (client-side over search-index.json) -->
-<div class="search-overlay" id="search-overlay">
-  <div class="search-overlay__inner container">
-    <form class="search-overlay__form" id="search-form" action="#" method="get" role="search">
-      <input
-        type="search"
-        name="q"
-        id="search-input"
-        class="search-overlay__input"
-        placeholder="Search articles..."
-        autocomplete="off"
-        aria-controls="search-results"
-      />
-      <button type="button" class="search-overlay__close" id="search-close" aria-label="Close search">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
-        </svg>
-      </button>
-    </form>
-    <div class="search-overlay__results" id="search-results" role="listbox" aria-label="Search results"></div>
-  </div>
-</div>
-
-<script define:vars={{ searchIndexUrl }}>
-  // Search toggle
-  document.getElementById('search-toggle')?.addEventListener('click', () => {
-    const overlay = document.getElementById('search-overlay');
-    overlay?.classList.toggle('is-open');
-    if (overlay?.classList.contains('is-open')) {
-      overlay.querySelector('input')?.focus();
-    }
-  });
-  document.getElementById('search-close')?.addEventListener('click', () => {
-    document.getElementById('search-overlay')?.classList.remove('is-open');
-  });
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') {
-      document.getElementById('search-overlay')?.classList.remove('is-open');
-    }
-  });
-
-  // Client-side search
-  let searchIndex = null;
-  let searchLoaded = false;
-
-  async function loadSearchIndex() {
-    if (searchLoaded) return searchIndex;
-    searchLoaded = true;
-    try {
-      const res = await fetch(searchIndexUrl);
-      searchIndex = await res.json();
-    } catch {
-      searchIndex = [];
-    }
-    return searchIndex;
-  }
-
-  function renderResults(query) {
-    const box = document.getElementById('search-results');
-    if (!box) return;
-    const q = query.trim().toLowerCase();
-    if (!q) {
-      box.innerHTML = '';
-      return;
-    }
-    const hits = (searchIndex || [])
-      .filter((p) => {
-        const hay = `${p.title} ${p.description} ${p.category} ${p.author}`.toLowerCase();
-        return hay.includes(q);
-      })
-      .slice(0, 8);
-
-    if (!hits.length) {
-      box.innerHTML = '<p class="search-overlay__empty">No articles match that search.</p>';
-      return;
-    }
-
-    box.innerHTML = hits
-      .map(
-        (p) =>
-          `<a href="${p.url}" class="search-overlay__hit" role="option">
-            <span class="search-overlay__hit-cat">${p.category}</span>
-            <span class="search-overlay__hit-title">${p.title}</span>
-            <span class="search-overlay__hit-desc">${p.description}</span>
-          </a>`
-      )
-      .join('');
-  }
-
-  document.getElementById('search-form')?.addEventListener('submit', (e) => e.preventDefault());
-  document.getElementById('search-input')?.addEventListener('focus', () => {
-    loadSearchIndex();
-  });
-  document.getElementById('search-input')?.addEventListener('input', async (e) => {
-    await loadSearchIndex();
-    renderResults(e.target.value || '');
-  });
-
+<script>
   // Mobile menu toggle
   document.getElementById('mobile-menu-toggle')?.addEventListener('click', () => {
     document.getElementById('mobile-nav')?.classList.toggle('is-open');
@@ -388,26 +283,6 @@ const searchIndexUrl = withBase('search-index.json');
     gap: var(--space-sm);
   }
 
-  .header__search-btn {
-    width: 40px;
-    height: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: transparent;
-    border: 1px solid var(--border-subtle);
-    border-radius: var(--radius-sm);
-    color: var(--text-secondary);
-    cursor: pointer;
-    transition: all var(--duration-fast);
-  }
-
-  .header__search-btn:hover {
-    color: var(--accent);
-    border-color: var(--accent);
-    background: var(--accent-glow);
-  }
-
   /* --- Mobile Menu Button --- */
   .header__menu-btn {
     display: none;
@@ -473,132 +348,6 @@ const searchIndexUrl = withBase('search-index.json');
 
   .header__mobile-link:hover {
     color: var(--accent);
-  }
-
-  /* --- Search Overlay --- */
-  .search-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    background: rgba(7, 7, 13, 0.96);
-    backdrop-filter: blur(20px);
-    z-index: 200;
-    padding: var(--space-3xl) 0;
-    transform: translateY(-100%);
-    opacity: 0;
-    transition: all var(--duration-slow) var(--ease-out);
-    pointer-events: none;
-  }
-
-  .search-overlay.is-open {
-    transform: translateY(0);
-    opacity: 1;
-    pointer-events: all;
-  }
-
-  .search-overlay__results {
-    margin-top: var(--space-xl);
-    display: flex;
-    flex-direction: column;
-    gap: var(--space-sm);
-    max-height: min(60vh, 480px);
-    overflow-y: auto;
-  }
-
-  .search-overlay__empty {
-    font-family: var(--font-mono);
-    font-size: 0.85rem;
-    color: var(--text-muted);
-    padding: var(--space-md) 0;
-  }
-
-  .search-overlay__hit {
-    display: flex;
-    flex-direction: column;
-    gap: 0.25rem;
-    padding: var(--space-md);
-    border: 1px solid var(--border-subtle);
-    border-radius: var(--radius-md);
-    background: var(--bg-card);
-    text-decoration: none;
-    transition: border-color var(--duration-fast), background var(--duration-fast);
-  }
-
-  .search-overlay__hit:hover {
-    border-color: var(--accent);
-    background: var(--bg-card-hover);
-  }
-
-  .search-overlay__hit-cat {
-    font-family: var(--font-mono);
-    font-size: 0.65rem;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: var(--accent);
-  }
-
-  .search-overlay__hit-title {
-    font-family: var(--font-display);
-    font-weight: 700;
-    font-size: 1.05rem;
-    color: var(--text-primary);
-  }
-
-  .search-overlay__hit-desc {
-    font-size: 0.85rem;
-    color: var(--text-muted);
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-
-  .search-overlay__form {
-    display: flex;
-    align-items: center;
-    gap: var(--space-md);
-  }
-
-  .search-overlay__input {
-    flex: 1;
-    background: transparent;
-    border: none;
-    border-bottom: 2px solid var(--border-default);
-    font-family: var(--font-display);
-    font-size: clamp(1.5rem, 4vw, 2.5rem);
-    font-weight: 600;
-    color: var(--text-primary);
-    padding: var(--space-md) 0;
-    outline: none;
-    transition: border-color var(--duration-fast);
-  }
-
-  .search-overlay__input:focus {
-    border-color: var(--accent);
-  }
-
-  .search-overlay__input::placeholder {
-    color: var(--text-muted);
-  }
-
-  .search-overlay__close {
-    width: 44px;
-    height: 44px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: transparent;
-    border: 1px solid var(--border-default);
-    border-radius: var(--radius-sm);
-    color: var(--text-secondary);
-    cursor: pointer;
-    transition: all var(--duration-fast);
-  }
-
-  .search-overlay__close:hover {
-    color: var(--accent);
-    border-color: var(--accent);
   }
 
   /* --- Responsive --- */

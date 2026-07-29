@@ -9,6 +9,7 @@ const blog = defineCollection({
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
     heroImage: z.string().optional(),
+    // Deals is reserved for sponsor content later — valid in schema, hidden from public nav
     category: z.enum(['Humanoids', 'Robotics', 'AI', 'Research', 'Industry', 'Deals']),
     author: z.string().default('Mechafeed Staff'),
     featured: z.boolean().default(false),

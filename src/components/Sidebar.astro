@@ -1,5 +1,4 @@
 ---
-import AdBanner from './AdBanner.astro';
 import Newsletter from './Newsletter.astro';
 import { getCollection } from 'astro:content';
 import { withBase } from '../lib/paths';
@@ -9,13 +8,13 @@ const trendingPosts = allPosts
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 5);
 
+// Deals reserved for sponsors — not listed publicly (schema still allows it)
 const categories = [
   { label: 'Humanoids', count: allPosts.filter(p => p.data.category === 'Humanoids').length, color: 'var(--accent)' },
   { label: 'Robotics', count: allPosts.filter(p => p.data.category === 'Robotics').length, color: 'var(--blue)' },
   { label: 'AI', count: allPosts.filter(p => p.data.category === 'AI').length, color: 'var(--amber)' },
   { label: 'Research', count: allPosts.filter(p => p.data.category === 'Research').length, color: '#A882FF' },
   { label: 'Industry', count: allPosts.filter(p => p.data.category === 'Industry').length, color: 'var(--hot)' },
-  { label: 'Deals', count: allPosts.filter(p => p.data.category === 'Deals').length, color: '#FF8A5B' },
 ];
 ---
 
@@ -41,9 +40,6 @@ const categories = [
     </ol>
   </div>
 
-  <!-- Ad Slot -->
-  <AdBanner size="sidebar" />
-
   <!-- Newsletter -->
   <Newsletter />
 
@@ -65,9 +61,6 @@ const categories = [
       ))}
     </div>
   </div>
-
-  <!-- Second Ad Slot -->
-  <AdBanner size="sidebar-tall" />
 </div>
 
 <style>

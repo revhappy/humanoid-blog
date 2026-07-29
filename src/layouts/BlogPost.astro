@@ -1,6 +1,5 @@
 ---
 import BaseLayout from './BaseLayout.astro';
-import AdBanner from '../components/AdBanner.astro';
 import Sidebar from '../components/Sidebar.astro';
 import { withBase, resolveImage } from '../lib/paths';
 import { absoluteUrl } from '../lib/site';
@@ -35,11 +34,6 @@ const redditShare = `https://www.reddit.com/submit?url=${encodeURIComponent(page
 
 <BaseLayout title={title} description={description} ogImage={heroImage}>
   <article class="post">
-    <!-- Leaderboard Ad -->
-    <div class="post__ad-top">
-      <AdBanner size="leaderboard" />
-    </div>
-
     <div class="post__hero">
       <div class="post__hero-image" style={`background-image: url(${hero})`}>
         <div class="post__hero-overlay"></div>
@@ -68,11 +62,6 @@ const redditShare = `https://www.reddit.com/submit?url=${encodeURIComponent(page
             </p>
           )}
 
-          <!-- In-article ad -->
-          <div class="post__ad-inline">
-            <AdBanner size="in-article" />
-          </div>
-
           <!-- Share / Tags area -->
           <div class="post__footer">
             <div class="post__tags">
@@ -97,12 +86,6 @@ const redditShare = `https://www.reddit.com/submit?url=${encodeURIComponent(page
 </BaseLayout>
 
 <style>
-  .post__ad-top {
-    max-width: var(--max-width);
-    margin: var(--space-lg) auto;
-    padding: 0 var(--space-lg);
-  }
-
   .post__hero {
     margin-bottom: var(--space-2xl);
   }
@@ -229,10 +212,6 @@ const redditShare = `https://www.reddit.com/submit?url=${encodeURIComponent(page
     padding: var(--space-md);
     background: var(--bg-card);
     border-radius: var(--radius-md);
-  }
-
-  .post__ad-inline {
-    margin: var(--space-2xl) 0;
   }
 
   .post__footer {

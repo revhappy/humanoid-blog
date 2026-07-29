@@ -14,7 +14,7 @@ const staticPaths = [
   'category/ai/',
   'category/research/',
   'category/industry/',
-  'category/deals/',
+  // category/deals/ reserved for sponsors — add back when Deals is public
 ];
 
 export const GET: APIRoute = async () => {
