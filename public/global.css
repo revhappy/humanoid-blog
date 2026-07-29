@@ -82,7 +82,7 @@
 
 /* --- Base --- */
 html {
-  font-size: 16px;
+  font-size: 17px;
   scroll-behavior: smooth;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -93,7 +93,7 @@ body {
   font-weight: 400;
   color: var(--text-primary);
   background-color: var(--bg-root);
-  line-height: 1.6;
+  line-height: 1.65;
   overflow-x: hidden;
 }
 
@@ -130,14 +130,14 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--text-primary);
 }
 
-h1 { font-size: clamp(2rem, 4vw, 3.2rem); }
-h2 { font-size: clamp(1.5rem, 3vw, 2.2rem); }
-h3 { font-size: clamp(1.2rem, 2vw, 1.6rem); }
-h4 { font-size: clamp(1rem, 1.5vw, 1.25rem); }
+h1 { font-size: clamp(2.15rem, 4.2vw, 3.45rem); }
+h2 { font-size: clamp(1.65rem, 3.2vw, 2.4rem); }
+h3 { font-size: clamp(1.3rem, 2.2vw, 1.75rem); }
+h4 { font-size: clamp(1.1rem, 1.6vw, 1.35rem); }
 
 p {
   color: var(--text-primary);
-  line-height: 1.7;
+  line-height: 1.75;
 }
 
 a {
