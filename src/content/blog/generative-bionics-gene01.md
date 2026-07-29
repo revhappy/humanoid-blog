@@ -12,11 +12,22 @@ draft: false
 
 Italian deep-tech outfit **Generative Bionics** just put a fully functional industrial humanoid on the table — and the timeline is the headline. **Gene.01** went from concept to working platform in **six months**, the company said in a July 20, 2026 announcement, and it arrives with a full-body multimodal skin plus an open digital twin developers can install the same way they install other robotics tools.
 
+<div class="video-embed">
+  <iframe
+    src="https://www.youtube.com/embed/mGF142yepjc"
+    title="Generative Bionics GENE.01 Comes to Life"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    loading="lazy"
+  ></iframe>
+</div>
+<p class="embed-caption">GENE.01 product video. Source: Generative Bionics / YouTube.</p>
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/gene-pr.jpg" alt="Generative Bionics Gene.01 humanoid robot platform" loading="lazy" />
-  <figcaption>Gene.01 platform. Source: Generative Bionics / PR Newswire.</figcaption>
+  <img src="/humanoid-blog/images/heroes/gene-pr.jpg" alt="Generative Bionics Gene.01 humanoid robot on black background" loading="lazy" />
+  <figcaption>Gene.01 platform still from the company video. Source: Generative Bionics / YouTube.</figcaption>
 </figure>
+
 This is the kind of startup story that fits a fun robotics feed: concrete hardware, a clear shipping story, and something builders can actually try before the metal shows up.
 
 ## What’s on the Robot
@@ -30,6 +41,11 @@ Gene.01 is framed as a **sensorized humanoid platform** for safe work alongside 
 - U.S. debut planned for **AMD Advancing AI 2026** (July 22–23, 2026)
 
 CEO **Daniele Pucci** describes Gene.01 as a **platform** you customize at the AI, exterior design, and end-effector level — not one rigid “humanoid for everything” product.
+
+<figure>
+  <img src="/humanoid-blog/images/heroes/gene01-body.webp" alt="Full-body view of Generative Bionics Gene.01 humanoid" loading="lazy" />
+  <figcaption>Full-body Gene.01 render. Source: Humanoid.guide product page (Generative Bionics imagery).</figcaption>
+</figure>
 
 ## The Cool Open Bit
 
@@ -49,6 +65,9 @@ Six months from concept to a sensorized biped is a flex — and the skin-plus-op
 
 ## Sources
 
+- [Generative Bionics — GENE.01 product page](https://gbionics.ai/gene01/)
+- [Generative Bionics — GENE.01 Comes to Life (YouTube)](https://www.youtube.com/watch?v=mGF142yepjc)
+- [The Robot Report — Gene.01 full-body tactile sensing](https://www.therobotreport.com/generative-bionics-unveils-humanoid-robot-with-full-body-tactile-sensing/)
 - [Generative Bionics Gene.01 announcement (PR Newswire via AOL)](https://www.aol.com/articles/generative-bionics-introduces-gene-01-120000000.html)
-- [Generative Bionics company site](https://gbionics.ai/)
+- [Humanoid.guide — GENE.01 product listing](https://humanoid.guide/product/gene-01/)
 - [Lukas Ziegler — Gene.01 demo post on X](https://x.com/lukas_m_ziegler/status/2079258963158130758)
