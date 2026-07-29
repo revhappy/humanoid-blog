@@ -14,8 +14,8 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-07-29T21:17:21.635Z
-Posts: 40
+Generated: 2026-07-29T23:17:50.770Z
+Posts: 43
 
 ---
 
@@ -36,6 +36,27 @@ Alibaba-affiliate Ant Group led a ¥500M pre-Series A in Zeroth and has invested
 https://mechafeed.com/blog/ant-group-zeroth-73m-humanoid-bets/
 
 #RoboticsIndustry #Humanoids
+```
+
+---
+
+## DoorDash Air Gets FAA Part 135 — Drones Join Dot and Dashers
+
+- **Slug:** `doordash-air-faa-part-135-multimodal`
+- **Date:** 2026-07-29
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/doordash-air-faa-part-135-multimodal/
+- **Chars:** 270/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=DoorDash%20Air%20Gets%20FAA%20Part%20135%20%E2%80%94%20Drones%20Join%20Dot%20and%20Dashers%0A%0ADoorDash%20Labs%20earns%20Part%20135%20certification%20and%20launches%20in-house%20drones%2C%20plugging%20aerial%20delivery%20into%20the%20same%20network%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdoordash-air-faa-part-135-multimodal%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+DoorDash Air Gets FAA Part 135 — Drones Join Dot and Dashers
+
+DoorDash Labs earns Part 135 certification and launches in-house drones, plugging aerial delivery into the same network…
+
+https://mechafeed.com/blog/doordash-air-faa-part-135-multimodal/
+
+#Robotics #Humanoids
 ```
 
 ---
@@ -103,6 +124,27 @@ https://mechafeed.com/blog/hexagon-aeon-bmw-leipzig-production/
 
 ---
 
+## Interlatent Opens a Low-Latency VR Teleop Stack (QUIC + Browser IK)
+
+- **Slug:** `interlatent-vr-teleop-quic-open-source`
+- **Date:** 2026-07-29
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/interlatent-vr-teleop-quic-open-source/
+- **Chars:** 270/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Interlatent%20Opens%20a%20Low-Latency%20VR%20Teleop%20Stack%20(QUIC%20%2B%20Browser%20IK)%0A%0AInterlatent%E2%80%99s%20open-source%20robotics%20SDK%20puts%20VR%20teleoperation%20on%20a%20QUIC%20path%20with%20in-browser%20IK%2C%20a%20safety%20gate%20on%20the%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Finterlatent-vr-teleop-quic-open-source%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Interlatent Opens a Low-Latency VR Teleop Stack (QUIC + Browser IK)
+
+Interlatent’s open-source robotics SDK puts VR teleoperation on a QUIC path with in-browser IK, a safety gate on the…
+
+https://mechafeed.com/blog/interlatent-vr-teleop-quic-open-source/
+
+#AI #Humanoids
+```
+
+---
+
 ## NEURA and Qualcomm Bet on On-Device Brains for Humanoids
 
 - **Slug:** `neura-qualcomm-dragonwing-physical-ai`
@@ -141,6 +183,27 @@ German humanoid maker NEURA raised up to $1.4B from Tether, Nvidia, Amazon, Qual
 https://mechafeed.com/blog/neura-robotics-1-4b-series-c/
 
 #RoboticsIndustry #Humanoids
+```
+
+---
+
+## Nori Offers Sub-$2k US-Built Arms After FCC Robot List
+
+- **Slug:** `nori-robotics-us-hardware-under-2k-fcc`
+- **Date:** 2026-07-29
+- **Category:** Deals
+- **Article:** https://mechafeed.com/blog/nori-robotics-us-hardware-under-2k-fcc/
+- **Chars:** 261/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Nori%20Offers%20Sub-%242k%20US-Built%20Arms%20After%20FCC%20Robot%20List%0A%0AYC%20S26%E2%80%99s%20Nori%20Robotics%20pitches%20manufacturing-cost%20mobile%20bimanual%20robots%20to%20US%20labs%20after%20the%20FCC%20Covered%20List%20hit%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnori-robotics-us-hardware-under-2k-fcc%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Nori Offers Sub-$2k US-Built Arms After FCC Robot List
+
+YC S26’s Nori Robotics pitches manufacturing-cost mobile bimanual robots to US labs after the FCC Covered List hit…
+
+https://mechafeed.com/blog/nori-robotics-us-hardware-under-2k-fcc/
+
+#Robotics #Humanoids
 ```
 
 ---

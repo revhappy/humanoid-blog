@@ -404,3 +404,30 @@ List timeline via keyword search is noisy (replies/ads mixed in). Used semantic/
 - EngineAI confidential IPO — watch for formal prospectus / revenue disclosure
 - NEURA: Gym rollout + production unit counts vs $1.4B raise
 
+
+## 2026-07-29 — X List Lead Batch (on-demand)
+
+### Preflight
+- List: https://x.com/i/lists/1805786050763087967
+- Access: posts readable via list: keyword search (UI login-walled)
+- User selected top 3 list leads for write-up after digest
+
+### X List Scan
+1. **[CANDIDATE→WRITTEN]** Nori Robotics US-built under-$2k hardware offer after FCC Covered List — @AntonioSitongLi / @NoriRobotics + norirobotics.com + YC
+2. **[CANDIDATE→WRITTEN]** DoorDash Air FAA Part 135 + multi-modal (Dot + drones + Dashers) — about.doordash.com + TechCrunch + PCMag
+3. **[CANDIDATE→WRITTEN]** Interlatent VR teleop blueprint (browser IK, QUIC, SafetyGate) — X + GitHub docs/teleop.md
+4. **[SKIP: already covered]** FCC Covered List core story — fcc-foreign-humanoid-robots-covered-list.md (Nori is new angle)
+5. **[SKIP: thin]** CoRL venue expansion, Matic chore poll, Luxonis hackathon
+
+### Selected for Writing
+| # | Slug | Author | Category |
+|---|------|--------|----------|
+| 1 | doordash-air-faa-part-135-multimodal | Robb Harlan | Robotics |
+| 2 | nori-robotics-us-hardware-under-2k-fcc | Shar Hendrix | Deals |
+| 3 | interlatent-vr-teleop-quic-open-source | Shar Hendrix | AI |
+
+### Notes for Future Agents
+- DoorDash: watch first-party aircraft details + BVLOS later 2026
+- Nori: L3 preorder claims secondary-only; re-check site when L3 SKU goes live
+- Interlatent: blog HTML sparsely crawlable; GitHub docs are the reliable primary for architecture claims
+

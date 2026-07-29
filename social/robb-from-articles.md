@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-07-29T21:17:21.837Z
+Generated: 2026-07-29T23:17:52.539Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -27,6 +27,28 @@ I’m here for the portfolio approach more than any single cute robot.  Twelve d
 I’m here for the portfolio approach more than any single cute robot.  Twelve deals plus an in-house lab says Ant wants leverage across chips, hands, models, and distribution (hello, Alipay).
 
 https://mechafeed.com/blog/ant-group-zeroth-73m-humanoid-bets/
+```
+
+---
+
+## DoorDash Air Gets FAA Part 135 — Drones Join Dot and Dashers
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/doordash-air-faa-part-135-multimodal/
+
+### SOLO (no link)
+
+```
+I’m less interested in whether a drone can carry a burrito than whether the dispatcher picks the right vehicle without making the merchant run three apps.  Part 135 is a real gate.
+```
+
+### SOFT-LINK variant
+
+```
+I’m less interested in whether a drone can carry a burrito than whether the dispatcher picks the right vehicle without making the merchant run three apps.  Part 135 is a real gate.
+
+https://mechafeed.com/blog/doordash-air-faa-part-135-multimodal/
 ```
 
 ---
@@ -97,6 +119,28 @@ https://mechafeed.com/blog/hexagon-aeon-bmw-leipzig-production/
 
 ---
 
+## Interlatent Opens a Low-Latency VR Teleop Stack (QUIC + Browser IK)
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/interlatent-vr-teleop-quic-open-source/
+
+### SOLO (no link)
+
+```
+I’m here for anyone who treats teleop as instrumented data collection, not a party trick.  Browser IK + QUIC + a motor-side safety gate is the kind of boring stack that decides whether remote demos are usable or nauseating.
+```
+
+### SOFT-LINK variant
+
+```
+I’m here for anyone who treats teleop as instrumented data collection, not a party trick.  Browser IK + QUIC + a motor-side safety gate is the kind of boring stack that decides whether remote demos ar…
+
+https://mechafeed.com/blog/interlatent-vr-teleop-quic-open-source/
+```
+
+---
+
 ## NEURA and Qualcomm Bet on On-Device Brains for Humanoids
 
 - Author on blog: Shar Hendrix
@@ -137,6 +181,28 @@ $1. 4B is enough capital to force a binary: either Europe gets a real humanoid O
 $1. 4B is enough capital to force a binary: either Europe gets a real humanoid OEM with factories and field data, or this becomes a very expensive science project.
 
 https://mechafeed.com/blog/neura-robotics-1-4b-series-c/
+```
+
+---
+
+## Nori Offers Sub-$2k US-Built Arms After FCC Robot List
+
+- Author on blog: Shar Hendrix
+- Category: Deals
+- Article: https://mechafeed.com/blog/nori-robotics-us-hardware-under-2k-fcc/
+
+### SOLO (no link)
+
+```
+I’m so here for boring, buyable US hardware — as long as the DOF count isn’t doing all the selling.  Sub-$2k dual-arm platforms are how students and small labs stop waiting for a grant large enough for an industrial arm.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for boring, buyable US hardware — as long as the DOF count isn’t doing all the selling.  Sub-$2k dual-arm platforms are how students and small labs stop waiting for a grant large enough fo…
+
+https://mechafeed.com/blog/nori-robotics-us-hardware-under-2k-fcc/
 ```
 
 ---
