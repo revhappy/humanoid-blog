@@ -14,17 +14,17 @@ Hyundai Motor Group said on July 16 that its shareholders are pursuing SoftBank'
 
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/atlas-electric.jpg" alt="Boston Dynamics electric Atlas humanoid" loading="lazy" />
+  <img src="/images/heroes/atlas-electric.jpg" alt="Boston Dynamics electric Atlas humanoid" loading="lazy" />
   <figcaption>Electric Atlas. Source: Boston Dynamics / press archive.</figcaption>
 </figure>
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/atlas-blue.jpg" alt="Boston Dynamics Atlas humanoid robot" loading="lazy" />
+  <img src="/images/heroes/atlas-blue.jpg" alt="Boston Dynamics Atlas humanoid robot" loading="lazy" />
   <figcaption>Atlas product still. Source: Boston Dynamics.</figcaption>
 </figure>
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/atlas-orbit-shot.jpg" alt="Atlas Orbit software screenshot" loading="lazy" />
+  <img src="/images/heroes/atlas-orbit-shot.jpg" alt="Atlas Orbit software screenshot" loading="lazy" />
   <figcaption>Atlas Orbit tooling. Source: Boston Dynamics.</figcaption>
 </figure>
 This is a control story more than a product launch. The robots were already impressive on video. The question has always been who decides how fast Atlas leaves the demo stage and enters a real plant.

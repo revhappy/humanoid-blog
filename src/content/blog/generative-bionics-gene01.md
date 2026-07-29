@@ -24,7 +24,7 @@ Italian deep-tech outfit **Generative Bionics** just put a fully functional indu
 <p class="embed-caption">GENE.01 product video. Source: Generative Bionics / YouTube.</p>
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/gene-pr.jpg" alt="Generative Bionics Gene.01 humanoid robot on black background" loading="lazy" />
+  <img src="/images/heroes/gene-pr.jpg" alt="Generative Bionics Gene.01 humanoid robot on black background" loading="lazy" />
   <figcaption>Gene.01 platform still from the company video. Source: Generative Bionics / YouTube.</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Gene.01 is framed as a **sensorized humanoid platform** for safe work alongside 
 CEO **Daniele Pucci** describes Gene.01 as a **platform** you customize at the AI, exterior design, and end-effector level — not one rigid “humanoid for everything” product.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/gene01-body.webp" alt="Full-body view of Generative Bionics Gene.01 humanoid" loading="lazy" />
+  <img src="/images/heroes/gene01-body.webp" alt="Full-body view of Generative Bionics Gene.01 humanoid" loading="lazy" />
   <figcaption>Full-body Gene.01 render. Source: Humanoid.guide product page (Generative Bionics imagery).</figcaption>
 </figure>
 

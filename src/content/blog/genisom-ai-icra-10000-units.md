@@ -14,7 +14,7 @@ Not every robot story starts with a billion-dollar humanoid. At **ICRA 2026** in
 
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/genisom-body.jpg" alt="GENISOM AI robotics platform at ICRA" loading="lazy" />
+  <img src="/images/heroes/genisom-body.jpg" alt="GENISOM AI robotics platform at ICRA" loading="lazy" />
   <figcaption>GENISOM featured still. Source: The Robot Report / GENISOM.</figcaption>
 </figure>
 According to that coverage:

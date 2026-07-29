@@ -15,7 +15,7 @@ draft: false
 **Business Insider** interviewed CEO **Tony Zhao**: Memo folded successfully more than 99% of the time in unfamiliar homes and on garments it was not specifically trained to handle. The company wants that reliability branded as a **“Solve”** — performance + declared scope + stated adaptation cost — instead of another one-off video.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/sunday-yt.jpg" alt="Sunday Robotics ACT-2 Memo laundry folding preview" loading="lazy" />
+  <img src="/images/heroes/sunday-yt.jpg" alt="Sunday Robotics ACT-2 Memo laundry folding preview" loading="lazy" />
   <figcaption>Still from Sunday’s ACT-2 Preview film. Source: Sunday Robotics / YouTube.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ From Sunday’s technical blog (self-reported evaluation):
 - Stress cases they highlight: inside-out pants, lighting extremes, mid-fold disturbances, 8XL vs baby clothes, even a child nearby
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/sunday-act2-blog.png" alt="Sunday ACT-2 blog hero imagery" loading="lazy" />
+  <img src="/images/heroes/sunday-act2-blog.png" alt="Sunday ACT-2 blog hero imagery" loading="lazy" />
   <figcaption>Hero art from Sunday’s ACT-2 Preview post. Source: Sunday Robotics.</figcaption>
 </figure>
 

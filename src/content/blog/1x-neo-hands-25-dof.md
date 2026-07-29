@@ -19,12 +19,12 @@ If a humanoid is a computer that walks, **1X Technologies** just published a bet
 <p class="embed-caption">Official NEO hands announcement footage. Source: 1X Technologies / YouTube.</p>
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/1x-hands-close.jpg" alt="Close-up of 1X NEO 25-DoF tendon-driven hand" loading="lazy" />
+  <img src="/images/heroes/1x-hands-close.jpg" alt="Close-up of 1X NEO 25-DoF tendon-driven hand" loading="lazy" />
   <figcaption>NEO hand close-up. Source: 1X Technologies.</figcaption>
 </figure>
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/1x-hands-video.jpg" alt="1X NEO hands video thumbnail" loading="lazy" />
+  <img src="/images/heroes/1x-hands-video.jpg" alt="1X NEO hands video thumbnail" loading="lazy" />
   <figcaption>From the official hands video. Source: 1X Technologies.</figcaption>
 </figure>
 These are the hands 1X says will ship on **every NEO**.

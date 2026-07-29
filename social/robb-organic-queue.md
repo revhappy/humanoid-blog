@@ -3,7 +3,7 @@
 Drafts for **manual** post (or paste into X compose). No API required.
 
 **Voice check:** mid-40s engineer, allergic to hype, likes prices / hours / customers.  
-**Link policy:** most posts have **no link**. Soft-link drafts are marked. Blog base: `https://revhappy.github.io/humanoid-blog/`
+**Link policy:** most posts have **no link**. Soft-link drafts are marked. Blog base: `https://mechafeed.com/`
 
 How to use:
 1. Create the `@robb…` account (see `ROBB-ON-X.md`)
@@ -112,10 +112,10 @@ A couple-thousand-dollar printable biped won’t replace a factory humanoid — 
 ## SOFT-LINK — Agility SPAC (take first)
 
 ```
-Public markets are a brutal scoreboard. For once the humanoid sector might get quarterly honesty on unit economics if this SPAC closes.
+Public markets are a brutal scoreboard. For once the Mechafeed sector might get quarterly honesty on unit economics if this SPAC closes.
 
 I wrote up the numbers and what I’m actually watching after the ticker:
-https://revhappy.github.io/humanoid-blog/blog/agility-robotics-spac-2-5b/
+https://mechafeed.com/blog/agility-robotics-spac-2-5b/
 ```
 
 ---
@@ -126,7 +126,7 @@ https://revhappy.github.io/humanoid-blog/blog/agility-robotics-spac-2-5b/
 Factories are where humanoid hype meets torque wrenches.
 
 1X putting metal, motors, and a price tag in the same place beats another parkour clip. Shipping is the product now:
-https://revhappy.github.io/humanoid-blog/blog/1x-neo-factory-hayward/
+https://mechafeed.com/blog/1x-neo-factory-hayward/
 ```
 
 ---
@@ -137,7 +137,7 @@ https://revhappy.github.io/humanoid-blog/blog/1x-neo-factory-hayward/
 Control is underrated in robotics coverage. Fancy walking videos don’t tell you who can green-light a pilot or kill a project that isn’t earning its keep.
 
 Ownership + a 2028 sequencing target is the plot; the demo was always good:
-https://revhappy.github.io/humanoid-blog/blog/hyundai-full-ownership-boston-dynamics/
+https://mechafeed.com/blog/hyundai-full-ownership-boston-dynamics/
 ```
 
 ---
@@ -215,7 +215,7 @@ Agree a lot of it is theater. Disagree that “theater” is the whole category 
 ## Agent append log
 
 ### 2026-07-28 — Starter pack
-- Seeded organic queue from existing HUMANOID articles + Robb voice
+- Seeded organic queue from existing Mechafeed articles + Robb voice
 - Link-spam queue (`tweet-queue.md`) is secondary; prefer this file for the Robb account
 
 ### 2026-07-28 — Day-one + live scan

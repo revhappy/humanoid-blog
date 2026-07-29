@@ -13,7 +13,7 @@ draft: false
 **Ant Group** is not dabbling in humanoids — it is building a portfolio. **CNBC** reported that Ant led a **¥500 million ($73.58 million)** pre-Series A for home-robot startup **Zeroth**, bringing Zeroth’s total raised to **¥1 billion**. CNBC’s PitchBook analysis calls Zeroth Ant’s **12th** investment in the sector **since the beginning of 2025**.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/ant-zeroth.jpg" alt="Zeroth Wall-E style robot at AWE 2026 with a smaller humanoid nearby" loading="lazy" />
+  <img src="/images/heroes/ant-zeroth.jpg" alt="Zeroth Wall-E style robot at AWE 2026 with a smaller humanoid nearby" loading="lazy" />
   <figcaption>Zeroth’s Wall-E–licensed robot display at AWE 2026, as featured in CNBC coverage. Source: CNBC / Getty.</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ CNBC’s tracked Ant investments span full robot companies (**Galaxea**, **Unitr
 Ant also built an in-house robotics arm. In **late 2024** it established **RobbyAnt** (Ant Lingbo Technology), which later shipped its own robot. The **Robbyant** site presents the company as Ant Group’s embodied-intelligence unit — “one brain for all robots” — with platforms including **Robbyant R2** and related stacks.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/robbyant-r1.jpg" alt="Robbyant wheeled humanoid robot in a modern lobby" loading="lazy" />
+  <img src="/images/heroes/robbyant-r1.jpg" alt="Robbyant wheeled humanoid robot in a modern lobby" loading="lazy" />
   <figcaption>Robbyant product imagery from Ant Group’s robotics subsidiary site. Source: Robbyant.</figcaption>
 </figure>
 

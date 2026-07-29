@@ -1,6 +1,6 @@
-# HUMANOID Blog — Daily Article Pipeline (Scheduled)
+# Mechafeed — Daily Article Pipeline (Scheduled)
 
-You are running the **scheduled daily research + publish job** for the HUMANOID blog.
+You are running the **scheduled daily research + publish job** for the Mechafeed.
 Follow `AGENTS.md` and `NOTES.md` exactly. Zero hallucination. Every claim needs a URL fetched this session.
 
 ## Goal
@@ -32,7 +32,7 @@ Each article must be a **genuinely different story** (different company, product
 
 ### 1. Preflight
 
-- Working directory is the Humanoid Blog repo root.
+- Working directory is the Mechafeed repo root.
 - `git pull --rebase origin main` (resolve conflicts carefully; never discard remote work).
 - List existing posts: `src/content/blog/` — skip anything already covered unless there is a **new** development.
 - Read the tail of `src/content/research-log.md` so you do not repeat yesterday’s picks.
@@ -93,7 +93,7 @@ For each selected story:
    - `draft: false`
    - `featured: false` (do not steal homepage feature unless no posts exist)
 7. End every article with `## A Human's Take` then visible `## Sources` (≥2 real URLs you fetched).
-8. Body images use site base: `/humanoid-blog/images/heroes/...`
+8. Body images use site base: `/images/heroes/...`
 
 ### 5. Pre-publish verification (HARD GATE — do this before any commit)
 

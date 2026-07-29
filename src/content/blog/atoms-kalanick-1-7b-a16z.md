@@ -14,7 +14,7 @@ draft: false
 
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/atoms-vision.webp" alt="Atoms company visual from official site" loading="lazy" />
+  <img src="/images/heroes/atoms-vision.webp" alt="Atoms company visual from official site" loading="lazy" />
   <figcaption>Visual from Atoms’ official site. Source: Atoms (atoms.co).</figcaption>
 </figure>
 ## What Atoms Is

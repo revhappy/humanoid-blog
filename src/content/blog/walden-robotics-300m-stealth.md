@@ -14,7 +14,7 @@ draft: false
 
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/walden-body.jpg" alt="Walden Robotics launch hero image" loading="lazy" />
+  <img src="/images/heroes/walden-body.jpg" alt="Walden Robotics launch hero image" loading="lazy" />
   <figcaption>From Walden’s launch announcement. Source: Walden Robotics.</figcaption>
 </figure>
 The product pitch is blunt: general-purpose robots that do useful work **today**, side-by-side with people, and keep learning on the job.

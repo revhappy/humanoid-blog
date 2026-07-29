@@ -1,10 +1,10 @@
 /**
- * Site-wide config. Replace placeholder emails / social URLs before launch marketing.
+ * Site-wide config. Replace placeholder emails before launch marketing.
  * Forms and footers import from here — one place to update.
  */
 export const siteConfig = {
-  name: 'HUMANOID',
-  legalName: 'HUMANOID Blog',
+  name: 'Mechafeed',
+  legalName: 'Mechafeed',
   tagline: 'Humanoid robotics news, AI breakthroughs, and intelligent machines.',
   description:
     'Your source for humanoid robotics news, AI breakthroughs, and the future of intelligent machines. Covering the companies and technologies shaping tomorrow.',
@@ -13,23 +13,22 @@ export const siteConfig = {
    * Public site origin + base path (must match astro.config site + base).
    * Used for absolute share/RSS links when Astro.site alone is not enough.
    */
-  origin: 'https://revhappy.github.io',
-  basePath: '/humanoid-blog/',
+  origin: 'https://mechafeed.com',
+  basePath: '/',
 
-  /** Placeholder inboxes — replace with real addresses. Forms post via FormSubmit. */
+  /** Contact / forms (FormSubmit). All routes use the same inbox for now. */
   emails: {
-    contact: 'hello@example.com',
-    newsletter: 'newsletter@example.com',
-    advertise: 'advertise@example.com',
+    contact: 'mechafeed@gmail.com',
+    newsletter: 'mechafeed@gmail.com',
+    advertise: 'mechafeed@gmail.com',
   },
 
   /**
-   * Social profile URLs. Leave empty string to hide the icon until you have an account.
-   * Primary voice on X: Robb Harlan (organic — see social/ROBB-ON-X.md). Not an AdSense play.
-   * X/Twitter: set e.g. 'https://x.com/robbharlan' once the handle exists.
+   * Social profile URLs. Leave empty string to hide the icon.
+   * Brand: @mechafeed — primary X account for the site.
    */
   social: {
-    x: '',
+    x: 'https://x.com/mechafeed',
     youtube: '',
     linkedin: '',
   },

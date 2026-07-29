@@ -13,7 +13,7 @@ draft: false
 **EngineAI**, the Shenzhen humanoid maker known for viral flip videos and the **T800** industrial platform, has **confidentially filed for a Hong Kong IPO**, **The Next Web** reported based on **Bloomberg** sources. The company is working with **China International Capital Corp** and **Citic Securities** on a possible share sale. Size and timing remain undisclosed — confidential filings can still be pulled.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/engineai-ipo.jpg" alt="Fleet of EngineAI T800 humanoid robots" loading="lazy" />
+  <img src="/images/heroes/engineai-ipo.jpg" alt="Fleet of EngineAI T800 humanoid robots" loading="lazy" />
   <figcaption>EngineAI T800 humanoids in formation. Source: EngineAI via The Next Web.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ The IPO pitch leans on manufacturing, not just clips. On **June 1**, EngineAI op
 That is the story public-market investors will underwrite or reject: can a three-year-old firm turn cycle-time marketing into revenue with acceptable returns?
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/engineai-ipo-2.jpg" alt="EngineAI T800 humanoid fleet" loading="lazy" />
+  <img src="/images/heroes/engineai-ipo-2.jpg" alt="EngineAI T800 humanoid fleet" loading="lazy" />
   <figcaption>EngineAI T800 fleet imagery. Source: EngineAI via The Next Web.</figcaption>
 </figure>
 

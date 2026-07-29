@@ -1,4 +1,4 @@
-# HUMANOID Blog — Deployment Guide
+# Mechafeed — Deployment Guide
 
 Everything you need to get new articles written, reviewed locally, and live on Firebase.
 
@@ -8,7 +8,7 @@ Everything you need to get new articles written, reviewed locally, and live on F
 
 - Node.js installed on your machine
 - Git installed (Git Bash on Windows)
-- The repo cloned to `~/Desktop/Sites & Blogs/Humanoid Blog`
+- The repo cloned (local folder may still be named `Humanoid Blog`; brand is Mechafeed)
 - Firebase Hosting configured with GitHub Actions (already done)
 
 ---
@@ -62,7 +62,7 @@ title: "Your Article Title Here"
 description: "A 1-2 sentence summary (under 160 chars)"
 pubDate: 2026-03-18
 category: "Humanoids"
-author: "HUMANOID Staff"
+author: "Mechafeed Staff"
 heroImage: "https://images.unsplash.com/photo-XXXXXXX?w=1200&h=630&fit=crop"
 readTime: "5 min read"
 featured: false
@@ -127,7 +127,7 @@ That's it. GitHub Actions automatically:
 2. Deploys it to Firebase Hosting
 
 **Deploy usually takes 2–3 minutes.** You can watch progress at:
-`https://github.com/revhappy/humanoid-blog/actions`
+`https://github.com/revhappy/humanoid-blog/actions` (GitHub repo name may still be `humanoid-blog`; public brand is Mechafeed)
 
 ---
 

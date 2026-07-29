@@ -14,7 +14,7 @@ While billion-dollar humanoid companies chase factory contracts, a different thr
 
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/lerobot-body.jpg" alt="LeRobot open-source 3D-printed humanoid" loading="lazy" />
+  <img src="/images/heroes/lerobot-body.jpg" alt="LeRobot open-source 3D-printed humanoid" loading="lazy" />
   <figcaption>LeRobot Humanoid project visual. Source: Hugging Face blog.</figcaption>
 </figure>
 The current bipedal platform costs around **$2,500 in parts** (sourcing, shipping, and taxes vary). It is built from **3D-printed parts**, off-the-shelf components, and affordable actuators and electronics.

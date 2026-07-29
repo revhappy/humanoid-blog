@@ -13,7 +13,7 @@ draft: false
 **Hexagon Robotics** says its humanoid **AEON** has moved past lab demos at **BMW Group Plant Leipzig**. In a **June 12, 2026** milestone note (published June 15), Hexagon reported AEON is **performing production tasks** while training on future manufacturing applications — and still aims for **production deployment by the end of 2026**.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/hexagon-aeon-bmw.jpg" alt="Hexagon AEON humanoid holding an automotive part in a factory" loading="lazy" />
+  <img src="/images/heroes/hexagon-aeon-bmw.jpg" alt="Hexagon AEON humanoid holding an automotive part in a factory" loading="lazy" />
   <figcaption>AEON handling a component in a production setting. Source: Hexagon Robotics / BMW AG photos.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Hexagon Robotics president **Arnaud Robert** framed it as a phase shift:
 The next phase, Hexagon said, focuses on **autonomy, robustness, and operational performance**. Battery-assembly work is expected to move from the **Innovation Garage** into the factory environment as future pilots expand.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/hexagon-aeon-bmw-2.jpg" alt="AEON scanning a car body with a laser tool at BMW Leipzig" loading="lazy" />
+  <img src="/images/heroes/hexagon-aeon-bmw-2.jpg" alt="AEON scanning a car body with a laser tool at BMW Leipzig" loading="lazy" />
   <figcaption>AEON using a scanning tool on a vehicle body. Source: Hexagon Robotics / BMW AG.</figcaption>
 </figure>
 

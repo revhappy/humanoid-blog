@@ -14,7 +14,7 @@ Plenty of labs are racing to train foundation models for robots. **Enigma** is b
 
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/enigma-body.jpg" alt="Enigma founders Natasha and team" loading="lazy" />
+  <img src="/images/heroes/enigma-body.jpg" alt="Enigma founders Natasha and team" loading="lazy" />
   <figcaption>Enigma founders. Source: Enigma / TechCrunch.</figcaption>
 </figure>
 The research-lab startup came out of stealth with a **$71 million seed** (TechCrunch, July 27, 2026) led by **Index Ventures** and **Ribbit Capital**, with participation from **Sarah Guo’s Conviction Partners**. eWeek also notes wider angel and strategic participation from people tied to OpenAI, Anthropic, DeepMind, xAI, Cognition, and Wiz.

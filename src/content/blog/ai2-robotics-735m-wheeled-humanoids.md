@@ -15,7 +15,7 @@ Not every “humanoid” round is about legs. **AI² Robotics** (also styled **A
 That puts the Shenzhen company among the larger Chinese physical-AI financings of the year — and squarely in the **wheeled torso** camp rather than the biped arms race.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/ai2-about.jpg" alt="AI2 Robotics company imagery" loading="lazy" />
+  <img src="/images/heroes/ai2-about.jpg" alt="AI2 Robotics company imagery" loading="lazy" />
   <figcaption>Company imagery from AI² Robotics’ official site. Source: AI² Robotics.</figcaption>
 </figure>
 

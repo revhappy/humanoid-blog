@@ -13,7 +13,7 @@ draft: false
 **UBTECH** is pushing humanoids out of the factory aisle and into a consumer brand. At its **2026 Global Launch Event** in Shenzhen (**June 30, 2026**), the company unveiled the **UWORLD U1 Series** — full-size “ultra-bionic” humanoids it calls the first designed for **mass production** in that category. Pricing starts at **¥119,800**, and UBTECH’s PR Newswire release says cumulative orders had already topped **13,361 units** as of launch day.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/ubtech-uworld-u1.jpg" alt="UBTECH UWORLD U1 humanoid on stage at launch event" loading="lazy" />
+  <img src="/images/heroes/ubtech-uworld-u1.jpg" alt="UBTECH UWORLD U1 humanoid on stage at launch event" loading="lazy" />
   <figcaption>UWORLD U1 on the launch stage in Shenzhen. Source: UBTECH / PR Newswire.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Specs and claims from the official release:
 CEO and founder **James Zhou** cast 2026 as the bridge from industrial/commercial Walker products into **consumer** adoption. Brand chief **Michael Tam** framed companionship as a mental-well-being product category and cited internal market projections for China’s ultra-bionic segment over the next decade (tens of billions of RMB scaling toward trillion-RMB language — treat as company outlook, not verified market fact).
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/ubtech-uworld-u1-2.jpg" alt="Lineup of UWORLD U1 humanoids with varied appearances at launch" loading="lazy" />
+  <img src="/images/heroes/ubtech-uworld-u1-2.jpg" alt="Lineup of UWORLD U1 humanoids with varied appearances at launch" loading="lazy" />
   <figcaption>UWORLD U1 Series lineup at the global launch. Source: UBTECH / PR Newswire.</figcaption>
 </figure>
 

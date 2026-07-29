@@ -14,13 +14,13 @@
 |--------|------------|
 | **Name** | Robb Harlan |
 | **Handle** | e.g. `@robbharlan` / `@robb_harlan` (pick what’s free) |
-| **Bio** | Humanoid robotics, factories, unit economics. Write at HUMANOID. Skeptical of demos that never work a shift. |
+| **Bio** | Humanoid robotics, factories, unit economics. Write at Mechafeed. Skeptical of demos that never work a shift. |
 | **Location** | Optional / US |
-| **Link** | `https://revhappy.github.io/humanoid-blog/` (or custom domain later) |
+| **Link** | `https://mechafeed.com/` (or custom domain later) |
 | **Avatar** | Simple, human-ish — **not** a stock robot face if you can avoid it. Consistent over time. |
 | **Header** | Factory floor / real robot still (from a post you own rights to use), muted |
 
-Disclose when relevant: *I write at HUMANOID* — don’t put “AI-powered journalist” in the bio.
+Disclose when relevant: *I write at Mechafeed* — don’t put “AI-powered journalist” in the bio.
 
 ---
 
@@ -139,7 +139,7 @@ Output file: append to `social/robb-organic-queue.md` (or a dated section).
 > 🚨 BREAKING: Figure AI SHOCKS the industry with REVOLUTIONARY milestone!!! 🤖🤖 #AI #Robotics #FutureOfWork #Humanoid
 
 **Bad**
-> As a thought leader in the humanoid space, I’m excited to share my latest insights on the paradigm shift…
+> As a thought leader in the Mechafeed space, I’m excited to share my latest insights on the paradigm shift…
 
 ---
 

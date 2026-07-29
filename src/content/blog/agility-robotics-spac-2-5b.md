@@ -14,12 +14,12 @@ Agility Robotics — the Oregon company behind the bipedal warehouse humanoid **
 
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/agility-digit-spac.jpg" alt="Agility Digit robot related to SPAC announcement" loading="lazy" />
+  <img src="/images/heroes/agility-digit-spac.jpg" alt="Agility Digit robot related to SPAC announcement" loading="lazy" />
   <figcaption>Digit hardware context for the public listing path. Source: Agility Robotics / press.</figcaption>
 </figure>
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/agility-fremont.jpg" alt="Agility Fremont facility" loading="lazy" />
+  <img src="/images/heroes/agility-fremont.jpg" alt="Agility Fremont facility" loading="lazy" />
   <figcaption>Agility’s Bay Area expansion. Source: Agility Robotics / TechCrunch.</figcaption>
 </figure>
 This is not a “we might ship someday” pitch. Agility’s own release says Digit is already in commercial environments with customers including Schaeffler, GXO, Toyota Motor Manufacturing Canada, and Mercado Libre.

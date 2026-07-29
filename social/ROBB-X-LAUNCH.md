@@ -1,7 +1,7 @@
 # Robb Harlan X — Launch checklist + first posts
 
 **Article live (after you push):**  
-`https://revhappy.github.io/humanoid-blog/blog/fcc-foreign-humanoid-robots-covered-list/`
+`https://mechafeed.com/blog/fcc-foreign-humanoid-robots-covered-list/`
 
 I **cannot** create the X account for you (phone/email verification is on your side). Do this in ~10 minutes, then paste the first post.
 
@@ -14,9 +14,9 @@ I **cannot** create the X account for you (phone/email verification is on your s
 3. **Handle:** try `@robbharlan` → `@robb_harlan` → `@robbharlanHQ` (whatever’s free)
 4. **Bio:**
    ```
-   Humanoid robotics, factories, unit economics. Write at HUMANOID. Skeptical of demos that never work a shift.
+   Humanoid robotics, factories, unit economics. Write at Mechafeed. Skeptical of demos that never work a shift.
    ```
-5. **Website:** `https://revhappy.github.io/humanoid-blog/`
+5. **Website:** `https://mechafeed.com/`
 6. Avatar: simple photo or non-stock mark (avoid generic robot clipart if you can)
 7. After create: tell me the handle → we put it in `src/lib/site.ts` → `social.x`
 
@@ -55,7 +55,7 @@ https://twitter.com/intent/tweet?text=FCC%20just%20put%20foreign-produced%20adva
 ```
 Wrote up what the FCC actually did vs the headlines: Covered List, new models only, Conditional Approval path, and what changes for labs and integrators.
 
-https://revhappy.github.io/humanoid-blog/blog/fcc-foreign-humanoid-robots-covered-list/
+https://mechafeed.com/blog/fcc-foreign-humanoid-robots-covered-list/
 ```
 
 **Compose:**  

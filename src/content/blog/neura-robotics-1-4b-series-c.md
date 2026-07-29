@@ -13,7 +13,7 @@ draft: false
 **NEURA Robotics**, the Metzingen-based builder of the **4NE1** humanoid, closed a **Series C of up to $1.4 billion** — described by the company (via **Trending Topics**) as the largest capital injection to date for a full-stack robotics firm. Investors named in that report include **Tether**, **Qualcomm Technologies**, **Amazon**, **NVIDIA**, **imec.xpand**, **Bosch**, **Schaeffler**, the **European Investment Bank**, **Lingotto Horizon**, and **InterAlpen Partners**.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/neura-4ne1.jpg" alt="Line of NEURA 4NE1 humanoid robots" loading="lazy" />
+  <img src="/images/heroes/neura-4ne1.jpg" alt="Line of NEURA 4NE1 humanoid robots" loading="lazy" />
   <figcaption>NEURA 4NE1 humanoids. Source: NEURA Robotics product page.</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ NEURA’s product page for **4NE1** lists:
 That is Europe’s attempt at a full-stack humanoid company with serious industrial partners on the cap table — Bosch and Schaeffler are not tourist investors.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/neura-series-c.jpg" alt="NEURA Robotics brand image" loading="lazy" />
+  <img src="/images/heroes/neura-series-c.jpg" alt="NEURA Robotics brand image" loading="lazy" />
   <figcaption>NEURA brand still from Series C coverage. Source: Trending Topics / NEURA.</figcaption>
 </figure>
 

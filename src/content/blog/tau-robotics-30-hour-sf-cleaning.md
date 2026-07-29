@@ -14,12 +14,12 @@ San Francisco just got another way to book a cleaner that is not a person with a
 
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/tau-fridge.jpg" alt="Tau humanoid working near a fridge during a home clean" loading="lazy" />
+  <img src="/images/heroes/tau-fridge.jpg" alt="Tau humanoid working near a fridge during a home clean" loading="lazy" />
   <figcaption>Tau cleaning demo still. Source: Tau Robotics.</figcaption>
 </figure>
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/tau-hero-site.jpg" alt="Tau Robotics humanoid cleaning service" loading="lazy" />
+  <img src="/images/heroes/tau-hero-site.jpg" alt="Tau Robotics humanoid cleaning service" loading="lazy" />
   <figcaption>From the Tau company site. Source: Tau Robotics.</figcaption>
 </figure>
 The company site is blunt about how it works: each humanoid is **jointly controlled by a human operator and AI**. This is not “push a button and leave the robot unsupervised for the day.” It is a live service with a remote operator in the loop.

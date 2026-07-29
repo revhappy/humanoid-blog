@@ -14,7 +14,7 @@ In mid-July 2026, Shenzhen hosted what organizers billed as the world’s first 
 
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/engineai-body.jpg" alt="EngineAI URKL humanoid robot combat event" loading="lazy" />
+  <img src="/images/heroes/engineai-body.jpg" alt="EngineAI URKL humanoid robot combat event" loading="lazy" />
   <figcaption>URKL coverage still. Source: Global Times.</figcaption>
 </figure>
 It looks like entertainment. The engineering case is a live stress test — balance under impact, sensor fusion when vision is degraded, and recovery after a knockdown — conditions you do not get from a carefully lit warehouse demo.

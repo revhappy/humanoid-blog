@@ -14,7 +14,7 @@ At the World Artificial Intelligence Conference 2026 in Shanghai, AGIBOT unveile
 
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/agibot-body.jpg" alt="AGIBOT robots for guidance at WAIC" loading="lazy" />
+  <img src="/images/heroes/agibot-body.jpg" alt="AGIBOT robots for guidance at WAIC" loading="lazy" />
   <figcaption>AGIBOT embodied products in real-world ops context. Source: The Robot Report / AGIBOT.</figcaption>
 </figure>
 The headliner is the **AGIBOT A3 Ultra**, a full-size humanoid aimed at long-duration work in commercial and service environments. Company claims are just that — company claims — but the packaging is clearly aimed at buyers who care about shift length and logistics, not Twitter clips.

@@ -14,7 +14,7 @@ const root = path.resolve(__dirname, '..');
 const blogDir = path.join(root, 'src', 'content', 'blog');
 const outFile = path.join(root, 'social', 'robb-from-articles.md');
 
-const SITE = 'https://revhappy.github.io/humanoid-blog/';
+const SITE = 'https://mechafeed.com/';
 
 function parseFrontmatter(raw) {
   const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/);

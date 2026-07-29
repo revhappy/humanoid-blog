@@ -15,7 +15,7 @@ On **July 28, 2026**, the **Federal Communications Commission** updated its **Co
 That is not a press-conference slogan. It is the same regulatory pipe previously used for named telecom gear, and more recently for categories such as foreign-produced routers and certain uncrewed aircraft. For the humanoid beat, it is a structural change in who can put a new robot on a U.S. shipping dock.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/fcc-robots-covered-list.jpg" alt="Humanoid robots related to U.S. import and supply-chain coverage" loading="lazy" />
+  <img src="/images/heroes/fcc-robots-covered-list.jpg" alt="Humanoid robots related to U.S. import and supply-chain coverage" loading="lazy" />
   <figcaption>Context image from Business Insider coverage of the Chinese-robot import crackdown reporting. Source: Business Insider / VCG via Getty (as published on the cited article).</figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ National security agencies, via a White House-convened interagency body, determi
 FCC Chairman **Brendan Carr** welcomed the Executive Branch determinations and said the agency is “acting in lock step with our national security agencies” on critical supply chains.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/fcc-robots-2.jpg" alt="Coverage art for FCC robot and inverter Covered List action" loading="lazy" />
+  <img src="/images/heroes/fcc-robots-2.jpg" alt="Coverage art for FCC robot and inverter Covered List action" loading="lazy" />
   <figcaption>Open-graph still from Nextgov’s report on the FCC Covered List update. Source: Nextgov.</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ In **June 2026**, Moolenaar, **Jay Obernolte** (R-CA), and **Jennifer McClellan*
 Tuesday’s FCC update is **not** the GUARD Act becoming law. It is the executive/agency path delivering a **Covered List** outcome for **new** foreign-produced advanced robots first. Congress can still codify, expand, or reshape the review process — but importers and labs already have a live authorization problem for new SKUs.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/fcc-robots-3.jpg" alt="Utility-scale solar equipment illustrating the parallel inverter Covered List action" loading="lazy" />
+  <img src="/images/heroes/fcc-robots-3.jpg" alt="Utility-scale solar equipment illustrating the parallel inverter Covered List action" loading="lazy" />
   <figcaption>Fox Business used grid/solar infrastructure imagery alongside the inverter half of the same FCC update. Source: Fox Business / Bloomberg via Getty (as published).</figcaption>
 </figure>
 

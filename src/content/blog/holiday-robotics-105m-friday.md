@@ -15,7 +15,7 @@ draft: false
 **Maeil Business**, as summarized by **The AI Insider**, called it the largest Series A for a South Korean startup and the largest single funding round for a Korean humanoid company. **The Robot Report** and Holiday’s own blog confirm the figure and the industrial focus.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/holiday-friday.jpg" alt="Holiday Robotics FRIDAY wheeled humanoid" loading="lazy" />
+  <img src="/images/heroes/holiday-friday.jpg" alt="Holiday Robotics FRIDAY wheeled humanoid" loading="lazy" />
   <figcaption>FRIDAY, Holiday Robotics’ wheeled industrial humanoid. Source: The Robot Report / Holiday Robotics.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Holiday is building software and tooling in-house around what it calls **Vision-
 CEO **Kiyong Song** framed the company around speed to *useful* work, not demo theater: factories need robots that can be put to work quickly. The round pulls in a long list of Korean VCs plus **Goodwater Capital**, with Maeil also naming policy banks among participants. Capital goes to R&D hiring, manufacturing readiness, and U.S. + Korea team growth.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/holiday-tote.jpg" alt="FRIDAY tote transfer demo thumbnail" loading="lazy" />
+  <img src="/images/heroes/holiday-tote.jpg" alt="FRIDAY tote transfer demo thumbnail" loading="lazy" />
   <figcaption>Still from Holiday’s tote-transfer demo video. Source: Holiday Robotics / YouTube.</figcaption>
 </figure>
 

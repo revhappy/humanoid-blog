@@ -1,4 +1,4 @@
-ï»¿# HUMANOID Blog â€” DRY RUN (no publish)
+# Mechafeed — DRY RUN (no publish)
 
 You are testing the scheduled daily pipeline. This is a **DRY RUN**.
 
@@ -12,7 +12,7 @@ You are testing the scheduled daily pipeline. This is a **DRY RUN**.
 ## Steps (complete all)
 
 ### 1. Preflight
-- Confirm cwd is the Humanoid Blog repo
+- Confirm cwd is the Mechafeed repo
 - `git status -sb` and `git pull --rebase origin main` (pull is OK; no commit/push after)
 - Confirm `scripts/run-daily-pipeline.ps1` and `scripts/daily-article-pipeline.md` exist
 - Confirm `grok` is available (already running)
@@ -20,9 +20,9 @@ You are testing the scheduled daily pipeline. This is a **DRY RUN**.
 - Read the last ~80 lines of `src/content/research-log.md`
 
 ### 2. Lead scan (same as production)
-- Try X list: https://x.com/i/lists/1805786050763087967 â€” if inaccessible, say so clearly
+- Try X list: https://x.com/i/lists/1805786050763087967 — if inaccessible, say so clearly
 - Run multiple web searches for humanoid/robotics news (today / this week)
-- Gather 8â€“15 candidate leads with source URLs you actually open
+- Gather 8–15 candidate leads with source URLs you actually open
 
 ### 3. Score & select
 - Check against existing blog posts to avoid duplicates
@@ -33,7 +33,7 @@ You are testing the scheduled daily pipeline. This is a **DRY RUN**.
 Append a section to `src/content/research-log.md`:
 
 ```markdown
-## YYYY-MM-DD â€” DRY RUN (no publish)
+## YYYY-MM-DD — DRY RUN (no publish)
 
 ### Preflight
 - ...
@@ -56,7 +56,7 @@ Append a section to `src/content/research-log.md`:
 
 ### 5. Optional canary (only if one story is rock-solid)
 - At most **one** file: `src/content/blog/dry-run-canary-*.md` with `draft: true`
-- Or skip writing any article and only plan â€” preferred if short on time
+- Or skip writing any article and only plan — preferred if short on time
 - Still no commit/push
 
 ### 6. Final report (in your response)

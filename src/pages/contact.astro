@@ -23,7 +23,7 @@ const nextUrl = new URL(withBase('contact/?sent=1'), siteConfig.origin).href;
   </p>
 
   <form class="contact-form" action={action} method="POST">
-    <input type="hidden" name="_subject" value="HUMANOID contact form" />
+    <input type="hidden" name="_subject" value={`${siteConfig.name} contact form`} />
     <input type="hidden" name="_captcha" value="false" />
     <input type="hidden" name="_template" value="table" />
     <input type="hidden" name="_next" value={nextUrl} />

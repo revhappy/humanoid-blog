@@ -15,7 +15,7 @@ draft: false
 That’s from **Business Insider**’s launch and CEO interview coverage (July 2 and July 9, 2026). The San Francisco startup is **Y Combinator**-backed, founded by former **Apple** engineers **Kaan Dogrusoz** and **Evan Wineland**, and is leaning hard into **laundry** as the first real job.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/weave-isaac-1.jpg" alt="Weave Robotics Isaac 1 home robot" loading="lazy" />
+  <img src="/images/heroes/weave-isaac-1.jpg" alt="Weave Robotics Isaac 1 home robot" loading="lazy" />
   <figcaption>Isaac 1 wheeled home robot. Source: Business Insider / Weave Robotics.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ That’s from **Business Insider**’s launch and CEO interview coverage (July 2
 At **$7,999**, BI notes Isaac undercuts **1X NEO**’s roughly **$20,000** expected price. Launch chatter on X drew millions of views — and the usual “slow” comments. Dogrusoz’s answer: quality first; T-shirt folds that once took up to four minutes are closer to **two** now; the product promise is work done while you’re at work, not a race against a human for the camera.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/weave-isaac-2.jpg" alt="Isaac 1 folding laundry" loading="lazy" />
+  <img src="/images/heroes/weave-isaac-2.jpg" alt="Isaac 1 folding laundry" loading="lazy" />
   <figcaption>Isaac 1 folding a garment in Weave launch imagery. Source: Business Insider / Weave Robotics.</figcaption>
 </figure>
 

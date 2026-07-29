@@ -15,7 +15,7 @@ draft: false
 **Business Insider**’s July 24, 2026 explainer, drawing on the latest earnings call, says Musk offered few details and **tempered expectations** for how quickly production would increase. Gen-3 production is described as beginning **“soon”** in Fremont. Earlier in the year, public coverage had pointed to **late July or August** for limited volume after Model S/X space was cleared — timelines that are now living under a slower-ramp narrative.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/tesla-optimus-line.jpg" alt="Tesla Optimus prototype" loading="lazy" />
+  <img src="/images/heroes/tesla-optimus-line.jpg" alt="Tesla Optimus prototype" loading="lazy" />
   <figcaption>Optimus prototype imagery as used in Business Insider’s July 2026 Optimus explainer. Source: Business Insider / CFOTO/Future Publishing via Getty (as published).</figcaption>
 </figure>
 

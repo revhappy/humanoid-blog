@@ -10,7 +10,7 @@ const blog = defineCollection({
     updatedDate: z.coerce.date().optional(),
     heroImage: z.string().optional(),
     category: z.enum(['Humanoids', 'Robotics', 'AI', 'Research', 'Industry', 'Deals']),
-    author: z.string().default('HUMANOID Staff'),
+    author: z.string().default('Mechafeed Staff'),
     featured: z.boolean().default(false),
     draft: z.boolean().default(false),
     readTime: z.string().optional(),

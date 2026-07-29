@@ -15,8 +15,8 @@ const blogDir = path.join(root, 'src', 'content', 'blog');
 const outDir = path.join(root, 'social');
 const outFile = path.join(outDir, 'tweet-queue.md');
 
-const SITE_ORIGIN = 'https://revhappy.github.io';
-const BASE = '/humanoid-blog/';
+const SITE_ORIGIN = 'https://mechafeed.com';
+const BASE = '/';
 
 function parseFrontmatter(raw) {
   const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/);
@@ -131,7 +131,7 @@ const lines = [
   '',
   '## Automation later (optional)',
   '',
-  '- **Easiest:** point Buffer/Typefully/RSS.app at `https://revhappy.github.io/humanoid-blog/rss.xml`',
+  '- **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`',
   '- **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)',
   '',
   `Generated: ${generatedAt}`,

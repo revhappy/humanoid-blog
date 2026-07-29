@@ -59,7 +59,7 @@ const socialLinks = [
       <!-- Brand Column -->
       <div class="footer__brand">
         <a href={withBase()} class="footer__logo">
-          <span class="footer__logo-text">HUMAN<span class="footer__logo-accent">OID</span></span>
+          <span class="footer__logo-text">MECHA<span class="footer__logo-accent">FEED</span></span>
         </a>
         <p class="footer__desc">
           {siteConfig.description}
@@ -137,11 +137,7 @@ const socialLinks = [
     </div>
 
     <div class="footer__bottom">
-      <p class="footer__copyright">&copy; {year} HUMANOID. All rights reserved.</p>
-      <p class="footer__powered">
-        <span class="footer__powered-dot"></span>
-        Powered by AI-driven journalism
-      </p>
+      <p class="footer__copyright">&copy; {year} {siteConfig.name}. All rights reserved.</p>
     </div>
   </div>
 </footer>
@@ -323,28 +319,6 @@ const socialLinks = [
     color: var(--text-muted);
   }
 
-  .footer__powered {
-    display: flex;
-    align-items: center;
-    gap: var(--space-sm);
-    font-family: var(--font-mono);
-    font-size: 0.7rem;
-    color: var(--text-muted);
-  }
-
-  .footer__powered-dot {
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    background: var(--accent);
-    animation: pulse 2s ease-in-out infinite;
-  }
-
-  @keyframes pulse {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.4; }
-  }
-
   @media (max-width: 900px) {
     .footer__grid {
       grid-template-columns: 1fr 1fr;
@@ -357,8 +331,7 @@ const socialLinks = [
       grid-template-columns: 1fr;
     }
     .footer__bottom {
-      flex-direction: column;
-      gap: var(--space-sm);
+      justify-content: center;
       text-align: center;
     }
   }

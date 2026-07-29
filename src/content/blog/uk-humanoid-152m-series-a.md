@@ -14,12 +14,12 @@ London-based robotics company **Humanoid** (the company, not this blog) announce
 
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/uk-robot.jpg" alt="Humanoid HMND wheeled industrial robot" loading="lazy" />
+  <img src="/images/heroes/uk-robot.jpg" alt="Humanoid HMND wheeled industrial robot" loading="lazy" />
   <figcaption>HMND platform. Source: Humanoid (thehumanoid.ai).</figcaption>
 </figure>
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/uk-hmnd.png" alt="Humanoid Series A announcement graphic" loading="lazy" />
+  <img src="/images/heroes/uk-hmnd.png" alt="Humanoid Series A announcement graphic" loading="lazy" />
   <figcaption>Series A announcement still. Source: Humanoid.</figcaption>
 </figure>
 That is a lot of money for a company that, by its own account and secondary reporting, has not yet shipped a commercial unit at scale. The interesting part is not the unicorn label. It is who showed up with factories and industrial calendars attached.

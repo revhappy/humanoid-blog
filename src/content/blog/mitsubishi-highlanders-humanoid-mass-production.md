@@ -15,7 +15,7 @@ draft: false
 That number comes from Kyodo reporting carried by **The Mainichi** and **Kyodo News** English — not a vague “scale ambition.” The companies also signed a formal MOU on **July 9, 2026**, covering joint development for Mitsubishi plants and mass production of Highlanders products at unused buildings on the Kyoto plant.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/kyodo-mitsubishi.jpg" alt="Mitsubishi Motors CEO Takao Kato and Highlanders CEO Hiroya Masuoka with a humanoid robot" loading="lazy" />
+  <img src="/images/heroes/kyodo-mitsubishi.jpg" alt="Mitsubishi Motors CEO Takao Kato and Highlanders CEO Hiroya Masuoka with a humanoid robot" loading="lazy" />
   <figcaption>Mitsubishi Motors CEO Takao Kato (right) and Highlanders CEO Hiroya Masuoka with a humanoid robot in Tokyo on July 9, 2026. Source: Kyodo / Mainichi.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Parallel tracks, if they hold:
 - **Capital**: Mitsubishi has already invested in Highlanders and says it plans more
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/mitsubishi-mm.png" alt="Mitsubishi Motors and Highlanders MOU announcement visual" loading="lazy" />
+  <img src="/images/heroes/mitsubishi-mm.png" alt="Mitsubishi Motors and Highlanders MOU announcement visual" loading="lazy" />
   <figcaption>Official MOU imagery from Mitsubishi Motors’ July 9, 2026 news release. Source: Mitsubishi Motors.</figcaption>
 </figure>
 

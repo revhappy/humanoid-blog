@@ -14,17 +14,17 @@ Apptronik’s pitch for **Robot Park** is less about a single stage demo and mor
 
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/apptronik-header.jpg" alt="Apptronik Apollo humanoid" loading="lazy" />
+  <img src="/images/heroes/apptronik-header.jpg" alt="Apptronik Apollo humanoid" loading="lazy" />
   <figcaption>Apollo platform still. Source: Apptronik.</figcaption>
 </figure>
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/apptronik-header-v3.jpg" alt="Apptronik website header showing Apollo" loading="lazy" />
+  <img src="/images/heroes/apptronik-header-v3.jpg" alt="Apptronik website header showing Apollo" loading="lazy" />
   <figcaption>Apptronik site header. Source: Apptronik.</figcaption>
 </figure>
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/apptronik-gallery.webp" alt="Apollo humanoid in industrial setting" loading="lazy" />
+  <img src="/images/heroes/apptronik-gallery.webp" alt="Apollo humanoid in industrial setting" loading="lazy" />
   <figcaption>Apollo gallery still. Source: Apptronik.</figcaption>
 </figure>
 Those models sit inside a research partnership with **Google DeepMind** on Gemini Robotics. Apptronik’s line is simple: robots working every day, collecting data, improving with each cycle.

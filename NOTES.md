@@ -1,4 +1,4 @@
-# HUMANOID Blog — Editorial Notes
+# Mechafeed — Editorial Notes
 
 Living notes for anyone writing or publishing here. Keep the look fun, technical, and curious — a budding robotics blog, not a wire service.
 
@@ -139,15 +139,15 @@ This is a **primary daily source** for populating the feed. Scan recent posts fo
 
 Fewer real source photos beats padded stock. Full detail: `AGENTS.md`.
 
-**In body** (base path for GitHub Pages):
+**In body** (root base for mechafeed.com):
 
 ```markdown
-![Alt describing the robot/scene](/humanoid-blog/images/heroes/slug-2.jpg)
+![Alt describing the robot/scene](/images/heroes/slug-2.jpg)
 ```
 
 ```html
 <figure>
-  <img src="/humanoid-blog/images/heroes/slug-2.jpg" alt="..." loading="lazy" />
+  <img src="/images/heroes/slug-2.jpg" alt="..." loading="lazy" />
   <figcaption>What it is. Source: Company press / Outlet.</figcaption>
 </figure>
 ```

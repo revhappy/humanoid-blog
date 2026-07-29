@@ -15,7 +15,7 @@ draft: false
 **The Next Web**, citing **Reuters**, reported the **China Securities Regulatory Commission (CSRC)** sign-off on **July 3, 2026**, with a planned raise of roughly **¥4.2 billion (~$619 million)**. **Caixin Global** reported the same approval path — SSE review opinion plus registration documents accepted — and framed the raise around **R&D and production**.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/unitree-ipo-2.jpg" alt="Unitree humanoid robots performing at an exhibition" loading="lazy" />
+  <img src="/images/heroes/unitree-ipo-2.jpg" alt="Unitree humanoid robots performing at an exhibition" loading="lazy" />
   <figcaption>Unitree humanoids in a staged performance. Source: South China Morning Post.</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Timeline from reporting:
 Unitree started with **quadrupeds** in **2016** and pushed hard into **humanoids**. Its **G1** product page lists a base price **from $13.5K**, with **23–43** joint motors depending on configuration and optional force-control hands on EDU variants.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/unitree-g1-product.jpg" alt="Unitree G1 humanoid robot product render" loading="lazy" />
+  <img src="/images/heroes/unitree-g1-product.jpg" alt="Unitree G1 humanoid robot product render" loading="lazy" />
   <figcaption>Unitree G1 product imagery. Source: Unitree Robotics product page.</figcaption>
 </figure>
 

@@ -1,4 +1,4 @@
-# HUMANOID Blog — Agent Instructions
+# Mechafeed — Agent Instructions
 
 This is an Astro-based blog about humanoid robotics, AI, and intelligent machines. It deploys to Firebase Hosting via GitHub Actions on every push to `main`.
 
@@ -14,7 +14,7 @@ This is an Astro-based blog about humanoid robotics, AI, and intelligent machine
 6. **Publish** — Commit and push to `main` — GitHub Actions auto-deploys
 
 **Site config** (emails, social URLs): `src/lib/site.ts`  
-**RSS** (built every deploy): `/humanoid-blog/rss.xml`
+**RSS** (built every deploy): `/rss.xml`
 
 **On-demand mode:** Run the full pipeline when asked. Homepage hero rotates daily among newest posts (daily rebuild cron in deploy.yml).
 
@@ -43,7 +43,7 @@ draft: false
 - `category` — Must be one of: `Humanoids`, `Robotics`, `AI`, `Research`, `Industry`, `Deals`
 
 ### Optional Fields
-- `author` — Author name (defaults to "HUMANOID Staff")
+- `author` — Author name (defaults to "Mechafeed Staff")
 - `heroImage` — Local path under `images/heroes/…` from a **cited source article** only (never stock/Unsplash)
 - `readTime` — Estimated read time (e.g., "5 min read")
 - `featured` — Set to `true` to make this the hero article on the homepage (only one should be featured at a time)
@@ -92,7 +92,7 @@ Every still must be downloaded from a URL listed in that post’s `## Sources` (
 1. Pull stills from those source pages only  
 2. Save under `public/images/heroes/<slug>.jpg`, `<slug>-2.jpg`, …  
 3. Frontmatter: `heroImage: "images/heroes/<slug>.jpg"`  
-4. In body: `![alt](/humanoid-blog/images/heroes/<slug>-2.jpg)` (include site base)  
+4. In body: `![alt](/images/heroes/<slug>-2.jpg)` (include site base)  
 5. Figcaption credits the source  
 6. Video (from a source URL):
 

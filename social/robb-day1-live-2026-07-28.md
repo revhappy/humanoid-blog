@@ -12,9 +12,9 @@
 |--------|------|
 | **Name** | Robb Harlan |
 | **Handle** | `@robbharlan` or `@robb_harlan` (whatever’s free) |
-| **Bio** | Humanoid robotics, factories, unit economics. Write at HUMANOID. Skeptical of demos that never work a shift. |
+| **Bio** | Humanoid robotics, factories, unit economics. Write at Mechafeed. Skeptical of demos that never work a shift. |
 | **Location** | (optional) |
-| **Link** | `https://revhappy.github.io/humanoid-blog/` |
+| **Link** | `https://mechafeed.com/` |
 | **Pinned (after you have posts)** | Soft-link Agility or 1X piece — take first |
 
 **Don’t put in bio:** AI-powered, thought leader, 🚀, “disrupting.”
@@ -93,14 +93,14 @@ Still not the same as clearing totes for eight hours. Different job, different f
 Public markets are a brutal scoreboard. If a pure-play US humanoid listing actually forces quarterly honesty on unit economics, the whole sector gets a cleaner measuring stick.
 
 Wrote up the Agility numbers and what I’m watching after the ticker:
-https://revhappy.github.io/humanoid-blog/blog/agility-robotics-spac-2-5b/
+https://mechafeed.com/blog/agility-robotics-spac-2-5b/
 ```
 
 **Alternate soft-link (swap if you prefer factories over SPACs):**
 ```
 Factories are where humanoid hype meets torque wrenches. Shipping is the product now.
 
-https://revhappy.github.io/humanoid-blog/blog/1x-neo-factory-hayward/
+https://mechafeed.com/blog/1x-neo-factory-hayward/
 ```
 
 ---
@@ -309,4 +309,4 @@ Neither side wins on vibes alone — but pretending shipment scale doesn’t mat
 **Sources used this session**
 - [Reuters — FCC / Chinese robot import measures](https://www.reuters.com/world/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout-2026-07-28/)
 - X posts linked above (IDs in URLs)
-- HUMANOID articles for soft-link targets (Agility SPAC, 1X Hayward, Tau coverage)
+- Mechafeed articles for soft-link targets (Agility SPAC, 1X Hayward, Tau coverage)

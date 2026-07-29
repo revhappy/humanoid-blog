@@ -1,10 +1,10 @@
 import { defineConfig } from 'astro/config';
 
-// GitHub Pages project site: https://revhappy.github.io/humanoid-blog/
+// Custom domain: https://mechafeed.com
 export default defineConfig({
-  site: 'https://revhappy.github.io',
-  // Trailing slash required so BASE_URL joins cleanly with path segments
-  base: '/humanoid-blog/',
+  site: 'https://mechafeed.com',
+  // Root base for apex/custom domain (must match siteConfig.basePath)
+  base: '/',
   trailingSlash: 'ignore',
   output: 'static',
   build: {

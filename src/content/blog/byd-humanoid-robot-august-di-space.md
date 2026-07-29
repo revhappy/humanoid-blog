@@ -15,7 +15,7 @@ draft: false
 Three days earlier, the WeChat account for Di Space’s **Zhengzhou** venue had already posted a humanoid teaser: “in early August, a new friend wants to meet you,” with copy that promised presence over a spec sheet.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/byd-humanoid-teaser.jpg" alt="BYD Di Space Zhengzhou teaser poster for a humanoid robot" loading="lazy" />
+  <img src="/images/heroes/byd-humanoid-teaser.jpg" alt="BYD Di Space Zhengzhou teaser poster for a humanoid robot" loading="lazy" />
   <figcaption>Teaser poster from BYD’s Di Space Zhengzhou WeChat channel, reported by CnEVPost. Source: CnEVPost.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Confirmed via CnEVPost’s July 28 report:
 The company has been building toward this. A dedicated embodied-AI team under BYD’s **15th Business Division** was reported as early as late **2024**. Executive vice president **Stella Li** said last month she wants **two or three robots in every store** to introduce and demo vehicles — while stressing robots cannot replace the “emotional connection” of human sales staff. She also described an open platform for in-house robots and co-developed machines.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/byd-humanoid-2.jpg" alt="Humanoid robot and robot dog display used in CnEVPost coverage" loading="lazy" />
+  <img src="/images/heroes/byd-humanoid-2.jpg" alt="Humanoid robot and robot dog display used in CnEVPost coverage" loading="lazy" />
   <figcaption>Illustration used with CnEVPost’s confirmation story (Shanghai Auto Show display). Source: CnEVPost.</figcaption>
 </figure>
 

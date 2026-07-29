@@ -14,12 +14,12 @@ draft: false
 
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/1x-factory2.jpg" alt="1X NEO manufacturing process inside the Hayward factory" loading="lazy" />
+  <img src="/images/heroes/1x-factory2.jpg" alt="1X NEO manufacturing process inside the Hayward factory" loading="lazy" />
   <figcaption>Inside the NEO Factory manufacturing process. Source: 1X Technologies.</figcaption>
 </figure>
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/1x-neo-order.jpg" alt="NEO home robot product view" loading="lazy" />
+  <img src="/images/heroes/1x-neo-order.jpg" alt="NEO home robot product view" loading="lazy" />
   <figcaption>NEO product photography from 1X. Source: 1X Technologies.</figcaption>
 </figure>
 This is industry news with a fun punchline. Someone is actually building home humanoids in volume, not only posting balance videos.

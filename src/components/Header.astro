@@ -41,7 +41,7 @@ const searchIndexUrl = withBase('search-index.json');
 <!-- Main header -->
 <header class="header" id="site-header">
   <div class="header__inner container">
-    <a href={withBase()} class="header__logo" aria-label="HUMANOID home">
+    <a href={withBase()} class="header__logo" aria-label={`${siteConfig.name} home`}>
       <span class="header__logo-icon">
         <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
           <rect x="2" y="2" width="24" height="24" rx="4" stroke="currentColor" stroke-width="1.5"/>
@@ -51,7 +51,7 @@ const searchIndexUrl = withBase('search-index.json');
           <line x1="14" y1="4" x2="14" y2="7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
         </svg>
       </span>
-      <span class="header__logo-text">HUMAN<span class="header__logo-accent">OID</span></span>
+      <span class="header__logo-text">MECHA<span class="header__logo-accent">FEED</span></span>
     </a>
 
     <nav class="header__nav" aria-label="Main navigation">
@@ -334,8 +334,8 @@ const searchIndexUrl = withBase('search-index.json');
   .header__logo-text {
     font-family: var(--font-display);
     font-weight: 800;
-    font-size: 1.35rem;
-    letter-spacing: 0.08em;
+    font-size: 1.2rem;
+    letter-spacing: 0.06em;
   }
 
   .header__logo-accent {

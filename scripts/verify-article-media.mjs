@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Pre-publish media verification for HUMANOID blog posts.
+ * Pre-publish media verification for Mechafeed blog posts.
  *
  * Catches: missing files, HTML/error pages saved as "images", tiny/corrupt
  * assets, undersized heroes, and (optionally) quarantines failing posts.
@@ -81,8 +81,10 @@ function parseFrontmatter(raw) {
 function collectBodyImagePaths(body) {
   const paths = new Set();
   const patterns = [
+    /src=["'](\/images\/heroes\/[^"']+)["']/gi,
     /src=["'](\/humanoid-blog\/images\/heroes\/[^"']+)["']/gi,
     /src=["'](images\/heroes\/[^"']+)["']/gi,
+    /!\[[^\]]*\]\((\/images\/heroes\/[^)]+)\)/gi,
     /!\[[^\]]*\]\((\/humanoid-blog\/images\/heroes\/[^)]+)\)/gi,
     /!\[[^\]]*\]\((images\/heroes\/[^)]+)\)/gi,
   ];

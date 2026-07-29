@@ -14,7 +14,7 @@ Sometimes the graph is the story. In June 2026, **Figure AI** CEO **Brett Adcock
 
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/figure-body.jpg" alt="Figure AI humanoid robots on a factory floor" loading="lazy" />
+  <img src="/images/heroes/figure-body.jpg" alt="Figure AI humanoid robots on a factory floor" loading="lazy" />
   <figcaption>Figure robots in production context. Source: India Today / Figure AI coverage.</figcaption>
 </figure>
 India Today’s write-up of that announcement (citing Adcock’s chart) puts approximate shapes on the curves:

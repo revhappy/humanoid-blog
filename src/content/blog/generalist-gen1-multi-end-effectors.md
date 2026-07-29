@@ -13,7 +13,7 @@ draft: false
 **Generalist** is arguing that the path to general robot intelligence runs through **many hands**, not one perfect five-finger design. In a **July 24, 2026** write-up on **The Robot Report**, the company said its **GEN-1** embodied foundation model now supports a broad range of **end effectors** — from multi-finger hands to specialized tools and custom grippers.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/generalist-gen1.jpg" alt="Robot arm with a specialized tool end effector, Generalist campaign art" loading="lazy" />
+  <img src="/images/heroes/generalist-gen1.jpg" alt="Robot arm with a specialized tool end effector, Generalist campaign art" loading="lazy" />
   <figcaption>“Towards Machines with a Thousand Hands” — Generalist featured art on The Robot Report. Source: The Robot Report / Generalist.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ One of the more concrete demos described: mid-rollout, operators **physically sw
 That is the research claim worth pressure-testing: not “we fine-tuned a hand,” but “the policy treats the hand as context.”
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/generalist-gen1-2.jpg" alt="Frame from Generalist GEN-1 multi-hand demonstration video" loading="lazy" />
+  <img src="/images/heroes/generalist-gen1-2.jpg" alt="Frame from Generalist GEN-1 multi-hand demonstration video" loading="lazy" />
   <figcaption>Still from Generalist’s multi-hand demo video hosted by The Robot Report. Source: The Robot Report / Generalist.</figcaption>
 </figure>
 

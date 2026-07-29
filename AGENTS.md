@@ -1,6 +1,6 @@
 # Agent Playbook: Writing & Publishing Articles
 
-This file is the step-by-step guide for any AI agent (Claude Code, Cowork, custom agent) to autonomously research, write, and publish articles to the HUMANOID blog.
+This file is the step-by-step guide for any AI agent (Claude Code, Cowork, custom agent) to autonomously research, write, and publish articles to the Mechafeed blog.
 
 ## The Full Workflow
 
@@ -273,7 +273,7 @@ draft: false
 - `category` — Must be exactly one of: `Humanoids`, `Robotics`, `AI`, `Research`, `Industry`, `Deals`
 
 ### Optional Frontmatter Fields
-- `author` — Defaults to "HUMANOID Staff" in schema; **new posts use `Robb Harlan` or `Shar Hendrix`**
+- `author` — Defaults to "Mechafeed Staff" in schema; **new posts use `Robb Harlan` or `Shar Hendrix`**
 - `heroImage` — Local path under `images/heroes/…` downloaded from a **cited source article** (never stock/Unsplash)
 - `readTime` — e.g., "5 min read" (calculate at ~200 words/minute)
 - `featured` — Set `true` to make homepage hero (only one at a time)
@@ -364,10 +364,10 @@ If a source page has **no usable still**, publish with fewer images — do **not
 5. In-body paths use the **site base** (GitHub Pages):
 
 ```markdown
-![Digit moving totes in a warehouse](/humanoid-blog/images/heroes/agility-digit-2.jpg)
+![Digit moving totes in a warehouse](/images/heroes/agility-digit-2.jpg)
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/agility-digit-3.jpg" alt="Close-up of Digit hands" loading="lazy" />
+  <img src="/images/heroes/agility-digit-3.jpg" alt="Close-up of Digit hands" loading="lazy" />
   <figcaption>Digit at a customer site. Source: Agility Robotics press release.</figcaption>
 </figure>
 ```
@@ -549,7 +549,7 @@ If no article is featured, the most recent by date becomes the hero automaticall
 |---------|----------|
 | Build fails | Check frontmatter — category must match exact enum values |
 | Article doesn't appear | Check `draft: false` and `pubDate` is not in the future |
-| Images broken | Confirm local `images/heroes/…` file exists and path uses `/humanoid-blog/` base in body |
+| Images broken | Confirm local `images/heroes/…` file exists and path uses `/` base in body |
 | Push rejected | Run `git pull --rebase origin main` first |
 | Merge conflict in research-log | Accept both changes, re-commit |
 | Path issues on Windows | Use `node "./node_modules/astro/astro.js"` not `npx astro` |

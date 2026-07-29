@@ -13,7 +13,7 @@ draft: false
 **NEURA Robotics** and **Qualcomm Technologies** put a long-term chip-and-robot partnership on paper. In a **March 9, 2026** announcement from Metzingen and San Diego, the companies said they will co-develop **“Brain + Nervous System”** reference architectures — high-level cognition paired with ultra-low-latency real-time control — using Qualcomm’s **Dragonwing IQ10** robotics processors and NEURA’s full-stack platforms.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/neura-qualcomm.jpg" alt="NEURA and Qualcomm executives on stage with 4NE1 imagery" loading="lazy" />
+  <img src="/images/heroes/neura-qualcomm.jpg" alt="NEURA and Qualcomm executives on stage with 4NE1 imagery" loading="lazy" />
   <figcaption>Partnership announcement stage photo. Source: NEURA Robotics.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ NEURA CEO **David Reger** called the deal a step toward physical AI that is “o
 Humanoids fail when perception is slow or control is jittery. Pairing a production-minded edge AI vendor with a European full-stack humanoid company is a bet that **local inference + real-time control** is the bottleneck, not just prettier demos. NEURA lists robotic arms, mobile robots, service/household robots, and **humanoid platforms** as possible reference systems under the collaboration.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/neura-4ne1.jpg" alt="NEURA 4NE1 humanoid robots in a row" loading="lazy" />
+  <img src="/images/heroes/neura-4ne1.jpg" alt="NEURA 4NE1 humanoid robots in a row" loading="lazy" />
   <figcaption>4NE1 platforms that may serve as reference hardware. Source: NEURA Robotics.</figcaption>
 </figure>
 

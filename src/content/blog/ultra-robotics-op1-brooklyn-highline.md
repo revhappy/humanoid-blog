@@ -15,7 +15,7 @@ Skip the walking robot fantasy for a minute. In Brooklyn’s **Industry City**, 
 That claim comes from **Robotics 24/7**’s July 21, 2026 feature on the campus, which also notes Highline expanded from **27,000 to 60,000 sq ft** and serves **200+** brands. Ultra’s own site sells OP1 as plug-in warehouse automation for packing, sorting, and kitting — up to **24 hours a day**.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/ultra-op1.jpg" alt="Ultra Robotics OP1 Operator industrial robot" loading="lazy" />
+  <img src="/images/heroes/ultra-op1.jpg" alt="Ultra Robotics OP1 Operator industrial robot" loading="lazy" />
   <figcaption>OP1 Operator product imagery. Source: Ultra Robotics.</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ From [ultra.tech](https://www.ultra.tech/):
 Robotics 24/7 and Industry City coverage describe Ultra as **Y Combinator**-backed and a campus neighbor to Highline — the proximity that made live production testing easier than a remote lab.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/highline-brooklyn.jpg" alt="Industry City Brooklyn retail fulfillment hub" loading="lazy" />
+  <img src="/images/heroes/highline-brooklyn.jpg" alt="Industry City Brooklyn retail fulfillment hub" loading="lazy" />
   <figcaption>Industry City campus imagery from Robotics 24/7’s Highline/Ultra feature. Source: Robotics 24/7 / Industry City.</figcaption>
 </figure>
 

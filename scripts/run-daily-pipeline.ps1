@@ -1,7 +1,7 @@
 #Requires -Version 5.1
 <#
 .SYNOPSIS
-  Daily HUMANOID blog article pipeline - launches Grok headless at a fixed clock time.
+  Daily Mechafeed blog article pipeline - launches Grok headless at a fixed clock time.
 
 .DESCRIPTION
   Invoked by Windows Task Scheduler (default: 12:30 PM Pacific).

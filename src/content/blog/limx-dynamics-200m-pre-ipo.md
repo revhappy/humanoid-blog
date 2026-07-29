@@ -15,7 +15,7 @@ draft: false
 Founder **Will Zhang** told reporters, per CNBC: “Listing is a must,” comparing the moment to Chinese EV startups that went public once the tech was “mature enough” — or risked fading.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/limx-nikkei.jpg" alt="LimX Dynamics humanoid robot Oli at Shenzhen headquarters" loading="lazy" />
+  <img src="/images/heroes/limx-nikkei.jpg" alt="LimX Dynamics humanoid robot Oli at Shenzhen headquarters" loading="lazy" />
   <figcaption>LimX’s Oli humanoid at company headquarters in Shenzhen, July 3, 2026. Source: Nikkei Asia / Wataru Suzuki.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ The wider context is a funding spike. CNBC cited industry data provider Xiniu: C
 Company product pages describe **Oli** as a **165 cm**, **31-DoF** full-size general-purpose humanoid with modular end-effectors, quick-swap batteries, depth cameras, and dual compute for motion and perception. CNBC says LimX is aiming at fully autonomous commercial service robots, a multi-year plan to ship **thousands of humanoids to the Middle East**, and deliveries of entertainment-focused **Luna** units to South Korea customers.
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/limx-oli.webp" alt="LimX Oli full-size humanoid robot product imagery" loading="lazy" />
+  <img src="/images/heroes/limx-oli.webp" alt="LimX Oli full-size humanoid robot product imagery" loading="lazy" />
   <figcaption>Oli product still from LimX Dynamics’ official product page. Source: LimX Dynamics.</figcaption>
 </figure>
 

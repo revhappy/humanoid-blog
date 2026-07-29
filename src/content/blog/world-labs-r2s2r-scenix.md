@@ -19,12 +19,12 @@ draft: false
 <p class="embed-caption">Fei-Fei Li and Yunzhu Li with Martin Casado on simulation and robotics. Source: World Labs / YouTube.</p>
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/world-labs-r2s2r.jpg" alt="Diagram of real-to-sim-to-real robot training worlds" loading="lazy" />
+  <img src="/images/heroes/world-labs-r2s2r.jpg" alt="Diagram of real-to-sim-to-real robot training worlds" loading="lazy" />
   <figcaption>R2S2R: one real task expanded into simulated variations. Source: World Labs.</figcaption>
 </figure>
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/world-labs-scenix.jpg" alt="World Labs SceniX acquisition visual" loading="lazy" />
+  <img src="/images/heroes/world-labs-scenix.jpg" alt="World Labs SceniX acquisition visual" loading="lazy" />
   <figcaption>SceniX joins World Labs. Source: World Labs.</figcaption>
 </figure>
 If that holds up outside the blog, it is one of the more practical robotics breakthroughs of the summer.

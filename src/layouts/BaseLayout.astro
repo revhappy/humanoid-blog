@@ -31,7 +31,7 @@ const ogImageUrl = ogImage
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="icon" type="image/svg+xml" href={withBase('favicon.svg')} />
-  <title>{title} | HUMANOID</title>
+  <title>{title} | {siteConfig.name}</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canonicalUrl} />
 
@@ -55,7 +55,7 @@ const ogImageUrl = ogImage
   <link rel="stylesheet" href={withBase('global.css')} />
 
   <!-- RSS Feed (built on every deploy → dist/rss.xml) -->
-  <link rel="alternate" type="application/rss+xml" title="HUMANOID Blog" href={withBase('rss.xml')} />
+  <link rel="alternate" type="application/rss+xml" title={siteConfig.name} href={withBase('rss.xml')} />
 </head>
 <body>
   <Header />

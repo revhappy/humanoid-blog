@@ -14,7 +14,7 @@ Not every humanoid story is about warehouse totes. At **WAIC 2026** in Shanghai,
 
 
 <figure>
-  <img src="/humanoid-blog/images/heroes/aheadform2.jpg" alt="AheadForm expressive humanoid robot head" loading="lazy" />
+  <img src="/images/heroes/aheadform2.jpg" alt="AheadForm expressive humanoid robot head" loading="lazy" />
   <figcaption>AheadForm product photography. Source: AheadForm.</figcaption>
 </figure>
 The company’s pitch is simple and a little wild. While full-body humanoids fight for factory contracts, AheadForm is building **bionic heads** — expressive faces that can sit on a desk, join a character pipeline, or eventually ride a full body — as the interface layer for AI.
