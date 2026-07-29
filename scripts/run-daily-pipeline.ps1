@@ -118,6 +118,34 @@ try {
   if ($null -eq $exitCode) { $exitCode = 0 }
 
   Write-Log "Grok exit code: $exitCode"
+
+  # Post-agent machine gate: catch bad media even if the agent skipped verify
+  Write-Log "Running media verify (today)..."
+  & node ".\scripts\verify-article-media.mjs" --today *>> $LogFile
+  $verifyCode = $LASTEXITCODE
+  if ($null -eq $verifyCode) { $verifyCode = 0 }
+  Write-Log "Media verify exit code: $verifyCode"
+
+  if ($verifyCode -ne 0) {
+    Write-Log "Media verify FAILED - quarantining bad posts (draft: true) and attempting safety commit"
+    & node ".\scripts\verify-article-media.mjs" --today --quarantine *>> $LogFile
+
+    # Stage quarantine edits if any
+    & git add "src/content/blog" 2>$null
+    $pending = & git status --porcelain "src/content/blog"
+    if ($pending) {
+      & git commit -m "Quarantine posts that failed media verify (draft: true)" *>> $LogFile
+      & git push origin main *>> $LogFile
+      Write-Log "Quarantine commit pushed (or attempted)"
+    } else {
+      Write-Log "No draft changes to commit after quarantine (posts may already be draft or verify failed for other reasons)"
+    }
+
+    Write-Log "=== Daily pipeline end (media verify failed) ==="
+    ("error " + $TimeStamp + " media-verify-failed") | Set-Content -LiteralPath $LockFile -Encoding utf8
+    exit 1
+  }
+
   Write-Log "=== Daily pipeline end ==="
 
   if ($exitCode -ne 0) {

@@ -84,29 +84,54 @@ For each selected story:
 1. Fetch **primary** source (company press, blog, product page, filing).
 2. Fetch **≥1 secondary** when available.
 3. Download **source-page images only** into `public/images/heroes/` (hero + ≥1 body still when available). Never stock/Unsplash.
-4. Embed official video when a cited source has one.
-5. Create `src/content/blog/<kebab-slug>.md` with full frontmatter:
+4. **VISION GATE (mandatory per still):** After each download, open the local file with the image/read tool and confirm the pixels match the story (robot, product, facility, named exec from this source). Reject food, memes, ads, stock lifestyle, generic logos-only, or unrelated products. If wrong, delete the file and re-fetch from a better source URL — never publish a mismatched still.
+5. Embed official video when a cited source has one.
+6. Create `src/content/blog/<kebab-slug>.md` with full frontmatter:
    - `pubDate`: **today** (YYYY-MM-DD, Pacific date)
    - `category`: one of Humanoids | Robotics | AI | Research | Industry | Deals
    - `author`: alternate **Robb Harlan** and **Shar Hendrix** across the batch for variety (pick the better fit per story)
    - `draft: false`
    - `featured: false` (do not steal homepage feature unless no posts exist)
-6. End every article with `## A Human's Take` then visible `## Sources` (≥2 real URLs you fetched).
-7. Body images use site base: `/humanoid-blog/images/heroes/...`
+7. End every article with `## A Human's Take` then visible `## Sources` (≥2 real URLs you fetched).
+8. Body images use site base: `/humanoid-blog/images/heroes/...`
 
-### 5. Social + build check
+### 5. Pre-publish verification (HARD GATE — do this before any commit)
+
+**Do not commit or push until both gates pass.**
+
+#### 5a. Machine gate (required)
+
+```bash
+npm run verify-media:today
+```
+
+- Exit code **must be 0**.
+- This checks: file exists, real image magic bytes (not HTML/JSON), minimum size, minimum dimensions, and flags identical hero bytes across posts.
+- On failure: fix or replace the bad image(s), or set that post `draft: true`, then re-run until clean.
+- Never ignore errors to hit the article quota.
+
+#### 5b. Vision gate (required)
+
+For **every** hero and in-body still written this run:
+
+1. Open the local image file (multimodal read).
+2. Confirm it depicts the **correct subject** for that article (this robot/product/site — not ads, food, unrelated gadgets, stock filler).
+3. If wrong: delete, re-download from a cited source, re-verify, or remove the image and drop the post to `draft: true` if no good still exists.
+
+#### 5c. Social + build
 
 - Run `npm run tweets` (and `npm run robb-x` if useful) so social queues include new posts.
 - Optionally: `node "./node_modules/astro/astro.js" build` — fix frontmatter if build fails.
 - If build fails on one post, fix or set that post `draft: true` rather than shipping a broken site.
 
-### 6. Publish
+### 6. Publish (only after Step 5 passes)
 
 ```bash
+npm run verify-media:today
 git pull --rebase origin main
 git add src/content/blog/ src/content/research-log.md public/images/heroes/ social/
 # Also stage automation setup if still untracked/modified (scripts/, AGENTS.md, .gitignore)
-git add scripts/daily-article-pipeline.md scripts/run-daily-pipeline.ps1 scripts/daily-pipeline-dry-run.md AGENTS.md .gitignore 2>/dev/null || true
+git add scripts/ AGENTS.md .gitignore package.json 2>/dev/null || true
 git status
 git commit -m "Daily pipeline: N articles (YYYY-MM-DD)"
 git push origin main
@@ -122,6 +147,8 @@ git push origin main
 - Articles published (titles + slugs)
 - Skipped candidates
 - X list accessible? Y/N
+- Media verify: pass/fail + any quarantined drafts
+- Vision gate: confirmed stills for each published slug
 - Any failures (images, build, push)
 
 ## Absolute bans

@@ -11,7 +11,7 @@ Lead Scan (X + Web) → Log Findings → Select Best Story → Deep Research (pr
 **Mode:** On-demand **and** scheduled daily automation.
 
 - **On-demand:** When the user asks to research/write/publish, run the full pipeline end-to-end.
-- **Scheduled (Windows):** Task **`HumanoidBlog-DailyArticles`** runs daily at **12:30 PM Pacific** via `scripts/run-daily-pipeline.ps1`, which launches Grok headless with `scripts/daily-article-pipeline.md`. Target **8–10** articles when sources support it; never pad or invent to hit quota. Auto-commits and pushes to `main` when the run produces new posts.
+- **Scheduled (Windows):** Task **`HumanoidBlog-DailyArticles`** runs daily at **12:30 PM Pacific** via `scripts/run-daily-pipeline.ps1`, which launches Grok headless with `scripts/daily-article-pipeline.md`. Target **8–10** articles when sources support it; never pad or invent to hit quota. **Before publish:** agent vision-checks stills + `npm run verify-media:today`; the wrapper re-runs verify after Grok and quarantines (`draft: true`) any post that still fails. Auto-commits and pushes to `main` when the run produces clean posts.
 - Disable schedule: Windows Task Scheduler → disable `HumanoidBlog-DailyArticles`, or stop invoking the script.
 - Manual run: `powershell -File scripts/run-daily-pipeline.ps1` (add `-Force` to re-run the same day).
 
@@ -408,6 +408,8 @@ Before committing, verify every item:
 - [ ] I did NOT pad the article with training data knowledge beyond what the sources say
 - [ ] If the X list was inaccessible, I told the user before writing
 - [ ] **Every image** (hero + body) was taken from a **cited source article URL** — no stock/Unsplash/recycled unrelated photos
+- [ ] **VISION CHECK:** opened every still and confirmed pixels match the story (no ads/food/wrong product — Gene.01 sandwich class of bug)
+- [ ] **Machine gate:** `npm run verify-media:today` (or `--slug <post>`) exits 0 before commit
 - [ ] **Hero + ≥1 in-body image** when sources provide stills (prefer 2–3 total)
 - [ ] **Video embedded** when an official/demo clip exists on a source; caption + Sources entry included
 - [ ] Figcaptions credit the source outlet/company
@@ -418,6 +420,21 @@ Before committing, verify every item:
 - [ ] No placeholder text or TODOs remain
 - [ ] Research log (`src/content/research-log.md`) is updated
 - [ ] Regenerated X drafts: `npm run tweets` (or relies on `prebuild`) so `social/tweet-queue.md` includes the new post
+
+### Media verification (required before publish)
+
+```bash
+# Today's new posts only (daily cron / full pipeline)
+npm run verify-media:today
+
+# One post
+npm run verify-media -- --slug generative-bionics-gene01
+
+# Entire archive
+npm run verify-media -- --all
+```
+
+Fails on missing files, HTML/JSON saved as images, tiny downloads, undersized heroes, and corrupt formats. The scheduled job also re-runs this after the agent and can **quarantine** (`draft: true`) posts that still fail. Vision subject-check remains an agent step — the script cannot tell a sandwich from a robot.
 
 ### Quick Build Test (recommended)
 ```bash

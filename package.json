@@ -10,7 +10,9 @@
     "deploy": "npm run build && firebase deploy",
     "tweets": "node scripts/generate-tweet-queue.mjs",
     "robb-x": "node scripts/draft-robb-x.mjs",
-    "social": "node scripts/draft-robb-x.mjs && node scripts/generate-tweet-queue.mjs"
+    "social": "node scripts/draft-robb-x.mjs && node scripts/generate-tweet-queue.mjs",
+    "verify-media": "node scripts/verify-article-media.mjs",
+    "verify-media:today": "node scripts/verify-article-media.mjs --today"
   },
   "dependencies": {
     "astro": "^5.7.10"
