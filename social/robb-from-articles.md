@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-07-29T00:56:19.713Z
+Generated: 2026-07-29T06:52:34.906Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -141,6 +141,28 @@ https://revhappy.github.io/humanoid-blog/blog/aheadform-origin-f1-waic/
 
 ---
 
+## AI² Robotics Raises ~$735M at ~$2.8B for Wheeled Humanoids
+
+- Author on blog: Shar Hendrix
+- Category: Industry
+- Article: https://revhappy.github.io/humanoid-blog/blog/ai2-robotics-735m-wheeled-humanoids/
+
+### SOLO (no link)
+
+```
+I’m excited when capital follows form factors that match the job.  $735M at ~$2.
+```
+
+### SOFT-LINK variant
+
+```
+I’m excited when capital follows form factors that match the job.  $735M at ~$2.
+
+https://revhappy.github.io/humanoid-blog/blog/ai2-robotics-735m-wheeled-humanoids/
+```
+
+---
+
 ## Apptronik’s Robot Park Turns Apollo Into a Data Machine
 
 - Author on blog: Shar Hendrix
@@ -181,6 +203,28 @@ $1. 7B buys hiring, acquisitions, and runway — not proof a “wheelbase for ro
 $1. 7B buys hiring, acquisitions, and runway — not proof a “wheelbase for robots” works.
 
 https://revhappy.github.io/humanoid-blog/blog/atoms-kalanick-1-7b-a16z/
+```
+
+---
+
+## BYD Confirms August Humanoid Debut at Di Space Venues
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://revhappy.github.io/humanoid-blog/blog/byd-humanoid-robot-august-di-space/
+
+### SOLO (no link)
+
+```
+I’m watching the store use case more than the sci-fi pitch.  “Two or three robots per showroom” is a deployment problem — reliability, safety, content, and who owns the fall-down video on social media.
+```
+
+### SOFT-LINK variant
+
+```
+I’m watching the store use case more than the sci-fi pitch.  “Two or three robots per showroom” is a deployment problem — reliability, safety, content, and who owns the fall-down video on social media…
+
+https://revhappy.github.io/humanoid-blog/blog/byd-humanoid-robot-august-di-space/
 ```
 
 ---
@@ -361,6 +405,28 @@ https://revhappy.github.io/humanoid-blog/blog/gritt-32m-solar-construction-robot
 
 ---
 
+## Holiday Robotics Raises $105M for FRIDAY, a 64-DoF Factory Humanoid
+
+- Author on blog: Shar Hendrix
+- Category: Industry
+- Article: https://revhappy.github.io/humanoid-blog/blog/holiday-robotics-105m-friday/
+
+### SOLO (no link)
+
+```
+I’m so here for the hand-first industrial pitch.  Forty DoF in the hands is a receipt, not a vibe.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for the hand-first industrial pitch.  Forty DoF in the hands is a receipt, not a vibe.
+
+https://revhappy.github.io/humanoid-blog/blog/holiday-robotics-105m-friday/
+```
+
+---
+
 ## Hyundai Moves to Own Boston Dynamics Outright
 
 - Author on blog: Robb Harlan
@@ -405,6 +471,50 @@ https://revhappy.github.io/humanoid-blog/blog/lerobot-humanoid-open-source-2500/
 
 ---
 
+## LimX Dynamics Raises $200M Pre-IPO at About $2.2B Valuation
+
+- Author on blog: Robb Harlan
+- Category: Industry
+- Article: https://revhappy.github.io/humanoid-blog/blog/limx-dynamics-200m-pre-ipo/
+
+### SOLO (no link)
+
+```
+Pre-IPO at $2B+ with Middle East and Korea shipment talk is a scale bet, not a lab bet.  I’ll believe the autonomy pitch when deployment data is public; until then, the hard news is the raise, the valuation, and the listing process.
+```
+
+### SOFT-LINK variant
+
+```
+Pre-IPO at $2B+ with Middle East and Korea shipment talk is a scale bet, not a lab bet.  I’ll believe the autonomy pitch when deployment data is public; until then, the hard news is the raise, the val…
+
+https://revhappy.github.io/humanoid-blog/blog/limx-dynamics-200m-pre-ipo/
+```
+
+---
+
+## Mitsubishi Motors Targets 1,000 Humanoids a Month With Highlanders
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://revhappy.github.io/humanoid-blog/blog/mitsubishi-highlanders-humanoid-mass-production/
+
+### SOLO (no link)
+
+```
+I care less about the MOU language and more about the Kyoto engine-line pilot.  If those machines stay on a real shift and the 2027 production start holds, this is one of the cleaner automaker–startup manufacturing stories in the beat: customer, factory, and builder in…
+```
+
+### SOFT-LINK variant
+
+```
+I care less about the MOU language and more about the Kyoto engine-line pilot.  If those machines stay on a real shift and the 2027 production start holds, this is one of the cleaner automaker–startup…
+
+https://revhappy.github.io/humanoid-blog/blog/mitsubishi-highlanders-humanoid-mass-production/
+```
+
+---
+
 ## Proception Ships Robot Hands After $11M Seed and a Tesla Suit
 
 - Author on blog: Shar Hendrix
@@ -423,6 +533,28 @@ Full-body demos get the views; hands decide whether a humanoid can load a dishwa
 Full-body demos get the views; hands decide whether a humanoid can load a dishwasher without becoming a meme.  Proception is a classic small-team bet: own the hard subsystem, sell to everyone else.
 
 https://revhappy.github.io/humanoid-blog/blog/proception-11m-robot-hands/
+```
+
+---
+
+## Sunday’s ACT-2: Memo Hits 99.1% Laundry Folds in Unseen Homes
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://revhappy.github.io/humanoid-blog/blog/sunday-robotics-act-2-memo-laundry/
+
+### SOLO (no link)
+
+```
+I love that they published error bars and a garment table.  That’s still self-graded homework — but it’s more honest than a silent success reel.
+```
+
+### SOFT-LINK variant
+
+```
+I love that they published error bars and a garment table.  That’s still self-graded homework — but it’s more honest than a silent success reel.
+
+https://revhappy.github.io/humanoid-blog/blog/sunday-robotics-act-2-memo-laundry/
 ```
 
 ---
@@ -449,6 +581,28 @@ https://revhappy.github.io/humanoid-blog/blog/tau-robotics-30-hour-sf-cleaning/
 
 ---
 
+## Tesla Shows Optimus Fremont Line as Musk Tempers the Ramp
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://revhappy.github.io/humanoid-blog/blog/tesla-optimus-fremont-production-temper/
+
+### SOLO (no link)
+
+```
+Photos of a line are not a production rate.  The useful sentence from this earnings cycle is the supply-chain one: if there is no mature BOM, the million-unit architecture is a factory *shape*, not a 2026 output plan.
+```
+
+### SOFT-LINK variant
+
+```
+Photos of a line are not a production rate.  The useful sentence from this earnings cycle is the supply-chain one: if there is no mature BOM, the million-unit architecture is a factory *shape*, not a …
+
+https://revhappy.github.io/humanoid-blog/blog/tesla-optimus-fremont-production-temper/
+```
+
+---
+
 ## UK Startup Humanoid Hits $1.35B on a $152M Series A
 
 - Author on blog: Robb Harlan
@@ -471,6 +625,28 @@ https://revhappy.github.io/humanoid-blog/blog/uk-humanoid-152m-series-a/
 
 ---
 
+## Ultra’s OP1 Fills Up to 30% of Orders at a Brooklyn 3PL
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://revhappy.github.io/humanoid-blog/blog/ultra-robotics-op1-brooklyn-highline/
+
+### SOLO (no link)
+
+```
+I will keep calling OP1 what it is: a stationary dual-arm coworker, not a walking humanoid.  That’s a feature.
+```
+
+### SOFT-LINK variant
+
+```
+I will keep calling OP1 what it is: a stationary dual-arm coworker, not a walking humanoid.  That’s a feature.
+
+https://revhappy.github.io/humanoid-blog/blog/ultra-robotics-op1-brooklyn-highline/
+```
+
+---
+
 ## Walden Robotics Leaves Stealth With $300M and a Toyota Plant Job
 
 - Author on blog: Robb Harlan
@@ -489,6 +665,28 @@ I like the form-factor honesty.  If your customer is a car plant, wheels plus st
 I like the form-factor honesty.  If your customer is a car plant, wheels plus standards maturity beat a backflip every time.
 
 https://revhappy.github.io/humanoid-blog/blog/walden-robotics-300m-stealth/
+```
+
+---
+
+## Weave’s Isaac 1: $7,999 Wheeled Home Robot Aims for Fall Ship
+
+- Author on blog: Shar Hendrix
+- Category: Deals
+- Article: https://revhappy.github.io/humanoid-blog/blog/weave-robotics-isaac-1-home-robot/
+
+### SOLO (no link)
+
+```
+I’m here for the clear sticker price and the wheels.  Eight grand is still not impulse-buy territory, but it’s a number people can argue about at a dinner table.
+```
+
+### SOFT-LINK variant
+
+```
+I’m here for the clear sticker price and the wheels.  Eight grand is still not impulse-buy territory, but it’s a number people can argue about at a dinner table.
+
+https://revhappy.github.io/humanoid-blog/blog/weave-robotics-isaac-1-home-robot/
 ```
 
 ---

@@ -14,8 +14,8 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://revhappy.github.io/humanoid-blog/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-07-29T00:56:20.274Z
-Posts: 23
+Generated: 2026-07-29T06:52:21.614Z
+Posts: 32
 
 ---
 
@@ -145,6 +145,25 @@ https://revhappy.github.io/humanoid-blog/blog/aheadform-origin-f1-waic/
 
 ---
 
+## AI² Robotics Raises ~$735M at ~$2.8B for Wheeled Humanoids
+
+- **Slug:** `ai2-robotics-735m-wheeled-humanoids`
+- **Date:** 2026-07-28
+- **Category:** Industry
+- **Article:** https://revhappy.github.io/humanoid-blog/blog/ai2-robotics-735m-wheeled-humanoids/
+- **Chars:** 161/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=AI%C2%B2%20Robotics%20Raises%20~%24735M%20at%20~%242.8B%20for%20Wheeled%20Humanoids%0A%0Ahttps%3A%2F%2Frevhappy.github.io%2Fhumanoid-blog%2Fblog%2Fai2-robotics-735m-wheeled-humanoids%2F%0A%0A%23RoboticsIndustry)
+
+```
+AI² Robotics Raises ~$735M at ~$2.8B for Wheeled Humanoids
+
+https://revhappy.github.io/humanoid-blog/blog/ai2-robotics-735m-wheeled-humanoids/
+
+#RoboticsIndustry
+```
+
+---
+
 ## Apptronik’s Robot Park Turns Apollo Into a Data Machine
 
 - **Slug:** `apptronik-robot-park-apollo-2`
@@ -183,6 +202,25 @@ The Cloud Kitchens / Pronto stack rebranded as Atoms brings in Bain, Fifth Wall,
 https://revhappy.github.io/humanoid-blog/blog/atoms-kalanick-1-7b-a16z/
 
 #RoboticsIndustry #Humanoids
+```
+
+---
+
+## BYD Confirms August Humanoid Debut at Di Space Venues
+
+- **Slug:** `byd-humanoid-robot-august-di-space`
+- **Date:** 2026-07-28
+- **Category:** Humanoids
+- **Article:** https://revhappy.github.io/humanoid-blog/blog/byd-humanoid-robot-august-di-space/
+- **Chars:** 153/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=BYD%20Confirms%20August%20Humanoid%20Debut%20at%20Di%20Space%20Venues%0A%0Ahttps%3A%2F%2Frevhappy.github.io%2Fhumanoid-blog%2Fblog%2Fbyd-humanoid-robot-august-di-space%2F%0A%0A%23HumanoidRobots)
+
+```
+BYD Confirms August Humanoid Debut at Di Space Venues
+
+https://revhappy.github.io/humanoid-blog/blog/byd-humanoid-robot-august-di-space/
+
+#HumanoidRobots
 ```
 
 ---
@@ -349,6 +387,25 @@ https://revhappy.github.io/humanoid-blog/blog/gritt-32m-solar-construction-robot
 
 ---
 
+## Holiday Robotics Raises $105M for FRIDAY, a 64-DoF Factory Humanoid
+
+- **Slug:** `holiday-robotics-105m-friday`
+- **Date:** 2026-07-28
+- **Category:** Industry
+- **Article:** https://revhappy.github.io/humanoid-blog/blog/holiday-robotics-105m-friday/
+- **Chars:** 163/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Holiday%20Robotics%20Raises%20%24105M%20for%20FRIDAY%2C%20a%2064-DoF%20Factory%20Humanoid%0A%0Ahttps%3A%2F%2Frevhappy.github.io%2Fhumanoid-blog%2Fblog%2Fholiday-robotics-105m-friday%2F%0A%0A%23RoboticsIndustry)
+
+```
+Holiday Robotics Raises $105M for FRIDAY, a 64-DoF Factory Humanoid
+
+https://revhappy.github.io/humanoid-blog/blog/holiday-robotics-105m-friday/
+
+#RoboticsIndustry
+```
+
+---
+
 ## Hyundai Moves to Own Boston Dynamics Outright
 
 - **Slug:** `hyundai-full-ownership-boston-dynamics`
@@ -387,6 +444,44 @@ https://revhappy.github.io/humanoid-blog/blog/lerobot-humanoid-open-source-2500/
 
 ---
 
+## LimX Dynamics Raises $200M Pre-IPO at About $2.2B Valuation
+
+- **Slug:** `limx-dynamics-200m-pre-ipo`
+- **Date:** 2026-07-28
+- **Category:** Industry
+- **Article:** https://revhappy.github.io/humanoid-blog/blog/limx-dynamics-200m-pre-ipo/
+- **Chars:** 153/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=LimX%20Dynamics%20Raises%20%24200M%20Pre-IPO%20at%20About%20%242.2B%20Valuation%0A%0Ahttps%3A%2F%2Frevhappy.github.io%2Fhumanoid-blog%2Fblog%2Flimx-dynamics-200m-pre-ipo%2F%0A%0A%23RoboticsIndustry)
+
+```
+LimX Dynamics Raises $200M Pre-IPO at About $2.2B Valuation
+
+https://revhappy.github.io/humanoid-blog/blog/limx-dynamics-200m-pre-ipo/
+
+#RoboticsIndustry
+```
+
+---
+
+## Mitsubishi Motors Targets 1,000 Humanoids a Month With Highlanders
+
+- **Slug:** `mitsubishi-highlanders-humanoid-mass-production`
+- **Date:** 2026-07-28
+- **Category:** Humanoids
+- **Article:** https://revhappy.github.io/humanoid-blog/blog/mitsubishi-highlanders-humanoid-mass-production/
+- **Chars:** 179/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Mitsubishi%20Motors%20Targets%201%2C000%20Humanoids%20a%20Month%20With%20Highlanders%0A%0Ahttps%3A%2F%2Frevhappy.github.io%2Fhumanoid-blog%2Fblog%2Fmitsubishi-highlanders-humanoid-mass-production%2F%0A%0A%23HumanoidRobots)
+
+```
+Mitsubishi Motors Targets 1,000 Humanoids a Month With Highlanders
+
+https://revhappy.github.io/humanoid-blog/blog/mitsubishi-highlanders-humanoid-mass-production/
+
+#HumanoidRobots
+```
+
+---
+
 ## Proception Ships Robot Hands After $11M Seed and a Tesla Suit
 
 - **Slug:** `proception-11m-robot-hands`
@@ -408,6 +503,25 @@ https://revhappy.github.io/humanoid-blog/blog/proception-11m-robot-hands/
 
 ---
 
+## Sunday’s ACT-2: Memo Hits 99.1% Laundry Folds in Unseen Homes
+
+- **Slug:** `sunday-robotics-act-2-memo-laundry`
+- **Date:** 2026-07-28
+- **Category:** AI
+- **Article:** https://revhappy.github.io/humanoid-blog/blog/sunday-robotics-act-2-memo-laundry/
+- **Chars:** 149/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Sunday%E2%80%99s%20ACT-2%3A%20Memo%20Hits%2099.1%25%20Laundry%20Folds%20in%20Unseen%20Homes%0A%0Ahttps%3A%2F%2Frevhappy.github.io%2Fhumanoid-blog%2Fblog%2Fsunday-robotics-act-2-memo-laundry%2F%0A%0A%23AI)
+
+```
+Sunday’s ACT-2: Memo Hits 99.1% Laundry Folds in Unseen Homes
+
+https://revhappy.github.io/humanoid-blog/blog/sunday-robotics-act-2-memo-laundry/
+
+#AI
+```
+
+---
+
 ## Tau Robotics Puts Humanoid Cleaners on SF Call at $30/Hour
 
 - **Slug:** `tau-robotics-30-hour-sf-cleaning`
@@ -423,6 +537,25 @@ Tau Robotics Puts Humanoid Cleaners on SF Call at $30/Hour
 https://revhappy.github.io/humanoid-blog/blog/tau-robotics-30-hour-sf-cleaning/
 
 #Robotics
+```
+
+---
+
+## Tesla Shows Optimus Fremont Line as Musk Tempers the Ramp
+
+- **Slug:** `tesla-optimus-fremont-production-temper`
+- **Date:** 2026-07-28
+- **Category:** Humanoids
+- **Article:** https://revhappy.github.io/humanoid-blog/blog/tesla-optimus-fremont-production-temper/
+- **Chars:** 162/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Tesla%20Shows%20Optimus%20Fremont%20Line%20as%20Musk%20Tempers%20the%20Ramp%0A%0Ahttps%3A%2F%2Frevhappy.github.io%2Fhumanoid-blog%2Fblog%2Ftesla-optimus-fremont-production-temper%2F%0A%0A%23HumanoidRobots)
+
+```
+Tesla Shows Optimus Fremont Line as Musk Tempers the Ramp
+
+https://revhappy.github.io/humanoid-blog/blog/tesla-optimus-fremont-production-temper/
+
+#HumanoidRobots
 ```
 
 ---
@@ -448,6 +581,25 @@ https://revhappy.github.io/humanoid-blog/blog/uk-humanoid-152m-series-a/
 
 ---
 
+## Ultra’s OP1 Fills Up to 30% of Orders at a Brooklyn 3PL
+
+- **Slug:** `ultra-robotics-op1-brooklyn-highline`
+- **Date:** 2026-07-28
+- **Category:** Robotics
+- **Article:** https://revhappy.github.io/humanoid-blog/blog/ultra-robotics-op1-brooklyn-highline/
+- **Chars:** 151/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Ultra%E2%80%99s%20OP1%20Fills%20Up%20to%2030%25%20of%20Orders%20at%20a%20Brooklyn%203PL%0A%0Ahttps%3A%2F%2Frevhappy.github.io%2Fhumanoid-blog%2Fblog%2Fultra-robotics-op1-brooklyn-highline%2F%0A%0A%23Robotics)
+
+```
+Ultra’s OP1 Fills Up to 30% of Orders at a Brooklyn 3PL
+
+https://revhappy.github.io/humanoid-blog/blog/ultra-robotics-op1-brooklyn-highline/
+
+#Robotics
+```
+
+---
+
 ## Walden Robotics Leaves Stealth With $300M and a Toyota Plant Job
 
 - **Slug:** `walden-robotics-300m-stealth`
@@ -463,6 +615,25 @@ Walden Robotics Leaves Stealth With $300M and a Toyota Plant Job
 https://revhappy.github.io/humanoid-blog/blog/walden-robotics-300m-stealth/
 
 #RoboticsIndustry
+```
+
+---
+
+## Weave’s Isaac 1: $7,999 Wheeled Home Robot Aims for Fall Ship
+
+- **Slug:** `weave-robotics-isaac-1-home-robot`
+- **Date:** 2026-07-28
+- **Category:** Deals
+- **Article:** https://revhappy.github.io/humanoid-blog/blog/weave-robotics-isaac-1-home-robot/
+- **Chars:** 154/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Weave%E2%80%99s%20Isaac%201%3A%20%247%2C999%20Wheeled%20Home%20Robot%20Aims%20for%20Fall%20Ship%0A%0Ahttps%3A%2F%2Frevhappy.github.io%2Fhumanoid-blog%2Fblog%2Fweave-robotics-isaac-1-home-robot%2F%0A%0A%23Robotics)
+
+```
+Weave’s Isaac 1: $7,999 Wheeled Home Robot Aims for Fall Ship
+
+https://revhappy.github.io/humanoid-blog/blog/weave-robotics-isaac-1-home-robot/
+
+#Robotics
 ```
 
 ---

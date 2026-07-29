@@ -201,3 +201,137 @@ List timeline via keyword search is noisy (replies/ads mixed in). Used semantic/
 - Official FCC scope is **foreign-produced** advanced robotic devices (humanoids/quadrupeds), not China-only text — Reuters commercial framing is China/Unitree
 - New models / equipment authorization; existing authorized models and consumer-owned devices not auto-banned per FCC fact sheet
 - X list still login-walled for agents; live X chatter used for distribution drafts only
+## 2026-07-28 — DRY RUN (no publish)
+
+### Preflight
+- CWD: `C:\Users\Admin\Desktop\Sites & Blogs\Humanoid Blog` (repo root OK)
+- Branch: `main...origin/main`
+- Local dirty tree: `M .gitignore`, `M AGENTS.md`; untracked `scripts/daily-article-pipeline.md`, `scripts/daily-pipeline-dry-run.md`, `scripts/run-daily-pipeline.ps1`
+- `git pull --rebase origin main`: **FAILED** — unstaged changes block rebase (blocker for real job unless stash/commit first)
+- Scripts present: `scripts/run-daily-pipeline.ps1` = True; `scripts/daily-article-pipeline.md` = True
+- `grok` available: `0.2.114` at `C:\Users\Admin\.grok\bin\grok.exe`
+- Blog posts in `src/content/blog/`: **23** files
+- Research log read (tail ~80 lines): last production entries 2026-07-28 batches + FCC Covered List (Robb)
+
+### X List Scan
+- Primary list URL: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — keyword list stream returns mostly reply-noise and low-signal chatter; not a clean chronological "list feed" of curated robotics posts. Semantic/keyword X search + web verification used instead (same pattern as prior 2026-07-28 batches).
+- Owner lists page (`https://x.com/robbs2k/lists`) treated as login-walled per prior agent notes; not relied on as primary.
+- Notable list-adjacent / semantic leads (leads only):
+  - UK **Humanoid** $152M / $1.35B unicorn + Bosch manufacturing bet (already covered: `uk-humanoid-152m-series-a.md`)
+  - July funding stack chatter: AI² Robotics ~$735M, Walden $300M, LimX ~$200M, Humanoid $152M, Holiday ~$103–105M, Zeroth ~$74M
+  - Mitsubishi humanoid mass-production partnership chatter
+  - BYD first humanoid teaser / August debut
+  - Humanoid Daily #5 (Koetsier): BYD, Hyundai Atlas actuators, Mitsubishi, EngineAI, Enigma (Enigma already covered)
+  - Ultra Robotics OP1 live warehouse claims (Brooklyn)
+  - D-Robotics / Hengbot **Sirius** programmable dog (not humanoid; skip for main queue)
+
+### Web Search Findings
+1. **[CANDIDATE]** Mitsubishi Motors × Highlanders humanoid mass production (1,000/month by end-2027; Kyoto engine line data) — https://english.kyodonews.net/articles/-/80715 — https://mainichi.jp/english/articles/20260726/p2g/00m/0bu/002000c — CEO Kato "leadoff hitter" quote; stills of robot + execs
+2. **[CANDIDATE]** BYD confirms August humanoid unveil at Di Space (China Securities Journal via CnEVPost) — https://cnevpost.com/2026/07/28/byd-confirms-plan-humanoid-robot-aug/ — teaser prior: https://cnevpost.com/2026/07/26/byd-may-unveil-humanoid-robot-aug/ — Stella Li store-robot goal; media yes (teaser poster; secondary stills)
+3. **[CANDIDATE]** Holiday Robotics $105M Series A for FRIDAY wheeled industrial humanoid (Seoul; 64 DoF, hands focus) — https://www.therobotreport.com/holiday-robotics-raises-105m-wheeled-humanoid-friday/ — company: https://holiday-robotics.com/ — stills yes; video TBD on company site
+4. **[CANDIDATE]** LimX Dynamics ~$200M Pre-IPO (~$2.21B val per CNBC; Hong Kong IPO prep) — primary: https://www.limxdynamics.com/en/news/BK000064 — secondary: https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html — stills yes (CNBC office photo)
+5. **[CANDIDATE]** Tesla Optimus: Fremont Gen-3 line photos + earnings temper / slow supply chain ramp — https://www.businessinsider.com/everything-we-know-about-teslas-optimus-humanoid-robot-2026-7 — Tesla AI page https://www.tesla.com/AI — stills yes (Tesla production line photos via BI); no official Gen-3 reveal video
+6. **[CANDIDATE]** AI² Robotics ~$735M financing / ~$2.8–3B valuation wheeled humanoids — https://www.therobotreport.com/ai%C2%B2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/ — largest China humanoid round narrative; stills claimed on TRR; need company primary if available
+7. **[CANDIDATE]** Sunday Robotics Memo ACT-2: >99% laundry fold success in unfamiliar homes; fall beta — https://www.businessinsider.com/sunday-robotics-memo-home-robot-fold-laundry-99-success-2026-7 — company: https://www.sunday.ai/ — stills yes; video likely on company site
+8. **[CANDIDATE]** Ultra Robotics OP1 at Highline Commerce Brooklyn — up to 30% order workflow claim — company primary: https://www.ultra.tech/ — secondary: https://www.techtimes.com/articles/321430/20260723/humanoid-robots-hit-30-order-fill-brooklyn-3pl-outside-amazon-ecosystem.htm — stills/video yes (company film); note OP1 is stationary dual-arm, not bipedal humanoid
+9. **[CANDIDATE]** Integrated actuators for humanoid joints (Robot Report tech explainer, Jul 28) — https://www.therobotreport.com/how-integrated-actuators-improve-humanoid-robot-joint-performance-and-system-integration/ — category Robotics; thinner news, good B-side
+10. **[SKIP: already covered]** UK Humanoid $152M Series A — `uk-humanoid-152m-series-a.md`
+11. **[SKIP: already covered]** Walden Robotics $300M stealth — `walden-robotics-300m-stealth.md`
+12. **[SKIP: already covered]** Enigma $71M — `enigma-71m-robots-online.md`
+13. **[SKIP: already covered]** Figure robots outnumber humans / related Figure angles — `figure-robots-outnumber-humans.md`
+14. **[SKIP: already covered]** Generative Bionics Gene.01 smart skin — `generative-bionics-gene01.md`
+15. **[SKIP: already covered]** FCC foreign advanced robots Covered List — `fcc-foreign-humanoid-robots-covered-list.md`
+16. **[SKIP: already covered]** Atoms / Kalanick $1.7B — `atoms-kalanick-1-7b-a16z.md`
+17. **[SKIP: not substantial / non-humanoid]** Hengbot Sirius AI dog (D-Robotics RDK) — consumer pet robot lead only
+18. **[SKIP: older / lower exclusivity]** UBTECH UWORLD U1 mass-produced ultra-bionic launch (~Jul 1 PR) — https://www.prnewswire.com/ae/news-releases/ubtech-launches-uworld-u1-the-worlds-first-full-size-mass-produced-ultra-bionic-humanoid-robot-302815285.html — park unless new shipment data
+
+### Would write (ranked, max 10)
+
+| # | Score (N/I/S/E ≈ /20) | Title angle | Cat | Author | Primary | Secondary | Still | Video |
+|---|----------------------|-------------|-----|--------|---------|-----------|-------|-------|
+| 1 | 18 | Mitsubishi + Highlanders aim for 1,000 humanoids/month by 2027 | Humanoids | Robb Harlan | Kyodo / Mainichi | Carscoops / humanoid.guide | Yes | No (press stills) |
+| 2 | 17 | BYD locks August humanoid debut at Di Space | Humanoids | Robb Harlan | CnEVPost confirm | CnEVPost teaser + Stella Li prior | Yes (teaser) | TBD at unveil |
+| 3 | 17 | Holiday Robotics $105M Series A for FRIDAY factory humanoid | Industry | Shar Hendrix | Robot Report | holiday-robotics.com | Yes | Check company |
+| 4 | 16 | LimX $200M pre-IPO and the China humanoid listing race | Industry | Robb Harlan | limxdynamics.com | CNBC | Yes | Check company |
+| 5 | 15 | Tesla shows Optimus Fremont line; Musk slows the production story | Humanoids | Robb Harlan | Business Insider Optimus explainer | tesla.com/AI | Yes | No Gen-3 launch clip |
+| 6 | 15 | Sunday's Memo: 99% laundry "Solve" and fall home beta | Robotics | Shar Hendrix | Business Insider | sunday.ai | Yes | Likely |
+| 7 | 14 | AI² Robotics $735M bet on wheeled humanoids | Industry | Shar Hendrix | Robot Report | Dealroom / secondary | Yes | TBD |
+| 8 | 14 | Ultra OP1: Brooklyn 3PL claims 30% order fill | Robotics | Shar Hendrix | ultra.tech | TechTimes | Yes | Yes (company film) |
+| 9 | 12 | Actuator integration: why humanoid joints are the bottleneck | Robotics | Robb Harlan | Robot Report Jul 28 | supplier pages if cited | Maybe | No |
+| 10 | 11 | July funding map: wheeled vs biped capital (Holiday / AI² / LimX cluster) | Industry | Robb Harlan | multi (TRR + LimX + Holiday) | X funding charts as leads only | Mixed | No |
+
+### Dry-run notes
+- Articles written: **0** (canary skipped — plan-only preferred; news day is solid but dirty git tree + dry-run rules)
+- Commit/push: **skipped by design**
+- Production blockers for 12:30 PM job:
+  1. **Uncommitted local changes** block `git pull --rebase` — must stash or land pipeline scripts + AGENTS/.gitignore before scheduled run
+  2. X list timeline not cleanly machine-readable; web + semantic X remain required
+  3. Several top funding stories already published on this site (Humanoid UK, Walden, Enigma, Atoms) — real job should prioritize Mitsubishi / BYD / Holiday / LimX / Sunday / Ultra / Optimus temper
+  4. Image workflow: sources have usable stills for top 8; avoid stock; download from cited URLs only
+  5. Target 8–10 only if deep research holds; do not pad to quota
+
+### Notes for Future Agents
+- Watch **early August BYD Di Space** for first public hardware — upgrade teaser piece when official specs/photos land
+- **Mitsubishi Kyoto engine-line pilot** is the deployment follow-up worth tracking (not just the MoU)
+- LimX confidential HK listing process — IPO filing would be a hard news trigger
+- Ultra OP1 is **stationary dual-arm**, not biped — frame as industrial AI robot / warehouse automation if written, not "humanoid walkers"
+
+## 2026-07-28 — Daily Scheduled Pipeline
+
+### Preflight
+- Stashed local pipeline/setup edits, `git pull --rebase origin main` (already up to date), restored stash
+- Existing catalog: 23 posts (prior July batches + FCC); no new remote articles since dry run
+- Date (Pacific): 2026-07-28
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — keyword `list:` stream returns reply-noise and low-signal chatter (same pattern as dry run); not a clean chronological curated feed
+- Owner lists page treated as login-walled; not relied on as primary
+- Proceeded with public X + web verification (disclosed)
+
+### Web Search Findings
+1. **[CANDIDATE→WRITTEN]** Mitsubishi Motors × Highlanders mass production / 1,000 units/month by end-2027 — company MOU + Mainichi/Kyodo
+2. **[CANDIDATE→WRITTEN]** BYD confirms August humanoid at Di Space — CnEVPost (China Securities Journal)
+3. **[CANDIDATE→WRITTEN]** Holiday Robotics $105M Series A / FRIDAY — company blog + Robot Report + AI Insider
+4. **[CANDIDATE→WRITTEN]** LimX Dynamics $200M pre-IPO ~$2.2B — company + CNBC + Nikkei
+5. **[CANDIDATE→WRITTEN]** Tesla Optimus Fremont line + tempered ramp — Business Insider July explainer
+6. **[CANDIDATE→WRITTEN]** Sunday ACT-2 Memo 99.1% laundry — sunday.ai primary + BI + humanoid.guide
+7. **[CANDIDATE→WRITTEN]** AI² Robotics ~$735M / ~$2.8B wheeled AlphaBot — Robot Report + company site
+8. **[CANDIDATE→WRITTEN]** Ultra OP1 × Highline Brooklyn up to 30% orders — ultra.tech + Robotics 24/7
+9. **[CANDIDATE→WRITTEN]** Weave Isaac 1 $7,999 fall ship — Business Insider launch + CEO interview
+10. **[SKIP: already covered]** UK Humanoid, Walden, Enigma, Atoms, Figure, FCC, Generative Bionics, etc.
+11. **[SKIP: thin / angle-spin]** July funding map cluster piece; integrated actuators explainer (B-side tech, lower exclusivity)
+12. **[SKIP: non-humanoid lead]** Hengbot Sirius AI dog
+
+### Selected for Writing (ranked) — 9 articles
+| # | Slug | Author | Category |
+|---|------|--------|----------|
+| 1 | mitsubishi-highlanders-humanoid-mass-production | Robb Harlan | Humanoids |
+| 2 | byd-humanoid-robot-august-di-space | Robb Harlan | Humanoids |
+| 3 | holiday-robotics-105m-friday | Shar Hendrix | Industry |
+| 4 | limx-dynamics-200m-pre-ipo | Robb Harlan | Industry |
+| 5 | tesla-optimus-fremont-production-temper | Robb Harlan | Humanoids |
+| 6 | sunday-robotics-act-2-memo-laundry | Shar Hendrix | AI |
+| 7 | ai2-robotics-735m-wheeled-humanoids | Shar Hendrix | Industry |
+| 8 | ultra-robotics-op1-brooklyn-highline | Shar Hendrix | Robotics |
+| 9 | weave-robotics-isaac-1-home-robot | Shar Hendrix | Deals |
+
+### Volume note
+- Aim: 8–10 | Solid candidates found: 9 | Writing: **9**
+- Hard max 10; quality floor held (no padding)
+
+### Run summary
+- **Articles published (9):** see table above
+- **X list accessible?** Partial/noisy (N for clean feed; Y for tool probe)
+- **Social:** `npm run tweets` (32 drafts); `npm run robb-x`
+- **Build:** `astro build` completed 45 pages including all 9 new posts (PowerShell exit 1 from stderr NO_COLOR warning only)
+- **Images:** source-page stills only under `public/images/heroes/`; Sunday + Holiday YouTube embeds
+- **Failures:** none blocking; LimX CNBC hotlink failed (used Nikkei + product stills); AI2 TRR image CF-blocked (used company about image)
+
+### Notes for Future Agents
+- Early August: BYD Di Space hardware photos/specs — upgrade teaser post if major reveal
+- Mitsubishi Kyoto engine-line pilot + early-2027 production start
+- LimX HK confidential listing; Unitree Shanghai track
+- Sunday / Weave / 1X fall home betas — intervention rates and real-home data
+- Ultra OP1: frame as stationary dual-arm industrial, not biped humanoid

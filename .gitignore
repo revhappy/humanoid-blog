@@ -25,3 +25,6 @@ Thumbs.db
 *.swp
 *.swo
 .claude/settings.local.json
+
+# Daily pipeline runtime logs / same-day locks
+logs/

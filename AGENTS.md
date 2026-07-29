@@ -8,9 +8,14 @@ This file is the step-by-step guide for any AI agent (Claude Code, Cowork, custo
 Lead Scan (X + Web) → Log Findings → Select Best Story → Deep Research (primary sources) → Write (report + A Human's Take) → Publish
 ```
 
-**Mode:** On-demand. When the user asks to research/write/publish, run the full pipeline end-to-end. Do not run silent scheduled publishes unless the user later requests automation.
+**Mode:** On-demand **and** scheduled daily automation.
 
-Every push to `main` triggers GitHub Actions which builds the site and deploys to Firebase. As an agent, you follow the steps below.
+- **On-demand:** When the user asks to research/write/publish, run the full pipeline end-to-end.
+- **Scheduled (Windows):** Task **`HumanoidBlog-DailyArticles`** runs daily at **12:30 PM Pacific** via `scripts/run-daily-pipeline.ps1`, which launches Grok headless with `scripts/daily-article-pipeline.md`. Target **8–10** articles when sources support it; never pad or invent to hit quota. Auto-commits and pushes to `main` when the run produces new posts.
+- Disable schedule: Windows Task Scheduler → disable `HumanoidBlog-DailyArticles`, or stop invoking the script.
+- Manual run: `powershell -File scripts/run-daily-pipeline.ps1` (add `-Force` to re-run the same day).
+
+Every push to `main` triggers GitHub Actions which builds the site and deploys. As an agent, you follow the steps below.
 
 ---
 
