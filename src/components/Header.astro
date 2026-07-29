@@ -97,18 +97,12 @@ const currentPath = Astro.url.pathname;
     menuBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
   });
 
-  // Compact on scroll: slim bar with logo only
+  // Compact on scroll: slimmer bar, nav + actions stay clickable
   let ticking = false;
   const updateHeader = () => {
     const compact = window.scrollY > 48;
     header?.classList.toggle('is-scrolled', compact);
     header?.classList.toggle('is-compact', compact);
-    // Close mobile menu when compacting so it doesn't float oddly
-    if (compact && mobileNav?.classList.contains('is-open')) {
-      mobileNav.classList.remove('is-open');
-      menuBtn?.classList.remove('is-active');
-      menuBtn?.setAttribute('aria-expanded', 'false');
-    }
     ticking = false;
   };
 
@@ -259,15 +253,7 @@ const currentPath = Astro.url.pathname;
     gap: 2px;
     flex: 1;
     justify-content: center;
-    transition: opacity var(--duration-fast) var(--ease-out);
-  }
-
-  .header.is-compact .header__nav {
-    opacity: 0;
-    pointer-events: none;
-    width: 0;
-    overflow: hidden;
-    flex: 0;
+    min-width: 0;
   }
 
   .header__nav-link {
@@ -280,6 +266,11 @@ const currentPath = Astro.url.pathname;
     transition: all var(--duration-fast) var(--ease-out);
     position: relative;
     white-space: nowrap;
+  }
+
+  .header.is-compact .header__nav-link {
+    font-size: 0.75rem;
+    padding: 0.2rem 0.45rem;
   }
 
   .header__nav-link:hover {
@@ -314,14 +305,6 @@ const currentPath = Astro.url.pathname;
     display: flex;
     align-items: center;
     gap: var(--space-md);
-    transition: opacity var(--duration-fast) var(--ease-out);
-  }
-
-  .header.is-compact .header__utils {
-    opacity: 0;
-    pointer-events: none;
-    width: 0;
-    overflow: hidden;
   }
 
   .header__util-link {
@@ -332,6 +315,16 @@ const currentPath = Astro.url.pathname;
     letter-spacing: 0.06em;
     transition: color var(--duration-fast);
     white-space: nowrap;
+  }
+
+  .header.is-compact .header__util-link {
+    font-size: 0.6rem;
+  }
+
+  .header.is-compact .header__social-link {
+    min-width: 20px;
+    height: 20px;
+    font-size: 0.6rem;
   }
 
   .header__util-link:hover {
