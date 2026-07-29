@@ -1,0 +1,66 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { siteConfig } from '../lib/site';
+import { withBase } from '../lib/paths';
+
+const updated = '2026-07-28';
+---
+
+<PageLayout
+  title="Terms of Use"
+  description="Rules for using the HUMANOID website and content."
+>
+  <p class="note">Last updated: {updated}</p>
+
+  <p>
+    By using {siteConfig.name} at {siteConfig.origin}{siteConfig.basePath}, you agree to these terms.
+    If you do not agree, do not use the Site.
+  </p>
+
+  <h2>Editorial content</h2>
+  <p>
+    Articles are for general information. We aim for accuracy and cite sources, but we do not
+    guarantee completeness or fitness for a particular purpose. Nothing on the Site is investment,
+    legal, or professional advice.
+  </p>
+
+  <h2>Intellectual property</h2>
+  <p>
+    Site design, original writing, and branding are owned by us or our licensors. You may link to
+    articles and quote short excerpts with attribution and a link back. Do not scrape the Site for
+    wholesale republication without permission.
+  </p>
+  <p>
+    Images credited to third parties remain those parties’ property; we use them under fair use /
+    news reporting context or rights as described in each article’s sources.
+  </p>
+
+  <h2>User submissions</h2>
+  <p>
+    If you send tips or form messages, you grant us a non-exclusive right to use that information
+    to operate the publication (including following up and, where appropriate, reporting with your
+    consent or as otherwise lawful).
+  </p>
+
+  <h2>Third-party links</h2>
+  <p>
+    Articles link to company sites, press, and other outlets. We are not responsible for third-party
+    content or privacy practices.
+  </p>
+
+  <h2>Disclaimer</h2>
+  <p>
+    The Site is provided “as is.” To the fullest extent permitted by law, we disclaim warranties and
+    are not liable for damages arising from use of the Site or reliance on its content.
+  </p>
+
+  <h2>Changes</h2>
+  <p>We may update these terms; continued use after changes means you accept the revised terms.</p>
+
+  <h2>Contact</h2>
+  <p>
+    <a href={`mailto:${siteConfig.emails.contact}`}>{siteConfig.emails.contact}</a> ·
+    <a href={withBase('contact')}>Contact form</a> ·
+    <a href={withBase('privacy')}>Privacy Policy</a>
+  </p>
+</PageLayout>

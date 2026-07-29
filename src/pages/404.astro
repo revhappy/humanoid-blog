@@ -1,0 +1,83 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { withBase } from '../lib/paths';
+---
+
+<BaseLayout title="Page not found" description="That page does not exist on HUMANOID.">
+  <div class="not-found container">
+    <p class="not-found__code">404</p>
+    <h1 class="not-found__title">Signal lost</h1>
+    <p class="not-found__text">
+      That URL is not on this site. It may have moved, or the link is wrong.
+    </p>
+    <div class="not-found__actions">
+      <a href={withBase()} class="not-found__btn not-found__btn--primary">Back to home</a>
+      <a href={withBase('rss.xml')} class="not-found__btn">RSS feed</a>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .not-found {
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: var(--space-4xl) 0;
+  }
+
+  .not-found__code {
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    color: var(--accent);
+    letter-spacing: 0.15em;
+    margin-bottom: var(--space-md);
+  }
+
+  .not-found__title {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 5vw, 3rem);
+    font-weight: 800;
+    margin-bottom: var(--space-md);
+  }
+
+  .not-found__text {
+    color: var(--text-secondary);
+    max-width: 28rem;
+    margin-bottom: var(--space-xl);
+  }
+
+  .not-found__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-md);
+  }
+
+  .not-found__btn {
+    padding: 0.7rem 1.2rem;
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--border-default);
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    transition: all var(--duration-fast);
+  }
+
+  .not-found__btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .not-found__btn--primary {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: var(--bg-root);
+  }
+
+  .not-found__btn--primary:hover {
+    background: var(--accent-dim);
+    color: var(--bg-root);
+  }
+</style>

@@ -412,11 +412,41 @@ Before committing, verify every item:
 - [ ] Description is under 160 characters
 - [ ] No placeholder text or TODOs remain
 - [ ] Research log (`src/content/research-log.md`) is updated
+- [ ] Regenerated X drafts: `npm run tweets` (or relies on `prebuild`) so `social/tweet-queue.md` includes the new post
 
 ### Quick Build Test (recommended)
 ```bash
 node "./node_modules/astro/astro.js" build
 ```
+
+---
+
+## Step 5b: X as Robb Harlan — organic first (no API required)
+
+**Default growth channel is X, not AdSense.** Primary persona: **Robb Harlan** (one byline, one human-feeling account).
+
+Read **`social/ROBB-ON-X.md`** before drafting anything for X.
+
+### Principles
+- Feel like a person in the beat: **replies, quote-tweets, trend takes** — not an auto-RSS bot.
+- ~40% replies, ~25% QTs, ~20% standalone takes, ~15% soft blog links (see playbook).
+- Most posts should have **no link**. When linking, take first, URL last (or in a reply).
+- Facts only from sources fetched this session or from our published article Sources.
+- **No X developer API required.** Draft → owner pastes. API auto-post is optional later and often feels fake.
+
+### When the user asks to “do X” / “be Robb on X”
+1. Scan primary list `https://x.com/i/lists/1805786050763087967` (disclose if inaccessible).
+2. Draft a **mixed** batch: REPLY / QT / SOLO / SOFT-LINK — append to `social/robb-organic-queue.md`.
+3. For REPLY/QT include target URL or handle when known.
+4. Run `npm run robb-x` to refresh take seeds from article “A Human’s Take” sections → `social/robb-from-articles.md`.
+5. Do **not** dump 20 article links in one day.
+
+### After writing a blog article
+1. Distill **A Human’s Take** into 1 SOLO post (no link) + optional SOFT-LINK variant.
+2. `npm run robb-x` and/or hand-edit `social/robb-organic-queue.md`.
+3. Legacy link queue (`npm run tweets` → `social/tweet-queue.md`) is secondary — use sparingly.
+
+Site emails / social handles: **`src/lib/site.ts`**. Set `social.x` when the Robb handle is live.
 
 ---
 
@@ -426,9 +456,10 @@ node "./node_modules/astro/astro.js" build
 # Pull latest first (in case another agent pushed)
 git pull --rebase origin main
 
-# Stage the new article and research log
+# Stage the new article, research log, and tweet queue
 git add src/content/blog/your-new-article.md
 git add src/content/research-log.md
+git add social/tweet-queue.md social/tweet-queue.json
 
 # Commit with descriptive message
 git commit -m "Add article: Your Article Title Here"
@@ -437,7 +468,7 @@ git commit -m "Add article: Your Article Title Here"
 git push origin main
 ```
 
-The site rebuilds and deploys automatically via GitHub Actions (~2 minutes).
+The site rebuilds and deploys automatically via GitHub Actions (~2 minutes). RSS (`/rss.xml`), sitemap, and robots.txt are generated on every build.
 
 ---
 

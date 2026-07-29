@@ -1,4 +1,9 @@
 ---
+import { formSubmitAction, siteConfig } from '../lib/site';
+import { withBase } from '../lib/paths';
+
+const action = formSubmitAction(siteConfig.emails.newsletter);
+const nextUrl = withBase('?subscribed=1');
 ---
 
 <div class="newsletter">
@@ -8,21 +13,30 @@
       <polyline points="22,6 12,13 2,6"/>
     </svg>
   </div>
-  <h3 class="newsletter__title">The Weekly Circuit</h3>
+  <h3 class="newsletter__title">{siteConfig.newsletter.name}</h3>
   <p class="newsletter__text">
-    Get the top humanoid robotics stories delivered every Saturday. No spam, unsubscribe anytime.
+    {siteConfig.newsletter.blurb}
   </p>
-  <form class="newsletter__form" action="#" method="post">
+  <form class="newsletter__form" action={action} method="POST">
+    <input type="hidden" name="_subject" value={`Subscribe — ${siteConfig.newsletter.name}`} />
+    <input type="hidden" name="_captcha" value="false" />
+    <input type="hidden" name="_template" value="table" />
+    <input type="hidden" name="_next" value={new URL(nextUrl, siteConfig.origin).href} />
+    <input type="text" name="_honey" class="newsletter__honey" tabindex="-1" autocomplete="off" aria-hidden="true" />
     <input
       type="email"
+      name="email"
       placeholder="you@example.com"
       class="newsletter__input"
       required
       aria-label="Email address"
+      autocomplete="email"
     />
     <button type="submit" class="newsletter__btn">Subscribe</button>
   </form>
-  <p class="newsletter__note">Join 2,400+ robotics enthusiasts</p>
+  <p class="newsletter__note">
+    Goes to {siteConfig.emails.newsletter} · <a href={withBase('privacy')}>Privacy</a>
+  </p>
 </div>
 
 <style>
@@ -73,6 +87,14 @@
     gap: var(--space-sm);
   }
 
+  .newsletter__honey {
+    position: absolute;
+    left: -9999px;
+    height: 0;
+    width: 0;
+    opacity: 0;
+  }
+
   .newsletter__input {
     width: 100%;
     background: var(--bg-root);
@@ -117,8 +139,19 @@
 
   .newsletter__note {
     font-family: var(--font-mono);
-    font-size: 0.65rem;
+    font-size: 0.62rem;
     color: var(--text-muted);
     margin-top: var(--space-md);
+    line-height: 1.4;
+  }
+
+  .newsletter__note a {
+    color: var(--text-secondary);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .newsletter__note a:hover {
+    color: var(--accent);
   }
 </style>

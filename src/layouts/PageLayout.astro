@@ -1,0 +1,122 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  /** Optional narrow content width for long legal copy */
+  narrow?: boolean;
+}
+
+const { title, description, narrow = true } = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+  <div class:list={['page', { 'page--narrow': narrow }]}>
+    <div class="page__inner container">
+      <header class="page__header">
+        <h1 class="page__title">{title}</h1>
+        {description && <p class="page__lede">{description}</p>}
+      </header>
+      <div class="page__body">
+        <slot />
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .page {
+    padding: var(--space-3xl) 0 var(--space-4xl);
+    min-height: 50vh;
+  }
+
+  .page__inner {
+    max-width: 720px;
+  }
+
+  .page:not(.page--narrow) .page__inner {
+    max-width: var(--max-width);
+  }
+
+  .page__header {
+    margin-bottom: var(--space-2xl);
+    padding-bottom: var(--space-lg);
+    border-bottom: 1px solid var(--border-subtle);
+  }
+
+  .page__title {
+    font-family: var(--font-display);
+    font-size: clamp(1.8rem, 4vw, 2.5rem);
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    margin-bottom: var(--space-md);
+  }
+
+  .page__lede {
+    font-size: 1.05rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    max-width: 40rem;
+  }
+
+  .page__body {
+    font-size: 1.02rem;
+    line-height: 1.75;
+    color: var(--text-primary);
+  }
+
+  .page__body :global(h2) {
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-top: var(--space-2xl);
+    margin-bottom: var(--space-md);
+    color: var(--text-primary);
+  }
+
+  .page__body :global(h3) {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin-top: var(--space-xl);
+    margin-bottom: var(--space-sm);
+  }
+
+  .page__body :global(p) {
+    margin-bottom: var(--space-lg);
+    color: var(--text-secondary);
+  }
+
+  .page__body :global(ul),
+  .page__body :global(ol) {
+    margin-bottom: var(--space-lg);
+    padding-left: var(--space-xl);
+    color: var(--text-secondary);
+  }
+
+  .page__body :global(li) {
+    margin-bottom: var(--space-sm);
+  }
+
+  .page__body :global(a) {
+    color: var(--accent);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .page__body :global(strong) {
+    color: var(--text-primary);
+    font-weight: 600;
+  }
+
+  .page__body :global(.note) {
+    font-family: var(--font-mono);
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    padding: var(--space-md);
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md);
+    margin-bottom: var(--space-xl);
+  }
+</style>

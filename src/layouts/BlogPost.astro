@@ -3,6 +3,7 @@ import BaseLayout from './BaseLayout.astro';
 import AdBanner from '../components/AdBanner.astro';
 import Sidebar from '../components/Sidebar.astro';
 import { withBase, resolveImage } from '../lib/paths';
+import { absoluteUrl } from '../lib/site';
 
 interface Props {
   title: string;
@@ -13,13 +14,23 @@ interface Props {
   category: string;
   author: string;
   readTime?: string;
+  /** Content collection id for canonical share URL */
+  slug?: string;
 }
 
-const { title, description, pubDate, updatedDate, heroImage, category, author, readTime = '5 min read' } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, category, author, readTime = '5 min read', slug } = Astro.props;
 const hero = resolveImage(heroImage);
 
 const categoryClass = `category-badge category-badge--${category.toLowerCase()}`;
 const formattedDate = pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+
+const pageUrl = slug
+  ? absoluteUrl(`blog/${slug}/`)
+  : new URL(Astro.url.pathname, Astro.site).href;
+const shareText = `${title}`;
+const xShare = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(pageUrl)}`;
+const linkedInShare = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(pageUrl)}`;
+const redditShare = `https://www.reddit.com/submit?url=${encodeURIComponent(pageUrl)}&title=${encodeURIComponent(title)}`;
 ---
 
 <BaseLayout title={title} description={description} ogImage={heroImage}>
@@ -70,9 +81,9 @@ const formattedDate = pubDate.toLocaleDateString('en-US', { year: 'numeric', mon
             </div>
             <div class="post__share">
               <span class="post__share-label">Share:</span>
-              <a href="#" class="post__share-btn" aria-label="Share on Twitter">𝕏</a>
-              <a href="#" class="post__share-btn" aria-label="Share on LinkedIn">in</a>
-              <a href="#" class="post__share-btn" aria-label="Share on Reddit">r/</a>
+              <a href={xShare} class="post__share-btn" aria-label="Share on X" target="_blank" rel="noopener noreferrer">𝕏</a>
+              <a href={linkedInShare} class="post__share-btn" aria-label="Share on LinkedIn" target="_blank" rel="noopener noreferrer">in</a>
+              <a href={redditShare} class="post__share-btn" aria-label="Share on Reddit" target="_blank" rel="noopener noreferrer">r/</a>
             </div>
           </div>
         </div>

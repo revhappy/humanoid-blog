@@ -10,7 +10,11 @@ This is an Astro-based blog about humanoid robotics, AI, and intelligent machine
 2. **Log findings** — Append to `src/content/research-log.md` to avoid duplicate coverage
 3. **Write the article** — Create a `.md` file in `src/content/blog/` with proper frontmatter; byline **Robb Harlan** or **Shar Hendrix**; end with **`## A Human's Take`**
 4. **Verify** — Build test, fact-check, run pre-publish checklist (every claim from a URL fetched this session)
-5. **Publish** — Commit and push to `main` — GitHub Actions auto-deploys
+5. **X drafts** — `npm run tweets` regenerates `social/tweet-queue.md` (no X API required; copy/paste or RSS → Buffer)
+6. **Publish** — Commit and push to `main` — GitHub Actions auto-deploys
+
+**Site config** (emails, social URLs): `src/lib/site.ts`  
+**RSS** (built every deploy): `/humanoid-blog/rss.xml`
 
 **On-demand mode:** Run the full pipeline when asked. Homepage hero rotates daily among newest posts (daily rebuild cron in deploy.yml).
 

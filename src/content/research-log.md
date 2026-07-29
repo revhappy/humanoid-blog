@@ -188,3 +188,16 @@ List timeline via keyword search is noisy (replies/ads mixed in). Used semantic/
 - Added figure(s) from company/press sources to all 22 posts (no stock Unsplash/Getty for body)
 - Videos: 1X hands + World Labs embeds; Agility/EngineAI already had YouTube
 - Assets under public/images/heroes/*-body* and story-specific stills
+
+## 2026-07-28 — FCC Covered List (foreign advanced robots)
+
+### Selected for writing
+- **fcc-foreign-humanoid-robots-covered-list.md** — Robb Harlan
+- Why: Live July 28 primary FCC action + Reuters exclusive; highest industry impact this week; not previously covered
+- Primary: FCC Covered List + DOC-423682 fact sheet
+- Secondary: Reuters, Business Insider, Fox Business, Nextgov; GUARD Act context from House Select Committee (June 3) with Peggy Johnson endorsement quote
+
+### Notes
+- Official FCC scope is **foreign-produced** advanced robotic devices (humanoids/quadrupeds), not China-only text — Reuters commercial framing is China/Unitree
+- New models / equipment authorization; existing authorized models and consumer-owned devices not auto-banned per FCC fact sheet
+- X list still login-walled for agents; live X chatter used for distribution drafts only

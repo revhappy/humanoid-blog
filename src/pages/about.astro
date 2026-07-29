@@ -1,0 +1,47 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { withBase } from '../lib/paths';
+import { siteConfig } from '../lib/site';
+---
+
+<PageLayout
+  title="About HUMANOID"
+  description="A focused blog on humanoid robots, physical AI, and the teams shipping real machines."
+>
+  <p>
+    <strong>{siteConfig.name}</strong> covers humanoid robotics and adjacent physical AI —
+    product launches, factory deployments, open projects, research that actually transfers, and the
+    money and partnerships behind the metal.
+  </p>
+
+  <p>
+    We write for engineers, operators, founders, and curious readers who want concrete facts:
+    prices, unit counts, timelines, and primary sources — not hype decks.
+  </p>
+
+  <h2>How we cover the beat</h2>
+  <ul>
+    <li>Leads from the robotics conversation, verified against company pages and solid reporting</li>
+    <li>Every article ends with sources you can open yourself</li>
+    <li>Two bylines: <strong>Robb Harlan</strong> (deployment, economics, industry structure) and
+      <strong>Shar Hendrix</strong> (startups, open hardware, demos with receipts)</li>
+    <li>Closing section: <em>A Human's Take</em> — clearly labeled judgment, not invented news</li>
+  </ul>
+
+  <h2>What we are not</h2>
+  <p>
+    We are not a press-release wire, a stock tip sheet, or a sci-fi blog. If we cannot source a
+    claim, it does not go in the piece.
+  </p>
+
+  <h2>Stay in the loop</h2>
+  <p>
+    Subscribe to <strong>{siteConfig.newsletter.name}</strong> on any page, follow the
+    <a href={withBase('rss.xml')}>RSS feed</a>, or
+    <a href={withBase('contact')}>send a tip</a>.
+  </p>
+
+  <p class="note">
+    Site config (emails, social handles): <code>src/lib/site.ts</code> — replace placeholders before promoting the brand.
+  </p>
+</PageLayout>

@@ -1,0 +1,81 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { siteConfig } from '../lib/site';
+import { withBase } from '../lib/paths';
+
+const updated = '2026-07-28';
+---
+
+<PageLayout
+  title="Privacy Policy"
+  description="How HUMANOID handles information when you use this site."
+>
+  <p class="note">Last updated: {updated}</p>
+
+  <p>
+    This policy describes how <strong>{siteConfig.legalName}</strong> (“we”, “us”) handles information
+    when you visit {siteConfig.origin}{siteConfig.basePath} (the “Site”).
+  </p>
+
+  <h2>What we collect</h2>
+  <ul>
+    <li>
+      <strong>Contact and newsletter forms</strong> — name and email (and message content) you
+      voluntarily submit. Delivered to our inbox via FormSubmit or a provider we configure later.
+    </li>
+    <li>
+      <strong>Server and hosting logs</strong> — standard technical data (IP address, user agent,
+      referrer, timestamps) collected by our host (e.g. GitHub Pages / Firebase) for delivery and security.
+    </li>
+    <li>
+      <strong>Analytics and ads (if enabled)</strong> — if we add Google Analytics, Plausible, AdSense,
+      or similar, those providers may set cookies or process usage data under their own policies.
+      We will update this page when those tools go live.
+    </li>
+  </ul>
+
+  <h2>How we use information</h2>
+  <ul>
+    <li>Respond to tips, corrections, and partnership requests</li>
+    <li>Send newsletter issues if you subscribed</li>
+    <li>Operate, secure, and improve the Site</li>
+    <li>Comply with law if required</li>
+  </ul>
+
+  <h2>Sharing</h2>
+  <p>
+    We do not sell your email address. We use processors (hosting, form delivery, future email ESP)
+    only to run the Site. FormSubmit and similar tools process submissions according to their terms.
+  </p>
+
+  <h2>Cookies</h2>
+  <p>
+    The Site may store a local preference for theme (dark/light) in your browser. Advertising or
+    analytics cookies appear only if we enable those services and, where required, obtain consent.
+  </p>
+
+  <h2>Retention</h2>
+  <p>
+    Contact messages are kept as long as needed to respond and run the publication. You can ask us
+    to delete a stored email address by contacting us.
+  </p>
+
+  <h2>Your choices</h2>
+  <ul>
+    <li>Do not submit forms if you do not want us to receive that information</li>
+    <li>Unsubscribe links will ship with any real email newsletter product</li>
+    <li>Browser controls can block third-party cookies</li>
+  </ul>
+
+  <h2>Children</h2>
+  <p>The Site is not directed at children under 13, and we do not knowingly collect their data.</p>
+
+  <h2>Contact</h2>
+  <p>
+    Privacy questions: <a href={`mailto:${siteConfig.emails.contact}`}>{siteConfig.emails.contact}</a>
+    or the <a href={withBase('contact')}>contact page</a>.
+  </p>
+
+  <h2>Changes</h2>
+  <p>We may update this policy; the “Last updated” date at the top will change when we do.</p>
+</PageLayout>

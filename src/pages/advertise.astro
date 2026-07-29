@@ -1,0 +1,40 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import { siteConfig } from '../lib/site';
+import { withBase } from '../lib/paths';
+---
+
+<PageLayout
+  title="Advertise"
+  description="Reach readers who follow humanoid robots, factory AI, and physical intelligence."
+>
+  <p>
+    HUMANOID is a niche editorial site for people who care about real robots — not generic tech
+    fluff. When traffic and list size justify it, we open limited sponsorships.
+  </p>
+
+  <h2>Formats (when available)</h2>
+  <ul>
+    <li><strong>Newsletter sponsorship</strong> — {siteConfig.newsletter.name} (Saturday digest)</li>
+    <li><strong>Sponsored article</strong> — clearly labeled; must meet our sourcing standards</li>
+    <li><strong>Display inventory</strong> — site ad slots (sidebar / in-article) via network or direct</li>
+  </ul>
+
+  <h2>What we will not run</h2>
+  <ul>
+    <li>Misleading “AI miracle” claims without evidence</li>
+    <li>Unrelated crypto pumps, gambling, or adult ads as direct deals</li>
+    <li>Undisclosed native ads dressed up as news</li>
+  </ul>
+
+  <h2>Get in touch</h2>
+  <p>
+    Email <a href={`mailto:${siteConfig.emails.advertise}`}>{siteConfig.emails.advertise}</a>
+    with audience goals, budget range, and timeline. Or use the
+    <a href={withBase('contact')}>contact form</a>.
+  </p>
+
+  <p class="note">
+    Placeholder address until you set a real inbox in <code>src/lib/site.ts</code>.
+  </p>
+</PageLayout>

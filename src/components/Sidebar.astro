@@ -4,7 +4,7 @@ import Newsletter from './Newsletter.astro';
 import { getCollection } from 'astro:content';
 import { withBase } from '../lib/paths';
 
-const allPosts = await getCollection('blog');
+const allPosts = (await getCollection('blog')).filter((p) => !p.data.draft);
 const trendingPosts = allPosts
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 5);
@@ -15,6 +15,7 @@ const categories = [
   { label: 'AI', count: allPosts.filter(p => p.data.category === 'AI').length, color: 'var(--amber)' },
   { label: 'Research', count: allPosts.filter(p => p.data.category === 'Research').length, color: '#A882FF' },
   { label: 'Industry', count: allPosts.filter(p => p.data.category === 'Industry').length, color: 'var(--hot)' },
+  { label: 'Deals', count: allPosts.filter(p => p.data.category === 'Deals').length, color: '#FF8A5B' },
 ];
 ---
 

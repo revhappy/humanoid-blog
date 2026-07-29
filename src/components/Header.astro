@@ -1,5 +1,6 @@
 ---
 import { withBase } from '../lib/paths';
+import { siteConfig } from '../lib/site';
 
 const navItems = [
   { label: 'Humanoids', href: withBase('category/humanoids') },
@@ -11,6 +12,7 @@ const navItems = [
 ];
 
 const currentPath = Astro.url.pathname;
+const searchIndexUrl = withBase('search-index.json');
 ---
 
 <!-- Top utility bar -->
@@ -24,8 +26,12 @@ const currentPath = Astro.url.pathname;
       <a href={withBase('about')} class="topbar__link">About</a>
       <a href={withBase('contact')} class="topbar__link">Contact</a>
       <div class="topbar__social">
-        <a href="#" aria-label="Twitter" class="topbar__social-link">𝕏</a>
-        <a href="#" aria-label="YouTube" class="topbar__social-link">YT</a>
+        {siteConfig.social.x && (
+          <a href={siteConfig.social.x} aria-label="X (Twitter)" class="topbar__social-link" target="_blank" rel="noopener noreferrer">𝕏</a>
+        )}
+        {siteConfig.social.youtube && (
+          <a href={siteConfig.social.youtube} aria-label="YouTube" class="topbar__social-link" target="_blank" rel="noopener noreferrer">YT</a>
+        )}
         <a href={withBase('rss.xml')} aria-label="RSS Feed" class="topbar__social-link">RSS</a>
       </div>
     </div>
@@ -85,16 +91,18 @@ const currentPath = Astro.url.pathname;
   </div>
 </header>
 
-<!-- Search overlay -->
+<!-- Search overlay (client-side over search-index.json) -->
 <div class="search-overlay" id="search-overlay">
   <div class="search-overlay__inner container">
-    <form class="search-overlay__form" action="/search" method="get">
+    <form class="search-overlay__form" id="search-form" action="#" method="get" role="search">
       <input
         type="search"
         name="q"
+        id="search-input"
         class="search-overlay__input"
         placeholder="Search articles..."
         autocomplete="off"
+        aria-controls="search-results"
       />
       <button type="button" class="search-overlay__close" id="search-close" aria-label="Close search">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -102,20 +110,83 @@ const currentPath = Astro.url.pathname;
         </svg>
       </button>
     </form>
+    <div class="search-overlay__results" id="search-results" role="listbox" aria-label="Search results"></div>
   </div>
 </div>
 
-<script>
+<script define:vars={{ searchIndexUrl }}>
   // Search toggle
   document.getElementById('search-toggle')?.addEventListener('click', () => {
     const overlay = document.getElementById('search-overlay');
     overlay?.classList.toggle('is-open');
     if (overlay?.classList.contains('is-open')) {
-      (overlay.querySelector('input') as HTMLInputElement)?.focus();
+      overlay.querySelector('input')?.focus();
     }
   });
   document.getElementById('search-close')?.addEventListener('click', () => {
     document.getElementById('search-overlay')?.classList.remove('is-open');
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      document.getElementById('search-overlay')?.classList.remove('is-open');
+    }
+  });
+
+  // Client-side search
+  let searchIndex = null;
+  let searchLoaded = false;
+
+  async function loadSearchIndex() {
+    if (searchLoaded) return searchIndex;
+    searchLoaded = true;
+    try {
+      const res = await fetch(searchIndexUrl);
+      searchIndex = await res.json();
+    } catch {
+      searchIndex = [];
+    }
+    return searchIndex;
+  }
+
+  function renderResults(query) {
+    const box = document.getElementById('search-results');
+    if (!box) return;
+    const q = query.trim().toLowerCase();
+    if (!q) {
+      box.innerHTML = '';
+      return;
+    }
+    const hits = (searchIndex || [])
+      .filter((p) => {
+        const hay = `${p.title} ${p.description} ${p.category} ${p.author}`.toLowerCase();
+        return hay.includes(q);
+      })
+      .slice(0, 8);
+
+    if (!hits.length) {
+      box.innerHTML = '<p class="search-overlay__empty">No articles match that search.</p>';
+      return;
+    }
+
+    box.innerHTML = hits
+      .map(
+        (p) =>
+          `<a href="${p.url}" class="search-overlay__hit" role="option">
+            <span class="search-overlay__hit-cat">${p.category}</span>
+            <span class="search-overlay__hit-title">${p.title}</span>
+            <span class="search-overlay__hit-desc">${p.description}</span>
+          </a>`
+      )
+      .join('');
+  }
+
+  document.getElementById('search-form')?.addEventListener('submit', (e) => e.preventDefault());
+  document.getElementById('search-input')?.addEventListener('focus', () => {
+    loadSearchIndex();
+  });
+  document.getElementById('search-input')?.addEventListener('input', async (e) => {
+    await loadSearchIndex();
+    renderResults(e.target.value || '');
   });
 
   // Mobile menu toggle
@@ -125,16 +196,13 @@ const currentPath = Astro.url.pathname;
   });
 
   // Header scroll effect
-  let lastScroll = 0;
   window.addEventListener('scroll', () => {
     const header = document.getElementById('site-header');
-    const scrollY = window.scrollY;
-    if (scrollY > 100) {
+    if (window.scrollY > 100) {
       header?.classList.add('is-scrolled');
     } else {
       header?.classList.remove('is-scrolled');
     }
-    lastScroll = scrollY;
   });
 </script>
 
@@ -427,6 +495,63 @@ const currentPath = Astro.url.pathname;
     transform: translateY(0);
     opacity: 1;
     pointer-events: all;
+  }
+
+  .search-overlay__results {
+    margin-top: var(--space-xl);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+    max-height: min(60vh, 480px);
+    overflow-y: auto;
+  }
+
+  .search-overlay__empty {
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    padding: var(--space-md) 0;
+  }
+
+  .search-overlay__hit {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: var(--space-md);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md);
+    background: var(--bg-card);
+    text-decoration: none;
+    transition: border-color var(--duration-fast), background var(--duration-fast);
+  }
+
+  .search-overlay__hit:hover {
+    border-color: var(--accent);
+    background: var(--bg-card-hover);
+  }
+
+  .search-overlay__hit-cat {
+    font-family: var(--font-mono);
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--accent);
+  }
+
+  .search-overlay__hit-title {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 1.05rem;
+    color: var(--text-primary);
+  }
+
+  .search-overlay__hit-desc {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
 
   .search-overlay__form {

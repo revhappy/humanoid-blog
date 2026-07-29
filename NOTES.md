@@ -46,6 +46,8 @@ Other good shapes:
 
 **Robb’s “A Human’s Take”:** judgment about reliability, shipping, and what could still go wrong. Dry humor ok; no TED-talk crescendo.
 
+**Robb on X (primary social voice):** Same person, shorter. Replies and quote-tweets on the robotics lists beat link spam. Full playbook: `social/ROBB-ON-X.md`. Organic queue: `social/robb-organic-queue.md`. Do not run Robb as an AdSense or auto-RSS bot.
+
 ### Shar Hendrix
 
 | | |

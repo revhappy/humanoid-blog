@@ -23,6 +23,7 @@ const { Content } = await render(post);
   category={post.data.category}
   author={post.data.author}
   readTime={post.data.readTime}
+  slug={post.id}
 >
   <Content />
 </BlogPost>
