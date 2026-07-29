@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-07-29T06:52:21.614Z",
+  "generatedAt": "2026-07-29T19:36:23.999Z",
   "site": "https://revhappy.github.io/humanoid-blog/",
   "posts": [
+    {
+      "id": "ant-group-zeroth-73m-humanoid-bets",
+      "title": "Ant Group Leads $73.6M Zeroth Round — Its 12th Humanoid Bet",
+      "pubDate": "2026-07-29",
+      "category": "Industry",
+      "url": "https://revhappy.github.io/humanoid-blog/blog/ant-group-zeroth-73m-humanoid-bets/",
+      "tweet": "Ant Group Leads $73.6M Zeroth Round — Its 12th Humanoid Bet\n\nhttps://revhappy.github.io/humanoid-blog/blog/ant-group-zeroth-73m-humanoid-bets/\n\n#RoboticsIndustry",
+      "intent": "https://twitter.com/intent/tweet?text=Ant%20Group%20Leads%20%2473.6M%20Zeroth%20Round%20%E2%80%94%20Its%2012th%20Humanoid%20Bet%0A%0Ahttps%3A%2F%2Frevhappy.github.io%2Fhumanoid-blog%2Fblog%2Fant-group-zeroth-73m-humanoid-bets%2F%0A%0A%23RoboticsIndustry",
+      "chars": 161
+    },
+    {
+      "id": "engineai-hong-kong-ipo-shenzhen-factory",
+      "title": "EngineAI Files for Hong Kong IPO After Opening Shenzhen Factory",
+      "pubDate": "2026-07-29",
+      "category": "Industry",
+      "url": "https://revhappy.github.io/humanoid-blog/blog/engineai-hong-kong-ipo-shenzhen-factory/",
+      "tweet": "EngineAI Files for Hong Kong IPO After Opening Shenzhen Factory\n\nhttps://revhappy.github.io/humanoid-blog/blog/engineai-hong-kong-ipo-shenzhen-factory/\n\n#RoboticsIndustry",
+      "intent": "https://twitter.com/intent/tweet?text=EngineAI%20Files%20for%20Hong%20Kong%20IPO%20After%20Opening%20Shenzhen%20Factory%0A%0Ahttps%3A%2F%2Frevhappy.github.io%2Fhumanoid-blog%2Fblog%2Fengineai-hong-kong-ipo-shenzhen-factory%2F%0A%0A%23RoboticsIndustry",
+      "chars": 170
+    },
+    {
+      "id": "generalist-gen1-multi-end-effectors",
+      "title": "Generalist’s GEN-1 Learns Across Thousands of Robot Hands",
+      "pubDate": "2026-07-29",
+      "category": "AI",
+      "url": "https://revhappy.github.io/humanoid-blog/blog/generalist-gen1-multi-end-effectors/",
+      "tweet": "Generalist’s GEN-1 Learns Across Thousands of Robot Hands\n\nGeneralist says GEN-1 now trains across five-fingered hands, tools, and ~9,000 gripper variants on 500,000+ hours of…\n\nhttps://revhappy.github.io/humanoid-blog/blog/generalist-gen1-multi-end-effectors/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Generalist%E2%80%99s%20GEN-1%20Learns%20Across%20Thousands%20of%20Robot%20Hands%0A%0AGeneralist%20says%20GEN-1%20now%20trains%20across%20five-fingered%20hands%2C%20tools%2C%20and%20~9%2C000%20gripper%20variants%20on%20500%2C000%2B%20hours%20of%E2%80%A6%0A%0Ahttps%3A%2F%2Frevhappy.github.io%2Fhumanoid-blog%2Fblog%2Fgeneralist-gen1-multi-end-effectors%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 276
+    },
+    {
+      "id": "hexagon-aeon-bmw-leipzig-production",
+      "title": "Hexagon’s AEON Starts Production Tasks at BMW Leipzig",
+      "pubDate": "2026-07-29",
+      "category": "Humanoids",
+      "url": "https://revhappy.github.io/humanoid-blog/blog/hexagon-aeon-bmw-leipzig-production/",
+      "tweet": "Hexagon’s AEON Starts Production Tasks at BMW Leipzig\n\nhttps://revhappy.github.io/humanoid-blog/blog/hexagon-aeon-bmw-leipzig-production/\n\n#HumanoidRobots",
+      "intent": "https://twitter.com/intent/tweet?text=Hexagon%E2%80%99s%20AEON%20Starts%20Production%20Tasks%20at%20BMW%20Leipzig%0A%0Ahttps%3A%2F%2Frevhappy.github.io%2Fhumanoid-blog%2Fblog%2Fhexagon-aeon-bmw-leipzig-production%2F%0A%0A%23HumanoidRobots",
+      "chars": 154
+    },
+    {
+      "id": "neura-qualcomm-dragonwing-physical-ai",
+      "title": "NEURA and Qualcomm Bet on On-Device Brains for Humanoids",
+      "pubDate": "2026-07-29",
+      "category": "Robotics",
+      "url": "https://revhappy.github.io/humanoid-blog/blog/neura-qualcomm-dragonwing-physical-ai/",
+      "tweet": "NEURA and Qualcomm Bet on On-Device Brains for Humanoids\n\nNEURA Robotics and Qualcomm announced a strategic collaboration pairing Dragonwing IQ10 processors with NEURA’s…\n\nhttps://revhappy.github.io/humanoid-blog/blog/neura-qualcomm-dragonwing-physical-ai/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=NEURA%20and%20Qualcomm%20Bet%20on%20On-Device%20Brains%20for%20Humanoids%0A%0ANEURA%20Robotics%20and%20Qualcomm%20announced%20a%20strategic%20collaboration%20pairing%20Dragonwing%20IQ10%20processors%20with%20NEURA%E2%80%99s%E2%80%A6%0A%0Ahttps%3A%2F%2Frevhappy.github.io%2Fhumanoid-blog%2Fblog%2Fneura-qualcomm-dragonwing-physical-ai%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 278
+    },
+    {
+      "id": "neura-robotics-1-4b-series-c",
+      "title": "NEURA Robotics Closes Up to $1.4B Series C for Physical AI",
+      "pubDate": "2026-07-29",
+      "category": "Industry",
+      "url": "https://revhappy.github.io/humanoid-blog/blog/neura-robotics-1-4b-series-c/",
+      "tweet": "NEURA Robotics Closes Up to $1.4B Series C for Physical AI\n\nGerman humanoid maker NEURA raised up to $1.4B from Tether, Nvidia, Amazon, Qualcomm, Bosch, and others to scale…\n\nhttps://revhappy.github.io/humanoid-blog/blog/neura-robotics-1-4b-series-c/\n\n#RoboticsIndustry #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=NEURA%20Robotics%20Closes%20Up%20to%20%241.4B%20Series%20C%20for%20Physical%20AI%0A%0AGerman%20humanoid%20maker%20NEURA%20raised%20up%20to%20%241.4B%20from%20Tether%2C%20Nvidia%2C%20Amazon%2C%20Qualcomm%2C%20Bosch%2C%20and%20others%20to%20scale%E2%80%A6%0A%0Ahttps%3A%2F%2Frevhappy.github.io%2Fhumanoid-blog%2Fblog%2Fneura-robotics-1-4b-series-c%2F%0A%0A%23RoboticsIndustry%20%23Humanoids",
+      "chars": 280
+    },
+    {
+      "id": "ubtech-uworld-u1-consumer-humanoid",
+      "title": "UBTECH Launches UWORLD U1: Consumer Ultra-Bionic From ¥119,800",
+      "pubDate": "2026-07-29",
+      "category": "Deals",
+      "url": "https://revhappy.github.io/humanoid-blog/blog/ubtech-uworld-u1-consumer-humanoid/",
+      "tweet": "UBTECH Launches UWORLD U1: Consumer Ultra-Bionic From ¥119,800\n\nhttps://revhappy.github.io/humanoid-blog/blog/ubtech-uworld-u1-consumer-humanoid/\n\n#Robotics",
+      "intent": "https://twitter.com/intent/tweet?text=UBTECH%20Launches%20UWORLD%20U1%3A%20Consumer%20Ultra-Bionic%20From%20%C2%A5119%2C800%0A%0Ahttps%3A%2F%2Frevhappy.github.io%2Fhumanoid-blog%2Fblog%2Fubtech-uworld-u1-consumer-humanoid%2F%0A%0A%23Robotics",
+      "chars": 156
+    },
+    {
+      "id": "unitree-star-market-ipo-csrc",
+      "title": "Unitree Clears CSRC Registration for ~$619M STAR Market IPO",
+      "pubDate": "2026-07-29",
+      "category": "Industry",
+      "url": "https://revhappy.github.io/humanoid-blog/blog/unitree-star-market-ipo-csrc/",
+      "tweet": "Unitree Clears CSRC Registration for ~$619M STAR Market IPO\n\nhttps://revhappy.github.io/humanoid-blog/blog/unitree-star-market-ipo-csrc/\n\n#RoboticsIndustry",
+      "intent": "https://twitter.com/intent/tweet?text=Unitree%20Clears%20CSRC%20Registration%20for%20~%24619M%20STAR%20Market%20IPO%0A%0Ahttps%3A%2F%2Frevhappy.github.io%2Fhumanoid-blog%2Fblog%2Funitree-star-market-ipo-csrc%2F%0A%0A%23RoboticsIndustry",
+      "chars": 155
+    },
     {
       "id": "1x-neo-factory-hayward",
       "title": "1X Opens Hayward NEO Factory Aimed at 10,000 Home Robots a Year",

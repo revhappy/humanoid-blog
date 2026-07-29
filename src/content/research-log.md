@@ -335,3 +335,72 @@ List timeline via keyword search is noisy (replies/ads mixed in). Used semantic/
 - LimX HK confidential listing; Unitree Shanghai track
 - Sunday / Weave / 1X fall home betas — intervention rates and real-home data
 - Ultra OP1: frame as stationary dual-arm industrial, not biped humanoid
+
+## 2026-07-29 — Daily Scheduled Pipeline
+
+### Preflight
+- `git pull --rebase origin main`: up to date; working tree clean
+- Existing catalog: 32 posts (incl. 2026-07-28 nine-article batch)
+- Date (Pacific): 2026-07-29
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — list keyword stream is mostly replies/chatter, not a clean curated feed
+- Owner lists login-walled; proceeded with public X semantic/keyword + web (disclosed)
+- Notable leads (leads only): FCC Covered List chatter (already covered 2026-07-28); July funding chart (AI²/Walden/LimX/Humanoid/Holiday/Zeroth — most already covered); Proception hands (covered)
+
+### Web Search Findings
+1. **[CANDIDATE→WRITTEN]** Unitree CSRC STAR Market IPO registration (~¥4.2B / ~$619M) — Caixin, TNW, SCMP, Unitree G1 product page
+2. **[CANDIDATE→WRITTEN]** Ant Group leads Zeroth ¥500M ($73.58M) + 12 humanoid-sector deals; RobbyAnt subsidiary — CNBC + robbyant.com
+3. **[CANDIDATE→WRITTEN]** Hexagon AEON performs production tasks at BMW Leipzig; end-2026 production goal — Hexagon + BMW Group press
+4. **[CANDIDATE→WRITTEN]** UBTECH UWORLD U1 mass-produced ultra-bionic consumer line; pricing from ¥119,800; 13,361+ orders claim — PR Newswire
+5. **[CANDIDATE→WRITTEN]** NEURA Robotics Series C up to $1.4B (Tether, Nvidia, Amazon, Qualcomm, Bosch, etc.) — Trending Topics + NEURA product
+6. **[CANDIDATE→WRITTEN]** NEURA × Qualcomm Dragonwing IQ10 “Brain + Nervous System” collab — NEURA primary + TechCrunch context
+7. **[CANDIDATE→WRITTEN]** Generalist GEN-1 multi end-effector training (~500k hrs, ~9,000 gripper variants) — The Robot Report
+8. **[CANDIDATE→WRITTEN]** EngineAI confidential Hong Kong IPO filing; Shenzhen 12,000 m² factory, T800 every 15 min claim — TNW / Bloomberg-sourced
+9. **[SKIP: already covered]** FCC foreign advanced robots Covered List — fcc-foreign-humanoid-robots-covered-list.md
+10. **[SKIP: already covered]** Holiday, LimX, AI², UK Humanoid, Walden, Sunday, Weave, Mitsubishi, BYD, Ultra, Tesla Optimus temper, etc. (2026-07-28 batch)
+11. **[SKIP: thin / paywalled primary]** AgiBot Hong Kong IPO process (Reuters/Securities Times Jul 24) — secondary only this session
+12. **[SKIP: viral not primary]** Computex stage collapse clips — no strong official primary with usable stills for a full post
+
+### Selected for Writing (ranked) — 8 articles
+| # | Slug | Author | Category |
+|---|------|--------|----------|
+| 1 | unitree-star-market-ipo-csrc | Robb Harlan | Industry |
+| 2 | ant-group-zeroth-73m-humanoid-bets | Shar Hendrix | Industry |
+| 3 | hexagon-aeon-bmw-leipzig-production | Robb Harlan | Humanoids |
+| 4 | ubtech-uworld-u1-consumer-humanoid | Shar Hendrix | Deals |
+| 5 | neura-robotics-1-4b-series-c | Robb Harlan | Industry |
+| 6 | neura-qualcomm-dragonwing-physical-ai | Shar Hendrix | Robotics |
+| 7 | generalist-gen1-multi-end-effectors | Shar Hendrix | AI |
+| 8 | engineai-hong-kong-ipo-shenzhen-factory | Robb Harlan | Industry |
+
+### Volume note
+- Aim: 8–10 | Solid candidates found: 8 | Writing: **8**
+- Hard max 10; quality floor held (no padding)
+
+
+### Run summary
+- **Articles published (8):**
+  1. unitree-star-market-ipo-csrc (Robb / Industry)
+  2. ant-group-zeroth-73m-humanoid-bets (Shar / Industry)
+  3. hexagon-aeon-bmw-leipzig-production (Robb / Humanoids)
+  4. ubtech-uworld-u1-consumer-humanoid (Shar / Deals)
+  5. neura-robotics-1-4b-series-c (Robb / Industry)
+  6. neura-qualcomm-dragonwing-physical-ai (Shar / Robotics)
+  7. generalist-gen1-multi-end-effectors (Shar / AI)
+  8. engineai-hong-kong-ipo-shenzhen-factory (Robb / Industry)
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors)
+- **Vision gate:** Confirmed stills for all 8 slugs (robots/product/site/exec from cited sources; rejected combat still for EngineAI body)
+- **Social:** `npm run tweets` (40 drafts); `npm run robb-x`
+- **Build:** astro build OK — 53 pages including 8 new posts
+- **Failures:** none blocking
+
+### Notes for Future Agents
+- Unitree still needs **pricing + issuance** after CSRC registration — hard news when priced
+- Early August: BYD Di Space hardware (from 07-28 note)
+- AgiBot HK IPO process thin this session — upgrade when filing docs public
+- EngineAI confidential IPO — watch for formal prospectus / revenue disclosure
+- NEURA: Gym rollout + production unit counts vs $1.4B raise
+

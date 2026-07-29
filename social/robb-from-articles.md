@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-07-29T06:52:34.906Z
+Generated: 2026-07-29T19:36:25.058Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Ant Group Leads $73.6M Zeroth Round — Its 12th Humanoid Bet
+
+- Author on blog: Shar Hendrix
+- Category: Industry
+- Article: https://revhappy.github.io/humanoid-blog/blog/ant-group-zeroth-73m-humanoid-bets/
+
+### SOLO (no link)
+
+```
+I’m here for the portfolio approach more than any single cute robot.  Twelve deals plus an in-house lab says Ant wants leverage across chips, hands, models, and distribution (hello, Alipay).
+```
+
+### SOFT-LINK variant
+
+```
+I’m here for the portfolio approach more than any single cute robot.  Twelve deals plus an in-house lab says Ant wants leverage across chips, hands, models, and distribution (hello, Alipay).
+
+https://revhappy.github.io/humanoid-blog/blog/ant-group-zeroth-73m-humanoid-bets/
+```
+
+---
+
+## EngineAI Files for Hong Kong IPO After Opening Shenzhen Factory
+
+- Author on blog: Robb Harlan
+- Category: Industry
+- Article: https://revhappy.github.io/humanoid-blog/blog/engineai-hong-kong-ipo-shenzhen-factory/
+
+### SOLO (no link)
+
+```
+I like the factory-first pitch better than flip montages.  Fifteen-minute cycle claims are marketing until someone publishes yield, rework rate, and ASP.
+```
+
+### SOFT-LINK variant
+
+```
+I like the factory-first pitch better than flip montages.  Fifteen-minute cycle claims are marketing until someone publishes yield, rework rate, and ASP.
+
+https://revhappy.github.io/humanoid-blog/blog/engineai-hong-kong-ipo-shenzhen-factory/
+```
+
+---
+
+## Generalist’s GEN-1 Learns Across Thousands of Robot Hands
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://revhappy.github.io/humanoid-blog/blog/generalist-gen1-multi-end-effectors/
+
+### SOLO (no link)
+
+```
+I’m so here for the thousand-hands thesis.  Factory floors already live on tool changers; locking physical AI to human-shaped palms is a weird aesthetic preference.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for the thousand-hands thesis.  Factory floors already live on tool changers; locking physical AI to human-shaped palms is a weird aesthetic preference.
+
+https://revhappy.github.io/humanoid-blog/blog/generalist-gen1-multi-end-effectors/
+```
+
+---
+
+## Hexagon’s AEON Starts Production Tasks at BMW Leipzig
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://revhappy.github.io/humanoid-blog/blog/hexagon-aeon-bmw-leipzig-production/
+
+### SOLO (no link)
+
+```
+I care about the boring bits: cycle time, mean time between interventions, and whether battery-line work survives real takt.  BMW already has Figure experience at Spartanburg; Hexagon at Leipzig is the multi-vendor proof that plant IT, safety, and logistics can absorb…
+```
+
+### SOFT-LINK variant
+
+```
+I care about the boring bits: cycle time, mean time between interventions, and whether battery-line work survives real takt.  BMW already has Figure experience at Spartanburg; Hexagon at Leipzig is th…
+
+https://revhappy.github.io/humanoid-blog/blog/hexagon-aeon-bmw-leipzig-production/
+```
+
+---
+
+## NEURA and Qualcomm Bet on On-Device Brains for Humanoids
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://revhappy.github.io/humanoid-blog/blog/neura-qualcomm-dragonwing-physical-ai/
+
+### SOLO (no link)
+
+```
+Chip + body collabs only matter if the reference design actually ships into robots customers can buy.  I’m watching for IQ10-powered 4NE1 field units, developer docs that third parties can use, and latency numbers under load — not just keynote handshakes.
+```
+
+### SOFT-LINK variant
+
+```
+Chip + body collabs only matter if the reference design actually ships into robots customers can buy.  I’m watching for IQ10-powered 4NE1 field units, developer docs that third parties can use, and la…
+
+https://revhappy.github.io/humanoid-blog/blog/neura-qualcomm-dragonwing-physical-ai/
+```
+
+---
+
+## NEURA Robotics Closes Up to $1.4B Series C for Physical AI
+
+- Author on blog: Robb Harlan
+- Category: Industry
+- Article: https://revhappy.github.io/humanoid-blog/blog/neura-robotics-1-4b-series-c/
+
+### SOLO (no link)
+
+```
+$1. 4B is enough capital to force a binary: either Europe gets a real humanoid OEM with factories and field data, or this becomes a very expensive science project.
+```
+
+### SOFT-LINK variant
+
+```
+$1. 4B is enough capital to force a binary: either Europe gets a real humanoid OEM with factories and field data, or this becomes a very expensive science project.
+
+https://revhappy.github.io/humanoid-blog/blog/neura-robotics-1-4b-series-c/
+```
+
+---
+
+## UBTECH Launches UWORLD U1: Consumer Ultra-Bionic From ¥119,800
+
+- Author on blog: Shar Hendrix
+- Category: Deals
+- Article: https://revhappy.github.io/humanoid-blog/blog/ubtech-uworld-u1-consumer-humanoid/
+
+### SOLO (no link)
+
+```
+A sub-¥120k sticker and a five-digit order claim is a real consumer-market signal — if those orders convert to paid, delivered, supported machines.  Companion robots live or die on failure modes in living rooms, not launch lighting.
+```
+
+### SOFT-LINK variant
+
+```
+A sub-¥120k sticker and a five-digit order claim is a real consumer-market signal — if those orders convert to paid, delivered, supported machines.  Companion robots live or die on failure modes in li…
+
+https://revhappy.github.io/humanoid-blog/blog/ubtech-uworld-u1-consumer-humanoid/
+```
+
+---
+
+## Unitree Clears CSRC Registration for ~$619M STAR Market IPO
+
+- Author on blog: Robb Harlan
+- Category: Industry
+- Article: https://revhappy.github.io/humanoid-blog/blog/unitree-star-market-ipo-csrc/
+
+### SOLO (no link)
+
+```
+Public markets are about to put real P&L on a company most people only know from kung-fu reels.  Registration is paper; the hard part is whether unit economics and software hold after the roadshow.
+```
+
+### SOFT-LINK variant
+
+```
+Public markets are about to put real P&L on a company most people only know from kung-fu reels.  Registration is paper; the hard part is whether unit economics and software hold after the roadshow.
+
+https://revhappy.github.io/humanoid-blog/blog/unitree-star-market-ipo-csrc/
+```
 
 ---
 
