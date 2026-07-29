@@ -63,8 +63,9 @@
   /* Layout */
   --max-width: 1400px;
   --sidebar-width: 340px;
-  --header-height: 64px;
-  --topbar-height: 36px;
+  --header-height: 52px;
+  --header-height-min: 40px;
+  --topbar-height: 0px; /* topbar removed; kept for sticky offset compat */
 
   /* Radius */
   --radius-sm: 4px;
@@ -309,7 +310,8 @@ img {
 /* --- Responsive --- */
 @media (max-width: 768px) {
   :root {
-    --header-height: 56px;
+    --header-height: 48px;
+    --header-height-min: 38px;
     --space-lg: 1rem;
     --space-xl: 1.5rem;
     --space-2xl: 2rem;
