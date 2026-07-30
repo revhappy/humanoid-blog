@@ -14,8 +14,8 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-07-30T19:37:52.379Z
-Posts: 50
+Generated: 2026-07-30T20:49:19.926Z
+Posts: 53
 
 ---
 
@@ -82,6 +82,27 @@ https://mechafeed.com/blog/figure-03-bmw-spartanburg-sequencing/
 
 ---
 
+## Gemini Robotics 2: Whole-Body Control From Feet to Fingertips
+
+- **Slug:** `gemini-robotics-2-whole-body-intelligence`
+- **Date:** 2026-07-30
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/gemini-robotics-2-whole-body-intelligence/
+- **Chars:** 268/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Gemini%20Robotics%202%3A%20Whole-Body%20Control%20From%20Feet%20to%20Fingertips%0A%0ADeepMind%E2%80%99s%20Gemini%20Robotics%202%20stack%20adds%20whole-body%20humanoid%20control%2C%20multi-robot%20teamwork%2C%20and%20on-device%20adaptation%20%E2%80%94%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgemini-robotics-2-whole-body-intelligence%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Gemini Robotics 2: Whole-Body Control From Feet to Fingertips
+
+DeepMind’s Gemini Robotics 2 stack adds whole-body humanoid control, multi-robot teamwork, and on-device adaptation —…
+
+https://mechafeed.com/blog/gemini-robotics-2-whole-body-intelligence/
+
+#AI #Humanoids
+```
+
+---
+
 ## General Intuition Raises $320M to Train Agents on Gameplay Action Data
 
 - **Slug:** `general-intuition-320m-gameplay-agents`
@@ -118,6 +139,48 @@ Hyundai Workers Strike as Atlas Humanoids Reach the Bargaining Table
 https://mechafeed.com/blog/hyundai-ulsan-humanoid-robot-strike/
 
 #RoboticsIndustry
+```
+
+---
+
+## NVIDIA GR00T 1.7 and Isaac Teleop Land in Hugging Face LeRobot
+
+- **Slug:** `nvidia-lerobot-groot-1-7-isaac-teleop`
+- **Date:** 2026-07-30
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/nvidia-lerobot-groot-1-7-isaac-teleop/
+- **Chars:** 266/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=NVIDIA%20GR00T%201.7%20and%20Isaac%20Teleop%20Land%20in%20Hugging%20Face%20LeRobot%0A%0AOpen%20VLA%20GR00T%201.7%20plus%20Isaac%20Teleop%20data%20collection%20now%20ship%20inside%20LeRobot%20%E2%80%94%20with%20LIBERO%20scores%20NVIDIA%20reports%20up%20to%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnvidia-lerobot-groot-1-7-isaac-teleop%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+NVIDIA GR00T 1.7 and Isaac Teleop Land in Hugging Face LeRobot
+
+Open VLA GR00T 1.7 plus Isaac Teleop data collection now ship inside LeRobot — with LIBERO scores NVIDIA reports up to…
+
+https://mechafeed.com/blog/nvidia-lerobot-groot-1-7-isaac-teleop/
+
+#AI #Humanoids
+```
+
+---
+
+## RoboCup 2026: First Full 11-vs-11 Humanoid Soccer Match
+
+- **Slug:** `robocup-2026-first-11v11-humanoid-soccer`
+- **Date:** 2026-07-30
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/robocup-2026-first-11v11-humanoid-soccer/
+- **Chars:** 273/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=RoboCup%202026%3A%20First%20Full%2011-vs-11%20Humanoid%20Soccer%20Match%0A%0AIn%20Incheon%2C%20B-Human%20beat%20HTWK%204%E2%80%930%20in%20the%20first%20full-sized%2011-vs-11%20humanoid%20robot%20soccer%20game%20%E2%80%94%20both%20sides%20on%20Booster%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frobocup-2026-first-11v11-humanoid-soccer%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+RoboCup 2026: First Full 11-vs-11 Humanoid Soccer Match
+
+In Incheon, B-Human beat HTWK 4–0 in the first full-sized 11-vs-11 humanoid robot soccer game — both sides on Booster…
+
+https://mechafeed.com/blog/robocup-2026-first-11v11-humanoid-soccer/
+
+#HumanoidRobots #Humanoids
 ```
 
 ---

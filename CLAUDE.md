@@ -6,7 +6,7 @@ This is an Astro-based blog about humanoid robotics, AI, and intelligent machine
 
 **Read `AGENTS.md` for the full step-by-step playbook.** The short version:
 
-1. **Research first** — Scan primary X list `https://x.com/i/lists/1805786050763087967` (and robbs2k lists if available) for **leads only**, then dig to company sites and secondary coverage. Do not repost X threads. See `NOTES.md` for personas and sourcing.
+1. **Research first** — Scan primary X list `https://x.com/i/lists/1805786050763087967` (and robbs2k lists if available) for **leads only**, then dig to company sites and secondary coverage. Do not repost X threads. See `NOTES.md` for personas and sourcing. **Editorial mix:** ≥75% cool tech/prototypes/design/engineering; ≤25% business (funding, IPO, units, strikes) — see `AGENTS.md`.
 2. **Log findings** — Append to `src/content/research-log.md` to avoid duplicate coverage
 3. **Write the article** — Create a `.md` file in `src/content/blog/` with proper frontmatter; byline **Robb Harlan** or **Shar Hendrix**; end with **`## A Human's Take`**
 4. **Verify** — Build test, fact-check, run pre-publish checklist (every claim from a URL fetched this session)
@@ -58,6 +58,7 @@ draft: false
 - Use specific numbers and facts where sources support them
 - Include quotes from company representatives only when read at a source URL this session
 - End with **A Human's Take** (1–2 paragraphs of implications/judgment)
+- **Prose craft:** spoken, anti-slop — see `AGENTS.md` → **Prose craft (anti-slop)** (no corporate verbs/filler intensifiers/throat-clearing/performed hype; keep fact hedges; contrast OK when it judges)
 
 ### Article Structure
 - **Opening paragraph**: The news/core story in 2-3 sentences

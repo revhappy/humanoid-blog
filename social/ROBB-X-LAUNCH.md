@@ -29,11 +29,11 @@ Opens the account in Robb’s voice. **Do not lead with the blog.**
 ```
 I’m not anti-demo. I’m anti-demo-as-product.
 
-Show the shift. Show what broke. Show who paid.
+I’ll take a messy full shift with a real invoice over another clean parkour clip.
 ```
 
 **Compose link (opens X with text prefilled):**  
-https://twitter.com/intent/tweet?text=I%E2%80%99m%20not%20anti-demo.%20I%E2%80%99m%20anti-demo-as-product.%0A%0AShow%20the%20shift.%20Show%20what%20broke.%20Show%20who%20paid.
+https://twitter.com/intent/tweet?text=I%E2%80%99m%20not%20anti-demo.%20I%E2%80%99m%20anti-demo-as-product.%0A%0AI%E2%80%99ll%20take%20a%20messy%20full%20shift%20with%20a%20real%20invoice%20over%20another%20clean%20parkour%20clip.
 
 ---
 

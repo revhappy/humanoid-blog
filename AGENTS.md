@@ -55,9 +55,9 @@ Every article ends with:
 
 ### Voice do / don't (both authors)
 
-**Do:** Lead with the concrete fact. Short paragraphs. Active voice. Translate jargon once, then use it. Prefer factories, money, timelines, and failure modes over sci-fi.
+**Do:** Lead with the concrete fact. Short paragraphs. Active voice. Translate jargon once, then use it. Prefer factories, money, timelines, and failure modes over sci-fi. Sound spoken (smart friend), not brand deck.
 
-**Don't:** Empty hype ("Revolutionary," "game-changing"). Paste X threads as the article body. Fabricate quotes. State political labels.
+**Don't:** Empty hype ("Revolutionary," "game-changing"). Paste X threads as the article body. Fabricate quotes. State political labels. Corporate register, filler intensifiers, throat-clearing openers, performed enthusiasm (full list under **Prose craft**).
 
 ---
 
@@ -101,6 +101,24 @@ Write only as much as your sources support. A short, accurate 300-word article i
 
 Before writing anything, conduct a thorough scan of the humanoid robotics landscape. Run **multiple** web searches to find what's actually happening today. Cover categories: **Humanoids, Robotics, AI, Research, Industry** (and Deals when relevant).
 
+### Editorial mix (HARD RULE — story lane, not just category tag)
+
+Mechafeed is a **robotics curiosity blog first**, not a markets wire. Most pieces should make a reader think “cool machine / clever engineering / fun prototype.” Capital and labor stories are seasoning.
+
+| Lane | Share of articles | What belongs here |
+|------|-------------------|-------------------|
+| **Build / innovate (default)** | **≥ 75%** | Prototypes, demos with video, new hardware (hands, actuators, locomotion), design/engineering, open source, research that runs on metal, small startups shipping, product/service launches with a price or capability, clever deployments that show *how the robot works* |
+| **Business / industry (cap)** | **≤ 25%** | Funding, valuations, SPACs/IPOs, M&A, ownership stakes, pure production-unit targets, strikes, investor roundups, market/regulatory theater where the machine is secondary |
+
+**How to count the 25%:** by **story slant**, not frontmatter alone. A post tagged `Humanoids` that is only “Company X hits N units / raises $Y / IPO filed” counts as **business/industry**. A funding story that is mostly about a new hand design or open stack can sit in the build lane if the **lede and bulk** are the tech.
+
+**Per batch / daily run:**
+- Aim **at most 1 in 4** selected stories in the business lane (e.g. 8 articles → ≤2 industry; 4 articles → ≤1).
+- If the day is all capital news, **write fewer posts** rather than filling the quota with funding/strike rewrites.
+- Prefer Shar for prototype/demo/open pieces; Robb may write either lane but should not default to capital-only.
+
+**Search and selection bias:** spend most scan time on demos, SDKs, papers, product pages, and small-team launches. Industry queries are a **secondary** pass after the cool-tech pass.
+
 ### Primary Source: Curated X list (daily feed)
 
 **START HERE** for daily leads:
@@ -119,25 +137,31 @@ https://x.com/robbs2k/lists
 
 To scan:
 1. Read recent posts on the list above
-2. Note announcements, demos, pricing, open projects, deployments
+2. Note announcements, demos, pricing, open projects, deployments — **prioritize fun/tech over capital chatter**
 3. Use posts as **leads only** — then verify via company sites and secondary reporting
-4. Prefer fun/technical breakthroughs and small teams as well as industry news
+4. Prefer fun/technical breakthroughs and small teams; industry only when it is genuinely big *and* the batch still has room under the 25% cap
 
 See **`NOTES.md`** for full persona notes, vibe, and selection patterns (e.g. Tau-style service launches).
 
 ### Secondary: Web Search Queries (run after checking the X list)
 
+**Pass A — build / innovate (run first, more queries):**
 ```
-humanoid robot news today
-humanoid robot news this week
-Tesla Optimus latest news
-Figure AI news
-Boston Dynamics news
+humanoid robot demo this week
+humanoid robot prototype OR open source
+robot hand OR dexterous manipulation news
+bipedal locomotion OR whole-body control demo
+humanoid robot startup product launch
+home robot service OR cleaning robot humanoid
+robotics research paper humanoid arxiv
+Unitree OR Figure OR Boston Dynamics new capability
+```
+
+**Pass B — business (secondary, fewer picks):**
+```
 humanoid robotics funding 2026
-robot AI breakthrough
-Agility Robotics Digit update
 humanoid robot factory deployment
-robotics industry news
+robotics IPO OR SPAC
 ```
 
 ### News Sources for Verification & Additional Context
@@ -201,13 +225,15 @@ Append to the file — do NOT overwrite previous entries:
 
 ### Selection Criteria — Pick the BEST Story
 
-Rate each candidate on:
-1. **Newsworthiness** (1-5): Is this actually new? Or a rehash?
-2. **Impact** (1-5): Does this matter to the industry?
-3. **Specificity** (1-5): Are there concrete details, numbers, quotes?
+First tag each candidate **lane**: `build` (tech/prototype/design/engineering/product) or `business` (funding/IPO/M&A/units/strike/ownership). Enforce **≤25% business** in the selected set.
+
+Then rate each candidate on:
+1. **Cool / curiosity** (1-5): Would a robot nerd stop scrolling? Demo, design, clever mechanism, open stack, funny/real service?
+2. **Newsworthiness** (1-5): Is this actually new? Or a rehash?
+3. **Specificity** (1-5): Concrete details, numbers, quotes, footage from sources?
 4. **Exclusivity** (1-5): Have we covered this angle already?
 
-Pick the story with the highest total score.
+Pick highest scores **within the mix cap**. A 20/20 funding story does **not** beat a 16/20 prototype story if the batch is already business-heavy.
 
 ### Avoiding Duplicates
 
@@ -283,12 +309,12 @@ draft: false
 ### Category Selection
 | Category | Use for |
 |----------|---------|
-| `Humanoids` | News about specific humanoid robots (Optimus, Figure, Atlas, G1) |
-| `Robotics` | Broader robotics tech, components, non-humanoid robots |
+| `Humanoids` | News about specific humanoid robots (Optimus, Figure, Atlas, G1) — prefer capability/product angles over pure factory counts |
+| `Robotics` | Broader robotics tech, components, non-humanoid robots, hands, locomotion |
 | `AI` | AI systems, foundation models, computer vision for robots |
 | `Research` | Academic papers, lab breakthroughs, new techniques |
-| `Industry` | Business news, funding, partnerships, market analysis |
-| `Deals` | Product launches, pricing, availability, sales |
+| `Industry` | Business news, funding, partnerships, market analysis — **use sparingly; counts toward 25% business lane** |
+| `Deals` | Product launches, pricing, availability, sales (product-first; not “Series B only”) |
 
 ### Article Structure
 
@@ -325,6 +351,40 @@ Not a restatement of the lede — analysis and implications only.
 - Short paragraphs (2-4 sentences each)
 - Bold key terms on first mention in lists
 - Length = verified content only (often 400–900 words; longer only when sources support it)
+
+### Prose craft (anti-slop) — articles and X
+
+Goal: human, spoken, specific. Not a style stunt. Applies to **blog posts** and **X drafts** (Robb / Mechafeed). Shar follows the same craft; only persona energy differs.
+
+**Do**
+- Lead with the concrete fact; cut throat-clearing
+- Write for the spoken voice: say it out loud in your head; if it sounds like a press release, rewrite
+- Mix short and longer sentences when the thought needs room (vary for sense, not for show)
+- Prefer active verbs; unpack stacked noun chains into plain clauses when clearer
+- Use contrast when it carries real judgment (demo vs shift, order book vs slide). One clean contrast beats a template of “not X but Y” every paragraph
+- **Keep fact hedges** when sources are thin or single-source: “reportedly,” “according to [outlet]” — required by fact rules, not optional style
+
+**Don't**
+- Filler intensifiers as empty force: *genuinely, really, truly, actually* (drop unless they change meaning)
+- Corporate-register sludge: *leverage, underscore, reflect, elevate, unlock, robust, seamless, thrilled to, groundbreaking, game-changing, revolutionary*
+- Throat-clearing openers: *In today’s…, It’s worth noting…, At the end of the day…, Let’s dive in…*
+- Performed enthusiasm or cheerleading
+- Recap the lede in the close — **A Human’s Take** is judgment and implications only
+- Em-dash spam (prefer period or comma; one dash is fine when it earns it)
+- Forced rhythm templates: empty antithesis every graf, rule-of-three for cadence, anaphora stacks (*No X. No Y. No Z.*) as a default move
+- Stacked imperative / slogan parataxis (*Show the shift. Show what broke. Show who paid.*) — reads as AI/LinkedIn cadence; write one complete thought instead
+- Parallel sentence structures used only as decoration (parallel form is fine for specs, feature lists, real comparisons)
+
+**X extras** (same blacklist; different length)
+- One idea per post. Prefer a single sentence or two that sound like a person typing, not a slogan stack
+- Still no corporate verbs, hype, or stating unverified claims as fact
+- Soft-link: take first, URL last or in a reply
+
+**Not bans (agents often over-correct)**
+- Hedging for truth → required when warranted
+- Contrast for judgment → allowed (once, when earned — not as a chant)
+- Lists of three when the content has three items → fine
+- Technical nouns (*deployment, funding, authorization*) → fine; prefer a verb when the noun pile is fog
 
 ### Media: images + video (required)
 

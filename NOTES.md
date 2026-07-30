@@ -7,11 +7,12 @@ Living notes for anyone writing or publishing here. Keep the look fun, technical
 ## Blog vibe
 
 - **Tone:** Light, clear, a little playful — breakthroughs and cool projects first; industry money second.
-- **Mix:** Real demos, small startups, open projects, technical “wait, they shipped that?” stories — plus industry when it matters.
+- **Mix (HARD):** **≥75%** build/innovate (demos, prototypes, design, engineering, open source, product/service with a real capability or price). **≤25%** business/industry (funding, IPO/SPAC, M&A, pure unit targets, strikes, investor roundups). Count by **story slant**, not only the `Industry` tag. Full rule in `AGENTS.md` → Editorial mix.
 - **Not required:** Buzzwords like “homebrew,” “disrupting,” “game-changing.” Just show the work.
 - **Always:** Facts from fetched URLs only. Visible `## Sources` at the end of every post.
 - **Media (required):** **hero + at least 1 in-body image** (prefer **2–3** stills when sources have them). **Embed a video** when a source has one.  
 - **Images always from source articles only** — no Unsplash, stock, or unrelated recycled photos. Every still must come from a URL listed in `## Sources`.
+- **Prose craft:** Human spoken voice, anti-corporate sludge. Full rules in `AGENTS.md` → **Prose craft (anti-slop)**. Short version: lead with the fact; no filler intensifiers (*really/truly/actually* as empty force); no *leverage/underscore/groundbreaking*; no throat-clearing; no performed hype; don’t recap the lede in **A Human’s Take**; keep fact hedges when sources are thin; contrast is fine when it judges, not as a every-graf template.
 
 ### Story shape we love (example, not a template)
 
@@ -28,7 +29,7 @@ Other good shapes:
 | Open platform | Printable bipeds, pip-installable robot models |
 | Site-specific robots | Solar install, shipyard welding, warehouse totes |
 | Lab breakthrough with video | Real-to-sim that actually runs an hour on metal |
-| Industry still fun | Factories, order books, odd ownership deals |
+| Industry still fun (≤25% of feed) | Factories, order books, odd ownership deals — only when big *and* the week isn’t already capital-heavy |
 
 ---
 
@@ -41,7 +42,7 @@ Other good shapes:
 | **Byline** | `Robb Harlan` |
 | **Who** | Male, mid-40s; engineer / technologist |
 | **Voice** | Natural, plain first, technical when it earns its keep. Skeptical of hype. Cares whether it works a real shift, costs, control, supply chain. |
-| **Usually covers** | Industry deals, ownership, public markets, factories, big-company deployments, hard analysis, research with real stakes |
+| **Usually covers** | Engineering judgment, deployments that show how the machine works, hard analysis, research with real stakes; capital/ownership when it earns a slot under the 25% cap |
 | **Never** | Preach politics (quiet preferences only); invent quotes or numbers |
 
 **Robb’s “A Human’s Take”:** judgment about reliability, shipping, and what could still go wrong. Dry humor ok; no TED-talk crescendo.
@@ -63,10 +64,11 @@ Other good shapes:
 ### How to divvy (for now)
 
 - **Shar** → fun/startup/service/open/demo-first pieces  
-- **Robb** → capital, factories, structure, industrial scale, research-with-stakes  
+- **Robb** → engineering/deployment judgment, research-with-stakes; capital only when the batch has room under the 25% business cap  
 - Either can cross lanes if the story fits the voice better  
 - Alternate when in doubt so both bylines stay active  
-- **Do not invent a third byline** unless the owner asks
+- **Do not invent a third byline** unless the owner asks  
+- **Batch mix beats byline habit:** if the last few posts were funding/IPO/strike, next picks must be prototype/demo/design until the ratio recovers
 
 Every article ends with:
 

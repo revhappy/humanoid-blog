@@ -20,7 +20,7 @@ Pattern this month in humanoids: the posts that stick have a price, a city, or h
 ```
 
 ```
-I’m not anti-demo. I’m anti-demo-as-product. Show the shift. Show what broke. Show who paid.
+I’m not anti-demo. I’m anti-demo-as-product. I’ll take a messy full shift with a real invoice over another clean parkour clip.
 ```
 
 ```
@@ -35,6 +35,29 @@ Unit economics will sort this industry faster than another parkour clip. Uncomfo
 SF now has humanoid cleaning you can argue about over coffee: roughly $30/hr invite-only (operator+AI in the loop) vs whole-apartment style visits at a higher flat fee.
 
 That’s a realer market than “home robot someday.” Privacy and “what’s off-limits” will decide if it lasts.
+```
+
+---
+
+## QT / SOLO — Tau $30/hr launch (playful, 2026-07-30)
+
+**Lead:** @alexkoch_ai / Tau — SF humanoid cleaning at $30/hr, invite-only, operator+AI, footage 1×.  
+https://x.com/alexkoch_ai/status/2082135074615763251
+
+**QT option** (paste as quote of that post):
+
+```
+A humanoid that gets out of a car, walks upstairs, and cleans for thirty bucks an hour in SF is the most “wait, we live here now?” product in the feed this week.
+
+Still operator + AI in the loop, invite-only for now. I’m less interested in the sci-fi and more in whether the waitlist people rebook after week two.
+```
+
+**SOLO option** (no link; drop URL in a reply if someone asks):
+
+```
+SF will rent you a humanoid cleaner for $30 an hour. Invite-only, person + AI on the sticks, video at real speed including the car-door bit.
+
+I want that on a menu next to coffee more than I want another factory parkour reel.
 ```
 
 ---

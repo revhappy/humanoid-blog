@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-07-30T19:37:54.420Z
+Generated: 2026-07-30T20:49:22.585Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -75,6 +75,28 @@ https://mechafeed.com/blog/figure-03-bmw-spartanburg-sequencing/
 
 ---
 
+## Gemini Robotics 2: Whole-Body Control From Feet to Fingertips
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/gemini-robotics-2-whole-body-intelligence/
+
+### SOLO (no link)
+
+```
+Whole-body + continuous video progress is the part I care about.  Tabletop VLAs already flood timelines; getting a biped to walk a can to a bottom shelf without a human on a stick is a different problem class.
+```
+
+### SOFT-LINK variant
+
+```
+Whole-body + continuous video progress is the part I care about.  Tabletop VLAs already flood timelines; getting a biped to walk a can to a bottom shelf without a human on a stick is a different problem class.
+
+https://mechafeed.com/blog/gemini-robotics-2-whole-body-intelligence/
+```
+
+---
+
 ## General Intuition Raises $320M to Train Agents on Gameplay Action Data
 
 - Author on blog: Shar Hendrix
@@ -115,6 +137,50 @@ I’m less interested in the “first robot strike” headline than in the split
 I’m less interested in the “first robot strike” headline than in the split story: one side bargaining against a 2028 U. S.
 
 https://mechafeed.com/blog/hyundai-ulsan-humanoid-robot-strike/
+```
+
+---
+
+## NVIDIA GR00T 1.7 and Isaac Teleop Land in Hugging Face LeRobot
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/nvidia-lerobot-groot-1-7-isaac-teleop/
+
+### SOLO (no link)
+
+```
+This is the kind of drop that changes weekend lab projects.  One open VLA, one teleop path, one dataset format, and install commands that fit on a slide.
+```
+
+### SOFT-LINK variant
+
+```
+This is the kind of drop that changes weekend lab projects.  One open VLA, one teleop path, one dataset format, and install commands that fit on a slide.
+
+https://mechafeed.com/blog/nvidia-lerobot-groot-1-7-isaac-teleop/
+```
+
+---
+
+## RoboCup 2026: First Full 11-vs-11 Humanoid Soccer Match
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/robocup-2026-first-11v11-humanoid-soccer/
+
+### SOLO (no link)
+
+```
+I’m smiling at this one.  Funding decks talk “general purpose.
+```
+
+### SOFT-LINK variant
+
+```
+I’m smiling at this one.  Funding decks talk “general purpose.
+
+https://mechafeed.com/blog/robocup-2026-first-11v11-humanoid-soccer/
 ```
 
 ---

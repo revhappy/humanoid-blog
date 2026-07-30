@@ -499,3 +499,39 @@ pm run robb-x
 - Figure 03 Spartanburg: hours / intervention rates on sequencing
 - Aimoga: split humanoid vs quadruped in the 2,000 overseas figure if disclosed later
 
+
+## 2026-07-30 — On-demand pipeline (build-lane mix fix)
+
+### Preflight
+- Date (Pacific): 2026-07-30
+- Prior same-day scheduled run published 7 articles (industry-heavy). This run enforces new editorial mix: ≥75% build / ≤25% business.
+
+### X List Scan
+- Primary list https://x.com/i/lists/1805786050763087967 — access PARTIAL/NOISY (disclosed)
+- Strong public lead: @GoogleDeepMind Gemini Robotics 2 launch (whole-body VLA, ER 2, On-Device 2) + Apollo/Duo/Spot demos
+- Owner lists login-walled
+
+### Web Search Findings
+1. **[CANDIDATE→WRITTEN]** Gemini Robotics 2 / ER 2 / On-Device 2 — deepmind.google blog + product page + blog.google ER 2 + Neowin — lane: **build**
+2. **[CANDIDATE→WRITTEN]** NVIDIA GR00T 1.7 + Isaac Teleop in Hugging Face LeRobot — HF blog + NVIDIA blog — lane: **build** (not yet covered; distinct from lerobot-humanoid-open-source-2500)
+3. **[CANDIDATE→WRITTEN]** RoboCup 2026 first full 11-vs-11 humanoid soccer — robocup.org + IEEE Spectrum Video Friday — lane: **build** (fun/engineering)
+4. **[SKIP: already covered]** Apptronik Robot Park / Apollo 2 facility, 1X hands, Sunday laundry, Tau cleaning, funding/IPO cluster
+5. **[SKIP: business lane]** Additional funding/unit stories intentionally deprioritized under 25% cap
+
+### Selected for Writing
+| # | Slug | Author | Category | Lane |
+|---|------|--------|----------|------|
+| 1 | gemini-robotics-2-whole-body-intelligence | Robb Harlan | AI | build |
+| 2 | nvidia-lerobot-groot-1-7-isaac-teleop | Shar Hendrix | AI | build |
+| 3 | robocup-2026-first-11v11-humanoid-soccer | Shar Hendrix | Humanoids | build |
+
+### Mix check
+- Build/innovate: 3 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Aim 8–10 when sources support; after heavy morning Industry batch, prioritized quality build-lane only. Solid distinct new tech: 3. No padding with capital news.
+
+### Notes for Future Agents
+- Gemini VLA/On-Device still trusted-tester — watch partner deployment metrics
+- RoboCup: seek Booster Robotics hardware specs if published
+- Continue biasing Pass A (demos/open/product) over funding

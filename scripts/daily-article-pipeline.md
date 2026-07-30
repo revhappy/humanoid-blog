@@ -22,6 +22,17 @@ Follow `AGENTS.md` and `NOTES.md` exactly. Zero hallucination. Every claim needs
 
 Each article must be a **genuinely different story** (different company, product, deal, paper, or deployment). No angle-spinning the same announcement into multiple posts.
 
+### Editorial mix (HARD — see AGENTS.md)
+
+| Lane | Cap | Examples |
+|------|-----|----------|
+| **Build / innovate** | **≥ 75%** of the batch | Demos, prototypes, hands/locomotion, design, open source, research on metal, product/service with capability or price |
+| **Business / industry** | **≤ 25%** of the batch | Funding, IPO/SPAC, M&A, pure unit/production targets, strikes, investor roundups |
+
+Count by **story slant**, not only `category: Industry`. Example: 8 posts → ≤2 business; 4 posts → ≤1. If the day is all capital news, publish fewer articles rather than stuffing the quota with money stories.
+
+**Scan bias:** Pass A = cool tech / startups / demos / papers. Pass B = funding / factory counts (secondary).
+
 ## Time budget
 
 - Complete the full run in one session.
@@ -46,11 +57,11 @@ Each article must be a **genuinely different story** (different company, product
 
 **Web searches (run several):**
 
-- humanoid robot news today / this week  
-- Tesla Optimus, Figure AI, Boston Dynamics, Unitree, Agility, Apptronik, 1X, Sanctuary, UBTECH, Fourier, Agibot, etc.  
-- humanoid robotics funding / factory deployment / research breakthrough  
+- **Pass A (first):** demos, prototypes, open source, robot hands, locomotion, product launches, small startups, research breakthroughs  
+- Tesla Optimus, Figure AI, Boston Dynamics, Unitree, Agility, Apptronik, 1X, Sanctuary, UBTECH, Fourier, Agibot, etc. — **capability and product angles first**  
+- **Pass B (second):** funding / IPO / factory unit counts — only enough to fill the ≤25% business lane  
 
-Cover categories: **Humanoids, Robotics, AI, Research, Industry, Deals**.
+Cover categories: **Humanoids, Robotics, AI, Research, Industry, Deals**. Prefer Humanoids/Robotics/AI/Research/Deals (product-first) over Industry.
 
 ### 3. Log candidates
 
@@ -68,14 +79,17 @@ Append to `src/content/research-log.md` (never overwrite):
 ...
 
 ### Selected for Writing (ranked)
-1. Story — why
+1. Story — lane: build|business — why
 ...
+
+### Mix check
+- Build/innovate: X | Business/industry: Y | Business share: Y/(X+Y) must be ≤25%
 
 ### Volume note
 - Aim: 8–10 | Solid candidates found: N | Writing: M
 ```
 
-Score candidates (newsworthiness, impact, specificity, exclusivity). Pick the top **M** stories where M ≤ 10 and every pick has enough primary/secondary source depth.
+Score candidates (cool/curiosity, newsworthiness, specificity, exclusivity). Tag lane `build` vs `business`. Pick the top **M** stories where M ≤ 10, every pick has source depth, and **business ≤ 25%** of M.
 
 ### 4. Deep research + write (per story)
 

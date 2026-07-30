@@ -41,7 +41,7 @@
 ```
 I’m not anti-demo. I’m anti-demo-as-product.
 
-Show the shift. Show what broke. Show who paid.
+I’ll take a messy full shift with a real invoice over another clean parkour clip.
 ```
 
 ### SOLO 2 — today’s big story (FCC, facts only)
