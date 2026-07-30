@@ -3,9 +3,163 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-07-29T23:17:52.539Z
+Generated: 2026-07-30T19:37:54.420Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## AGIBOT Rolls Its 15,000th Robot Off the Line
+
+- Author on blog: Robb Harlan
+- Category: Industry
+- Article: https://mechafeed.com/blog/agibot-15000-production-milestone/
+
+### SOLO (no link)
+
+```
+Fifteen thousand off the line is a real industrial number, not a keynote prop count.  I still want the boring follow-up: how many of those units are in paid customer shifts versus internal fleets and demos, and what the G2’s mean time between human rescue looks like on…
+```
+
+### SOFT-LINK variant
+
+```
+Fifteen thousand off the line is a real industrial number, not a keynote prop count.  I still want the boring follow-up: how many of those units are in paid customer shifts versus internal fleets and …
+
+https://mechafeed.com/blog/agibot-15000-production-milestone/
+```
+
+---
+
+## Chery’s Aimoga Passes 2,000 Overseas Robot Deliveries
+
+- Author on blog: Shar Hendrix
+- Category: Deals
+- Article: https://mechafeed.com/blog/chery-aimoga-2000-overseas-deliveries/
+
+### SOLO (no link)
+
+```
+I’m so here for shipment counts that show up with a city, a port, and a price tag.  Two thousand overseas deliveries still mixes humanoids and other form factors, and the JD.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for shipment counts that show up with a city, a port, and a price tag.  Two thousand overseas deliveries still mixes humanoids and other form factors, and the JD.
+
+https://mechafeed.com/blog/chery-aimoga-2000-overseas-deliveries/
+```
+
+---
+
+## Figure 03 Moves Into Sequencing Logistics at BMW Spartanburg
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/figure-03-bmw-spartanburg-sequencing/
+
+### SOLO (no link)
+
+```
+Sequencing is the unsexy job that actually breaks fixed automation — messy bins, shifting parts, carts that never park in the same pixel.  If Figure 03 holds cycle time and error rates here for months, not a demo week, that matters more than another laundry fold clip.
+```
+
+### SOFT-LINK variant
+
+```
+Sequencing is the unsexy job that actually breaks fixed automation — messy bins, shifting parts, carts that never park in the same pixel.  If Figure 03 holds cycle time and error rates here for months…
+
+https://mechafeed.com/blog/figure-03-bmw-spartanburg-sequencing/
+```
+
+---
+
+## General Intuition Raises $320M to Train Agents on Gameplay Action Data
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/general-intuition-320m-gameplay-agents/
+
+### SOLO (no link)
+
+```
+Eight minutes of robot data after a mountain of labeled gameplay is a delicious claim.  I want the next receipt: multi-hour outdoor runs, failure modes when lighting and people break the game-world priors, and whether API customers get the same transfer or only the lab demo.
+```
+
+### SOFT-LINK variant
+
+```
+Eight minutes of robot data after a mountain of labeled gameplay is a delicious claim.  I want the next receipt: multi-hour outdoor runs, failure modes when lighting and people break the game-world pr…
+
+https://mechafeed.com/blog/general-intuition-320m-gameplay-agents/
+```
+
+---
+
+## Hyundai Workers Strike as Atlas Humanoids Reach the Bargaining Table
+
+- Author on blog: Robb Harlan
+- Category: Industry
+- Article: https://mechafeed.com/blog/hyundai-ulsan-humanoid-robot-strike/
+
+### SOLO (no link)
+
+```
+I’m less interested in the “first robot strike” headline than in the split story: one side bargaining against a 2028 U. S.
+```
+
+### SOFT-LINK variant
+
+```
+I’m less interested in the “first robot strike” headline than in the split story: one side bargaining against a 2028 U. S.
+
+https://mechafeed.com/blog/hyundai-ulsan-humanoid-robot-strike/
+```
+
+---
+
+## Sanctuary AI Pivots Physical AI Onto Today’s Factory Arms
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/sanctuary-ai-physical-ai-industrial-pivot/
+
+### SOLO (no link)
+
+```
+This is the unglamorous version of physical AI I actually respect — cycle time, success rate, conveyor, flexible wire.  Humanoids remain in the long-term story, but the company is shipping value on arms that already sit in Tier 1 plants.
+```
+
+### SOFT-LINK variant
+
+```
+This is the unglamorous version of physical AI I actually respect — cycle time, success rate, conveyor, flexible wire.  Humanoids remain in the long-term story, but the company is shipping value on ar…
+
+https://mechafeed.com/blog/sanctuary-ai-physical-ai-industrial-pivot/
+```
+
+---
+
+## XPeng Targets 1,000+ Iron Humanoids a Month by Year-End
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/xpeng-iron-1000-month-mass-production/
+
+### SOLO (no link)
+
+```
+A thousand units a month is a factory claim, not a keynote vibe.  What I care about is whether those robots show up as working store assistants in 2027 with real uptime, or as showroom mannequins that need a teleoperator in the back room.
+```
+
+### SOFT-LINK variant
+
+```
+A thousand units a month is a factory claim, not a keynote vibe.  What I care about is whether those robots show up as working store assistants in 2027 with real uptime, or as showroom mannequins that…
+
+https://mechafeed.com/blog/xpeng-iron-1000-month-mass-production/
+```
 
 ---
 

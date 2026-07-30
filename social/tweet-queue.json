@@ -1,7 +1,77 @@
 {
-  "generatedAt": "2026-07-29T23:17:50.770Z",
+  "generatedAt": "2026-07-30T19:37:52.379Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "agibot-15000-production-milestone",
+      "title": "AGIBOT Rolls Its 15,000th Robot Off the Line",
+      "pubDate": "2026-07-30",
+      "category": "Industry",
+      "url": "https://mechafeed.com/blog/agibot-15000-production-milestone/",
+      "tweet": "AGIBOT Rolls Its 15,000th Robot Off the Line\n\nAGIBOT says its 15,000th unit — a G2 industrial embodied robot — left production in June 2026, after a rapid ramp from…\n\nhttps://mechafeed.com/blog/agibot-15000-production-milestone/\n\n#RoboticsIndustry #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=AGIBOT%20Rolls%20Its%2015%2C000th%20Robot%20Off%20the%20Line%0A%0AAGIBOT%20says%20its%2015%2C000th%20unit%20%E2%80%94%20a%20G2%20industrial%20embodied%20robot%20%E2%80%94%20left%20production%20in%20June%202026%2C%20after%20a%20rapid%20ramp%20from%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fagibot-15000-production-milestone%2F%0A%0A%23RoboticsIndustry%20%23Humanoids",
+      "chars": 258
+    },
+    {
+      "id": "chery-aimoga-2000-overseas-deliveries",
+      "title": "Chery’s Aimoga Passes 2,000 Overseas Robot Deliveries",
+      "pubDate": "2026-07-30",
+      "category": "Deals",
+      "url": "https://mechafeed.com/blog/chery-aimoga-2000-overseas-deliveries/",
+      "tweet": "Chery’s Aimoga Passes 2,000 Overseas Robot Deliveries\n\nChery-incubated Aimoga marks 2,000 cumulative overseas deliveries across 60+ countries, with JD.com humanoid pricing at…\n\nhttps://mechafeed.com/blog/chery-aimoga-2000-overseas-deliveries/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Chery%E2%80%99s%20Aimoga%20Passes%202%2C000%20Overseas%20Robot%20Deliveries%0A%0AChery-incubated%20Aimoga%20marks%202%2C000%20cumulative%20overseas%20deliveries%20across%2060%2B%20countries%2C%20with%20JD.com%20humanoid%20pricing%20at%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fchery-aimoga-2000-overseas-deliveries%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 264
+    },
+    {
+      "id": "figure-03-bmw-spartanburg-sequencing",
+      "title": "Figure 03 Moves Into Sequencing Logistics at BMW Spartanburg",
+      "pubDate": "2026-07-30",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/figure-03-bmw-spartanburg-sequencing/",
+      "tweet": "Figure 03 Moves Into Sequencing Logistics at BMW Spartanburg\n\nBMW and Figure put Figure 03 on logistics sequencing in Hall 52 after Figure 02’s body-shop run on 30,000+ X3 vehicles.\n\nhttps://mechafeed.com/blog/figure-03-bmw-spartanburg-sequencing/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Figure%2003%20Moves%20Into%20Sequencing%20Logistics%20at%20BMW%20Spartanburg%0A%0ABMW%20and%20Figure%20put%20Figure%2003%20on%20logistics%20sequencing%20in%20Hall%2052%20after%20Figure%2002%E2%80%99s%20body-shop%20run%20on%2030%2C000%2B%20X3%20vehicles.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffigure-03-bmw-spartanburg-sequencing%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 275
+    },
+    {
+      "id": "general-intuition-320m-gameplay-agents",
+      "title": "General Intuition Raises $320M to Train Agents on Gameplay Action Data",
+      "pubDate": "2026-07-30",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/general-intuition-320m-gameplay-agents/",
+      "tweet": "General Intuition Raises $320M to Train Agents on Gameplay Action Data\n\nKhosla-led round values General Intuition at $2.3B as the startup fine-tunes models from Medal gameplay labels onto…\n\nhttps://mechafeed.com/blog/general-intuition-320m-gameplay-agents/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=General%20Intuition%20Raises%20%24320M%20to%20Train%20Agents%20on%20Gameplay%20Action%20Data%0A%0AKhosla-led%20round%20values%20General%20Intuition%20at%20%242.3B%20as%20the%20startup%20fine-tunes%20models%20from%20Medal%20gameplay%20labels%20onto%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgeneral-intuition-320m-gameplay-agents%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 272
+    },
+    {
+      "id": "hyundai-ulsan-humanoid-robot-strike",
+      "title": "Hyundai Workers Strike as Atlas Humanoids Reach the Bargaining Table",
+      "pubDate": "2026-07-30",
+      "category": "Industry",
+      "url": "https://mechafeed.com/blog/hyundai-ulsan-humanoid-robot-strike/",
+      "tweet": "Hyundai Workers Strike as Atlas Humanoids Reach the Bargaining Table\n\nhttps://mechafeed.com/blog/hyundai-ulsan-humanoid-robot-strike/\n\n#RoboticsIndustry",
+      "intent": "https://twitter.com/intent/tweet?text=Hyundai%20Workers%20Strike%20as%20Atlas%20Humanoids%20Reach%20the%20Bargaining%20Table%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhyundai-ulsan-humanoid-robot-strike%2F%0A%0A%23RoboticsIndustry",
+      "chars": 152
+    },
+    {
+      "id": "sanctuary-ai-physical-ai-industrial-pivot",
+      "title": "Sanctuary AI Pivots Physical AI Onto Today’s Factory Arms",
+      "pubDate": "2026-07-30",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/sanctuary-ai-physical-ai-industrial-pivot/",
+      "tweet": "Sanctuary AI Pivots Physical AI Onto Today’s Factory Arms\n\nSanctuary reports 99.5%+ success at 2.54s cycle time on a Tier 1 wire-plugging task — and a strategy to run Physical AI…\n\nhttps://mechafeed.com/blog/sanctuary-ai-physical-ai-industrial-pivot/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Sanctuary%20AI%20Pivots%20Physical%20AI%20Onto%20Today%E2%80%99s%20Factory%20Arms%0A%0ASanctuary%20reports%2099.5%25%2B%20success%20at%202.54s%20cycle%20time%20on%20a%20Tier%201%20wire-plugging%20task%20%E2%80%94%20and%20a%20strategy%20to%20run%20Physical%20AI%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsanctuary-ai-physical-ai-industrial-pivot%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 266
+    },
+    {
+      "id": "xpeng-iron-1000-month-mass-production",
+      "title": "XPeng Targets 1,000+ Iron Humanoids a Month by Year-End",
+      "pubDate": "2026-07-30",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/xpeng-iron-1000-month-mass-production/",
+      "tweet": "XPeng Targets 1,000+ Iron Humanoids a Month by Year-End\n\nCnEVPost, citing Wall Street Journal sources, says XPeng aims for more than 1,000 Iron units monthly by end of 2026 and…\n\nhttps://mechafeed.com/blog/xpeng-iron-1000-month-mass-production/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=XPeng%20Targets%201%2C000%2B%20Iron%20Humanoids%20a%20Month%20by%20Year-End%0A%0ACnEVPost%2C%20citing%20Wall%20Street%20Journal%20sources%2C%20says%20XPeng%20aims%20for%20more%20than%201%2C000%20Iron%20units%20monthly%20by%20end%20of%202026%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fxpeng-iron-1000-month-mass-production%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 272
+    },
     {
       "id": "ant-group-zeroth-73m-humanoid-bets",
       "title": "Ant Group Leads $73.6M Zeroth Round — Its 12th Humanoid Bet",
