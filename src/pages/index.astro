@@ -3,23 +3,17 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import HeroArticle from '../components/HeroArticle.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import Sidebar from '../components/Sidebar.astro';
-import { getCollection } from 'astro:content';
 import { withBase } from '../lib/paths';
+import { getPublishedPosts } from '../lib/posts';
 
-const allPosts = (await getCollection('blog'))
-  .filter(post => !post.data.draft)
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+// Newest first (pubDate, then file mtime for same-day ties).
+const allPosts = await getPublishedPosts();
 
-// Homepage hero rotates daily among the newest posts.
-// Manual `featured: true` still wins when set; otherwise UTC day picks from the top 5.
-// Production refreshes via daily GitHub Actions rebuild (see deploy.yml schedule).
-const manualFeatured = allPosts.find(p => p.data.featured);
-const heroPool = allPosts.slice(0, Math.min(5, allPosts.length));
-const dayIndex = Math.floor(Date.now() / 86_400_000);
-const featuredPost =
-  manualFeatured ||
-  (heroPool.length ? heroPool[dayIndex % heroPool.length] : allPosts[0]);
-const remainingPosts = allPosts.filter(p => p.id !== featuredPost.id);
+// Hero = manual `featured: true` if set, else the single newest post.
+// (Daily rotation among top 5 made the homepage feel random.)
+const manualFeatured = allPosts.find((p) => p.data.featured);
+const featuredPost = manualFeatured ?? allPosts[0];
+const remainingPosts = allPosts.filter((p) => p.id !== featuredPost?.id);
 
 ---
 

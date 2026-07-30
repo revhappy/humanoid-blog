@@ -1,6 +1,6 @@
 import type { APIRoute } from 'astro';
-import { getCollection } from 'astro:content';
 import { absoluteUrl, siteConfig } from '../lib/site';
+import { getPublishedPosts } from '../lib/posts';
 
 function escapeXml(value: string): string {
   return value
@@ -13,9 +13,7 @@ function escapeXml(value: string): string {
 
 /** Real RSS 2.0 feed — built into dist/rss.xml on every deploy. */
 export const GET: APIRoute = async () => {
-  const posts = (await getCollection('blog'))
-    .filter((post) => !post.data.draft)
-    .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+  const posts = await getPublishedPosts();
 
   const channelLink = absoluteUrl();
   const feedSelf = absoluteUrl('rss.xml');

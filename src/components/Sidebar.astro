@@ -1,12 +1,10 @@
 ---
 import Newsletter from './Newsletter.astro';
-import { getCollection } from 'astro:content';
 import { withBase } from '../lib/paths';
+import { getPublishedPosts } from '../lib/posts';
 
-const allPosts = (await getCollection('blog')).filter((p) => !p.data.draft);
-const trendingPosts = allPosts
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 5);
+const allPosts = await getPublishedPosts();
+const trendingPosts = allPosts.slice(0, 5);
 
 // Deals reserved for sponsors — not listed publicly (schema still allows it)
 const categories = [

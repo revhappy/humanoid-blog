@@ -5,18 +5,19 @@ import Sidebar from '../../components/Sidebar.astro';
 import { getCollection } from 'astro:content';
 import { withBase } from '../../lib/paths';
 import { siteConfig } from '../../lib/site';
+import { sortPostsNewestFirst } from '../../lib/posts';
 
 export async function getStaticPaths() {
   const allPosts = await getCollection('blog');
-  const categories = [...new Set(allPosts.map(p => p.data.category))];
+  const categories = [...new Set(allPosts.map((p) => p.data.category))];
 
-  return categories.map(category => ({
+  return categories.map((category) => ({
     params: { category: category.toLowerCase() },
     props: {
       category,
       posts: allPosts
-        .filter(p => p.data.category === category && !p.data.draft)
-        .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+        .filter((p) => p.data.category === category && !p.data.draft)
+        .sort(sortPostsNewestFirst),
     },
   }));
 }
