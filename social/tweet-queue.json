@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-07-31T16:08:33.829Z",
+  "generatedAt": "2026-07-31T21:05:51.503Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "encord-brain-waves-physical-ai",
+      "title": "Encord Is Tagging Brain Waves While Pilots Train Robot Arms",
+      "pubDate": "2026-07-31",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/encord-brain-waves-physical-ai/",
+      "tweet": "Encord Is Tagging Brain Waves While Pilots Train Robot Arms\n\nTechCrunch visits Encord’s San Leandro warehouse, where Zander Labs EEG headsets and muscle sensors join egocentric…\n\nhttps://mechafeed.com/blog/encord-brain-waves-physical-ai/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Encord%20Is%20Tagging%20Brain%20Waves%20While%20Pilots%20Train%20Robot%20Arms%0A%0ATechCrunch%20visits%20Encord%E2%80%99s%20San%20Leandro%20warehouse%2C%20where%20Zander%20Labs%20EEG%20headsets%20and%20muscle%20sensors%20join%20egocentric%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fencord-brain-waves-physical-ai%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 253
+    },
     {
       "id": "flexion-niantic-nvidia-sim2real",
       "title": "Flexion, Niantic Spatial, and NVIDIA Close a Sim2Real Loop for Humanoids",
@@ -10,6 +20,26 @@
       "url": "https://mechafeed.com/blog/flexion-niantic-nvidia-sim2real/",
       "tweet": "Flexion, Niantic Spatial, and NVIDIA Close a Sim2Real Loop for Humanoids\n\nRGB-only navigation policies trained in Gaussian-splat digital twins transfer zero-shot from Isaac Lab to real offices.\n\nhttps://mechafeed.com/blog/flexion-niantic-nvidia-sim2real/\n\n#AI #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=Flexion%2C%20Niantic%20Spatial%2C%20and%20NVIDIA%20Close%20a%20Sim2Real%20Loop%20for%20Humanoids%0A%0ARGB-only%20navigation%20policies%20trained%20in%20Gaussian-splat%20digital%20twins%20transfer%20zero-shot%20from%20Isaac%20Lab%20to%20real%20offices.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fflexion-niantic-nvidia-sim2real%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 270
+    },
+    {
+      "id": "handroid-reconfigurable-hand-humanoid",
+      "title": "Handroid Turns One 27-DoF Body Into a Hand or a Tiny Humanoid",
+      "pubDate": "2026-07-31",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/handroid-reconfigurable-hand-humanoid/",
+      "tweet": "Handroid Turns One 27-DoF Body Into a Hand or a Tiny Humanoid\n\nUNC and Stanford researchers open-source Handroid, a 0.33 m, 2.05 kg platform that reconfigures between dexterous hand…\n\nhttps://mechafeed.com/blog/handroid-reconfigurable-hand-humanoid/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Handroid%20Turns%20One%2027-DoF%20Body%20Into%20a%20Hand%20or%20a%20Tiny%20Humanoid%0A%0AUNC%20and%20Stanford%20researchers%20open-source%20Handroid%2C%20a%200.33%20m%2C%202.05%20kg%20platform%20that%20reconfigures%20between%20dexterous%20hand%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhandroid-reconfigurable-hand-humanoid%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 279
+    },
+    {
+      "id": "menlo-asimov-open-source-humanoid",
+      "title": "Menlo’s Asimov 1: Open-Hardware Humanoid You Build Yourself",
+      "pubDate": "2026-07-31",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/menlo-asimov-open-source-humanoid/",
+      "tweet": "Menlo’s Asimov 1: Open-Hardware Humanoid You Build Yourself\n\nMenlo Research’s Asimov 1 is a 1.2 m, 35 kg, 25+2 DoF educational humanoid with open design, kit pricing around $20k,…\n\nhttps://mechafeed.com/blog/menlo-asimov-open-source-humanoid/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Menlo%E2%80%99s%20Asimov%201%3A%20Open-Hardware%20Humanoid%20You%20Build%20Yourself%0A%0AMenlo%20Research%E2%80%99s%20Asimov%201%20is%20a%201.2%20m%2C%2035%20kg%2C%2025%2B2%20DoF%20educational%20humanoid%20with%20open%20design%2C%20kit%20pricing%20around%20%2420k%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmenlo-asimov-open-source-humanoid%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
       "chars": 270
     },
     {
@@ -31,6 +61,36 @@
       "tweet": "NC AI and CMES Robotics Team Up on Physical AI for Factories\n\nKorea’s NC AI and listed CMES Robotics signed an MOU to pair world models and robot foundation models with industrial…\n\nhttps://mechafeed.com/blog/nc-ai-cmes-physical-ai-mou/\n\n#Robotics #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=NC%20AI%20and%20CMES%20Robotics%20Team%20Up%20on%20Physical%20AI%20for%20Factories%0A%0AKorea%E2%80%99s%20NC%20AI%20and%20listed%20CMES%20Robotics%20signed%20an%20MOU%20to%20pair%20world%20models%20and%20robot%20foundation%20models%20with%20industrial%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnc-ai-cmes-physical-ai-mou%2F%0A%0A%23Robotics%20%23Humanoids",
       "chars": 258
+    },
+    {
+      "id": "neura-4ne1-computex-collapse",
+      "title": "NEURA’s 4NE1 Folded Mid-Stage at Computex — Qualcomm Calls It Safe-Collapse",
+      "pubDate": "2026-07-31",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/neura-4ne1-computex-collapse/",
+      "tweet": "NEURA’s 4NE1 Folded Mid-Stage at Computex — Qualcomm Calls It Safe-Collapse\n\nNEURA Robotics’ Qualcomm-powered 4NE1 Gen 3.5 humanoid collapsed during a Computex 2026 demo; Qualcomm says a…\n\nhttps://mechafeed.com/blog/neura-4ne1-computex-collapse/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=NEURA%E2%80%99s%204NE1%20Folded%20Mid-Stage%20at%20Computex%20%E2%80%94%20Qualcomm%20Calls%20It%20Safe-Collapse%0A%0ANEURA%20Robotics%E2%80%99%20Qualcomm-powered%204NE1%20Gen%203.5%20humanoid%20collapsed%20during%20a%20Computex%202026%20demo%3B%20Qualcomm%20says%20a%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fneura-4ne1-computex-collapse%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 273
+    },
+    {
+      "id": "orca-hand-eth-open-source",
+      "title": "ETH’s ORCA Hand: 17-DoF Open Dexterity for Under 2,000 CHF",
+      "pubDate": "2026-07-31",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/orca-hand-eth-open-source/",
+      "tweet": "ETH’s ORCA Hand: 17-DoF Open Dexterity for Under 2,000 CHF\n\nETH Zurich Soft Robotics Lab’s ORCA hand is a tendon-driven, open-source anthropomorphic hand with tactile sensors,…\n\nhttps://mechafeed.com/blog/orca-hand-eth-open-source/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=ETH%E2%80%99s%20ORCA%20Hand%3A%2017-DoF%20Open%20Dexterity%20for%20Under%202%2C000%20CHF%0A%0AETH%20Zurich%20Soft%20Robotics%20Lab%E2%80%99s%20ORCA%20hand%20is%20a%20tendon-driven%2C%20open-source%20anthropomorphic%20hand%20with%20tactile%20sensors%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Forca-hand-eth-open-source%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 253
+    },
+    {
+      "id": "ruka-v2-open-source-hand-wrist",
+      "title": "Ruka-v2 Adds Wrist and Finger Abduction to Open-Source Hands",
+      "pubDate": "2026-07-31",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/ruka-v2-open-source-hand-wrist/",
+      "tweet": "Ruka-v2 Adds Wrist and Finger Abduction to Open-Source Hands\n\nNYU’s Ruka-v2 open-sources a tendon-driven hand with a 2-DoF parallel wrist and finger abduction, under $2,000…\n\nhttps://mechafeed.com/blog/ruka-v2-open-source-hand-wrist/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Ruka-v2%20Adds%20Wrist%20and%20Finger%20Abduction%20to%20Open-Source%20Hands%0A%0ANYU%E2%80%99s%20Ruka-v2%20open-sources%20a%20tendon-driven%20hand%20with%20a%202-DoF%20parallel%20wrist%20and%20finger%20abduction%2C%20under%20%242%2C000%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fruka-v2-open-source-hand-wrist%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 255
     },
     {
       "id": "shadow-robot-hands-access-expansion",

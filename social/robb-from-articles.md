@@ -3,9 +3,31 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-07-31T16:08:34.905Z
+Generated: 2026-07-31T21:05:52.442Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Encord Is Tagging Brain Waves While Pilots Train Robot Arms
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/encord-brain-waves-physical-ai/
+
+### SOLO (no link)
+
+```
+Brain waves as training labels sound sci-fi until you notice the boring middle: denser supervision for hard moments in a task.  I’m curious whether EEG buys more than better cameras and good teleop logs — the trial design (measure model lift before scale) is the adult move.
+```
+
+### SOFT-LINK variant
+
+```
+Brain waves as training labels sound sci-fi until you notice the boring middle: denser supervision for hard moments in a task.  I’m curious whether EEG buys more than better cameras and good teleop lo…
+
+https://mechafeed.com/blog/encord-brain-waves-physical-ai/
+```
 
 ---
 
@@ -27,6 +49,50 @@ Zero-shot transfer from a splat twin is the kind of claim I respect when the eva
 Zero-shot transfer from a splat twin is the kind of claim I respect when the evaluation numbers are published next to the video.  These are still office navigation demos, not full factory manipulation…
 
 https://mechafeed.com/blog/flexion-niantic-nvidia-sim2real/
+```
+
+---
+
+## Handroid Turns One 27-DoF Body Into a Hand or a Tiny Humanoid
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/handroid-reconfigurable-hand-humanoid/
+
+### SOLO (no link)
+
+```
+I’m here for the design joke that isn’t a joke: if your hand and your humanoid share the same modules, cross-embodiment learning stops being pure transfer theater and becomes a reconfiguration problem.  Desktop scale is a feature for research throughput, not a factory claim.
+```
+
+### SOFT-LINK variant
+
+```
+I’m here for the design joke that isn’t a joke: if your hand and your humanoid share the same modules, cross-embodiment learning stops being pure transfer theater and becomes a reconfiguration problem…
+
+https://mechafeed.com/blog/handroid-reconfigurable-hand-humanoid/
+```
+
+---
+
+## Menlo’s Asimov 1: Open-Hardware Humanoid You Build Yourself
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/menlo-asimov-open-source-humanoid/
+
+### SOLO (no link)
+
+```
+I’ll take a $20k build-it-yourself biped with a public BOM over a $2M pilot NDA that hides the actuator map.  The hard part is still the same: 100 hours of assembly only pays off if the walking policy and repair loop are real.
+```
+
+### SOFT-LINK variant
+
+```
+I’ll take a $20k build-it-yourself biped with a public BOM over a $2M pilot NDA that hides the actuator map.  The hard part is still the same: 100 hours of assembly only pays off if the walking policy…
+
+https://mechafeed.com/blog/menlo-asimov-open-source-humanoid/
 ```
 
 ---
@@ -71,6 +137,72 @@ MOUs are easy to over-read.  What makes this one interesting is the split: a lis
 MOUs are easy to over-read.  What makes this one interesting is the split: a listed industrial automation shop with real customer sites, and a model shop that wants RFMs grounded in those sites.
 
 https://mechafeed.com/blog/nc-ai-cmes-physical-ai-mou/
+```
+
+---
+
+## NEURA’s 4NE1 Folded Mid-Stage at Computex — Qualcomm Calls It Safe-Collapse
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/neura-4ne1-computex-collapse/
+
+### SOLO (no link)
+
+```
+I care less about the meme and more about whether the collapse path is actually safer than a stiff freeze.  Kneeling to protect bystanders is the right *idea* if the bot can still fall through a table.
+```
+
+### SOFT-LINK variant
+
+```
+I care less about the meme and more about whether the collapse path is actually safer than a stiff freeze.  Kneeling to protect bystanders is the right *idea* if the bot can still fall through a table.
+
+https://mechafeed.com/blog/neura-4ne1-computex-collapse/
+```
+
+---
+
+## ETH’s ORCA Hand: 17-DoF Open Dexterity for Under 2,000 CHF
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/orca-hand-eth-open-source/
+
+### SOLO (no link)
+
+```
+I’m so here for hands that fail *gracefully* and rebuild in hours.  Pop joints and an 8-hour build beat a six-figure black box that needs a service contract.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for hands that fail *gracefully* and rebuild in hours.  Pop joints and an 8-hour build beat a six-figure black box that needs a service contract.
+
+https://mechafeed.com/blog/orca-hand-eth-open-source/
+```
+
+---
+
+## Ruka-v2 Adds Wrist and Finger Abduction to Open-Source Hands
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/ruka-v2-open-source-hand-wrist/
+
+### SOLO (no link)
+
+```
+Wrist and abduction are the boring DoFs until you try to open a cabinet or pinch a card without them.  The 51% teleop speed-up is the number I bookmark — not because teleop is the product, but because operator time is where open hands either get used or sit on a shelf.
+```
+
+### SOFT-LINK variant
+
+```
+Wrist and abduction are the boring DoFs until you try to open a cabinet or pinch a card without them.  The 51% teleop speed-up is the number I bookmark — not because teleop is the product, but because…
+
+https://mechafeed.com/blog/ruka-v2-open-source-hand-wrist/
 ```
 
 ---

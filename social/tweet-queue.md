@@ -14,8 +14,29 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-07-31T16:08:33.829Z
-Posts: 59
+Generated: 2026-07-31T21:05:51.503Z
+Posts: 65
+
+---
+
+## Encord Is Tagging Brain Waves While Pilots Train Robot Arms
+
+- **Slug:** `encord-brain-waves-physical-ai`
+- **Date:** 2026-07-31
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/encord-brain-waves-physical-ai/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Encord%20Is%20Tagging%20Brain%20Waves%20While%20Pilots%20Train%20Robot%20Arms%0A%0ATechCrunch%20visits%20Encord%E2%80%99s%20San%20Leandro%20warehouse%2C%20where%20Zander%20Labs%20EEG%20headsets%20and%20muscle%20sensors%20join%20egocentric%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fencord-brain-waves-physical-ai%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Encord Is Tagging Brain Waves While Pilots Train Robot Arms
+
+TechCrunch visits Encord’s San Leandro warehouse, where Zander Labs EEG headsets and muscle sensors join egocentric…
+
+https://mechafeed.com/blog/encord-brain-waves-physical-ai/
+
+#AI #Humanoids
+```
 
 ---
 
@@ -36,6 +57,48 @@ RGB-only navigation policies trained in Gaussian-splat digital twins transfer ze
 https://mechafeed.com/blog/flexion-niantic-nvidia-sim2real/
 
 #AI #Humanoids
+```
+
+---
+
+## Handroid Turns One 27-DoF Body Into a Hand or a Tiny Humanoid
+
+- **Slug:** `handroid-reconfigurable-hand-humanoid`
+- **Date:** 2026-07-31
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/handroid-reconfigurable-hand-humanoid/
+- **Chars:** 279/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Handroid%20Turns%20One%2027-DoF%20Body%20Into%20a%20Hand%20or%20a%20Tiny%20Humanoid%0A%0AUNC%20and%20Stanford%20researchers%20open-source%20Handroid%2C%20a%200.33%20m%2C%202.05%20kg%20platform%20that%20reconfigures%20between%20dexterous%20hand%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhandroid-reconfigurable-hand-humanoid%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+Handroid Turns One 27-DoF Body Into a Hand or a Tiny Humanoid
+
+UNC and Stanford researchers open-source Handroid, a 0.33 m, 2.05 kg platform that reconfigures between dexterous hand…
+
+https://mechafeed.com/blog/handroid-reconfigurable-hand-humanoid/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## Menlo’s Asimov 1: Open-Hardware Humanoid You Build Yourself
+
+- **Slug:** `menlo-asimov-open-source-humanoid`
+- **Date:** 2026-07-31
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/menlo-asimov-open-source-humanoid/
+- **Chars:** 270/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Menlo%E2%80%99s%20Asimov%201%3A%20Open-Hardware%20Humanoid%20You%20Build%20Yourself%0A%0AMenlo%20Research%E2%80%99s%20Asimov%201%20is%20a%201.2%20m%2C%2035%20kg%2C%2025%2B2%20DoF%20educational%20humanoid%20with%20open%20design%2C%20kit%20pricing%20around%20%2420k%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmenlo-asimov-open-source-humanoid%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Menlo’s Asimov 1: Open-Hardware Humanoid You Build Yourself
+
+Menlo Research’s Asimov 1 is a 1.2 m, 35 kg, 25+2 DoF educational humanoid with open design, kit pricing around $20k,…
+
+https://mechafeed.com/blog/menlo-asimov-open-source-humanoid/
+
+#HumanoidRobots #Humanoids
 ```
 
 ---
@@ -76,6 +139,69 @@ NC AI and CMES Robotics Team Up on Physical AI for Factories
 Korea’s NC AI and listed CMES Robotics signed an MOU to pair world models and robot foundation models with industrial…
 
 https://mechafeed.com/blog/nc-ai-cmes-physical-ai-mou/
+
+#Robotics #Humanoids
+```
+
+---
+
+## NEURA’s 4NE1 Folded Mid-Stage at Computex — Qualcomm Calls It Safe-Collapse
+
+- **Slug:** `neura-4ne1-computex-collapse`
+- **Date:** 2026-07-31
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/neura-4ne1-computex-collapse/
+- **Chars:** 273/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=NEURA%E2%80%99s%204NE1%20Folded%20Mid-Stage%20at%20Computex%20%E2%80%94%20Qualcomm%20Calls%20It%20Safe-Collapse%0A%0ANEURA%20Robotics%E2%80%99%20Qualcomm-powered%204NE1%20Gen%203.5%20humanoid%20collapsed%20during%20a%20Computex%202026%20demo%3B%20Qualcomm%20says%20a%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fneura-4ne1-computex-collapse%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+NEURA’s 4NE1 Folded Mid-Stage at Computex — Qualcomm Calls It Safe-Collapse
+
+NEURA Robotics’ Qualcomm-powered 4NE1 Gen 3.5 humanoid collapsed during a Computex 2026 demo; Qualcomm says a…
+
+https://mechafeed.com/blog/neura-4ne1-computex-collapse/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## ETH’s ORCA Hand: 17-DoF Open Dexterity for Under 2,000 CHF
+
+- **Slug:** `orca-hand-eth-open-source`
+- **Date:** 2026-07-31
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/orca-hand-eth-open-source/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ETH%E2%80%99s%20ORCA%20Hand%3A%2017-DoF%20Open%20Dexterity%20for%20Under%202%2C000%20CHF%0A%0AETH%20Zurich%20Soft%20Robotics%20Lab%E2%80%99s%20ORCA%20hand%20is%20a%20tendon-driven%2C%20open-source%20anthropomorphic%20hand%20with%20tactile%20sensors%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Forca-hand-eth-open-source%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+ETH’s ORCA Hand: 17-DoF Open Dexterity for Under 2,000 CHF
+
+ETH Zurich Soft Robotics Lab’s ORCA hand is a tendon-driven, open-source anthropomorphic hand with tactile sensors,…
+
+https://mechafeed.com/blog/orca-hand-eth-open-source/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Ruka-v2 Adds Wrist and Finger Abduction to Open-Source Hands
+
+- **Slug:** `ruka-v2-open-source-hand-wrist`
+- **Date:** 2026-07-31
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/ruka-v2-open-source-hand-wrist/
+- **Chars:** 255/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Ruka-v2%20Adds%20Wrist%20and%20Finger%20Abduction%20to%20Open-Source%20Hands%0A%0ANYU%E2%80%99s%20Ruka-v2%20open-sources%20a%20tendon-driven%20hand%20with%20a%202-DoF%20parallel%20wrist%20and%20finger%20abduction%2C%20under%20%242%2C000%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fruka-v2-open-source-hand-wrist%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Ruka-v2 Adds Wrist and Finger Abduction to Open-Source Hands
+
+NYU’s Ruka-v2 open-sources a tendon-driven hand with a 2-DoF parallel wrist and finger abduction, under $2,000…
+
+https://mechafeed.com/blog/ruka-v2-open-source-hand-wrist/
 
 #Robotics #Humanoids
 ```

@@ -592,3 +592,61 @@ pm run robb-x
 - SKT: named PoCs from the eight startups with metrics
 - Afternoon slot: do not rehash these six; prefer non-Korea hardware demos if available
 
+
+## 2026-07-31 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-07-31
+- `git pull --rebase origin main`: already up to date
+- Morning slot already published 6 posts today — this run avoids rehashing those and prior catalog
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — list/semantic streams mix old demos, funding chatter, and thin viral clips (disclosed)
+- Owner lists login-walled; proceeded with public X keyword/semantic + web (disclosed)
+- Notable leads (leads only): Handroid reconfigurable robot (Mingyu Ding); Qualcomm/NEURA Computex collapse viral; Gemini ER 2 (already covered as Gemini Robotics 2); UK Humanoid pre-order memes (already covered)
+
+### Web Search Findings
+1. **[CANDIDATE→WRITTEN]** Handroid dual-embodiment 27-DoF hand/humanoid — handroid.org + arXiv:2607.16187 (17 Jul 2026) — lane: **build**
+2. **[CANDIDATE→WRITTEN]** NEURA 4NE1 Gen 3.5 collapses mid-stage at Computex 2026 / Qualcomm Dragonwing IQ10 safe-collapse — TechSpot + Yahoo Tech — lane: **build** (demo/safety angle; distinct from neura-qualcomm partnership post)
+3. **[CANDIDATE→WRITTEN]** ETH ORCA open-source 17-DoF hand under 2,000 CHF — srl.ethz.ch + arXiv:2504.04259 + Tech Briefs + YouTube — lane: **build**
+4. **[CANDIDATE→WRITTEN]** NYU Ruka-v2 open-source hand with 2-DoF wrist + abduction — project page + arXiv:2603.26660 — lane: **build**
+5. **[CANDIDATE→WRITTEN]** Encord + Zander Labs brain-wave-tagged physical AI data — TechCrunch 26 Jul + Encord press — lane: **build**
+6. **[CANDIDATE→WRITTEN]** Menlo Research Asimov 1 open-hardware educational humanoid kit — menlo.ai product pages — lane: **build**
+7. **[SKIP: already covered]** XYZ DEUX, Shadow hands, Naver ARCBRAIN, Flexion, NC AI×CMES, SKT roundtable (morning); Gemini Robotics 2; Figure BMW; funding/IPO cluster; FCC Covered List
+8. **[SKIP: thin / older without fresh hook]** Peppy ROS alternative (license debates, early access); Satyress Threehalves (thin primary); Kinisi/Bear M&A (June, business lane); Disney Olaf (older)
+
+### Selected for Writing (ranked) — 6 articles
+| # | Slug | Author | Category | Lane |
+|---|------|--------|----------|------|
+| 1 | handroid-reconfigurable-hand-humanoid | Shar Hendrix | Research | build |
+| 2 | neura-4ne1-computex-collapse | Robb Harlan | Humanoids | build |
+| 3 | orca-hand-eth-open-source | Shar Hendrix | Robotics | build |
+| 4 | ruka-v2-open-source-hand-wrist | Robb Harlan | Robotics | build |
+| 5 | encord-brain-waves-physical-ai | Shar Hendrix | AI | build |
+| 6 | menlo-asimov-open-source-humanoid | Robb Harlan | Humanoids | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Solid candidates with primary/secondary depth: **6** | Writing: **6**
+- Hit target without padding; all Pass A (hands, open hardware, research platforms, data tooling, demo failure mode)
+
+### Run summary
+- **Articles published (6):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** PASS (
+pm run verify-media:today — 0 errors)
+- **Vision gate:** Confirmed stills for all 6 slugs (Handroid morphology+PCB; NEURA stage hardware; ORCA hand + YT still; Ruka CAD + payload; Encord teleop pilot; Asimov product shots)
+- **Social:** tweets / robb-x after write
+- **Failures:** none blocking
+
+### Notes for Future Agents
+- Handroid: watch open-source build reports and RL transfer across morphologies
+- NEURA Computex: official Qualcomm PR text if issued; fault-tree docs for safe-collapse
+- ORCA v2 commercial vs research open stack split
+- Asimov: community kit completion rates; Asimov 2 bimanual when launched
+- Do not rehash this afternoon set or morning’s Korea-heavy six
+
