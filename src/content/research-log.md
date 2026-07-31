@@ -535,3 +535,60 @@ pm run robb-x
 - Gemini VLA/On-Device still trusted-tester — watch partner deployment metrics
 - RoboCup: seek Booster Robotics hardware specs if published
 - Continue biasing Pass A (demos/open/product) over funding
+
+## 2026-07-31 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-07-31
+- `git pull --rebase origin main`: up to date after stash/pop of local pipeline edits
+- Existing catalog: 53 posts (through 2026-07-30 build-lane batch)
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — list keyword stream is mostly replies/chatter, not a clean curated feed
+- Owner lists login-walled; proceeded with public X semantic/keyword + web (disclosed)
+- Notable leads (leads only): XYZ DEUX retail chatter; Sunday ACT-2 demos (already covered); Rotaku Zen Samurai thin; NVIDIA Jetson event promo
+
+### Web Search Findings
+1. **[CANDIDATE→WRITTEN]** XYZ DEUX dual-arm semi-humanoid live retail demo at LoungeX Seongsu — Seoul Economic Daily + VentureSquare + XYZ site — lane: **build**
+2. **[CANDIDATE→WRITTEN]** Shadow Robot expanding access (pricing, rentals, lead times) for Shadow Hand / DEX-EE — company post Jul 22 + product page + Robots Guide — lane: **build**
+3. **[CANDIDATE→WRITTEN]** Naver ARCBRAIN Flow no-code robot service design — Seoul Economic Daily + Naver Labs Europe — lane: **build**
+4. **[CANDIDATE→WRITTEN]** Flexion + Niantic Spatial + NVIDIA sim2real RGB navigation in Gaussian-splat twins — Flexion research Jul 20 + TRR teleop essay + Series A post — lane: **build**
+5. **[CANDIDATE→WRITTEN]** NC AI × CMES Robotics physical AI MOU — Seoul Economic Daily + CMES site — lane: **build**
+6. **[CANDIDATE→WRITTEN]** SKT Physical AI / robotics startup roundtable (8 startups incl. Holiday, CMES) + RDF ITU-T context — Seoul Economic Daily + SKT newsroom — lane: **business**
+7. **[SKIP: already covered]** AGIBOT A3 Ultra WAIC, Gemini Robotics 2, NVIDIA LeRobot GR00T, Figure BMW, Hyundai strike, funding cluster (Unitree IPO, NEURA, UK Humanoid, etc.)
+8. **[SKIP: thin / low exclusivity]** Rotaku Zen Samurai (specs thin); Wuji Hand 2 ICRA (older, secondary-heavy); integrated actuators explainer; Moreh IP license thin
+
+### Selected for Writing (ranked) — 6 articles
+| # | Slug | Author | Category | Lane |
+|---|------|--------|----------|------|
+| 1 | xyz-deux-loungex-retail | Shar Hendrix | Humanoids | build |
+| 2 | shadow-robot-hands-access-expansion | Robb Harlan | Robotics | build |
+| 3 | naver-arcbrain-flow-robot-os | Shar Hendrix | AI | build |
+| 4 | flexion-niantic-nvidia-sim2real | Robb Harlan | AI | build |
+| 5 | nc-ai-cmes-physical-ai-mou | Shar Hendrix | Robotics | build |
+| 6 | skt-physical-ai-startups-roundtable | Robb Harlan | Industry | business |
+
+### Mix check
+- Build/innovate: 5 | Business/industry: 1 | Business share: 1/6 ≈ 16.7% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Solid candidates with primary/secondary depth: **6** | Writing: **6**
+- Did not pad to 8; midweek after heavy 07-28/29/30 batches; preferred verified short posts over rehashes
+
+### Run summary
+- **Articles published (6):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors)
+- **Vision gate:** Confirmed stills for all 6 slugs (DEUX retail, Shadow hands, Naver robots/ARC diagram, Flexion Unitree sim + outdoor humanoid, NC AI/CMES MOU + CMES pick arm, SKT group photo + RDF diagram)
+- **Social:** tweets / robb-x after write
+- **Failures:** none blocking
+
+### Notes for Future Agents
+- XYZ DEUX: watch intervention rates / multi-store expansion; NVIDIA talent program H2 2026
+- Shadow: public price bands still quote-only — upgrade when list prices published
+- Flexion Reflect + multi-site twin deployments
+- SKT: named PoCs from the eight startups with metrics
+- Afternoon slot: do not rehash these six; prefer non-Korea hardware demos if available
+

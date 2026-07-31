@@ -3,9 +3,141 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-07-30T20:49:22.585Z
+Generated: 2026-07-31T16:08:34.905Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Flexion, Niantic Spatial, and NVIDIA Close a Sim2Real Loop for Humanoids
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/flexion-niantic-nvidia-sim2real/
+
+### SOLO (no link)
+
+```
+Zero-shot transfer from a splat twin is the kind of claim I respect when the evaluation numbers are published next to the video.  These are still office navigation demos, not full factory manipulation shifts — Flexion is honest that the next steps are semantics, scene…
+```
+
+### SOFT-LINK variant
+
+```
+Zero-shot transfer from a splat twin is the kind of claim I respect when the evaluation numbers are published next to the video.  These are still office navigation demos, not full factory manipulation…
+
+https://mechafeed.com/blog/flexion-niantic-nvidia-sim2real/
+```
+
+---
+
+## Naver’s ARCBRAIN Flow Aims at No-Code Robot Service Design
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/naver-arcbrain-flow-robot-os/
+
+### SOLO (no link)
+
+```
+“Android of robotics” is a heavy slogan.  What I actually care about is whether a facilities team can re-route a delivery bot after a remodel without calling a robotics PhD.
+```
+
+### SOFT-LINK variant
+
+```
+“Android of robotics” is a heavy slogan.  What I actually care about is whether a facilities team can re-route a delivery bot after a remodel without calling a robotics PhD.
+
+https://mechafeed.com/blog/naver-arcbrain-flow-robot-os/
+```
+
+---
+
+## NC AI and CMES Robotics Team Up on Physical AI for Factories
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/nc-ai-cmes-physical-ai-mou/
+
+### SOLO (no link)
+
+```
+MOUs are easy to over-read.  What makes this one interesting is the split: a listed industrial automation shop with real customer sites, and a model shop that wants RFMs grounded in those sites.
+```
+
+### SOFT-LINK variant
+
+```
+MOUs are easy to over-read.  What makes this one interesting is the split: a listed industrial automation shop with real customer sites, and a model shop that wants RFMs grounded in those sites.
+
+https://mechafeed.com/blog/nc-ai-cmes-physical-ai-mou/
+```
+
+---
+
+## Shadow Robot Opens Wider Access to Its Dexterous Hands
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/shadow-robot-hands-access-expansion/
+
+### SOLO (no link)
+
+```
+Dexterous hands have been the expensive, fragile part of the stack for a long time.  If rentals and shorter lead times are real — not just brochure language — more groups can stop waiting on custom quotes and start breaking fingers on purpose in simulation and on the bench.
+```
+
+### SOFT-LINK variant
+
+```
+Dexterous hands have been the expensive, fragile part of the stack for a long time.  If rentals and shorter lead times are real — not just brochure language — more groups can stop waiting on custom qu…
+
+https://mechafeed.com/blog/shadow-robot-hands-access-expansion/
+```
+
+---
+
+## SK Telecom Gathers Eight Physical AI Startups for Robotics Push
+
+- Author on blog: Robb Harlan
+- Category: Industry
+- Article: https://mechafeed.com/blog/skt-physical-ai-startups-roundtable/
+
+### SOLO (no link)
+
+```
+This is an ecosystem meeting with a clear data-center and chip angle — SK hynix in the photo is not an accident.  The interesting follow-up is whether any of the eight land a named PoC with hard metrics (cycle time, intervention rate, uptime) inside an SK-linked plant…
+```
+
+### SOFT-LINK variant
+
+```
+This is an ecosystem meeting with a clear data-center and chip angle — SK hynix in the photo is not an accident.  The interesting follow-up is whether any of the eight land a named PoC with hard metri…
+
+https://mechafeed.com/blog/skt-physical-ai-startups-roundtable/
+```
+
+---
+
+## XYZ Puts DEUX Semi-Humanoid to Work in a Seoul Retail Store
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/xyz-deux-loungex-retail/
+
+### SOLO (no link)
+
+```
+I like that this is a wheeled dual-arm machine doing actual retail chores instead of a biped practicing kung fu for the camera.  Semi-humanoid form factors are where a lot of near-term service work will land — less balance theater, more reach and hands.
+```
+
+### SOFT-LINK variant
+
+```
+I like that this is a wheeled dual-arm machine doing actual retail chores instead of a biped practicing kung fu for the camera.  Semi-humanoid form factors are where a lot of near-term service work wi…
+
+https://mechafeed.com/blog/xyz-deux-loungex-retail/
+```
 
 ---
 

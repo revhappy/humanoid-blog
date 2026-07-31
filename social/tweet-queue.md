@@ -14,8 +14,134 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-07-30T20:49:19.926Z
-Posts: 53
+Generated: 2026-07-31T16:08:33.829Z
+Posts: 59
+
+---
+
+## Flexion, Niantic Spatial, and NVIDIA Close a Sim2Real Loop for Humanoids
+
+- **Slug:** `flexion-niantic-nvidia-sim2real`
+- **Date:** 2026-07-31
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/flexion-niantic-nvidia-sim2real/
+- **Chars:** 270/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Flexion%2C%20Niantic%20Spatial%2C%20and%20NVIDIA%20Close%20a%20Sim2Real%20Loop%20for%20Humanoids%0A%0ARGB-only%20navigation%20policies%20trained%20in%20Gaussian-splat%20digital%20twins%20transfer%20zero-shot%20from%20Isaac%20Lab%20to%20real%20offices.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fflexion-niantic-nvidia-sim2real%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Flexion, Niantic Spatial, and NVIDIA Close a Sim2Real Loop for Humanoids
+
+RGB-only navigation policies trained in Gaussian-splat digital twins transfer zero-shot from Isaac Lab to real offices.
+
+https://mechafeed.com/blog/flexion-niantic-nvidia-sim2real/
+
+#AI #Humanoids
+```
+
+---
+
+## Naver’s ARCBRAIN Flow Aims at No-Code Robot Service Design
+
+- **Slug:** `naver-arcbrain-flow-robot-os`
+- **Date:** 2026-07-31
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/naver-arcbrain-flow-robot-os/
+- **Chars:** 250/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Naver%E2%80%99s%20ARCBRAIN%20Flow%20Aims%20at%20No-Code%20Robot%20Service%20Design%0A%0ANaver%20Labs%20Europe%E2%80%99s%20ARCBRAIN%20Flow%20lets%20non-developers%20compose%20robot%20paths%20and%20alerts%20on%20top%20of%20Naver%E2%80%99s%20ARC%20robot%20OS%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnaver-arcbrain-flow-robot-os%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Naver’s ARCBRAIN Flow Aims at No-Code Robot Service Design
+
+Naver Labs Europe’s ARCBRAIN Flow lets non-developers compose robot paths and alerts on top of Naver’s ARC robot OS…
+
+https://mechafeed.com/blog/naver-arcbrain-flow-robot-os/
+
+#AI #Humanoids
+```
+
+---
+
+## NC AI and CMES Robotics Team Up on Physical AI for Factories
+
+- **Slug:** `nc-ai-cmes-physical-ai-mou`
+- **Date:** 2026-07-31
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/nc-ai-cmes-physical-ai-mou/
+- **Chars:** 258/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=NC%20AI%20and%20CMES%20Robotics%20Team%20Up%20on%20Physical%20AI%20for%20Factories%0A%0AKorea%E2%80%99s%20NC%20AI%20and%20listed%20CMES%20Robotics%20signed%20an%20MOU%20to%20pair%20world%20models%20and%20robot%20foundation%20models%20with%20industrial%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnc-ai-cmes-physical-ai-mou%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+NC AI and CMES Robotics Team Up on Physical AI for Factories
+
+Korea’s NC AI and listed CMES Robotics signed an MOU to pair world models and robot foundation models with industrial…
+
+https://mechafeed.com/blog/nc-ai-cmes-physical-ai-mou/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Shadow Robot Opens Wider Access to Its Dexterous Hands
+
+- **Slug:** `shadow-robot-hands-access-expansion`
+- **Date:** 2026-07-31
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/shadow-robot-hands-access-expansion/
+- **Chars:** 261/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Shadow%20Robot%20Opens%20Wider%20Access%20to%20Its%20Dexterous%20Hands%0A%0AUK%20hand%20specialist%20Shadow%20Robot%20is%20cutting%20access%20barriers%20with%20competitive%20pricing%2C%20rentals%2C%20shorter%20lead%20times%2C%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fshadow-robot-hands-access-expansion%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Shadow Robot Opens Wider Access to Its Dexterous Hands
+
+UK hand specialist Shadow Robot is cutting access barriers with competitive pricing, rentals, shorter lead times, and…
+
+https://mechafeed.com/blog/shadow-robot-hands-access-expansion/
+
+#Robotics #Humanoids
+```
+
+---
+
+## SK Telecom Gathers Eight Physical AI Startups for Robotics Push
+
+- **Slug:** `skt-physical-ai-startups-roundtable`
+- **Date:** 2026-07-31
+- **Category:** Industry
+- **Article:** https://mechafeed.com/blog/skt-physical-ai-startups-roundtable/
+- **Chars:** 279/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=SK%20Telecom%20Gathers%20Eight%20Physical%20AI%20Startups%20for%20Robotics%20Push%0A%0ASKT%20hosted%20a%20Physical%20AI%20and%20robotics%20roundtable%20with%20Holiday%20Robotics%20and%20seven%20other%20startups%20to%20plan%20PoCs%20and%20robot%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fskt-physical-ai-startups-roundtable%2F%0A%0A%23RoboticsIndustry%20%23Humanoids)
+
+```
+SK Telecom Gathers Eight Physical AI Startups for Robotics Push
+
+SKT hosted a Physical AI and robotics roundtable with Holiday Robotics and seven other startups to plan PoCs and robot…
+
+https://mechafeed.com/blog/skt-physical-ai-startups-roundtable/
+
+#RoboticsIndustry #Humanoids
+```
+
+---
+
+## XYZ Puts DEUX Semi-Humanoid to Work in a Seoul Retail Store
+
+- **Slug:** `xyz-deux-loungex-retail`
+- **Date:** 2026-07-31
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/xyz-deux-loungex-retail/
+- **Chars:** 260/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=XYZ%20Puts%20DEUX%20Semi-Humanoid%20to%20Work%20in%20a%20Seoul%20Retail%20Store%0A%0ASouth%20Korea%E2%80%99s%20XYZ%20is%20running%20its%20dual-arm%20DEUX%20robot%20at%20LoungeX%3A%20restocking%2C%20packing%2C%20and%20collecting%20on-site%20behavior%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fxyz-deux-loungex-retail%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+XYZ Puts DEUX Semi-Humanoid to Work in a Seoul Retail Store
+
+South Korea’s XYZ is running its dual-arm DEUX robot at LoungeX: restocking, packing, and collecting on-site behavior…
+
+https://mechafeed.com/blog/xyz-deux-loungex-retail/
+
+#HumanoidRobots #Humanoids
+```
 
 ---
 

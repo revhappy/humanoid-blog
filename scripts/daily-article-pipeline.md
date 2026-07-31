@@ -1,24 +1,44 @@
 # Mechafeed — Daily Article Pipeline (Scheduled)
 
-You are running the **scheduled daily research + publish job** for the Mechafeed.
+You are running a **scheduled research + publish slot** for Mechafeed.
 Follow `AGENTS.md` and `NOTES.md` exactly. Zero hallucination. Every claim needs a URL fetched this session.
+
+## Slot config (read first)
+
+Read `logs/pipeline-slot.json` if it exists (written by `scripts/run-daily-pipeline.ps1`):
+
+| Field | Meaning |
+|-------|---------|
+| `slot` | `Morning` (9 AM) or `Afternoon` (2 PM) Pacific / local |
+| `target` | Ideal article count for this run |
+| `hardMax` | Do not write more than this many in this run |
+| `softFloor` | Prefer at least this many if sources support it |
+
+**Defaults if the file is missing:**
+
+| Slot | Target | Hard max | Soft floor |
+|------|--------|----------|------------|
+| **Morning** | 8 | 8 | 3 |
+| **Afternoon** | 6 | 6 | 2 |
+
+Two slots can run the **same calendar day**. Afternoon must **not** rehash morning posts — check `src/content/blog/` and today’s research log first.
 
 ## Goal
 
 1. Scan the humanoid robotics landscape for **new** stories (last 24–48 hours, plus anything not yet covered).
-2. Log findings in `src/content/research-log.md`.
-3. Write and publish **as many strong, distinct articles as sources support**, aiming for **8–10** when the day is rich.
+2. Log findings in `src/content/research-log.md` (note which **slot**).
+3. Write and publish **as many strong, distinct articles as sources support**, up to this slot’s **hardMax** (aim for **target** when the day is rich).
 4. Commit and push to `main` so deploy runs.
 
 ## Volume rules (non-negotiable)
 
 | Rule | Value |
 |------|--------|
-| **Target** | 8–10 articles when enough distinct, source-backed stories exist |
-| **Hard max** | 10 per run |
-| **Quality floor** | Never invent or pad to hit quota. If only 4 solid stories exist, publish 4. |
-| **Soft floor** | Prefer at least 3 if the scan finds that many real candidates |
-| **Thin day** | If fewer than 3 verified candidates, write what you can, note the thin day in the research log, and stop — do not rehash old posts |
+| **Target** | From `pipeline-slot.json` (morning 8 / afternoon 6) when sources support it |
+| **Hard max** | From slot config — never exceed |
+| **Quality floor** | Never invent or pad to hit quota. If only 3 solid stories exist, publish 3. |
+| **Soft floor** | Prefer at least softFloor if the scan finds that many real candidates |
+| **Thin slot** | If fewer than softFloor verified candidates, write what you can, note the thin slot in the research log, and stop — do not rehash old posts |
 
 Each article must be a **genuinely different story** (different company, product, deal, paper, or deployment). No angle-spinning the same announcement into multiple posts.
 
@@ -86,10 +106,10 @@ Append to `src/content/research-log.md` (never overwrite):
 - Build/innovate: X | Business/industry: Y | Business share: Y/(X+Y) must be ≤25%
 
 ### Volume note
-- Aim: 8–10 | Solid candidates found: N | Writing: M
+- Slot: Morning|Afternoon | Target: T | Hard max: H | Solid candidates: N | Writing: M (M ≤ H)
 ```
 
-Score candidates (cool/curiosity, newsworthiness, specificity, exclusivity). Tag lane `build` vs `business`. Pick the top **M** stories where M ≤ 10, every pick has source depth, and **business ≤ 25%** of M.
+Score candidates (cool/curiosity, newsworthiness, specificity, exclusivity). Tag lane `build` vs `business`. Pick the top **M** stories where M ≤ **hardMax**, every pick has source depth, and **business ≤ 25%** of M.
 
 ### 4. Deep research + write (per story)
 

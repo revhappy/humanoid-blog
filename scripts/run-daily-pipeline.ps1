@@ -1,22 +1,33 @@
 #Requires -Version 5.1
 <#
 .SYNOPSIS
-  Daily Mechafeed blog article pipeline - launches Grok headless at a fixed clock time.
+  Mechafeed blog article pipeline — launches Grok headless (Task Scheduler or manual).
 
 .DESCRIPTION
-  Invoked by Windows Task Scheduler (default: 12:30 PM Pacific).
-  Runs Grok with scripts/daily-article-pipeline.md against this repo.
-  Logs stdout/stderr under logs/daily-YYYY-MM-DD.log
+  Two daily slots (Pacific, machine local time if PC is on Pacific):
+    Morning   9:00 AM  — target up to 8 articles  (task: HumanoidBlog-Morning)
+    Afternoon 2:00 PM  — target up to 6 articles  (task: HumanoidBlog-Afternoon)
+
+  Each slot has its own lock so both can run the same day.
+  Writes logs/pipeline-slot.json so the agent prompt knows target/max.
+  Logs under logs/daily-YYYY-MM-DD-<slot>.log
 
 .NOTES
-  Disable auto-run: Task Scheduler -> HumanoidBlog-DailyArticles -> Disable
-  Manual: .\scripts\run-daily-pipeline.ps1
-  Re-run same day: .\scripts\run-daily-pipeline.ps1 -Force
-  No auto-approve: .\scripts\run-daily-pipeline.ps1 -NoYolo
+  Register/update tasks:  powershell -File scripts/register-daily-tasks.ps1
+  Disable: Task Scheduler → HumanoidBlog-Morning / HumanoidBlog-Afternoon → Disable
+  Manual morning:   .\scripts\run-daily-pipeline.ps1 -Slot Morning
+  Manual afternoon: .\scripts\run-daily-pipeline.ps1 -Slot Afternoon
+  Re-run a slot:    .\scripts\run-daily-pipeline.ps1 -Slot Morning -Force
+  No auto-approve:  .\scripts\run-daily-pipeline.ps1 -Slot Morning -NoYolo
+
+  Terminal does NOT need to be open. PC must be on (or wake from sleep if wake timers allowed).
 #>
 
 [CmdletBinding()]
 param(
+  [ValidateSet('Morning', 'Afternoon')]
+  [string]$Slot = 'Morning',
+
   [switch]$NoYolo,
   [switch]$Force,
   [int]$MaxTurns = 0
@@ -34,6 +45,14 @@ $PromptFile = Join-Path $RepoRoot "scripts\daily-article-pipeline.md"
 if (-not (Test-Path -LiteralPath $PromptFile)) {
   throw "Missing prompt file: $PromptFile"
 }
+
+# Per-slot volume (quality floor still applies — never pad)
+$slotConfig = @{
+  Morning   = @{ Target = 8; HardMax = 8; SoftFloor = 3 }
+  Afternoon = @{ Target = 6; HardMax = 6; SoftFloor = 2 }
+}
+$cfg = $slotConfig[$Slot]
+$slotKey = $Slot.ToLowerInvariant()
 
 $Grok = $null
 $candidates = @(
@@ -61,17 +80,18 @@ New-Item -ItemType Directory -Force -Path $LogDir | Out-Null
 
 $Stamp = Get-Date -Format "yyyy-MM-dd"
 $TimeStamp = Get-Date -Format "yyyy-MM-dd_HHmmss"
-$LogFile = Join-Path $LogDir "daily-$Stamp.log"
-$LockFile = Join-Path $LogDir "daily-$Stamp.lock"
+$LogFile = Join-Path $LogDir "daily-$Stamp-$slotKey.log"
+$LockFile = Join-Path $LogDir "daily-$Stamp-$slotKey.lock"
+$SlotConfigFile = Join-Path $LogDir "pipeline-slot.json"
 
 if ((Test-Path -LiteralPath $LockFile) -and -not $Force) {
-  $msg = "[$TimeStamp] SKIP: lock exists ($LockFile). Use -Force to re-run."
+  $msg = "[$TimeStamp] SKIP: lock exists ($LockFile). Use -Force to re-run this slot."
   Add-Content -LiteralPath $LogFile -Value $msg
   Write-Host $msg
   exit 0
 }
 
-"$TimeStamp starting" | Set-Content -LiteralPath $LockFile -Encoding utf8
+"$TimeStamp starting slot=$Slot" | Set-Content -LiteralPath $LockFile -Encoding utf8
 
 function Write-Log {
   param([string]$Message)
@@ -80,10 +100,22 @@ function Write-Log {
   Write-Host $line
 }
 
-Write-Log "=== Daily pipeline start ==="
+# Agent reads this at start of the run
+$slotJson = @{
+  date       = $Stamp
+  slot       = $Slot
+  target     = $cfg.Target
+  hardMax    = $cfg.HardMax
+  softFloor  = $cfg.SoftFloor
+  startedAt  = (Get-Date).ToString('o')
+} | ConvertTo-Json
+Set-Content -LiteralPath $SlotConfigFile -Value $slotJson -Encoding utf8
+
+Write-Log "=== Pipeline start slot=$Slot target=$($cfg.Target) hardMax=$($cfg.HardMax) ==="
 Write-Log "Repo: $RepoRoot"
 Write-Log "Grok: $Grok"
 Write-Log "Prompt: $PromptFile"
+Write-Log "Slot config: $SlotConfigFile"
 
 $extraPaths = @(
   "C:\Program Files\Git\cmd",
@@ -93,6 +125,9 @@ $extraPaths = @(
 ) | Where-Object { Test-Path -LiteralPath $_ }
 
 $env:Path = ($extraPaths -join ";") + ";" + $env:Path
+$env:MECHAFEED_PIPELINE_SLOT = $Slot
+$env:MECHAFEED_PIPELINE_TARGET = "$($cfg.Target)"
+$env:MECHAFEED_PIPELINE_HARD_MAX = "$($cfg.HardMax)"
 
 Push-Location -LiteralPath $RepoRoot
 try {
@@ -130,7 +165,6 @@ try {
     Write-Log "Media verify FAILED - quarantining bad posts (draft: true) and attempting safety commit"
     & node ".\scripts\verify-article-media.mjs" --today --quarantine *>> $LogFile
 
-    # Stage quarantine edits if any
     & git add "src/content/blog" 2>$null
     $pending = & git status --porcelain "src/content/blog"
     if ($pending) {
@@ -138,21 +172,21 @@ try {
       & git push origin main *>> $LogFile
       Write-Log "Quarantine commit pushed (or attempted)"
     } else {
-      Write-Log "No draft changes to commit after quarantine (posts may already be draft or verify failed for other reasons)"
+      Write-Log "No draft changes to commit after quarantine"
     }
 
-    Write-Log "=== Daily pipeline end (media verify failed) ==="
+    Write-Log "=== Pipeline end slot=$Slot (media verify failed) ==="
     ("error " + $TimeStamp + " media-verify-failed") | Set-Content -LiteralPath $LockFile -Encoding utf8
     exit 1
   }
 
-  Write-Log "=== Daily pipeline end ==="
+  Write-Log "=== Pipeline end slot=$Slot ==="
 
   if ($exitCode -ne 0) {
     exit $exitCode
   }
 
-  ("ok " + $TimeStamp + " exit=" + $exitCode) | Set-Content -LiteralPath $LockFile -Encoding utf8
+  ("ok " + $TimeStamp + " slot=" + $Slot + " exit=" + $exitCode) | Set-Content -LiteralPath $LockFile -Encoding utf8
   exit 0
 }
 catch {

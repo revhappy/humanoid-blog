@@ -11,9 +11,13 @@ Lead Scan (X + Web) → Log Findings → Select Best Story → Deep Research (pr
 **Mode:** On-demand **and** scheduled daily automation.
 
 - **On-demand:** When the user asks to research/write/publish, run the full pipeline end-to-end.
-- **Scheduled (Windows):** Task **`HumanoidBlog-DailyArticles`** runs daily at **12:30 PM Pacific** via `scripts/run-daily-pipeline.ps1`, which launches Grok headless with `scripts/daily-article-pipeline.md`. Target **8–10** articles when sources support it; never pad or invent to hit quota. **Before publish:** agent vision-checks stills + `npm run verify-media:today`; the wrapper re-runs verify after Grok and quarantines (`draft: true`) any post that still fails. Auto-commits and pushes to `main` when the run produces clean posts.
-- Disable schedule: Windows Task Scheduler → disable `HumanoidBlog-DailyArticles`, or stop invoking the script.
-- Manual run: `powershell -File scripts/run-daily-pipeline.ps1` (add `-Force` to re-run the same day).
+- **Scheduled (Windows Task Scheduler — no terminal required):** two daily slots via `scripts/run-daily-pipeline.ps1` + `scripts/daily-article-pipeline.md`:
+  - **`HumanoidBlog-Morning`** — **9:00 AM** local/Pacific — target **up to 8** articles  
+  - **`HumanoidBlog-Afternoon`** — **2:00 PM** local/Pacific — target **up to 6** articles  
+  Register/update: `powershell -File scripts/register-daily-tasks.ps1`. Never pad or invent to hit quota. **Before publish:** agent vision-checks stills + `npm run verify-media:today`; the wrapper re-runs verify after Grok and quarantines (`draft: true`) any post that still fails. Auto-commits and pushes to `main` when the run produces clean posts.
+- **PC requirements:** Task Scheduler runs even if Grok/this terminal is closed. Machine should be **on and logged in**. Sleep often **skips** jobs unless wake timers + “Wake the computer to run this task” work on that PC.
+- Disable: Task Scheduler → disable `HumanoidBlog-Morning` / `HumanoidBlog-Afternoon`.
+- Manual: `powershell -File scripts/run-daily-pipeline.ps1 -Slot Morning` (or `-Slot Afternoon`; add `-Force` to re-run that slot the same day).
 
 Every push to `main` triggers GitHub Actions which builds the site and deploys. As an agent, you follow the steps below.
 

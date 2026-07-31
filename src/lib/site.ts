@@ -33,9 +33,15 @@ export const siteConfig = {
     linkedin: '',
   },
 
-  /** X persona for organic growth (blog byline, not a bot). */
+  /**
+   * X account brand (@mechafeed). Display name on X should match: MechaFeed.
+   * Article bylines stay Robb Harlan / Shar Hendrix — those are writers, not the X brand.
+   */
   xPersona: {
-    displayName: 'Robb Harlan',
+    displayName: 'MechaFeed',
+    handle: '@mechafeed',
+    profileUrl: 'https://x.com/mechafeed',
+    avatarFile: 'public/images/mechafeed-avatar.png',
     playbook: 'social/ROBB-ON-X.md',
     organicQueue: 'social/robb-organic-queue.md',
   },
