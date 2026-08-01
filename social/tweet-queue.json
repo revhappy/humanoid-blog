@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-07-31T21:05:51.503Z",
+  "generatedAt": "2026-08-01T16:06:37.411Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "brainco-brain-controlled-robot-platform",
+      "title": "BrainCo Demos Thought-Controlled Robots at WAIC 2026",
+      "pubDate": "2026-08-01",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/brainco-brain-controlled-robot-platform/",
+      "tweet": "BrainCo Demos Thought-Controlled Robots at WAIC 2026\n\nHangzhou BCI firm BrainCo showed EEG-driven robot control under 200 ms and a data-collection stack aimed at embodied AI…\n\nhttps://mechafeed.com/blog/brainco-brain-controlled-robot-platform/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=BrainCo%20Demos%20Thought-Controlled%20Robots%20at%20WAIC%202026%0A%0AHangzhou%20BCI%20firm%20BrainCo%20showed%20EEG-driven%20robot%20control%20under%20200%20ms%20and%20a%20data-collection%20stack%20aimed%20at%20embodied%20AI%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fbrainco-brain-controlled-robot-platform%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 259
+    },
+    {
+      "id": "hello-robot-stretch-4",
+      "title": "Hello Robot Stretch 4: Wheels, Not Legs, for Real Homes",
+      "pubDate": "2026-08-01",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/hello-robot-stretch-4/",
+      "tweet": "Hello Robot Stretch 4: Wheels, Not Legs, for Real Homes\n\nStretch 4 ships now at about $30K with omnidirectional base, richer sensing, and in-home pilots for people with…\n\nhttps://mechafeed.com/blog/hello-robot-stretch-4/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Hello%20Robot%20Stretch%204%3A%20Wheels%2C%20Not%20Legs%2C%20for%20Real%20Homes%0A%0AStretch%204%20ships%20now%20at%20about%20%2430K%20with%20omnidirectional%20base%2C%20richer%20sensing%2C%20and%20in-home%20pilots%20for%20people%20with%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhello-robot-stretch-4%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 242
+    },
+    {
+      "id": "humanoid-kinetiq-ascend-rl",
+      "title": "Humanoid’s KinetIQ Ascend Pushes Real-World RL Past Demo Manipulation",
+      "pubDate": "2026-08-01",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/humanoid-kinetiq-ascend-rl/",
+      "tweet": "Humanoid’s KinetIQ Ascend Pushes Real-World RL Past Demo Manipulation\n\nUK startup Humanoid reports 42–128% throughput gains and near-99% success on industrial tasks via on-robot…\n\nhttps://mechafeed.com/blog/humanoid-kinetiq-ascend-rl/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Humanoid%E2%80%99s%20KinetIQ%20Ascend%20Pushes%20Real-World%20RL%20Past%20Demo%20Manipulation%0A%0AUK%20startup%20Humanoid%20reports%2042%E2%80%93128%25%20throughput%20gains%20and%20near-99%25%20success%20on%20industrial%20tasks%20via%20on-robot%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhumanoid-kinetiq-ascend-rl%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 250
+    },
+    {
+      "id": "humanoid-touch-dream-cmu",
+      "title": "Touch Dreaming: CMU Humanoid Learns Contact Before It Happens",
+      "pubDate": "2026-08-01",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/humanoid-touch-dream-cmu/",
+      "tweet": "Touch Dreaming: CMU Humanoid Learns Contact Before It Happens\n\nHTD predicts future tactile latents and forces, lifting success ~91% on five contact-rich humanoid tasks with open code…\n\nhttps://mechafeed.com/blog/humanoid-touch-dream-cmu/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Touch%20Dreaming%3A%20CMU%20Humanoid%20Learns%20Contact%20Before%20It%20Happens%0A%0AHTD%20predicts%20future%20tactile%20latents%20and%20forces%2C%20lifting%20success%20~91%25%20on%20five%20contact-rich%20humanoid%20tasks%20with%20open%20code%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhumanoid-touch-dream-cmu%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 267
+    },
+    {
+      "id": "jal-gmo-haneda-humanoid-airport",
+      "title": "JAL and GMO Put Unitree Humanoids on Haneda Ground Handling",
+      "pubDate": "2026-08-01",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/jal-gmo-haneda-humanoid-airport/",
+      "tweet": "JAL and GMO Put Unitree Humanoids on Haneda Ground Handling\n\nJapan’s first airport humanoid demo: JAL Ground Service and GMO AIR plan a three-year Haneda pilot using two Unitree…\n\nhttps://mechafeed.com/blog/jal-gmo-haneda-humanoid-airport/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=JAL%20and%20GMO%20Put%20Unitree%20Humanoids%20on%20Haneda%20Ground%20Handling%0A%0AJapan%E2%80%99s%20first%20airport%20humanoid%20demo%3A%20JAL%20Ground%20Service%20and%20GMO%20AIR%20plan%20a%20three-year%20Haneda%20pilot%20using%20two%20Unitree%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fjal-gmo-haneda-humanoid-airport%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 267
+    },
+    {
+      "id": "pac-man-humanoid-dodgeball-cbf-rl",
+      "title": "PAC-MAN: Caltech Teaches a Unitree G1 to Dodge Balls Safely",
+      "pubDate": "2026-08-01",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/pac-man-humanoid-dodgeball-cbf-rl/",
+      "tweet": "PAC-MAN: Caltech Teaches a Unitree G1 to Dodge Balls Safely\n\nNew arXiv paper pairs control-barrier functions with onboard vision so a humanoid dodges throws using only head-camera…\n\nhttps://mechafeed.com/blog/pac-man-humanoid-dodgeball-cbf-rl/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=PAC-MAN%3A%20Caltech%20Teaches%20a%20Unitree%20G1%20to%20Dodge%20Balls%20Safely%0A%0ANew%20arXiv%20paper%20pairs%20control-barrier%20functions%20with%20onboard%20vision%20so%20a%20humanoid%20dodges%20throws%20using%20only%20head-camera%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpac-man-humanoid-dodgeball-cbf-rl%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 273
+    },
     {
       "id": "encord-brain-waves-physical-ai",
       "title": "Encord Is Tagging Brain Waves While Pilots Train Robot Arms",

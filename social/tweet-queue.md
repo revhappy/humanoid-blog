@@ -14,8 +14,134 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-07-31T21:05:51.503Z
-Posts: 65
+Generated: 2026-08-01T16:06:37.411Z
+Posts: 71
+
+---
+
+## BrainCo Demos Thought-Controlled Robots at WAIC 2026
+
+- **Slug:** `brainco-brain-controlled-robot-platform`
+- **Date:** 2026-08-01
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/brainco-brain-controlled-robot-platform/
+- **Chars:** 259/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=BrainCo%20Demos%20Thought-Controlled%20Robots%20at%20WAIC%202026%0A%0AHangzhou%20BCI%20firm%20BrainCo%20showed%20EEG-driven%20robot%20control%20under%20200%20ms%20and%20a%20data-collection%20stack%20aimed%20at%20embodied%20AI%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fbrainco-brain-controlled-robot-platform%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+BrainCo Demos Thought-Controlled Robots at WAIC 2026
+
+Hangzhou BCI firm BrainCo showed EEG-driven robot control under 200 ms and a data-collection stack aimed at embodied AI…
+
+https://mechafeed.com/blog/brainco-brain-controlled-robot-platform/
+
+#AI #Humanoids
+```
+
+---
+
+## Hello Robot Stretch 4: Wheels, Not Legs, for Real Homes
+
+- **Slug:** `hello-robot-stretch-4`
+- **Date:** 2026-08-01
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/hello-robot-stretch-4/
+- **Chars:** 242/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Hello%20Robot%20Stretch%204%3A%20Wheels%2C%20Not%20Legs%2C%20for%20Real%20Homes%0A%0AStretch%204%20ships%20now%20at%20about%20%2430K%20with%20omnidirectional%20base%2C%20richer%20sensing%2C%20and%20in-home%20pilots%20for%20people%20with%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhello-robot-stretch-4%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Hello Robot Stretch 4: Wheels, Not Legs, for Real Homes
+
+Stretch 4 ships now at about $30K with omnidirectional base, richer sensing, and in-home pilots for people with…
+
+https://mechafeed.com/blog/hello-robot-stretch-4/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Humanoid’s KinetIQ Ascend Pushes Real-World RL Past Demo Manipulation
+
+- **Slug:** `humanoid-kinetiq-ascend-rl`
+- **Date:** 2026-08-01
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/humanoid-kinetiq-ascend-rl/
+- **Chars:** 250/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Humanoid%E2%80%99s%20KinetIQ%20Ascend%20Pushes%20Real-World%20RL%20Past%20Demo%20Manipulation%0A%0AUK%20startup%20Humanoid%20reports%2042%E2%80%93128%25%20throughput%20gains%20and%20near-99%25%20success%20on%20industrial%20tasks%20via%20on-robot%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhumanoid-kinetiq-ascend-rl%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Humanoid’s KinetIQ Ascend Pushes Real-World RL Past Demo Manipulation
+
+UK startup Humanoid reports 42–128% throughput gains and near-99% success on industrial tasks via on-robot…
+
+https://mechafeed.com/blog/humanoid-kinetiq-ascend-rl/
+
+#AI #Humanoids
+```
+
+---
+
+## Touch Dreaming: CMU Humanoid Learns Contact Before It Happens
+
+- **Slug:** `humanoid-touch-dream-cmu`
+- **Date:** 2026-08-01
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/humanoid-touch-dream-cmu/
+- **Chars:** 267/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Touch%20Dreaming%3A%20CMU%20Humanoid%20Learns%20Contact%20Before%20It%20Happens%0A%0AHTD%20predicts%20future%20tactile%20latents%20and%20forces%2C%20lifting%20success%20~91%25%20on%20five%20contact-rich%20humanoid%20tasks%20with%20open%20code%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhumanoid-touch-dream-cmu%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+Touch Dreaming: CMU Humanoid Learns Contact Before It Happens
+
+HTD predicts future tactile latents and forces, lifting success ~91% on five contact-rich humanoid tasks with open code…
+
+https://mechafeed.com/blog/humanoid-touch-dream-cmu/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## JAL and GMO Put Unitree Humanoids on Haneda Ground Handling
+
+- **Slug:** `jal-gmo-haneda-humanoid-airport`
+- **Date:** 2026-08-01
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/jal-gmo-haneda-humanoid-airport/
+- **Chars:** 267/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=JAL%20and%20GMO%20Put%20Unitree%20Humanoids%20on%20Haneda%20Ground%20Handling%0A%0AJapan%E2%80%99s%20first%20airport%20humanoid%20demo%3A%20JAL%20Ground%20Service%20and%20GMO%20AIR%20plan%20a%20three-year%20Haneda%20pilot%20using%20two%20Unitree%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fjal-gmo-haneda-humanoid-airport%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+JAL and GMO Put Unitree Humanoids on Haneda Ground Handling
+
+Japan’s first airport humanoid demo: JAL Ground Service and GMO AIR plan a three-year Haneda pilot using two Unitree…
+
+https://mechafeed.com/blog/jal-gmo-haneda-humanoid-airport/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## PAC-MAN: Caltech Teaches a Unitree G1 to Dodge Balls Safely
+
+- **Slug:** `pac-man-humanoid-dodgeball-cbf-rl`
+- **Date:** 2026-08-01
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/pac-man-humanoid-dodgeball-cbf-rl/
+- **Chars:** 273/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=PAC-MAN%3A%20Caltech%20Teaches%20a%20Unitree%20G1%20to%20Dodge%20Balls%20Safely%0A%0ANew%20arXiv%20paper%20pairs%20control-barrier%20functions%20with%20onboard%20vision%20so%20a%20humanoid%20dodges%20throws%20using%20only%20head-camera%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpac-man-humanoid-dodgeball-cbf-rl%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+PAC-MAN: Caltech Teaches a Unitree G1 to Dodge Balls Safely
+
+New arXiv paper pairs control-barrier functions with onboard vision so a humanoid dodges throws using only head-camera…
+
+https://mechafeed.com/blog/pac-man-humanoid-dodgeball-cbf-rl/
+
+#RoboticsResearch #Humanoids
+```
 
 ---
 

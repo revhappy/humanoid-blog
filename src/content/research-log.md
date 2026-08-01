@@ -650,3 +650,55 @@ pm run verify-media:today — 0 errors)
 - Asimov: community kit completion rates; Asimov 2 bimanual when launched
 - Do not rehash this afternoon set or morning’s Korea-heavy six
 
+
+## 2026-08-01 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-01
+- `git pull --rebase origin main`: already up to date
+- Existing catalog: 65 posts through 2026-07-31 afternoon batch (hands/open hardware/research)
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — keyword/semantic streams mix old demos, spam, and thin viral clips (disclosed)
+- Owner lists login-walled; proceeded with public X + web (disclosed)
+- Notable leads (leads only): BYD Di Space teaser (already covered); Optimus production chatter (already tempered); Menlo Asimov (already covered)
+
+### Web Search Findings
+1. **[CANDIDATE→WRITTEN]** Humanoid KinetIQ Ascend real-world RL — thehumanoid.ai + TRR + RoboticsTomorrow — lane: **build**
+2. **[CANDIDATE→WRITTEN]** BrainCo brain-controlled robot AI platform at WAIC — PR Newswire + TRR + SCMP — lane: **build**
+3. **[CANDIDATE→WRITTEN]** PAC-MAN CBF-RL humanoid dodgeball (Unitree G1, 95% HW) — arXiv 2607.28623 + project page — lane: **build**
+4. **[CANDIDATE→WRITTEN]** Hello Robot Stretch 4 wheeled home manipulator — product page + IEEE Spectrum + TechCrunch — lane: **build**
+5. **[CANDIDATE→WRITTEN]** Humanoid Touch Dream (HTD) CMU/Bosch — arXiv + project + TechXplore + YouTube — lane: **build**
+6. **[CANDIDATE→WRITTEN]** JAL × GMO AIR Haneda humanoid ground-handling pilot (Unitree) — ITmedia + Key.aero + secondary — lane: **build**
+7. **[SKIP: already covered]** UK Humanoid  Series A; Weave Isaac; Apptronik Apollo 2; FCC Covered List; Figure BMW; Agility SPAC; AI2 ; Walden; Gemini Robotics 2; hands cluster (Shadow, ORCA, Ruka, Handroid, Proception, 1X hands); menlo Asimov; BYD teaser
+8. **[SKIP: thin / secondary-only / blocked primary]** AMD Kria X100 (TRR page fetch thin); SoftServe virtual-gyms opinion; JAL English press blocked (used ITmedia + Key.aero)
+9. **[SKIP: business lane]** Additional funding/IPO rewrites intentionally deprioritized under 25% cap
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | humanoid-kinetiq-ascend-rl | Robb Harlan | AI | build |
+| 2 | brainco-brain-controlled-robot-platform | Shar Hendrix | AI | build |
+| 3 | pac-man-humanoid-dodgeball-cbf-rl | Robb Harlan | Research | build |
+| 4 | hello-robot-stretch-4 | Shar Hendrix | Robotics | build |
+| 5 | humanoid-touch-dream-cmu | Shar Hendrix | Research | build |
+| 6 | jal-gmo-haneda-humanoid-airport | Robb Harlan | Humanoids | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Solid candidates with primary/secondary depth: **6** | Writing: **6**
+- Did not pad to 8; post-heavy late July catalog; preferred verified short posts over rehashes or capital news
+
+### Notes for Future Agents
+- KinetIQ Ascend: customer-site intervention rates / fleet learning claims
+- BrainCo: third-party humanoid integrations beyond booth robots
+- PAC-MAN: multi-agent / outdoor extensions
+- Stretch 4: pilot metrics for mobility-impaired users; Stretch 5 price target
+- Touch Dream: latent tactile transfer across hand morphologies
+- JAL Haneda: which ground-handling tasks clear human-in-loop gates
+- Afternoon slot: do not rehash these six
+

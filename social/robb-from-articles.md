@@ -3,9 +3,141 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-07-31T21:05:52.442Z
+Generated: 2026-08-01T16:06:38.553Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## BrainCo Demos Thought-Controlled Robots at WAIC 2026
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/brainco-brain-controlled-robot-platform/
+
+### SOLO (no link)
+
+```
+EEG teleop that works on stage is cool.  EEG that produces *training labels* for laundry-folding robots is the part I’m watching.
+```
+
+### SOFT-LINK variant
+
+```
+EEG teleop that works on stage is cool.  EEG that produces *training labels* for laundry-folding robots is the part I’m watching.
+
+https://mechafeed.com/blog/brainco-brain-controlled-robot-platform/
+```
+
+---
+
+## Hello Robot Stretch 4: Wheels, Not Legs, for Real Homes
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/hello-robot-stretch-4/
+
+### SOLO (no link)
+
+```
+I’m so here for the anti-hype product.  Published price, UPS-shippable form factor, open SDK, and users who care about glasses and toothbrushes more than parkour.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for the anti-hype product.  Published price, UPS-shippable form factor, open SDK, and users who care about glasses and toothbrushes more than parkour.
+
+https://mechafeed.com/blog/hello-robot-stretch-4/
+```
+
+---
+
+## Humanoid’s KinetIQ Ascend Pushes Real-World RL Past Demo Manipulation
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/humanoid-kinetiq-ascend-rl/
+
+### SOLO (no link)
+
+```
+I’m not impressed by another “99. 9%” slide until someone logs shift hours with intervention rates.
+```
+
+### SOFT-LINK variant
+
+```
+I’m not impressed by another “99. 9%” slide until someone logs shift hours with intervention rates.
+
+https://mechafeed.com/blog/humanoid-kinetiq-ascend-rl/
+```
+
+---
+
+## Touch Dreaming: CMU Humanoid Learns Contact Before It Happens
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/humanoid-touch-dream-cmu/
+
+### SOLO (no link)
+
+```
+Predicting how a grasp will *feel* a half-second ahead is the right obsession.  I’m less interested in the relative-percentage banner and more in whether latent touch transfers across hands and skins.
+```
+
+### SOFT-LINK variant
+
+```
+Predicting how a grasp will *feel* a half-second ahead is the right obsession.  I’m less interested in the relative-percentage banner and more in whether latent touch transfers across hands and skins.
+
+https://mechafeed.com/blog/humanoid-touch-dream-cmu/
+```
+
+---
+
+## JAL and GMO Put Unitree Humanoids on Haneda Ground Handling
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/jal-gmo-haneda-humanoid-airport/
+
+### SOLO (no link)
+
+```
+I’m interested in the phased safety mapping more than the press photo.  Aprons punish soft autonomy.
+```
+
+### SOFT-LINK variant
+
+```
+I’m interested in the phased safety mapping more than the press photo.  Aprons punish soft autonomy.
+
+https://mechafeed.com/blog/jal-gmo-haneda-humanoid-airport/
+```
+
+---
+
+## PAC-MAN: Caltech Teaches a Unitree G1 to Dodge Balls Safely
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/pac-man-humanoid-dodgeball-cbf-rl/
+
+### SOLO (no link)
+
+```
+Whole-body safety that works when the camera loses the ball for a frame is the product.  Lab oracles that assume full state are easy; 95% on imperfect onboard perception is the receipt.
+```
+
+### SOFT-LINK variant
+
+```
+Whole-body safety that works when the camera loses the ball for a frame is the product.  Lab oracles that assume full state are easy; 95% on imperfect onboard perception is the receipt.
+
+https://mechafeed.com/blog/pac-man-humanoid-dodgeball-cbf-rl/
+```
 
 ---
 
