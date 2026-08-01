@@ -702,3 +702,14 @@ pm run verify-media:today — 0 errors)
 - JAL Haneda: which ground-handling tasks clear human-in-loop gates
 - Afternoon slot: do not rehash these six
 
+
+### Run summary
+- **Articles published (6):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors)
+- **Vision gate:** Confirmed stills for all 6 slugs (Humanoid Alpha + tote/feed charts; BrainCo EEG/arm/humanoid; PAC-MAN G1 diagram; Stretch 4 living-room shots; Touch Dream task collage + system diagram; JAL/GMO Haneda press art)
+- **Social:** tweets (71 drafts); robb-x
+- **Push:** 97f2978 → origin/main
+- **Failures:** none blocking; solid candidates maxed at 6 (target 8) after heavy late-July catalog — no padding with capital news
+- **Thin-ish vs target:** soft floor 3 met; hard max 8 not forced
+
