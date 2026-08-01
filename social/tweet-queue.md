@@ -14,8 +14,8 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-01T16:06:37.411Z
-Posts: 71
+Generated: 2026-08-01T21:07:09.039Z
+Posts: 77
 
 ---
 
@@ -36,6 +36,48 @@ Hangzhou BCI firm BrainCo showed EEG-driven robot control under 200 ms and a dat
 https://mechafeed.com/blog/brainco-brain-controlled-robot-platform/
 
 #AI #Humanoids
+```
+
+---
+
+## EPFL’s Detachable Hand Crawls Away and Grabs What Arms Can’t Reach
+
+- **Slug:** `epfl-detachable-crawling-robotic-hand`
+- **Date:** 2026-08-01
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/epfl-detachable-crawling-robotic-hand/
+- **Chars:** 276/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=EPFL%E2%80%99s%20Detachable%20Hand%20Crawls%20Away%20and%20Grabs%20What%20Arms%20Can%E2%80%99t%20Reach%0A%0AEPFL%E2%80%99s%20reversible%20multi-finger%20hand%20detaches%20from%20its%20arm%2C%20crawls%20spider-like%2C%20and%20grasps%20from%20either%20face%20%E2%80%94%20published%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fepfl-detachable-crawling-robotic-hand%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+EPFL’s Detachable Hand Crawls Away and Grabs What Arms Can’t Reach
+
+EPFL’s reversible multi-finger hand detaches from its arm, crawls spider-like, and grasps from either face — published…
+
+https://mechafeed.com/blog/epfl-detachable-crawling-robotic-hand/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Figure F.03 Climbs a Ladder Fully Autonomous
+
+- **Slug:** `figure-f03-ladder-autonomous`
+- **Date:** 2026-08-01
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/figure-f03-ladder-autonomous/
+- **Chars:** 247/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Figure%20F.03%20Climbs%20a%20Ladder%20Fully%20Autonomous%0A%0ACEO%20Brett%20Adcock%20says%20Figure%2003%20can%20climb%20a%20ladder%20end-to-end.%20Company%20posts%20already%20detail%20perception-conditioned%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffigure-f03-ladder-autonomous%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Figure F.03 Climbs a Ladder Fully Autonomous
+
+CEO Brett Adcock says Figure 03 can climb a ladder end-to-end. Company posts already detail perception-conditioned…
+
+https://mechafeed.com/blog/figure-f03-ladder-autonomous/
+
+#HumanoidRobots #Humanoids
 ```
 
 ---
@@ -124,6 +166,27 @@ https://mechafeed.com/blog/jal-gmo-haneda-humanoid-airport/
 
 ---
 
+## LimX COSA 0.5: Whole-Body VLA That Tidies a Room Uncut
+
+- **Slug:** `limx-cosa-05-vla-whole-body`
+- **Date:** 2026-08-01
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/limx-cosa-05-vla-whole-body/
+- **Chars:** 243/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=LimX%20COSA%200.5%3A%20Whole-Body%20VLA%20That%20Tidies%20a%20Room%20Uncut%0A%0ALimX%E2%80%99s%20COSA%200.5%20technical%20report%20details%20V%C2%B3-0%20on%20the%2043-DoF%20Oli%20humanoid%3A%20fast-slow%20VLA%2C%20onboard%20WBT%20balance%2C%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flimx-cosa-05-vla-whole-body%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+LimX COSA 0.5: Whole-Body VLA That Tidies a Room Uncut
+
+LimX’s COSA 0.5 technical report details V³-0 on the 43-DoF Oli humanoid: fast-slow VLA, onboard WBT balance, and…
+
+https://mechafeed.com/blog/limx-cosa-05-vla-whole-body/
+
+#AI #Humanoids
+```
+
+---
+
 ## PAC-MAN: Caltech Teaches a Unitree G1 to Dodge Balls Safely
 
 - **Slug:** `pac-man-humanoid-dodgeball-cbf-rl`
@@ -141,6 +204,67 @@ New arXiv paper pairs control-barrier functions with onboard vision so a humanoi
 https://mechafeed.com/blog/pac-man-humanoid-dodgeball-cbf-rl/
 
 #RoboticsResearch #Humanoids
+```
+
+---
+
+## Ψ₀ (Psi-Zero): Open Foundation Model for Humanoid Loco-Manipulation
+
+- **Slug:** `psi0-open-humanoid-loco-manipulation`
+- **Date:** 2026-08-01
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/psi0-open-humanoid-loco-manipulation/
+- **Chars:** 152/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=%CE%A8%E2%82%80%20(Psi-Zero)%3A%20Open%20Foundation%20Model%20for%20Humanoid%20Loco-Manipulation%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpsi0-open-humanoid-loco-manipulation%2F%0A%0A%23RoboticsResearch)
+
+```
+Ψ₀ (Psi-Zero): Open Foundation Model for Humanoid Loco-Manipulation
+
+https://mechafeed.com/blog/psi0-open-humanoid-loco-manipulation/
+
+#RoboticsResearch
+```
+
+---
+
+## RoboParty UFO: Open Unsupervised RL for Humanoid Control
+
+- **Slug:** `roboparty-ufo-unsupervised-humanoid-rl`
+- **Date:** 2026-08-01
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/roboparty-ufo-unsupervised-humanoid-rl/
+- **Chars:** 249/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=RoboParty%20UFO%3A%20Open%20Unsupervised%20RL%20for%20Humanoid%20Control%0A%0AShanghai%20lab%20open-sources%20UFO%2C%20an%20unsupervised%20RL%20stack%20for%20humanoids%20with%20TeCH%2C%20multi-robot%20bring-up%2C%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Froboparty-ufo-unsupervised-humanoid-rl%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+RoboParty UFO: Open Unsupervised RL for Humanoid Control
+
+Shanghai lab open-sources UFO, an unsupervised RL stack for humanoids with TeCH, multi-robot bring-up, and…
+
+https://mechafeed.com/blog/roboparty-ufo-unsupervised-humanoid-rl/
+
+#AI #Humanoids
+```
+
+---
+
+## ROBOTIS AI Sapiens K1: Open-Source Humanoid for Physical AI
+
+- **Slug:** `robotis-ai-sapiens-open-humanoid`
+- **Date:** 2026-08-01
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/robotis-ai-sapiens-open-humanoid/
+- **Chars:** 263/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ROBOTIS%20AI%20Sapiens%20K1%3A%20Open-Source%20Humanoid%20for%20Physical%20AI%0A%0AROBOTIS%20documents%20AI%20Sapiens%20K1%20%E2%80%94%20a%201355%20mm%2C%2035%20kg%2C%2023-DoF%20humanoid%20on%20Dynamixel-Q%20actuators%20with%20RL%2C%20imitation%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frobotis-ai-sapiens-open-humanoid%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+ROBOTIS AI Sapiens K1: Open-Source Humanoid for Physical AI
+
+ROBOTIS documents AI Sapiens K1 — a 1355 mm, 35 kg, 23-DoF humanoid on Dynamixel-Q actuators with RL, imitation…
+
+https://mechafeed.com/blog/robotis-ai-sapiens-open-humanoid/
+
+#HumanoidRobots #Humanoids
 ```
 
 ---

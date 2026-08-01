@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-01T16:06:38.553Z
+Generated: 2026-08-01T21:07:10.380Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -27,6 +27,50 @@ EEG teleop that works on stage is cool.  EEG that produces *training labels* for
 EEG teleop that works on stage is cool.  EEG that produces *training labels* for laundry-folding robots is the part I’m watching.
 
 https://mechafeed.com/blog/brainco-brain-controlled-robot-platform/
+```
+
+---
+
+## EPFL’s Detachable Hand Crawls Away and Grabs What Arms Can’t Reach
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/epfl-detachable-crawling-robotic-hand/
+
+### SOLO (no link)
+
+```
+I’m so here for hardware that stops cosplaying human hands.  If the job is “get the part that fell behind the machine,” a spider-hand that leaves the wrist is a better answer than a taller arm.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for hardware that stops cosplaying human hands.  If the job is “get the part that fell behind the machine,” a spider-hand that leaves the wrist is a better answer than a taller arm.
+
+https://mechafeed.com/blog/epfl-detachable-crawling-robotic-hand/
+```
+
+---
+
+## Figure F.03 Climbs a Ladder Fully Autonomous
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/figure-f03-ladder-autonomous/
+
+### SOLO (no link)
+
+```
+I’m less interested in the parkour vibe than in whether this survives a real mezzanine with grease on the rungs and a time clock.  Autonomous ladder climbing is the kind of “boring vertical access” factories actually need.
+```
+
+### SOFT-LINK variant
+
+```
+I’m less interested in the parkour vibe than in whether this survives a real mezzanine with grease on the rungs and a time clock.  Autonomous ladder climbing is the kind of “boring vertical access” factories actually need.
+
+https://mechafeed.com/blog/figure-f03-ladder-autonomous/
 ```
 
 ---
@@ -119,6 +163,28 @@ https://mechafeed.com/blog/jal-gmo-haneda-humanoid-airport/
 
 ---
 
+## LimX COSA 0.5: Whole-Body VLA That Tidies a Room Uncut
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/limx-cosa-05-vla-whole-body/
+
+### SOLO (no link)
+
+```
+A continuous take is a proof of stack cohesion, not a reliability certificate — LimX has not published full-run success rates for the multi-minute chore chain.  What I care about is the plumbing: expert takeover on the same whole-body interface as the policy, RL on…
+```
+
+### SOFT-LINK variant
+
+```
+A continuous take is a proof of stack cohesion, not a reliability certificate — LimX has not published full-run success rates for the multi-minute chore chain.  What I care about is the plumbing: expe…
+
+https://mechafeed.com/blog/limx-cosa-05-vla-whole-body/
+```
+
+---
+
 ## PAC-MAN: Caltech Teaches a Unitree G1 to Dodge Balls Safely
 
 - Author on blog: Robb Harlan
@@ -137,6 +203,72 @@ Whole-body safety that works when the camera loses the ball for a frame is the p
 Whole-body safety that works when the camera loses the ball for a frame is the product.  Lab oracles that assume full state are easy; 95% on imperfect onboard perception is the receipt.
 
 https://mechafeed.com/blog/pac-man-humanoid-dodgeball-cbf-rl/
+```
+
+---
+
+## Ψ₀ (Psi-Zero): Open Foundation Model for Humanoid Loco-Manipulation
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/psi0-open-humanoid-loco-manipulation/
+
+### SOLO (no link)
+
+```
+I’m smiling at the data diet.  Less “scrape the internet,” more “quality egocentric manipulation then a thin slice of real humanoid hours.
+```
+
+### SOFT-LINK variant
+
+```
+I’m smiling at the data diet.  Less “scrape the internet,” more “quality egocentric manipulation then a thin slice of real humanoid hours.
+
+https://mechafeed.com/blog/psi0-open-humanoid-loco-manipulation/
+```
+
+---
+
+## RoboParty UFO: Open Unsupervised RL for Humanoid Control
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/roboparty-ufo-unsupervised-humanoid-rl/
+
+### SOLO (no link)
+
+```
+I’m excited about the infrastructure angle more than the hazing reels.  If unsupervised humanoid RL stays locked inside five labs with private stacks, the field stalls.
+```
+
+### SOFT-LINK variant
+
+```
+I’m excited about the infrastructure angle more than the hazing reels.  If unsupervised humanoid RL stays locked inside five labs with private stacks, the field stalls.
+
+https://mechafeed.com/blog/roboparty-ufo-unsupervised-humanoid-rl/
+```
+
+---
+
+## ROBOTIS AI Sapiens K1: Open-Source Humanoid for Physical AI
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/robotis-ai-sapiens-open-humanoid/
+
+### SOLO (no link)
+
+```
+I care about whether the open-source calendar is real.  Docs that list BoM and STEP files as “coming soon” are a promise, not a kit.
+```
+
+### SOFT-LINK variant
+
+```
+I care about whether the open-source calendar is real.  Docs that list BoM and STEP files as “coming soon” are a promise, not a kit.
+
+https://mechafeed.com/blog/robotis-ai-sapiens-open-humanoid/
 ```
 
 ---

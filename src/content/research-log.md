@@ -713,3 +713,62 @@ pm run verify-media:today — 0 errors)
 - **Failures:** none blocking; solid candidates maxed at 6 (target 8) after heavy late-July catalog — no padding with capital news
 - **Thin-ish vs target:** soft floor 3 met; hard max 8 not forced
 
+
+## 2026-08-01 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-01
+- `git pull --rebase origin main`: already up to date
+- Morning slot already published 6 posts today — this run does not rehash those or the late-July catalog
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — list/semantic streams mix old demos, spam, and thin viral clips (disclosed)
+- Owner lists login-walled; proceeded with public X keyword/semantic + web (disclosed)
+- Notable leads (leads only): Brett Adcock F.03 ladder climb (2026-08-01); RoboParty UFO open unsupervised RL; RobotEra WAIC sorting (thin English primary); LimX COSA 0.5 long-horizon demo circulating
+
+### Web Search Findings
+1. **[CANDIDATE→WRITTEN]** Figure F.03 autonomous ladder climb — Adcock X + Figure BotQ production blog (perception-conditioned stairs/S0) — lane: **build**
+2. **[CANDIDATE→WRITTEN]** RoboParty UFO open unsupervised RL humanoid framework — project page + GitHub + YouTube — lane: **build**
+3. **[CANDIDATE→WRITTEN]** LimX COSA 0.5 / V³-0 whole-body VLA technical report — limxdynamics.com/cosa05v3 + news + humanoid.guide + YouTube — lane: **build** (not funding rewrite; funding already covered in limx-dynamics-200m-pre-ipo)
+4. **[CANDIDATE→WRITTEN]** Ψ₀ (Psi-Zero) open humanoid loco-manipulation VLA — psi-lab.ai + arXiv:2603.12263 + GitHub — lane: **build**
+5. **[CANDIDATE→WRITTEN]** EPFL detachable crawling robotic hand — EPFL news + Nature Communications — lane: **build**
+6. **[CANDIDATE→WRITTEN]** ROBOTIS AI Sapiens K1 open humanoid — ROBOTIS docs + Open Robotics Discourse + YouTube — lane: **build**
+7. **[SKIP: already covered]** Morning 08-01 set (KinetIQ, BrainCo, PAC-MAN, Stretch 4, Touch Dream, JAL Haneda); hands cluster; Gemini Robotics 2; FCC; Tau cleaning; Agibot A3 Ultra; Figure BMW sequencing
+8. **[SKIP: thin / JS-thin primary]** RobotEra L7 WAIC logistics (LinkedIn/social primary only); LimX Luna product page body empty in fetch
+9. **[SKIP: business lane]** Extra funding/IPO rewrites under 25% cap
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | figure-f03-ladder-autonomous | Robb Harlan | Humanoids | build |
+| 2 | roboparty-ufo-unsupervised-humanoid-rl | Shar Hendrix | AI | build |
+| 3 | limx-cosa-05-vla-whole-body | Robb Harlan | AI | build |
+| 4 | psi0-open-humanoid-loco-manipulation | Shar Hendrix | Research | build |
+| 5 | epfl-detachable-crawling-robotic-hand | Shar Hendrix | Robotics | build |
+| 6 | robotis-ai-sapiens-open-humanoid | Robb Harlan | Humanoids | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Solid candidates with primary/secondary depth: **6** | Writing: **6**
+- Hit target without padding; all Pass A (capability, open stack, research hardware)
+
+### Run summary
+- **Articles published (6):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors on 12 posts including morning+afternoon)
+- **Vision gate:** Figure fleet OG (unique re-encode); UFO YT project still; LimX COSA promo + Oli living-room; Psi0 task collage + teleop; EPFL hand stills; ROBOTIS K1 render + IL diagram
+- **Social:** tweets / robb-x after write
+- **Failures:** none blocking; **Push:** pending
+
+### Notes for Future Agents
+- Figure ladder: watch for formal Helix/S0 ladder blog post with metrics
+- UFO: commercial license path if RoboParty ships one; G1 deploy branch field reports
+- COSA 0.5: multi-minute full-run success rates when published
+- Psi0: open weight reproduction outside authors' lab
+- AI Sapiens: BoM/STEP "coming soon" → upgrade when CAD lands
+- Do not rehash morning 08-01 six or this afternoon set
+
