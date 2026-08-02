@@ -772,3 +772,55 @@ pm run verify-media:today — 0 errors)
 - AI Sapiens: BoM/STEP "coming soon" → upgrade when CAD lands
 - Do not rehash morning 08-01 six or this afternoon set
 
+
+## 2026-08-02 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-02
+- `git pull --rebase origin main`: already up to date
+- Prior catalog through 2026-08-01 afternoon (Figure ladder, UFO, LimX COSA, Psi0, EPFL hand, ROBOTIS Sapiens, etc.)
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — semantic/keyword streams mix old demos, spam, thin viral clips (disclosed)
+- Owner lists login-walled; proceeded with public X + web (disclosed)
+- Notable leads (leads only): Tactus/Elsie clinical lab humanoid circulating; Genesis Eno wheeled robot chatter; AGILINK balloon-hand clips; X Square open stack; weekend thin on brand-new factory announcements
+
+### Web Search Findings
+1. **[CANDIDATE→WRITTEN]** Tactus AI Elsie humanoid lab assistant at ADLM 2026 — tactus.ai + Newswise + IE + CLP + LabMedica — lane: **build**
+2. **[CANDIDATE→WRITTEN]** Genesis AI Eno wheeled general-purpose robot + GENE — genesis.ai press + TRR + YouTube — lane: **build**
+3. **[CANDIDATE→WRITTEN]** AGILINK OmniHand balloon dog + Ultra-M at ICRA 2026 — IEEE Spectrum + agilink-ai.com — lane: **build**
+4. **[CANDIDATE→WRITTEN]** X Square Robot open embodied AI stack (data / WALL-WM / Wall-OSS / XRZero-G0) — Spectrum + x2robot + TRR + arXiv — lane: **build**
+5. **[CANDIDATE→WRITTEN]** FA-RDP frequency-adaptive reactive diffusion policy — fa-rdp.github.io + arXiv:2607.28596 — lane: **build**
+6. **[CANDIDATE→WRITTEN]** NCKU synthetic video → Unitree G1 RL pipeline — arXiv:2607.21648 — lane: **build**
+7. **[SKIP: already covered]** Figure ladder; UFO; LimX COSA; Psi0; EPFL hand; ROBOTIS; PAC-MAN; KinetIQ; BrainCo; Stretch 4; Touch Dream; JAL Haneda; hands cluster; FCC; funding/IPO cluster
+8. **[SKIP: thin / older without fresh hook]** LG CLOiD (CES Jan); Rotaku Zen Samurai (thin primary); Noble Machines Moby (March); Speech2Grasp (abstract-only, weak media)
+9. **[SKIP: business lane]** Extra funding/IPO/ranking rewrites under 25% cap (weekend capital news deprioritized)
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | tactus-elsie-humanoid-lab-assistant | Robb Harlan | Humanoids | build |
+| 2 | genesis-ai-eno-wheeled-robot | Shar Hendrix | Robotics | build |
+| 3 | agilink-omnihand-balloon-icra | Shar Hendrix | Robotics | build |
+| 4 | x-square-open-embodied-ai-stack | Robb Harlan | AI | build |
+| 5 | fa-rdp-contact-rich-diffusion | Shar Hendrix | Research | build |
+| 6 | synthetic-video-humanoid-tasks-ncku | Robb Harlan | Research | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Solid candidates with primary/secondary depth: **6** | Writing: **6**
+- Soft floor 3 met; did not pad to 8 — Sunday/weekend scan thinner after heavy 07-28–08-01 batches; preferred verified short posts over rehashes or capital news
+
+### Notes for Future Agents
+- Tactus: pilot uptime / intervention metrics when first AMC sites report
+- Genesis Eno: first industrial deployment case studies late 2026
+- AGILINK: independent Ultra-M force-bandwidth measurements
+- X Square: third-party Wall-OSS runs on non-company arms
+- FA-RDP: code release + external replications
+- Synthetic video pipeline: sim-to-real G1 reports
+- Afternoon slot: do not rehash this morning six
+

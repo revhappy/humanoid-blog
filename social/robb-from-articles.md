@@ -3,9 +3,141 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-01T21:07:10.380Z
+Generated: 2026-08-02T16:06:39.703Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## AGILINK’s OmniHand Twists Balloon Dogs—and Ships a Direct-Drive Ultra-M Hand
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/agilink-omnihand-balloon-icra/
+
+### SOLO (no link)
+
+```
+Balloon dogs are the right kind of silly.  If you can keep a balloon from popping through a multi-step sequence, you have force control and long-horizon contact that actually matters for cable routing, soft packaging, and garment work.
+```
+
+### SOFT-LINK variant
+
+```
+Balloon dogs are the right kind of silly.  If you can keep a balloon from popping through a multi-step sequence, you have force control and long-horizon contact that actually matters for cable routing…
+
+https://mechafeed.com/blog/agilink-omnihand-balloon-icra/
+```
+
+---
+
+## FA-RDP: Diffusion Policies That Switch Frequency When Contact Hits
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/fa-rdp-contact-rich-diffusion/
+
+### SOLO (no link)
+
+```
+This is the kind of paper I want more of: not “diffusion, but bigger,” but “diffusion, but the control loop matches the physics phase. ” Contact is where factories lose money and demos die.
+```
+
+### SOFT-LINK variant
+
+```
+This is the kind of paper I want more of: not “diffusion, but bigger,” but “diffusion, but the control loop matches the physics phase. ” Contact is where factories lose money and demos die.
+
+https://mechafeed.com/blog/fa-rdp-contact-rich-diffusion/
+```
+
+---
+
+## Genesis AI’s Eno Skips Legs for a Wheeled General-Purpose Robot
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/genesis-ai-eno-wheeled-robot/
+
+### SOLO (no link)
+
+```
+I'm so here for a company that will not pretend legs are free.  Factories and labs are full of flat floors and elevators; a wheeled base that folds down for storage is a practical product decision, not a philosophy fight.
+```
+
+### SOFT-LINK variant
+
+```
+I'm so here for a company that will not pretend legs are free.  Factories and labs are full of flat floors and elevators; a wheeled base that folds down for storage is a practical product decision, not a philosophy fight.
+
+https://mechafeed.com/blog/genesis-ai-eno-wheeled-robot/
+```
+
+---
+
+## Train a Humanoid from AI Video, Not MoCap: NCKU’s Synthetic Demo Pipeline
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/synthetic-video-humanoid-tasks-ncku/
+
+### SOLO (no link)
+
+```
+If generative video can flood the imitation dataset with style variation, humanoid learning stops waiting for a motion-capture studio booking.  That is a real data bottleneck unlock—on paper.
+```
+
+### SOFT-LINK variant
+
+```
+If generative video can flood the imitation dataset with style variation, humanoid learning stops waiting for a motion-capture studio booking.  That is a real data bottleneck unlock—on paper.
+
+https://mechafeed.com/blog/synthetic-video-humanoid-tasks-ncku/
+```
+
+---
+
+## Tactus AI Unveils Elsie, a Humanoid Lab Assistant for Clinical Benches
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/tactus-elsie-humanoid-lab-assistant/
+
+### SOLO (no link)
+
+```
+I'm more interested in the SOP-and-QA gate than the two-armed form factor.  Clinical labs will not rebuild around a robot the way a greenfield warehouse might.
+```
+
+### SOFT-LINK variant
+
+```
+I'm more interested in the SOP-and-QA gate than the two-armed form factor.  Clinical labs will not rebuild around a robot the way a greenfield warehouse might.
+
+https://mechafeed.com/blog/tactus-elsie-humanoid-lab-assistant/
+```
+
+---
+
+## X Square Robot Opens Its Embodied AI Stack: Data, World Model, Action
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/x-square-open-embodied-ai-stack/
+
+### SOLO (no link)
+
+```
+Open data with physical playback is the part I trust most.  A trajectory that *looks* like a grasp on video but shoves the object is garbage; replaying on hardware and discarding failures is how you stop teaching the model lies.
+```
+
+### SOFT-LINK variant
+
+```
+Open data with physical playback is the part I trust most.  A trajectory that *looks* like a grasp on video but shoves the object is garbage; replaying on hardware and discarding failures is how you s…
+
+https://mechafeed.com/blog/x-square-open-embodied-ai-stack/
+```
 
 ---
 

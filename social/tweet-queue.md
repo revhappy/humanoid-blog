@@ -14,8 +14,132 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-01T21:07:09.039Z
-Posts: 77
+Generated: 2026-08-02T16:06:37.927Z
+Posts: 83
+
+---
+
+## AGILINK’s OmniHand Twists Balloon Dogs—and Ships a Direct-Drive Ultra-M Hand
+
+- **Slug:** `agilink-omnihand-balloon-icra`
+- **Date:** 2026-08-02
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/agilink-omnihand-balloon-icra/
+- **Chars:** 277/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=AGILINK%E2%80%99s%20OmniHand%20Twists%20Balloon%20Dogs%E2%80%94and%20Ships%20a%20Direct-Drive%20Ultra-M%20Hand%0A%0AAt%20ICRA%202026%2C%20AGILINK%20showed%20contact-rich%20balloon%20twisting%20with%20OmniHand%20and%20introduced%20OmniHand%203%20Ultra-M%3A%2020%20active%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fagilink-omnihand-balloon-icra%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+AGILINK’s OmniHand Twists Balloon Dogs—and Ships a Direct-Drive Ultra-M Hand
+
+At ICRA 2026, AGILINK showed contact-rich balloon twisting with OmniHand and introduced OmniHand 3 Ultra-M: 20 active…
+
+https://mechafeed.com/blog/agilink-omnihand-balloon-icra/
+
+#Robotics #Humanoids
+```
+
+---
+
+## FA-RDP: Diffusion Policies That Switch Frequency When Contact Hits
+
+- **Slug:** `fa-rdp-contact-rich-diffusion`
+- **Date:** 2026-08-02
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/fa-rdp-contact-rich-diffusion/
+- **Chars:** 276/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FA-RDP%3A%20Diffusion%20Policies%20That%20Switch%20Frequency%20When%20Contact%20Hits%0A%0AShanghai%20researchers%E2%80%99%20FA-RDP%20adapts%20diffusion%20sampling%20rate%20for%20contact-rich%20manipulation%E2%80%9481.7%25%20average%20success%20on%20box%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffa-rdp-contact-rich-diffusion%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+FA-RDP: Diffusion Policies That Switch Frequency When Contact Hits
+
+Shanghai researchers’ FA-RDP adapts diffusion sampling rate for contact-rich manipulation—81.7% average success on box…
+
+https://mechafeed.com/blog/fa-rdp-contact-rich-diffusion/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## Genesis AI’s Eno Skips Legs for a Wheeled General-Purpose Robot
+
+- **Slug:** `genesis-ai-eno-wheeled-robot`
+- **Date:** 2026-08-02
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/genesis-ai-eno-wheeled-robot/
+- **Chars:** 265/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Genesis%20AI%E2%80%99s%20Eno%20Skips%20Legs%20for%20a%20Wheeled%20General-Purpose%20Robot%0A%0AGenesis%20AI%20unveiled%20Eno%3A%20a%20wheeled%2C%20headless%20general-purpose%20robot%20with%20human-like%20hands%20and%20the%20GENE%20foundation%20model%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgenesis-ai-eno-wheeled-robot%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Genesis AI’s Eno Skips Legs for a Wheeled General-Purpose Robot
+
+Genesis AI unveiled Eno: a wheeled, headless general-purpose robot with human-like hands and the GENE foundation model,…
+
+https://mechafeed.com/blog/genesis-ai-eno-wheeled-robot/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Train a Humanoid from AI Video, Not MoCap: NCKU’s Synthetic Demo Pipeline
+
+- **Slug:** `synthetic-video-humanoid-tasks-ncku`
+- **Date:** 2026-08-02
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/synthetic-video-humanoid-tasks-ncku/
+- **Chars:** 157/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Train%20a%20Humanoid%20from%20AI%20Video%2C%20Not%20MoCap%3A%20NCKU%E2%80%99s%20Synthetic%20Demo%20Pipeline%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsynthetic-video-humanoid-tasks-ncku%2F%0A%0A%23RoboticsResearch)
+
+```
+Train a Humanoid from AI Video, Not MoCap: NCKU’s Synthetic Demo Pipeline
+
+https://mechafeed.com/blog/synthetic-video-humanoid-tasks-ncku/
+
+#RoboticsResearch
+```
+
+---
+
+## Tactus AI Unveils Elsie, a Humanoid Lab Assistant for Clinical Benches
+
+- **Slug:** `tactus-elsie-humanoid-lab-assistant`
+- **Date:** 2026-08-02
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/tactus-elsie-humanoid-lab-assistant/
+- **Chars:** 275/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Tactus%20AI%20Unveils%20Elsie%2C%20a%20Humanoid%20Lab%20Assistant%20for%20Clinical%20Benches%0A%0ASan%20Diego%20startup%20Tactus%20AI%20showed%20Elsie%20at%20ADLM%202026%3A%20a%20two-armed%20wheeled%20humanoid%20built%20to%20run%20existing%20lab%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftactus-elsie-humanoid-lab-assistant%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Tactus AI Unveils Elsie, a Humanoid Lab Assistant for Clinical Benches
+
+San Diego startup Tactus AI showed Elsie at ADLM 2026: a two-armed wheeled humanoid built to run existing lab…
+
+https://mechafeed.com/blog/tactus-elsie-humanoid-lab-assistant/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## X Square Robot Opens Its Embodied AI Stack: Data, World Model, Action
+
+- **Slug:** `x-square-open-embodied-ai-stack`
+- **Date:** 2026-08-02
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/x-square-open-embodied-ai-stack/
+- **Chars:** 264/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=X%20Square%20Robot%20Opens%20Its%20Embodied%20AI%20Stack%3A%20Data%2C%20World%20Model%2C%20Action%0A%0AShenzhen%E2%80%99s%20X%20Square%20Robot%20is%20open-sourcing%20layers%20of%20its%20WALL%20stack%E2%80%94robot-free%20data%2C%20WALL-WM%2C%20and%20Wall-OSS%E2%80%94aimed%20at%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fx-square-open-embodied-ai-stack%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+X Square Robot Opens Its Embodied AI Stack: Data, World Model, Action
+
+Shenzhen’s X Square Robot is open-sourcing layers of its WALL stack—robot-free data, WALL-WM, and Wall-OSS—aimed at…
+
+https://mechafeed.com/blog/x-square-open-embodied-ai-stack/
+
+#AI #Humanoids
+```
 
 ---
 
