@@ -824,3 +824,20 @@ pm run verify-media:today — 0 errors)
 - Synthetic video pipeline: sim-to-real G1 reports
 - Afternoon slot: do not rehash this morning six
 
+
+### Run summary
+- **Articles published (6):**
+  1. tactus-elsie-humanoid-lab-assistant — Tactus AI Elsie lab assistant
+  2. genesis-ai-eno-wheeled-robot — Genesis AI Eno
+  3. agilink-omnihand-balloon-icra — AGILINK OmniHand balloon / Ultra-M
+  4. x-square-open-embodied-ai-stack — X Square open WALL stack
+  5. fa-rdp-contact-rich-diffusion — FA-RDP contact-rich diffusion
+  6. synthetic-video-humanoid-tasks-ncku — NCKU synthetic video humanoid training
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings)
+- **Vision gate:** Confirmed stills for all 6 slugs (Elsie open-house + guests; Eno folded lab + GENE hands; AGILINK balloon dog + Ultra-M hand; X Square laundry + product render; FA-RDP teaser + architecture; synthetic pipeline + G1 mimic collage)
+- **Social:** tweets (83 drafts); robb-x
+- **Push:** 8ed2861 → origin/main
+- **Failures:** none blocking; solid candidates maxed at 6 (target 8) on Sunday after heavy late-July/early-Aug catalog — no padding with capital news
+- **Thin-ish vs target:** soft floor 3 met; hard max 8 not forced
+
