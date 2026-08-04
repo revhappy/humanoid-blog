@@ -3,9 +3,141 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-02T16:06:39.703Z
+Generated: 2026-08-04T02:38:45.523Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## CLIFT Fine-Tunes Closed Gemini Robotics On-Device into Near-Perfect Humanoid Skills
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/clift-gemini-robotics-humanoid-finetune/
+
+### SOLO (no link)
+
+```
+Here’s what I care about: closed models are not a dead end if the API accepts the right training tuples.  CLIFT is less “magic RL” than a careful cookbook for turning on-device rollouts into preference-shaped SFT.
+```
+
+### SOFT-LINK variant
+
+```
+Here’s what I care about: closed models are not a dead end if the API accepts the right training tuples.  CLIFT is less “magic RL” than a careful cookbook for turning on-device rollouts into preferenc…
+
+https://mechafeed.com/blog/clift-gemini-robotics-humanoid-finetune/
+```
+
+---
+
+## EgoHumanoid Trains Humanoid Loco-Manipulation from Egocentric Human Video
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/egohumanoid-loco-manipulation/
+
+### SOLO (no link)
+
+```
+Ego data is the cheapest “diversity injection” we have if you can fix viewpoint and action mismatch.  A 51% generalization bump from co-training is the kind of receipt I want more labs to publish with real floor plans, not just sim tables.
+```
+
+### SOFT-LINK variant
+
+```
+Ego data is the cheapest “diversity injection” we have if you can fix viewpoint and action mismatch.  A 51% generalization bump from co-training is the kind of receipt I want more labs to publish with…
+
+https://mechafeed.com/blog/egohumanoid-loco-manipulation/
+```
+
+---
+
+## IHMC’s Alex Humanoid Walks Untethered Outdoors for ONR Demo
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/ihmc-alex-outdoor-untethered/
+
+### SOLO (no link)
+
+```
+I care less about dance reels and more about whether a humanoid stays up on gravel without a safety cable.  IHMC’s ONR story is still early—walks and surfaces, not full door-open-and-clear missions—but untethered outdoor urban mobility is the prerequisite that…
+```
+
+### SOFT-LINK variant
+
+```
+I care less about dance reels and more about whether a humanoid stays up on gravel without a safety cable.  IHMC’s ONR story is still early—walks and surfaces, not full door-open-and-clear missions—bu…
+
+https://mechafeed.com/blog/ihmc-alex-outdoor-untethered/
+```
+
+---
+
+## Reimagine Robotics Emerges from Stealth with Robots Workers Can Train On the Job
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/reimagine-robotics-stealth-learn-on-job/
+
+### SOLO (no link)
+
+```
+This is the right product thesis for messy industrial work: variable SKUs, short runs, processes that change mid-week.  If a line worker can cut a new behavior from a day of integrator time to ten minutes, that is the unit-economics story—not another “general-purpose…
+```
+
+### SOFT-LINK variant
+
+```
+This is the right product thesis for messy industrial work: variable SKUs, short runs, processes that change mid-week.  If a line worker can cut a new behavior from a day of integrator time to ten min…
+
+https://mechafeed.com/blog/reimagine-robotics-stealth-learn-on-job/
+```
+
+---
+
+## RoboNaldo: Unitree G1 Scores Sub-Meter Humanoid Soccer Shots on Grass
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/robonaldo-humanoid-soccer-shooting/
+
+### SOLO (no link)
+
+```
+I’m so here for sports as a benchmark when the metrics are honest: mean error, ball speed, terrain.  RoboNaldo isn’t “robots will replace strikers”—it’s proof that curriculum RL can keep a motion prior while still adapting to ball motion and timing.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for sports as a benchmark when the metrics are honest: mean error, ball speed, terrain.  RoboNaldo isn’t “robots will replace strikers”—it’s proof that curriculum RL can keep a motion prio…
+
+https://mechafeed.com/blog/robonaldo-humanoid-soccer-shooting/
+```
+
+---
+
+## Tutor Intelligence’s DF1: 100 Semi-Humanoid Robots as a US Data Factory
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/tutor-intelligence-df1-data-factory/
+
+### SOLO (no link)
+
+```
+A hundred real robots in a mill building is a very different bet from another foundation-model press graphic.  If edge cases truly show up 100× faster, the flywheel is operational, not theoretical.
+```
+
+### SOFT-LINK variant
+
+```
+A hundred real robots in a mill building is a very different bet from another foundation-model press graphic.  If edge cases truly show up 100× faster, the flywheel is operational, not theoretical.
+
+https://mechafeed.com/blog/tutor-intelligence-df1-data-factory/
+```
 
 ---
 

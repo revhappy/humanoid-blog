@@ -841,3 +841,71 @@ pm run verify-media:today — 0 errors)
 - **Failures:** none blocking; solid candidates maxed at 6 (target 8) on Sunday after heavy late-July/early-Aug catalog — no padding with capital news
 - **Thin-ish vs target:** soft floor 3 met; hard max 8 not forced
 
+
+## 2026-08-03 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-03
+- `git pull --rebase origin main`: already up to date
+- No morning 2026-08-03 posts in catalog; last published batch 2026-08-02 morning (Tactus, Genesis Eno, AGILINK, X Square, FA-RDP, NCKU synthetic)
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — semantic/keyword streams mix old demos, spam, thin viral clips (disclosed)
+- Owner lists login-walled; proceeded with public X + web (disclosed)
+- Notable leads (leads only): BYD August humanoid debut chatter (already covered); Reimagine Robotics stealth day-of; RoboNaldo/OpenDriveLab sports humanoids circulating; Foundation Future Phantom thin/AI-mixed clips
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Reimagine Robotics stealth — reimaginerobotics.ai/news + TRR + AI Insider — lane: **build**
+2. **[CANDIDATE/WRITTEN]** RoboNaldo humanoid soccer shooting — OpenDriveLab + arXiv:2606.11092 + YouTube — lane: **build**
+3. **[CANDIDATE/WRITTEN]** CLIFT closed-loop fine-tune of Gemini Robotics On-Device — arXiv:2607.29172 + project site — lane: **build**
+4. **[CANDIDATE/WRITTEN]** EgoHumanoid human-to-humanoid loco-manipulation — OpenDriveLab + arXiv:2602.10106 + GitHub — lane: **build**
+5. **[CANDIDATE/WRITTEN]** IHMC Alex outdoor untethered ONR demo — ihmc.us + Spectrum Video Friday — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Tutor Intelligence DF1 100-robot data factory — tutor blog + MassRobotics/TRR — lane: **build**
+7. **[SKIP: already covered]** Gemini Robotics 2 whole-body; BYD Di Space; Figure ladder/BMW; Agility SPAC; Unitree IPO; PAC-MAN; FA-RDP; Psi0; LimX COSA; hands cluster; Aug 2 morning six
+8. **[SKIP: thin / older without fresh hook]** SMASH ping-pong (older preprint, weaker English news cycle today); Nomagic VLA (July Fortune, warehouse not humanoid-primary); Foundation Future Phantom (mixed AI-generated salute footage risk)
+9. **[SKIP: business lane]** Extra funding/IPO rewrites under 25% cap
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | reimagine-robotics-stealth-learn-on-job | Robb Harlan | Robotics | build |
+| 2 | robonaldo-humanoid-soccer-shooting | Shar Hendrix | Research | build |
+| 3 | clift-gemini-robotics-humanoid-finetune | Robb Harlan | AI | build |
+| 4 | egohumanoid-loco-manipulation | Shar Hendrix | Research | build |
+| 5 | ihmc-alex-outdoor-untethered | Robb Harlan | Humanoids | build |
+| 6 | tutor-intelligence-df1-data-factory | Shar Hendrix | Robotics | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Solid candidates with primary/secondary depth: **6** | Writing: **6**
+- Hit target without padding; all Pass A (capability, open research, product/deploy, outdoor mobility)
+
+### Notes for Future Agents
+- Reimagine: named customer metrics / Series seed-A amounts when published
+- RoboNaldo: multi-agent pass-and-shoot extensions; third-party G1 replications
+- CLIFT: partner API adoption beyond GROD; code release
+- EgoHumanoid: richer hand retargeting beyond binary open/close
+- IHMC Alex: door-open + indoor assess milestone for ONR
+- Tutor Sonny: first multi-shift industrial pilots end of year claim
+- Morning slot next day: do not rehash this afternoon six
+
+
+### Run summary
+- **Articles published (6):**
+  1. reimagine-robotics-stealth-learn-on-job — Reimagine Robotics stealth / learn-on-job
+  2. robonaldo-humanoid-soccer-shooting — RoboNaldo Unitree G1 soccer
+  3. clift-gemini-robotics-humanoid-finetune — CLIFT + Gemini Robotics On-Device
+  4. egohumanoid-loco-manipulation — EgoHumanoid human-to-humanoid transfer
+  5. ihmc-alex-outdoor-untethered — IHMC Alex outdoor ONR demo
+  6. tutor-intelligence-df1-data-factory — Tutor DF1 100-robot data factory
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings)
+- **Vision gate:** Confirmed stills for all 6 slugs (Reimagine R2 dual-arm mobile + factory hard-drive cell; RoboNaldo title montage + pipeline/dispersion; CLIFT teaser/tasks/results; EgoHumanoid trash-disposal ego view + human demos; IHMC Alex outdoor gravel walk + open house; Tutor DF1 Sonny fleet hall)
+- **Social:** tweets (89 drafts); robb-x
+- **Push:** pending
+- **Failures:** none blocking; solid candidates maxed at 6 (target 6)
+

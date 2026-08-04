@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-08-02T16:06:37.927Z",
+  "generatedAt": "2026-08-04T02:38:37.548Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "clift-gemini-robotics-humanoid-finetune",
+      "title": "CLIFT Fine-Tunes Closed Gemini Robotics On-Device into Near-Perfect Humanoid Skills",
+      "pubDate": "2026-08-03",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/clift-gemini-robotics-humanoid-finetune/",
+      "tweet": "CLIFT Fine-Tunes Closed Gemini Robotics On-Device into Near-Perfect Humanoid Skills\n\nhttps://mechafeed.com/blog/clift-gemini-robotics-humanoid-finetune/\n\n#AI",
+      "intent": "https://twitter.com/intent/tweet?text=CLIFT%20Fine-Tunes%20Closed%20Gemini%20Robotics%20On-Device%20into%20Near-Perfect%20Humanoid%20Skills%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fclift-gemini-robotics-humanoid-finetune%2F%0A%0A%23AI",
+      "chars": 157
+    },
+    {
+      "id": "egohumanoid-loco-manipulation",
+      "title": "EgoHumanoid Trains Humanoid Loco-Manipulation from Egocentric Human Video",
+      "pubDate": "2026-08-03",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/egohumanoid-loco-manipulation/",
+      "tweet": "EgoHumanoid Trains Humanoid Loco-Manipulation from Egocentric Human Video\n\nOpenDriveLab’s EgoHumanoid co-trains VLA policies on robot demos plus in-the-wild human video, reporting +51%…\n\nhttps://mechafeed.com/blog/egohumanoid-loco-manipulation/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=EgoHumanoid%20Trains%20Humanoid%20Loco-Manipulation%20from%20Egocentric%20Human%20Video%0A%0AOpenDriveLab%E2%80%99s%20EgoHumanoid%20co-trains%20VLA%20policies%20on%20robot%20demos%20plus%20in-the-wild%20human%20video%2C%20reporting%20%2B51%25%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fegohumanoid-loco-manipulation%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 274
+    },
+    {
+      "id": "ihmc-alex-outdoor-untethered",
+      "title": "IHMC’s Alex Humanoid Walks Untethered Outdoors for ONR Demo",
+      "pubDate": "2026-08-03",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/ihmc-alex-outdoor-untethered/",
+      "tweet": "IHMC’s Alex Humanoid Walks Untethered Outdoors for ONR Demo\n\nFlorida’s IHMC took its all-electric Alex humanoid off the gantry for an off-site Maryland demo on gravel, slick…\n\nhttps://mechafeed.com/blog/ihmc-alex-outdoor-untethered/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=IHMC%E2%80%99s%20Alex%20Humanoid%20Walks%20Untethered%20Outdoors%20for%20ONR%20Demo%0A%0AFlorida%E2%80%99s%20IHMC%20took%20its%20all-electric%20Alex%20humanoid%20off%20the%20gantry%20for%20an%20off-site%20Maryland%20demo%20on%20gravel%2C%20slick%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fihmc-alex-outdoor-untethered%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 260
+    },
+    {
+      "id": "reimagine-robotics-stealth-learn-on-job",
+      "title": "Reimagine Robotics Emerges from Stealth with Robots Workers Can Train On the Job",
+      "pubDate": "2026-08-03",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/reimagine-robotics-stealth-learn-on-job/",
+      "tweet": "Reimagine Robotics Emerges from Stealth with Robots Workers Can Train On the Job\n\nhttps://mechafeed.com/blog/reimagine-robotics-stealth-learn-on-job/\n\n#Robotics",
+      "intent": "https://twitter.com/intent/tweet?text=Reimagine%20Robotics%20Emerges%20from%20Stealth%20with%20Robots%20Workers%20Can%20Train%20On%20the%20Job%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Freimagine-robotics-stealth-learn-on-job%2F%0A%0A%23Robotics",
+      "chars": 160
+    },
+    {
+      "id": "robonaldo-humanoid-soccer-shooting",
+      "title": "RoboNaldo: Unitree G1 Scores Sub-Meter Humanoid Soccer Shots on Grass",
+      "pubDate": "2026-08-03",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/robonaldo-humanoid-soccer-shooting/",
+      "tweet": "RoboNaldo: Unitree G1 Scores Sub-Meter Humanoid Soccer Shots on Grass\n\nhttps://mechafeed.com/blog/robonaldo-humanoid-soccer-shooting/\n\n#RoboticsResearch",
+      "intent": "https://twitter.com/intent/tweet?text=RoboNaldo%3A%20Unitree%20G1%20Scores%20Sub-Meter%20Humanoid%20Soccer%20Shots%20on%20Grass%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frobonaldo-humanoid-soccer-shooting%2F%0A%0A%23RoboticsResearch",
+      "chars": 152
+    },
+    {
+      "id": "tutor-intelligence-df1-data-factory",
+      "title": "Tutor Intelligence’s DF1: 100 Semi-Humanoid Robots as a US Data Factory",
+      "pubDate": "2026-08-03",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/tutor-intelligence-df1-data-factory/",
+      "tweet": "Tutor Intelligence’s DF1: 100 Semi-Humanoid Robots as a US Data Factory\n\nMIT-spawned Tutor Intelligence runs Data Factory 1—100 Sonny robots plus remote tutors—to train Ti0 VLA policies for…\n\nhttps://mechafeed.com/blog/tutor-intelligence-df1-data-factory/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Tutor%20Intelligence%E2%80%99s%20DF1%3A%20100%20Semi-Humanoid%20Robots%20as%20a%20US%20Data%20Factory%0A%0AMIT-spawned%20Tutor%20Intelligence%20runs%20Data%20Factory%201%E2%80%94100%20Sonny%20robots%20plus%20remote%20tutors%E2%80%94to%20train%20Ti0%20VLA%20policies%20for%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftutor-intelligence-df1-data-factory%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 277
+    },
     {
       "id": "agilink-omnihand-balloon-icra",
       "title": "AGILINK’s OmniHand Twists Balloon Dogs—and Ships a Direct-Drive Ultra-M Hand",
