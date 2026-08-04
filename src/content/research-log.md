@@ -909,3 +909,70 @@ pm run verify-media:today — 0 errors)
 - **Push:** pending
 - **Failures:** none blocking; solid candidates maxed at 6 (target 6)
 
+
+## 2026-08-04 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-04
+- `git pull --rebase origin main`: already up to date
+- Prior catalog through 2026-08-03 afternoon (Reimagine, RoboNaldo, CLIFT, EgoHumanoid, IHMC Alex, Tutor DF1); no morning 08-04 posts yet
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — semantic/keyword streams mix old demos, spam, thin viral clips (disclosed)
+- Owner lists login-walled; proceeded with public X + web (disclosed)
+- Notable leads (leads only): LingBot-VLA 2.0 circulating; Foundation hand baseball catch; Threehalves/Satyress centaur; Figure ladder rehash (already covered); BYD August (already covered)
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Robbyant LingBot-VLA 2.0 open-source multi-morphology VLA — GitHub + IT Brief Asia + arXiv:2607.06403 — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Horizon Robotics HoloMotion whole-body controller — GitHub + project page + IE + arXiv:2605.15336 — lane: **build**
+3. **[CANDIDATE/WRITTEN]** SIMPLE humanoid loco-manipulation sim benchmark — psi-lab.ai + arXiv:2606.08278 + GitHub — lane: **build**
+4. **[CANDIDATE/WRITTEN]** HumanoidMimicGen NVIDIA synthetic loco-manipulation data — project page + arXiv:2605.27724 — lane: **build**
+5. **[CANDIDATE/WRITTEN]** HALOMI active-perception humanoid from human demos — arXiv:2606.18772 + project site — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Threehalves/Satyress centaur hazardous-work robot — IE + satyress.com — lane: **build**
+7. **[CANDIDATE/WRITTEN]** Foundation tendon-driven hand baseball catch — IE + YouTube + TechEBlog — lane: **build**
+8. **[SKIP: already covered]** Figure F.03 ladder; Agibot 15k; Tau cleaning; FCC ban; BYD Di Space; Reimagine; EgoHumanoid; Psi0; Gemini Robotics 2; Aug 2–3 batches
+9. **[SKIP: thin / CGI risk]** Foundation Phantom military formation videos (CGI promo risk); DroidUp Moya (older viral, weaker fresh primary English package this slot)
+10. **[SKIP: business lane]** Unitree IPO rewrites; Korean parts stock reaction to FCC; pure unit-count rehashes under 25% cap
+
+### Selected for Writing (ranked) — 7 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | lingbot-vla-2-robbyant | Shar Hendrix | AI | build |
+| 2 | holomotion-horizon-whole-body | Robb Harlan | AI | build |
+| 3 | simple-humanoid-sim-benchmark | Shar Hendrix | Research | build |
+| 4 | humanoidmimicgen-nvidia-data | Robb Harlan | Research | build |
+| 5 | halomi-active-perception-humanoid | Shar Hendrix | Research | build |
+| 6 | threehalves-centaur-rescue-robot | Robb Harlan | Robotics | build |
+| 7 | foundation-tendon-hand-baseball | Shar Hendrix | Robotics | build |
+
+### Mix check
+- Build/innovate: 7 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Solid candidates with primary/secondary depth: **7** | Writing: **7**
+- Soft floor 3 met; did not pad to 8 — day was research/open-stack heavy after early-August industrial catalog; preferred verified capability posts over capital news
+
+### Notes for Future Agents
+- LingBot: independent warehouse pilot metrics when published
+- HoloMotion v2 command-following when released
+- SIMPLE: third-party zero-shot replications
+- HumanoidMimicGen: code release / external replications
+- HALOMI: open code if authors ship it
+- Threehalves: field-hour / buyer announcements
+- Foundation hand: non-scripted industrial part demos
+- Afternoon slot: do not rehash this morning seven
+
+### Run summary
+- **Articles published (7):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 7 posts)
+- **Vision gate:** Confirmed stills for all 7 slugs (LingBot framework + data collage; HoloMotion G1 motion grid + architecture; SIMPLE pipeline + MP + s2r; HumanoidMimicGen box/drill sim; HALOMI task grid + bag ablations; Threehalves outdoor centaur; Foundation tendon hand close-up + V2 still + YT embed)
+- **Build:** PASS (astro build exit 0)
+- **Social:** tweets (96 drafts); robb-x
+- **Vision gate:** confirmed stills for all 7 slugs before commit
+- **Social:** tweets / robb-x after write
+- **Push:** pending
+- **Failures:** none at write time; solid candidates 7 of target 8
+

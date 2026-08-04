@@ -1,7 +1,77 @@
 {
-  "generatedAt": "2026-08-04T02:38:37.548Z",
+  "generatedAt": "2026-08-04T16:07:29.795Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "foundation-tendon-hand-baseball",
+      "title": "Foundation’s Tendon-Driven Hand Catches a Baseball Mid-Flight",
+      "pubDate": "2026-08-04",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/foundation-tendon-hand-baseball/",
+      "tweet": "Foundation’s Tendon-Driven Hand Catches a Baseball Mid-Flight\n\nFoundation Robotics demos a forearm-motor, tendon-driven hand that cups and catches a baseball, aimed at its Phantom…\n\nhttps://mechafeed.com/blog/foundation-tendon-hand-baseball/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Foundation%E2%80%99s%20Tendon-Driven%20Hand%20Catches%20a%20Baseball%20Mid-Flight%0A%0AFoundation%20Robotics%20demos%20a%20forearm-motor%2C%20tendon-driven%20hand%20that%20cups%20and%20catches%20a%20baseball%2C%20aimed%20at%20its%20Phantom%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffoundation-tendon-hand-baseball%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 263
+    },
+    {
+      "id": "halomi-active-perception-humanoid",
+      "title": "HALOMI Teaches G1 Loco-Manipulation From Human Demos Alone",
+      "pubDate": "2026-08-04",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/halomi-active-perception-humanoid/",
+      "tweet": "HALOMI Teaches G1 Loco-Manipulation From Human Demos Alone\n\nHALOMI uses UMI-style human demos, an active neck, and a manifold whole-body controller to hit ~85% average success on…\n\nhttps://mechafeed.com/blog/halomi-active-perception-humanoid/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=HALOMI%20Teaches%20G1%20Loco-Manipulation%20From%20Human%20Demos%20Alone%0A%0AHALOMI%20uses%20UMI-style%20human%20demos%2C%20an%20active%20neck%2C%20and%20a%20manifold%20whole-body%20controller%20to%20hit%20~85%25%20average%20success%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhalomi-active-perception-humanoid%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 272
+    },
+    {
+      "id": "holomotion-horizon-whole-body",
+      "title": "HoloMotion: Horizon’s Open Whole-Body Humanoid Controller Hits 300 FPS",
+      "pubDate": "2026-08-04",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/holomotion-horizon-whole-body/",
+      "tweet": "HoloMotion: Horizon’s Open Whole-Body Humanoid Controller Hits 300 FPS\n\nHorizon Robotics open-sources HoloMotion for whole-body humanoid control, with MoE inference around 300 FPS and…\n\nhttps://mechafeed.com/blog/holomotion-horizon-whole-body/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=HoloMotion%3A%20Horizon%E2%80%99s%20Open%20Whole-Body%20Humanoid%20Controller%20Hits%20300%20FPS%0A%0AHorizon%20Robotics%20open-sources%20HoloMotion%20for%20whole-body%20humanoid%20control%2C%20with%20MoE%20inference%20around%20300%20FPS%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fholomotion-horizon-whole-body%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 259
+    },
+    {
+      "id": "humanoidmimicgen-nvidia-data",
+      "title": "HumanoidMimicGen: NVIDIA Turns One Teleop Demo Into Thousands",
+      "pubDate": "2026-08-04",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/humanoidmimicgen-nvidia-data/",
+      "tweet": "HumanoidMimicGen: NVIDIA Turns One Teleop Demo Into Thousands\n\nNVIDIA GEAR’s HumanoidMimicGen generates G1 loco-manipulation demos from few teleops, lifting real-world co-training…\n\nhttps://mechafeed.com/blog/humanoidmimicgen-nvidia-data/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=HumanoidMimicGen%3A%20NVIDIA%20Turns%20One%20Teleop%20Demo%20Into%20Thousands%0A%0ANVIDIA%20GEAR%E2%80%99s%20HumanoidMimicGen%20generates%20G1%20loco-manipulation%20demos%20from%20few%20teleops%2C%20lifting%20real-world%20co-training%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhumanoidmimicgen-nvidia-data%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 268
+    },
+    {
+      "id": "lingbot-vla-2-robbyant",
+      "title": "Robbyant Open-Sources LingBot-VLA 2.0 Across 20 Robot Morphologies",
+      "pubDate": "2026-08-04",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/lingbot-vla-2-robbyant/",
+      "tweet": "Robbyant Open-Sources LingBot-VLA 2.0 Across 20 Robot Morphologies\n\nAnt Group’s Robbyant released LingBot-VLA 2.0 trained on 60,000 hours across 20 robot configs, with open weights and…\n\nhttps://mechafeed.com/blog/lingbot-vla-2-robbyant/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Robbyant%20Open-Sources%20LingBot-VLA%202.0%20Across%2020%20Robot%20Morphologies%0A%0AAnt%20Group%E2%80%99s%20Robbyant%20released%20LingBot-VLA%202.0%20trained%20on%2060%2C000%20hours%20across%2020%20robot%20configs%2C%20with%20open%20weights%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flingbot-vla-2-robbyant%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 253
+    },
+    {
+      "id": "simple-humanoid-sim-benchmark",
+      "title": "SIMPLE: PSI Lab’s Dual-Sim Benchmark for Humanoid Loco-Manipulation",
+      "pubDate": "2026-08-04",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/simple-humanoid-sim-benchmark/",
+      "tweet": "SIMPLE: PSI Lab’s Dual-Sim Benchmark for Humanoid Loco-Manipulation\n\nUSC PSI Lab’s SIMPLE pairs MuJoCo physics with Isaac Sim rendering for 60 whole-body humanoid tasks and zero-shot…\n\nhttps://mechafeed.com/blog/simple-humanoid-sim-benchmark/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=SIMPLE%3A%20PSI%20Lab%E2%80%99s%20Dual-Sim%20Benchmark%20for%20Humanoid%20Loco-Manipulation%0A%0AUSC%20PSI%20Lab%E2%80%99s%20SIMPLE%20pairs%20MuJoCo%20physics%20with%20Isaac%20Sim%20rendering%20for%2060%20whole-body%20humanoid%20tasks%20and%20zero-shot%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsimple-humanoid-sim-benchmark%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 272
+    },
+    {
+      "id": "threehalves-centaur-rescue-robot",
+      "title": "Threehalves: Garage-Built Centaur Robot Aimed at Hazardous Work",
+      "pubDate": "2026-08-04",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/threehalves-centaur-rescue-robot/",
+      "tweet": "Threehalves: Garage-Built Centaur Robot Aimed at Hazardous Work\n\nNorthern California’s Threehalves pairs a humanoid upper body with a four-legged base, modular tool mounts, and…\n\nhttps://mechafeed.com/blog/threehalves-centaur-rescue-robot/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Threehalves%3A%20Garage-Built%20Centaur%20Robot%20Aimed%20at%20Hazardous%20Work%0A%0ANorthern%20California%E2%80%99s%20Threehalves%20pairs%20a%20humanoid%20upper%20body%20with%20a%20four-legged%20base%2C%20modular%20tool%20mounts%2C%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fthreehalves-centaur-rescue-robot%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 261
+    },
     {
       "id": "clift-gemini-robotics-humanoid-finetune",
       "title": "CLIFT Fine-Tunes Closed Gemini Robotics On-Device into Near-Perfect Humanoid Skills",

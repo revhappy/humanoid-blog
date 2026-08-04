@@ -3,9 +3,163 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-04T02:38:45.523Z
+Generated: 2026-08-04T16:07:31.909Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Foundation’s Tendon-Driven Hand Catches a Baseball Mid-Flight
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/foundation-tendon-hand-baseball/
+
+### SOLO (no link)
+
+```
+Catching a ball is a great stress test for tendon latency and contact compliance.  I’m not updating my warehouse automation spreadsheet based on one planned throw — but independently actuated, sensor-redundant hands are exactly the hardware layer industrial humanoids…
+```
+
+### SOFT-LINK variant
+
+```
+Catching a ball is a great stress test for tendon latency and contact compliance.  I’m not updating my warehouse automation spreadsheet based on one planned throw — but independently actuated, sensor-…
+
+https://mechafeed.com/blog/foundation-tendon-hand-baseball/
+```
+
+---
+
+## HALOMI Teaches G1 Loco-Manipulation From Human Demos Alone
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/halomi-active-perception-humanoid/
+
+### SOLO (no link)
+
+```
+Active perception is the sleeper feature here.  Teaching a humanoid from people who naturally look where they reach is how long-horizon home and warehouse tasks should be collected — if the alignment stack holds up outside the authors’ lab.
+```
+
+### SOFT-LINK variant
+
+```
+Active perception is the sleeper feature here.  Teaching a humanoid from people who naturally look where they reach is how long-horizon home and warehouse tasks should be collected — if the alignment …
+
+https://mechafeed.com/blog/halomi-active-perception-humanoid/
+```
+
+---
+
+## HoloMotion: Horizon’s Open Whole-Body Humanoid Controller Hits 300 FPS
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/holomotion-horizon-whole-body/
+
+### SOLO (no link)
+
+```
+Whole-body tracking that actually runs at control rates is the boring layer factories need before fancy task models matter.  I’m less interested in the martial-arts kick reels than in whether HoloRetarget and the Docker path let a lab stick this on a G1 without a…
+```
+
+### SOFT-LINK variant
+
+```
+Whole-body tracking that actually runs at control rates is the boring layer factories need before fancy task models matter.  I’m less interested in the martial-arts kick reels than in whether HoloReta…
+
+https://mechafeed.com/blog/holomotion-horizon-whole-body/
+```
+
+---
+
+## HumanoidMimicGen: NVIDIA Turns One Teleop Demo Into Thousands
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/humanoidmimicgen-nvidia-data/
+
+### SOLO (no link)
+
+```
+Synthetic data is only useful if it moves real success rates.  A 51→71 jump on four hardware tasks is the kind of receipt I want to see more of.
+```
+
+### SOFT-LINK variant
+
+```
+Synthetic data is only useful if it moves real success rates.  A 51→71 jump on four hardware tasks is the kind of receipt I want to see more of.
+
+https://mechafeed.com/blog/humanoidmimicgen-nvidia-data/
+```
+
+---
+
+## Robbyant Open-Sources LingBot-VLA 2.0 Across 20 Robot Morphologies
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/lingbot-vla-2-robbyant/
+
+### SOLO (no link)
+
+```
+I’m here for models that treat “which robot am I on? ” as a first-class problem instead of a footnote.
+```
+
+### SOFT-LINK variant
+
+```
+I’m here for models that treat “which robot am I on? ” as a first-class problem instead of a footnote.
+
+https://mechafeed.com/blog/lingbot-vla-2-robbyant/
+```
+
+---
+
+## SIMPLE: PSI Lab’s Dual-Sim Benchmark for Humanoid Loco-Manipulation
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/simple-humanoid-sim-benchmark/
+
+### SOLO (no link)
+
+```
+I love a benchmark that admits humanoid loco-manipulation is not tabletop arms with legs glued on.  Dual-sim is the right trade: MuJoCo for feet, Isaac for cameras.
+```
+
+### SOFT-LINK variant
+
+```
+I love a benchmark that admits humanoid loco-manipulation is not tabletop arms with legs glued on.  Dual-sim is the right trade: MuJoCo for feet, Isaac for cameras.
+
+https://mechafeed.com/blog/simple-humanoid-sim-benchmark/
+```
+
+---
+
+## Threehalves: Garage-Built Centaur Robot Aimed at Hazardous Work
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/threehalves-centaur-rescue-robot/
+
+### SOLO (no link)
+
+```
+I care more about the friction brakes and the physical kill-valve than the goat horns.  Hazardous work is where form-factor diversity still beats biped fashion: if the machine falls over when the compressor hiccups, it is a liability.
+```
+
+### SOFT-LINK variant
+
+```
+I care more about the friction brakes and the physical kill-valve than the goat horns.  Hazardous work is where form-factor diversity still beats biped fashion: if the machine falls over when the comp…
+
+https://mechafeed.com/blog/threehalves-centaur-rescue-robot/
+```
 
 ---
 
