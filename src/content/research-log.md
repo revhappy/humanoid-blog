@@ -1035,10 +1035,9 @@ pm run verify-media:today — 0 errors)
 ### Run summary
 - **Articles published (6):** listed above
 - **X list accessible?** Partial/noisy (N for clean feed)
-- **Media verify:** PASS (
-pm run verify-media:today — 0 errors, 0 warnings on 13 today posts incl. morning)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 13 today posts incl. morning)
 - **Vision gate:** Confirmed stills (HumanCLAW pipeline; HERO teaser+tasks; HuMI system diagram; Bifrost pipeline+hardware+exp; HiWET G1 collage+real; parkour YT montage)
-- **Social:** pending tweets / robb-x
-- **Push:** pending
+- **Social:** tweets (102 drafts); robb-x
+- **Push:** 3e42513 → origin/main
 - **Failures:** none blocking
 
