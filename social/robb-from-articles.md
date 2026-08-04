@@ -3,9 +3,53 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-04T16:07:31.909Z
+Generated: 2026-08-04T21:07:00.720Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## BifrostUMI Bridges Robot-Free Demos to G1 Whole-Body Skills
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/bifrostumi-baai-humanoid-data/
+
+### SOLO (no link)
+
+```
+HuMI and BifrostUMI are racing the same bottleneck from different labs: whole-body data without babysitting the robot.  The novice coffee-walk number is the one I keep.
+```
+
+### SOFT-LINK variant
+
+```
+HuMI and BifrostUMI are racing the same bottleneck from different labs: whole-body data without babysitting the robot.  The novice coffee-walk number is the one I keep.
+
+https://mechafeed.com/blog/bifrostumi-baai-humanoid-data/
+```
+
+---
+
+## Deep Whole-Body Parkour Puts Perception Into G1 Motion Tracking
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/deep-whole-body-parkour/
+
+### SOLO (no link)
+
+```
+Parkour demos are the honesty test for whole-body policies: if the contact schedule only works on a flat mat, you do not have terrain intelligence.  Depth-in-the-loop tracking is the piece worth watching — flat-floor acrobatics without perception already exists;…
+```
+
+### SOFT-LINK variant
+
+```
+Parkour demos are the honesty test for whole-body policies: if the contact schedule only works on a flat mat, you do not have terrain intelligence.  Depth-in-the-loop tracking is the piece worth watch…
+
+https://mechafeed.com/blog/deep-whole-body-parkour/
+```
 
 ---
 
@@ -53,6 +97,50 @@ https://mechafeed.com/blog/halomi-active-perception-humanoid/
 
 ---
 
+## HERO Bootstraps Robot Skills From Zero Human Demos
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/hero-zero-demo-self-improving/
+
+### SOLO (no link)
+
+```
+The interesting claim is not “no humans forever” — it is practice as a first-class data engine.  If L1 really fills the cold-start and L3 eats the routine, you spend human time on exceptions instead of every tray of demos.
+```
+
+### SOFT-LINK variant
+
+```
+The interesting claim is not “no humans forever” — it is practice as a first-class data engine.  If L1 really fills the cold-start and L3 eats the routine, you spend human time on exceptions instead o…
+
+https://mechafeed.com/blog/hero-zero-demo-self-improving/
+```
+
+---
+
+## HiWET Tracks Humanoid Hands in the World Frame
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/hiwet-world-frame-tracking/
+
+### SOLO (no link)
+
+```
+Body-frame EE tracking is fine for a table-fixed arm on a robot that barely moves.  The moment the base walks a shift, world-frame drift eats your grasp.
+```
+
+### SOFT-LINK variant
+
+```
+Body-frame EE tracking is fine for a table-fixed arm on a robot that barely moves.  The moment the base walks a shift, world-frame drift eats your grasp.
+
+https://mechafeed.com/blog/hiwet-world-frame-tracking/
+```
+
+---
+
 ## HoloMotion: Horizon’s Open Whole-Body Humanoid Controller Hits 300 FPS
 
 - Author on blog: Robb Harlan
@@ -75,6 +163,28 @@ https://mechafeed.com/blog/holomotion-horizon-whole-body/
 
 ---
 
+## HumanCLAW Asks: Can VLMs Act Through a Body?
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/humanclaw-vlm-body-action/
+
+### SOLO (no link)
+
+```
+This is a useful cold shower.  Leaderboard VLMs that ace chat and captioning still behave like ghosts in a body — fluent about furniture, clumsy about feet.
+```
+
+### SOFT-LINK variant
+
+```
+This is a useful cold shower.  Leaderboard VLMs that ace chat and captioning still behave like ghosts in a body — fluent about furniture, clumsy about feet.
+
+https://mechafeed.com/blog/humanclaw-vlm-body-action/
+```
+
+---
+
 ## HumanoidMimicGen: NVIDIA Turns One Teleop Demo Into Thousands
 
 - Author on blog: Robb Harlan
@@ -93,6 +203,28 @@ Synthetic data is only useful if it moves real success rates.  A 51→71 jump on
 Synthetic data is only useful if it moves real success rates.  A 51→71 jump on four hardware tasks is the kind of receipt I want to see more of.
 
 https://mechafeed.com/blog/humanoidmimicgen-nvidia-data/
+```
+
+---
+
+## HuMI: Robot-Free Whole-Body Skills on Unitree G1
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/humi-robot-free-whole-body/
+
+### SOLO (no link)
+
+```
+Robot-free whole-body capture only works if the retarget stays honest about object geometry — HuMI’s no-scale + IK preview choice is the right engineering instinct.  The TWIST2 comparison on deep kneeling is the money chart: teleop still cannot teach some postures you…
+```
+
+### SOFT-LINK variant
+
+```
+Robot-free whole-body capture only works if the retarget stays honest about object geometry — HuMI’s no-scale + IK preview choice is the right engineering instinct.  The TWIST2 comparison on deep knee…
+
+https://mechafeed.com/blog/humi-robot-free-whole-body/
 ```
 
 ---

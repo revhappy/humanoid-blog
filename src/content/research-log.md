@@ -976,3 +976,69 @@ pm run verify-media:today — 0 errors)
 - **Push:** pending
 - **Failures:** none at write time; solid candidates 7 of target 8
 
+
+- **Push:** d45105d → origin/main
+- **Failures:** none blocking; solid candidates 7 of target 8 (no padding)
+
+
+## 2026-08-04 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-04
+- git pull --rebase origin main: already up to date after stash/pop of research-log + stray heroes
+- Morning 2026-08-04 already published 7: LingBot-VLA 2, HoloMotion, SIMPLE, HumanoidMimicGen, HALOMI, Threehalves, Foundation hand — **do not rehash**
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — semantic/keyword streams mix old demos, spam, thin viral clips (disclosed)
+- Owner lists login-walled; proceeded with public X + web (disclosed)
+- Notable leads (leads only): MindOn multi-robot logistics chatter (primary URL failed); HumanCLAW / HERO papers circulating late July; parkour Instinct clips; Unitree sidewalk dance rehashes (skip)
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** HumanCLAW VLM body-action benchmark — human-claw.github.io + arXiv:2607.27180 + GitHub — lane: **build**
+2. **[CANDIDATE/WRITTEN]** HERO zero-demo self-improving agent — hero-agent.github.io + arXiv:2607.26809 — lane: **build**
+3. **[CANDIDATE/WRITTEN]** HuMI robot-free whole-body G1 — arXiv:2602.06643 + project page — lane: **build**
+4. **[CANDIDATE/WRITTEN]** BifrostUMI BAAI robot-free G1 skills — arXiv:2605.03452 + baai-aether project — lane: **build**
+5. **[CANDIDATE/WRITTEN]** HiWET world-frame EE tracking — arXiv:2602.06341 + HTML — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Deep Whole-Body Parkour Project Instinct — arXiv:2601.07701 + project + YouTube — lane: **build**
+7. **[SKIP: already covered morning]** LingBot, HoloMotion, SIMPLE, HumanoidMimicGen, HALOMI, Threehalves, Foundation hand
+8. **[SKIP: already covered prior days]** EgoHumanoid, Psi0, Reimagine, RoboNaldo, CLIFT, FA-RDP, Gene.01, Figure ladder, Unitree IPO
+9. **[SKIP: thin / primary failed]** MindOn Mind-0 logistics blog URL unreachable this session
+10. **[SKIP: business lane]** Figure BotQ unit-rate chatter; capital rewrites under 25% cap
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | humanclaw-vlm-body-action | Robb Harlan | AI | build |
+| 2 | hero-zero-demo-self-improving | Shar Hendrix | AI | build |
+| 3 | humi-robot-free-whole-body | Robb Harlan | Research | build |
+| 4 | bifrostumi-baai-humanoid-data | Shar Hendrix | Research | build |
+| 5 | hiwet-world-frame-tracking | Robb Harlan | Research | build |
+| 6 | deep-whole-body-parkour | Shar Hendrix | Humanoids | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Solid candidates with primary/secondary depth: **6** | Writing: **6**
+- Soft floor 2 met; hit target without padding or capital news
+
+### Notes for Future Agents
+- HumanCLAW: leaderboard updates when more VLMs run
+- HERO: code release when “coming soon” ships
+- HuMI vs BifrostUMI vs HALOMI: three robot-free stacks — only cover if new metrics/deployments
+- HiWET: contact-rich grasping follow-ups
+- Deep parkour: field hours / outdoor obstacle courses
+- Next morning: do not rehash this afternoon six
+
+### Run summary
+- **Articles published (6):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** PASS (
+pm run verify-media:today — 0 errors, 0 warnings on 13 today posts incl. morning)
+- **Vision gate:** Confirmed stills (HumanCLAW pipeline; HERO teaser+tasks; HuMI system diagram; Bifrost pipeline+hardware+exp; HiWET G1 collage+real; parkour YT montage)
+- **Social:** pending tweets / robb-x
+- **Push:** pending
+- **Failures:** none blocking
+

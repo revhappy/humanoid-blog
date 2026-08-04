@@ -14,8 +14,50 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-04T16:07:29.795Z
-Posts: 96
+Generated: 2026-08-04T21:06:59.378Z
+Posts: 102
+
+---
+
+## BifrostUMI Bridges Robot-Free Demos to G1 Whole-Body Skills
+
+- **Slug:** `bifrostumi-baai-humanoid-data`
+- **Date:** 2026-08-04
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/bifrostumi-baai-humanoid-data/
+- **Chars:** 269/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=BifrostUMI%20Bridges%20Robot-Free%20Demos%20to%20G1%20Whole-Body%20Skills%0A%0ABAAI's%20BifrostUMI%20uses%20Pico%20VR%20plus%20UMI%20grippers%20to%20teach%20Unitree%20G1%20pick-place%2C%20bimanual%20produce%2C%20throws%2C%20under-table%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fbifrostumi-baai-humanoid-data%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+BifrostUMI Bridges Robot-Free Demos to G1 Whole-Body Skills
+
+BAAI's BifrostUMI uses Pico VR plus UMI grippers to teach Unitree G1 pick-place, bimanual produce, throws, under-table…
+
+https://mechafeed.com/blog/bifrostumi-baai-humanoid-data/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## Deep Whole-Body Parkour Puts Perception Into G1 Motion Tracking
+
+- **Slug:** `deep-whole-body-parkour`
+- **Date:** 2026-08-04
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/deep-whole-body-parkour/
+- **Chars:** 264/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Deep%20Whole-Body%20Parkour%20Puts%20Perception%20Into%20G1%20Motion%20Tracking%0A%0ATsinghua%20Project%20Instinct%20unifies%20perceptive%20locomotion%20and%20general%20motion%20tracking%20so%20a%20G1%20can%20vault%2C%20dive-roll%2C%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdeep-whole-body-parkour%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Deep Whole-Body Parkour Puts Perception Into G1 Motion Tracking
+
+Tsinghua Project Instinct unifies perceptive locomotion and general motion tracking so a G1 can vault, dive-roll, and…
+
+https://mechafeed.com/blog/deep-whole-body-parkour/
+
+#HumanoidRobots #Humanoids
+```
 
 ---
 
@@ -61,6 +103,48 @@ https://mechafeed.com/blog/halomi-active-perception-humanoid/
 
 ---
 
+## HERO Bootstraps Robot Skills From Zero Human Demos
+
+- **Slug:** `hero-zero-demo-self-improving`
+- **Date:** 2026-08-04
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/hero-zero-demo-self-improving/
+- **Chars:** 245/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=HERO%20Bootstraps%20Robot%20Skills%20From%20Zero%20Human%20Demos%0A%0ASJTU's%20HERO%20agent%20collects%20664%20autonomous%20episodes%20across%20four%20tasks%2C%20then%20distills%20L1%2FL2%20experience%20into%20closed-loop%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhero-zero-demo-self-improving%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+HERO Bootstraps Robot Skills From Zero Human Demos
+
+SJTU's HERO agent collects 664 autonomous episodes across four tasks, then distills L1/L2 experience into closed-loop…
+
+https://mechafeed.com/blog/hero-zero-demo-self-improving/
+
+#AI #Humanoids
+```
+
+---
+
+## HiWET Tracks Humanoid Hands in the World Frame
+
+- **Slug:** `hiwet-world-frame-tracking`
+- **Date:** 2026-08-04
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/hiwet-world-frame-tracking/
+- **Chars:** 237/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=HiWET%20Tracks%20Humanoid%20Hands%20in%20the%20World%20Frame%0A%0AHiWET's%20hierarchical%20RL%20hits%2012.4%20mm%20sim%20EE%20error%20on%20Unitree%20G1%20and%20transfers%20zero-shot%20for%20real-world%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhiwet-world-frame-tracking%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+HiWET Tracks Humanoid Hands in the World Frame
+
+HiWET's hierarchical RL hits 12.4 mm sim EE error on Unitree G1 and transfers zero-shot for real-world…
+
+https://mechafeed.com/blog/hiwet-world-frame-tracking/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
 ## HoloMotion: Horizon’s Open Whole-Body Humanoid Controller Hits 300 FPS
 
 - **Slug:** `holomotion-horizon-whole-body`
@@ -82,6 +166,27 @@ https://mechafeed.com/blog/holomotion-horizon-whole-body/
 
 ---
 
+## HumanCLAW Asks: Can VLMs Act Through a Body?
+
+- **Slug:** `humanclaw-vlm-body-action`
+- **Date:** 2026-08-04
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/humanclaw-vlm-body-action/
+- **Chars:** 233/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=HumanCLAW%20Asks%3A%20Can%20VLMs%20Act%20Through%20a%20Body%3F%0A%0AMeta%2C%20NTU%2C%20and%20UW%20introduce%20HumanCLAW-Bench%3A%201%2C218%20egocentric%20find-navigate-interact%20episodes.%20Best%20VLM%20sits%20on%20the%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhumanclaw-vlm-body-action%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+HumanCLAW Asks: Can VLMs Act Through a Body?
+
+Meta, NTU, and UW introduce HumanCLAW-Bench: 1,218 egocentric find-navigate-interact episodes. Best VLM sits on the…
+
+https://mechafeed.com/blog/humanclaw-vlm-body-action/
+
+#AI #Humanoids
+```
+
+---
+
 ## HumanoidMimicGen: NVIDIA Turns One Teleop Demo Into Thousands
 
 - **Slug:** `humanoidmimicgen-nvidia-data`
@@ -97,6 +202,27 @@ HumanoidMimicGen: NVIDIA Turns One Teleop Demo Into Thousands
 NVIDIA GEAR’s HumanoidMimicGen generates G1 loco-manipulation demos from few teleops, lifting real-world co-training…
 
 https://mechafeed.com/blog/humanoidmimicgen-nvidia-data/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## HuMI: Robot-Free Whole-Body Skills on Unitree G1
+
+- **Slug:** `humi-robot-free-whole-body`
+- **Date:** 2026-08-04
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/humi-robot-free-whole-body/
+- **Chars:** 256/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=HuMI%3A%20Robot-Free%20Whole-Body%20Skills%20on%20Unitree%20G1%0A%0ATsinghua%20and%20Spirit.AI's%20HuMI%20collects%20backpack-portable%20demos%20without%20a%20robot%20present%2C%20claims%203%C3%97%20teleop%20throughput%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhumi-robot-free-whole-body%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+HuMI: Robot-Free Whole-Body Skills on Unitree G1
+
+Tsinghua and Spirit.AI's HuMI collects backpack-portable demos without a robot present, claims 3× teleop throughput and…
+
+https://mechafeed.com/blog/humi-robot-free-whole-body/
 
 #RoboticsResearch #Humanoids
 ```
