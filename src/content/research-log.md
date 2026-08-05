@@ -762,7 +762,7 @@ pm run verify-media:today — 0 errors)
 - **Media verify:** PASS (`npm run verify-media:today` — 0 errors on 12 posts including morning+afternoon)
 - **Vision gate:** Figure fleet OG (unique re-encode); UFO YT project still; LimX COSA promo + Oli living-room; Psi0 task collage + teleop; EPFL hand stills; ROBOTIS K1 render + IL diagram
 - **Social:** tweets / robb-x after write
-- **Failures:** none blocking; **Push:** pending
+- **Failures:** none blocking; **Push:** 8d018bf → origin/main
 
 ### Notes for Future Agents
 - Figure ladder: watch for formal Helix/S0 ladder blog post with metrics
@@ -906,7 +906,7 @@ pm run verify-media:today — 0 errors)
 - **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings)
 - **Vision gate:** Confirmed stills for all 6 slugs (Reimagine R2 dual-arm mobile + factory hard-drive cell; RoboNaldo title montage + pipeline/dispersion; CLIFT teaser/tasks/results; EgoHumanoid trash-disposal ego view + human demos; IHMC Alex outdoor gravel walk + open house; Tutor DF1 Sonny fleet hall)
 - **Social:** tweets (89 drafts); robb-x
-- **Push:** pending
+- **Push:** 8d018bf → origin/main
 - **Failures:** none blocking; solid candidates maxed at 6 (target 6)
 
 
@@ -973,7 +973,7 @@ pm run verify-media:today — 0 errors)
 - **Social:** tweets (96 drafts); robb-x
 - **Vision gate:** confirmed stills for all 7 slugs before commit
 - **Social:** tweets / robb-x after write
-- **Push:** pending
+- **Push:** 8d018bf → origin/main
 - **Failures:** none at write time; solid candidates 7 of target 8
 
 
@@ -1114,5 +1114,5 @@ pm run verify-media:today — 0 errors)
 pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Vision gate:** Confirmed stills for all 8 slugs (AMD Kria dev kit + SOM; Ego2Robot pipeline + morphologies + rollouts; Lightbot parkour montage + pipeline; CMP context figures; PFM-HR diagram; RoboReact teaser + system; G1 safety cell + pickup/transport; Moya face + YT still)
 - **Social:** tweets (110 drafts); robb-x
-- **Push:** pending
+- **Push:** 8d018bf → origin/main
 - **Failures:** none blocking; solid candidates 8 of target 8
