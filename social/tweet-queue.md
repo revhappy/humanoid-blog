@@ -14,8 +14,8 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-05T16:05:28.115Z
-Posts: 110
+Generated: 2026-08-05T21:04:52.084Z
+Posts: 116
 
 ---
 
@@ -55,6 +55,27 @@ Context-Aware Motion Priors Teach Humanoids Which Reference Clips Matter
 https://mechafeed.com/blog/cmp-context-aware-motion-priors/
 
 #RoboticsResearch
+```
+
+---
+
+## DigitCode Tokenizes Hand Motion by Bone, Finger, and Whole Hand
+
+- **Slug:** `digitcode-hand-motion-tokens`
+- **Date:** 2026-08-05
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/digitcode-hand-motion-tokens/
+- **Chars:** 263/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=DigitCode%20Tokenizes%20Hand%20Motion%20by%20Bone%2C%20Finger%2C%20and%20Whole%20Hand%0A%0ASymbolic%20hand%20codes%20cut%20quantization%20error%20by%20~75%25%20vs%20Hand%20Labanotation%20and%20enable%20training-free%20finger%20edit%2C%20repair%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdigitcode-hand-motion-tokens%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+DigitCode Tokenizes Hand Motion by Bone, Finger, and Whole Hand
+
+Symbolic hand codes cut quantization error by ~75% vs Hand Labanotation and enable training-free finger edit, repair,…
+
+https://mechafeed.com/blog/digitcode-hand-motion-tokens/
+
+#Robotics #Humanoids
 ```
 
 ---
@@ -175,6 +196,111 @@ RoboReact Builds Whole-Body Humanoid Skills From One RGB-D Snapshot
 Framework synthesizes humanoid manipulation from a single egocentric RGB-D observation using generated video,…
 
 https://mechafeed.com/blog/roboreact-whole-body-manipulation/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## SARF Defends VLA Robots Against Physical Attention-Hijacking Patches
+
+- **Slug:** `sarf-vla-attention-hijacking`
+- **Date:** 2026-08-05
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/sarf-vla-attention-hijacking/
+- **Chars:** 262/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=SARF%20Defends%20VLA%20Robots%20Against%20Physical%20Attention-Hijacking%20Patches%0A%0AIROS%202026%20paper%3A%20printable%20AGSD%20patches%20crash%20OpenVLA%3B%20Structure-Aware%20Robust%20Fine-Tuning%20cuts%20failure%20and%20lifts%20real%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsarf-vla-attention-hijacking%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+SARF Defends VLA Robots Against Physical Attention-Hijacking Patches
+
+IROS 2026 paper: printable AGSD patches crash OpenVLA; Structure-Aware Robust Fine-Tuning cuts failure and lifts real…
+
+https://mechafeed.com/blog/sarf-vla-attention-hijacking/
+
+#AI #Humanoids
+```
+
+---
+
+## Semantic Haptics Beats High-Fidelity Feel for Bimanual Teleop
+
+- **Slug:** `semantic-haptic-teleoperation`
+- **Date:** 2026-08-05
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/semantic-haptic-teleoperation/
+- **Chars:** 261/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Semantic%20Haptics%20Beats%20High-Fidelity%20Feel%20for%20Bimanual%20Teleop%0A%0AWristband%20patterns%20for%20confirmations%20and%20exceptions%20cut%20workload%20and%20win%20preference%20over%20sensory%20haptics%20in%20bimanual%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsemantic-haptic-teleoperation%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Semantic Haptics Beats High-Fidelity Feel for Bimanual Teleop
+
+Wristband patterns for confirmations and exceptions cut workload and win preference over sensory haptics in bimanual…
+
+https://mechafeed.com/blog/semantic-haptic-teleoperation/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Caltech DSMS Retargets Contact-Rich Motions to Unitree G1 Crawl and Jump-Turn
+
+- **Slug:** `shooting-for-contact-g1`
+- **Date:** 2026-08-05
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/shooting-for-contact-g1/
+- **Chars:** 276/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Caltech%20DSMS%20Retargets%20Contact-Rich%20Motions%20to%20Unitree%20G1%20Crawl%20and%20Jump-Turn%0A%0AShooting%20for%20Contact%20uses%20contact-implicit%20multiple%20shooting%20so%20RL%20policies%20transfer%20zero-shot%20to%20G1%20crawling%20and%20a%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fshooting-for-contact-g1%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Caltech DSMS Retargets Contact-Rich Motions to Unitree G1 Crawl and Jump-Turn
+
+Shooting for Contact uses contact-implicit multiple shooting so RL policies transfer zero-shot to G1 crawling and a…
+
+https://mechafeed.com/blog/shooting-for-contact-g1/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Track4Action Distills 3D World Tracking Into Tracker-Free VLA Policies
+
+- **Slug:** `track4action-vla-3d-tracker`
+- **Date:** 2026-08-05
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/track4action-vla-3d-tracker/
+- **Chars:** 263/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Track4Action%20Distills%203D%20World%20Tracking%20Into%20Tracker-Free%20VLA%20Policies%0A%0ATraining-time%203D%20tracker%20features%20lift%20VLA%20success%20on%20LIBERO-Plus%2C%20RoboTwin%2C%20and%20four%20physical%20bimanual%20tasks%20without%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftrack4action-vla-3d-tracker%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Track4Action Distills 3D World Tracking Into Tracker-Free VLA Policies
+
+Training-time 3D tracker features lift VLA success on LIBERO-Plus, RoboTwin, and four physical bimanual tasks without…
+
+https://mechafeed.com/blog/track4action-vla-3d-tracker/
+
+#AI #Humanoids
+```
+
+---
+
+## UVT Trains VLAs on Unified Visuomotor Targets, Not Just Actions
+
+- **Slug:** `uvt-unified-visuomotor-targets`
+- **Date:** 2026-08-05
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/uvt-unified-visuomotor-targets/
+- **Chars:** 271/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=UVT%20Trains%20VLAs%20on%20Unified%20Visuomotor%20Targets%2C%20Not%20Just%20Actions%0A%0AIROS%202026%3A%20Unified%20Visuomotor%20Targets%20encode%20motor%20control%20plus%20visual%20scene%20transitions%E2%80%94no%20architecture%20change%2C%20no%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fuvt-unified-visuomotor-targets%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+UVT Trains VLAs on Unified Visuomotor Targets, Not Just Actions
+
+IROS 2026: Unified Visuomotor Targets encode motor control plus visual scene transitions—no architecture change, no…
+
+https://mechafeed.com/blog/uvt-unified-visuomotor-targets/
 
 #RoboticsResearch #Humanoids
 ```

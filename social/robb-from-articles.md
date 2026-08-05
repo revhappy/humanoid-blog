@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-05T16:05:29.433Z
+Generated: 2026-08-05T21:04:53.042Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -49,6 +49,28 @@ I'm curious whether CMP still holds when the reference library is internet-scale
 I'm curious whether CMP still holds when the reference library is internet-scale and dirty, not a curated five-task suite.  The “no skill labels” pitch is the part worth stealing for open stacks.
 
 https://mechafeed.com/blog/cmp-context-aware-motion-priors/
+```
+
+---
+
+## DigitCode Tokenizes Hand Motion by Bone, Finger, and Whole Hand
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/digitcode-hand-motion-tokens/
+
+### SOLO (no link)
+
+```
+Continuous MANO is fine for rendering.  For robot retarget and “fix that broken finger,” I want addressable parts.
+```
+
+### SOFT-LINK variant
+
+```
+Continuous MANO is fine for rendering.  For robot retarget and “fix that broken finger,” I want addressable parts.
+
+https://mechafeed.com/blog/digitcode-hand-motion-tokens/
 ```
 
 ---
@@ -181,6 +203,116 @@ Generated video as a skill factory is the thread connecting a lot of 2026 humano
 Generated video as a skill factory is the thread connecting a lot of 2026 humanoid papers.  RoboReact’s interesting bit is the closed loop: not just “imagine a plan,” but re-ground and VLM-edit when t…
 
 https://mechafeed.com/blog/roboreact-whole-body-manipulation/
+```
+
+---
+
+## SARF Defends VLA Robots Against Physical Attention-Hijacking Patches
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/sarf-vla-attention-hijacking/
+
+### SOLO (no link)
+
+```
+If a sticky note on the table can steal attention from the banana, “generalist VLA” is not factory-ready.  SARF’s appeal is boring in the best way: fix the encoder, keep inference free.
+```
+
+### SOFT-LINK variant
+
+```
+If a sticky note on the table can steal attention from the banana, “generalist VLA” is not factory-ready.  SARF’s appeal is boring in the best way: fix the encoder, keep inference free.
+
+https://mechafeed.com/blog/sarf-vla-attention-hijacking/
+```
+
+---
+
+## Semantic Haptics Beats High-Fidelity Feel for Bimanual Teleop
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/semantic-haptic-teleoperation/
+
+### SOLO (no link)
+
+```
+When both arms are busy, I don't want a physics sim on my wrist — I want “stable” vs “slipping” without looking away.  Semantic haptics is the right trade for multi-arm humanoid teleop and data collection: lower hardware bar, clearer signals.
+```
+
+### SOFT-LINK variant
+
+```
+When both arms are busy, I don't want a physics sim on my wrist — I want “stable” vs “slipping” without looking away.  Semantic haptics is the right trade for multi-arm humanoid teleop and data collec…
+
+https://mechafeed.com/blog/semantic-haptic-teleoperation/
+```
+
+---
+
+## Caltech DSMS Retargets Contact-Rich Motions to Unitree G1 Crawl and Jump-Turn
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/shooting-for-contact-g1/
+
+### SOLO (no link)
+
+```
+I'm less interested in another flip video than in whether the reference the policy tracks could physically exist on the hardware.  DSMS’s bet — put the contact mess inside the simulator, then imitate — is exactly the unit-economics of demo-to-shift: if training targets…
+```
+
+### SOFT-LINK variant
+
+```
+I'm less interested in another flip video than in whether the reference the policy tracks could physically exist on the hardware.  DSMS’s bet — put the contact mess inside the simulator, then imitate …
+
+https://mechafeed.com/blog/shooting-for-contact-g1/
+```
+
+---
+
+## Track4Action Distills 3D World Tracking Into Tracker-Free VLA Policies
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/track4action-vla-3d-tracker/
+
+### SOLO (no link)
+
+```
+I'm so here for “privileged training signal, thin deploy stack. ” If you can teach geometry and visibility from video and then throw the teacher away, you get closer to policies that care how the scene moves — not just which joint command was logged.
+```
+
+### SOFT-LINK variant
+
+```
+I'm so here for “privileged training signal, thin deploy stack. ” If you can teach geometry and visibility from video and then throw the teacher away, you get closer to policies that care how the scen…
+
+https://mechafeed.com/blog/track4action-vla-3d-tracker/
+```
+
+---
+
+## UVT Trains VLAs on Unified Visuomotor Targets, Not Just Actions
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/uvt-unified-visuomotor-targets/
+
+### SOLO (no link)
+
+```
+Predicting only torques and deltas is like teaching someone a craft by listing muscle twitches.  UVT’s “what should the world look like after you move?
+```
+
+### SOFT-LINK variant
+
+```
+Predicting only torques and deltas is like teaching someone a craft by listing muscle twitches.  UVT’s “what should the world look like after you move?
+
+https://mechafeed.com/blog/uvt-unified-visuomotor-targets/
 ```
 
 ---

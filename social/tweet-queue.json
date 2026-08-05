@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T16:05:28.115Z",
+  "generatedAt": "2026-08-05T21:04:52.084Z",
   "site": "https://mechafeed.com/",
   "posts": [
     {
@@ -21,6 +21,16 @@
       "tweet": "Context-Aware Motion Priors Teach Humanoids Which Reference Clips Matter\n\nhttps://mechafeed.com/blog/cmp-context-aware-motion-priors/\n\n#RoboticsResearch",
       "intent": "https://twitter.com/intent/tweet?text=Context-Aware%20Motion%20Priors%20Teach%20Humanoids%20Which%20Reference%20Clips%20Matter%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcmp-context-aware-motion-priors%2F%0A%0A%23RoboticsResearch",
       "chars": 152
+    },
+    {
+      "id": "digitcode-hand-motion-tokens",
+      "title": "DigitCode Tokenizes Hand Motion by Bone, Finger, and Whole Hand",
+      "pubDate": "2026-08-05",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/digitcode-hand-motion-tokens/",
+      "tweet": "DigitCode Tokenizes Hand Motion by Bone, Finger, and Whole Hand\n\nSymbolic hand codes cut quantization error by ~75% vs Hand Labanotation and enable training-free finger edit, repair,…\n\nhttps://mechafeed.com/blog/digitcode-hand-motion-tokens/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=DigitCode%20Tokenizes%20Hand%20Motion%20by%20Bone%2C%20Finger%2C%20and%20Whole%20Hand%0A%0ASymbolic%20hand%20codes%20cut%20quantization%20error%20by%20~75%25%20vs%20Hand%20Labanotation%20and%20enable%20training-free%20finger%20edit%2C%20repair%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdigitcode-hand-motion-tokens%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 263
     },
     {
       "id": "droidup-moya-biomimetic",
@@ -81,6 +91,56 @@
       "tweet": "RoboReact Builds Whole-Body Humanoid Skills From One RGB-D Snapshot\n\nFramework synthesizes humanoid manipulation from a single egocentric RGB-D observation using generated video,…\n\nhttps://mechafeed.com/blog/roboreact-whole-body-manipulation/\n\n#RoboticsResearch #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=RoboReact%20Builds%20Whole-Body%20Humanoid%20Skills%20From%20One%20RGB-D%20Snapshot%0A%0AFramework%20synthesizes%20humanoid%20manipulation%20from%20a%20single%20egocentric%20RGB-D%20observation%20using%20generated%20video%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Froboreact-whole-body-manipulation%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
       "chars": 272
+    },
+    {
+      "id": "sarf-vla-attention-hijacking",
+      "title": "SARF Defends VLA Robots Against Physical Attention-Hijacking Patches",
+      "pubDate": "2026-08-05",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/sarf-vla-attention-hijacking/",
+      "tweet": "SARF Defends VLA Robots Against Physical Attention-Hijacking Patches\n\nIROS 2026 paper: printable AGSD patches crash OpenVLA; Structure-Aware Robust Fine-Tuning cuts failure and lifts real…\n\nhttps://mechafeed.com/blog/sarf-vla-attention-hijacking/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=SARF%20Defends%20VLA%20Robots%20Against%20Physical%20Attention-Hijacking%20Patches%0A%0AIROS%202026%20paper%3A%20printable%20AGSD%20patches%20crash%20OpenVLA%3B%20Structure-Aware%20Robust%20Fine-Tuning%20cuts%20failure%20and%20lifts%20real%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsarf-vla-attention-hijacking%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 262
+    },
+    {
+      "id": "semantic-haptic-teleoperation",
+      "title": "Semantic Haptics Beats High-Fidelity Feel for Bimanual Teleop",
+      "pubDate": "2026-08-05",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/semantic-haptic-teleoperation/",
+      "tweet": "Semantic Haptics Beats High-Fidelity Feel for Bimanual Teleop\n\nWristband patterns for confirmations and exceptions cut workload and win preference over sensory haptics in bimanual…\n\nhttps://mechafeed.com/blog/semantic-haptic-teleoperation/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Semantic%20Haptics%20Beats%20High-Fidelity%20Feel%20for%20Bimanual%20Teleop%0A%0AWristband%20patterns%20for%20confirmations%20and%20exceptions%20cut%20workload%20and%20win%20preference%20over%20sensory%20haptics%20in%20bimanual%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsemantic-haptic-teleoperation%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 261
+    },
+    {
+      "id": "shooting-for-contact-g1",
+      "title": "Caltech DSMS Retargets Contact-Rich Motions to Unitree G1 Crawl and Jump-Turn",
+      "pubDate": "2026-08-05",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/shooting-for-contact-g1/",
+      "tweet": "Caltech DSMS Retargets Contact-Rich Motions to Unitree G1 Crawl and Jump-Turn\n\nShooting for Contact uses contact-implicit multiple shooting so RL policies transfer zero-shot to G1 crawling and a…\n\nhttps://mechafeed.com/blog/shooting-for-contact-g1/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Caltech%20DSMS%20Retargets%20Contact-Rich%20Motions%20to%20Unitree%20G1%20Crawl%20and%20Jump-Turn%0A%0AShooting%20for%20Contact%20uses%20contact-implicit%20multiple%20shooting%20so%20RL%20policies%20transfer%20zero-shot%20to%20G1%20crawling%20and%20a%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fshooting-for-contact-g1%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 276
+    },
+    {
+      "id": "track4action-vla-3d-tracker",
+      "title": "Track4Action Distills 3D World Tracking Into Tracker-Free VLA Policies",
+      "pubDate": "2026-08-05",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/track4action-vla-3d-tracker/",
+      "tweet": "Track4Action Distills 3D World Tracking Into Tracker-Free VLA Policies\n\nTraining-time 3D tracker features lift VLA success on LIBERO-Plus, RoboTwin, and four physical bimanual tasks without…\n\nhttps://mechafeed.com/blog/track4action-vla-3d-tracker/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Track4Action%20Distills%203D%20World%20Tracking%20Into%20Tracker-Free%20VLA%20Policies%0A%0ATraining-time%203D%20tracker%20features%20lift%20VLA%20success%20on%20LIBERO-Plus%2C%20RoboTwin%2C%20and%20four%20physical%20bimanual%20tasks%20without%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftrack4action-vla-3d-tracker%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 263
+    },
+    {
+      "id": "uvt-unified-visuomotor-targets",
+      "title": "UVT Trains VLAs on Unified Visuomotor Targets, Not Just Actions",
+      "pubDate": "2026-08-05",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/uvt-unified-visuomotor-targets/",
+      "tweet": "UVT Trains VLAs on Unified Visuomotor Targets, Not Just Actions\n\nIROS 2026: Unified Visuomotor Targets encode motor control plus visual scene transitions—no architecture change, no…\n\nhttps://mechafeed.com/blog/uvt-unified-visuomotor-targets/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=UVT%20Trains%20VLAs%20on%20Unified%20Visuomotor%20Targets%2C%20Not%20Just%20Actions%0A%0AIROS%202026%3A%20Unified%20Visuomotor%20Targets%20encode%20motor%20control%20plus%20visual%20scene%20transitions%E2%80%94no%20architecture%20change%2C%20no%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fuvt-unified-visuomotor-targets%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 271
     },
     {
       "id": "bifrostumi-baai-humanoid-data",

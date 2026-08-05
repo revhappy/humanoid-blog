@@ -1116,3 +1116,66 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Social:** tweets (110 drafts); robb-x
 - **Push:** 8d018bf → origin/main
 - **Failures:** none blocking; solid candidates 8 of target 8
+
+## 2026-08-05 - Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-05
+- git pull --rebase origin main: already up to date
+- Morning 2026-08-05 already published 8: AMD Kria, Ego2Robot, Light-Loco-Parkour, CMP, PFM-HR, RoboReact, Fail-passive, DroidUp Moya - **do not rehash**
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** - semantic/keyword streams mix old demos, spam, thin clips (disclosed)
+- Owner lists login-walled; proceeded with public X + web (disclosed)
+- Notable leads (leads only): LingBot rehash (covered); front-desk silicone face (thin primary); Foundation Phantom CGI chatter (not primary); Gene.01 rehash (covered)
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Shooting for Contact DSMS G1 crawl/jump - arXiv:2608.03116 + project - lane: **build**
+2. **[CANDIDATE/WRITTEN]** Track4Action 3D tracker VLA - arXiv:2608.03727 + project - lane: **build**
+3. **[CANDIDATE/WRITTEN]** DigitCode hand motion tokens - arXiv:2608.03127 + project - lane: **build**
+4. **[CANDIDATE/WRITTEN]** SARF VLA attention hijacking defense - arXiv:2608.03231 - lane: **build**
+5. **[CANDIDATE/WRITTEN]** Semantic haptic teleoperation - arXiv:2608.02780 - lane: **build**
+6. **[CANDIDATE/WRITTEN]** UVT unified visuomotor targets - arXiv:2608.03563 + project - lane: **build**
+7. **[SKIP: already covered morning]** RoboReact, CMP, PFM-HR, Light-Loco-Parkour, Fail-passive, Ego2Robot, AMD Kria, Moya
+8. **[SKIP: already covered prior]** BYD Di Space, Figure ladder, HumanCLAW, HERO, HuMI, BifrostUMI, HiWET, parkour, Handroid, 1X hands
+9. **[SKIP: thin / no figures]** Jetson 8GB ACT paper (arXiv:2608.03938) - no HTML figures this session
+10. **[SKIP: business lane]** Unitree IPO / capital rewrites under 25% cap
+11. **[SKIP: old]** SEIMEI Kyoto (April 2026 debut)
+
+### Selected for Writing (ranked) - 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | shooting-for-contact-g1 | Robb Harlan | Humanoids | build |
+| 2 | track4action-vla-3d-tracker | Shar Hendrix | AI | build |
+| 3 | digitcode-hand-motion-tokens | Robb Harlan | Robotics | build |
+| 4 | sarf-vla-attention-hijacking | Shar Hendrix | AI | build |
+| 5 | semantic-haptic-teleoperation | Robb Harlan | Robotics | build |
+| 6 | uvt-unified-visuomotor-targets | Shar Hendrix | Research | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (<=25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Solid candidates with primary/secondary depth: **6** | Writing: **6**
+- Soft floor 2 met; hit target without padding or capital news
+
+### Notes for Future Agents
+- DSMS: third-party G1 replications; outdoor field hours
+- Track4Action: code release / more bimanual tasks
+- DigitCode: HandTok public release after review
+- SARF: cross-stack AGSD tests on pi0 / OpenVLA
+- Semantic haptics: humanoid dual-arm data collection kits
+- UVT: which VLA bases they used in full PDF tables
+- Next morning: do not rehash this afternoon six
+
+### Run summary
+- **Articles published (6):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** PASS (`npm run verify-media:today` - 0 errors, 0 warnings on 14 today posts incl. morning)
+- **Vision gate:** Confirmed stills (G1 crawl/jump; Track4Action teaser+real platform; DigitCode pianoroll+RD; SARF banana attack; semantic haptic teaser; UVT pipeline+lift pot)
+- **Social:** pending tweets / robb-x
+- **Push:** pending
+- **Failures:** none blocking; solid candidates 6 of target 6
+
