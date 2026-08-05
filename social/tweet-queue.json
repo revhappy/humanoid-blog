@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-08-04T21:06:59.378Z",
+  "generatedAt": "2026-08-05T16:05:28.115Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "amd-kria-ai-robotics",
+      "title": "AMD Puts Ryzen AI Embedded X100 and Kria Robotics Dev Kit Against NVIDIA in Physical AI",
+      "pubDate": "2026-08-05",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/amd-kria-ai-robotics/",
+      "tweet": "AMD Puts Ryzen AI Embedded X100 and Kria Robotics Dev Kit Against NVIDIA in Physical AI\n\nAt Advancing AI 2026, AMD launched Ryzen AI Embedded X100, Kria AI SOMs, and an open robotics developer platform…\n\nhttps://mechafeed.com/blog/amd-kria-ai-robotics/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=AMD%20Puts%20Ryzen%20AI%20Embedded%20X100%20and%20Kria%20Robotics%20Dev%20Kit%20Against%20NVIDIA%20in%20Physical%20AI%0A%0AAt%20Advancing%20AI%202026%2C%20AMD%20launched%20Ryzen%20AI%20Embedded%20X100%2C%20Kria%20AI%20SOMs%2C%20and%20an%20open%20robotics%20developer%20platform%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Famd-kria-ai-robotics%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 274
+    },
+    {
+      "id": "cmp-context-aware-motion-priors",
+      "title": "Context-Aware Motion Priors Teach Humanoids Which Reference Clips Matter",
+      "pubDate": "2026-08-05",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/cmp-context-aware-motion-priors/",
+      "tweet": "Context-Aware Motion Priors Teach Humanoids Which Reference Clips Matter\n\nhttps://mechafeed.com/blog/cmp-context-aware-motion-priors/\n\n#RoboticsResearch",
+      "intent": "https://twitter.com/intent/tweet?text=Context-Aware%20Motion%20Priors%20Teach%20Humanoids%20Which%20Reference%20Clips%20Matter%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcmp-context-aware-motion-priors%2F%0A%0A%23RoboticsResearch",
+      "chars": 152
+    },
+    {
+      "id": "droidup-moya-biomimetic",
+      "title": "DroidUp’s Moya: Warm Skin, Expressive Face, and a Walker 3 Body Built for Presence",
+      "pubDate": "2026-08-05",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/droidup-moya-biomimetic/",
+      "tweet": "DroidUp’s Moya: Warm Skin, Expressive Face, and a Walker 3 Body Built for Presence\n\nShanghai’s DroidUp shows Moya, a biomimetic humanoid with heated silicone skin, pupil tracking, and claims of ~92%…\n\nhttps://mechafeed.com/blog/droidup-moya-biomimetic/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=DroidUp%E2%80%99s%20Moya%3A%20Warm%20Skin%2C%20Expressive%20Face%2C%20and%20a%20Walker%203%20Body%20Built%20for%20Presence%0A%0AShanghai%E2%80%99s%20DroidUp%20shows%20Moya%2C%20a%20biomimetic%20humanoid%20with%20heated%20silicone%20skin%2C%20pupil%20tracking%2C%20and%20claims%20of%20~92%25%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdroidup-moya-biomimetic%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 280
+    },
+    {
+      "id": "ego2robot-data-synthesis",
+      "title": "Ego2Robot Turns Egocentric Human Video Into 18,561 Hours of Robot Training Data",
+      "pubDate": "2026-08-05",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/ego2robot-data-synthesis/",
+      "tweet": "Ego2Robot Turns Egocentric Human Video Into 18,561 Hours of Robot Training Data\n\nhttps://mechafeed.com/blog/ego2robot-data-synthesis/\n\n#RoboticsResearch",
+      "intent": "https://twitter.com/intent/tweet?text=Ego2Robot%20Turns%20Egocentric%20Human%20Video%20Into%2018%2C561%20Hours%20of%20Robot%20Training%20Data%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fego2robot-data-synthesis%2F%0A%0A%23RoboticsResearch",
+      "chars": 152
+    },
+    {
+      "id": "humanoid-fail-passive-safety",
+      "title": "Industrial Humanoids Hit the Fail-Passive Gap: E-Stop Logic That Assumes Legs Can Fall",
+      "pubDate": "2026-08-05",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/humanoid-fail-passive-safety/",
+      "tweet": "Industrial Humanoids Hit the Fail-Passive Gap: E-Stop Logic That Assumes Legs Can Fall\n\nhttps://mechafeed.com/blog/humanoid-fail-passive-safety/\n\n#RoboticsResearch",
+      "intent": "https://twitter.com/intent/tweet?text=Industrial%20Humanoids%20Hit%20the%20Fail-Passive%20Gap%3A%20E-Stop%20Logic%20That%20Assumes%20Legs%20Can%20Fall%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhumanoid-fail-passive-safety%2F%0A%0A%23RoboticsResearch",
+      "chars": 163
+    },
+    {
+      "id": "light-loco-parkour",
+      "title": "Light-Loco-Parkour: One Depth Policy for Walk, Climb, Vault, and Outdoor Stairs",
+      "pubDate": "2026-08-05",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/light-loco-parkour/",
+      "tweet": "Light-Loco-Parkour: One Depth Policy for Walk, Climb, Vault, and Outdoor Stairs\n\nLLP grows sparse parkour seeds into terrain-paired skills and deploys a single onboard depth policy on a 90 cm humanoid…\n\nhttps://mechafeed.com/blog/light-loco-parkour/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Light-Loco-Parkour%3A%20One%20Depth%20Policy%20for%20Walk%2C%20Climb%2C%20Vault%2C%20and%20Outdoor%20Stairs%0A%0ALLP%20grows%20sparse%20parkour%20seeds%20into%20terrain-paired%20skills%20and%20deploys%20a%20single%20onboard%20depth%20policy%20on%20a%2090%20cm%20humanoid%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flight-loco-parkour%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 277
+    },
+    {
+      "id": "pfm-hr-pose-flow-matching",
+      "title": "PFM-HR Trains Humanoid Motion Priors on Unordered Pose Data",
+      "pubDate": "2026-08-05",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/pfm-hr-pose-flow-matching/",
+      "tweet": "PFM-HR Trains Humanoid Motion Priors on Unordered Pose Data\n\nPose Flow Matching for Humanoid Robots uses a frozen flow prior and Pose Geometry Score to improve dynamic motion…\n\nhttps://mechafeed.com/blog/pfm-hr-pose-flow-matching/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=PFM-HR%20Trains%20Humanoid%20Motion%20Priors%20on%20Unordered%20Pose%20Data%0A%0APose%20Flow%20Matching%20for%20Humanoid%20Robots%20uses%20a%20frozen%20flow%20prior%20and%20Pose%20Geometry%20Score%20to%20improve%20dynamic%20motion%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpfm-hr-pose-flow-matching%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 260
+    },
+    {
+      "id": "roboreact-whole-body-manipulation",
+      "title": "RoboReact Builds Whole-Body Humanoid Skills From One RGB-D Snapshot",
+      "pubDate": "2026-08-05",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/roboreact-whole-body-manipulation/",
+      "tweet": "RoboReact Builds Whole-Body Humanoid Skills From One RGB-D Snapshot\n\nFramework synthesizes humanoid manipulation from a single egocentric RGB-D observation using generated video,…\n\nhttps://mechafeed.com/blog/roboreact-whole-body-manipulation/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=RoboReact%20Builds%20Whole-Body%20Humanoid%20Skills%20From%20One%20RGB-D%20Snapshot%0A%0AFramework%20synthesizes%20humanoid%20manipulation%20from%20a%20single%20egocentric%20RGB-D%20observation%20using%20generated%20video%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Froboreact-whole-body-manipulation%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 272
+    },
     {
       "id": "bifrostumi-baai-humanoid-data",
       "title": "BifrostUMI Bridges Robot-Free Demos to G1 Whole-Body Skills",

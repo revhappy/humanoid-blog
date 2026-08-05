@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-04T21:07:00.720Z
+Generated: 2026-08-05T16:05:29.433Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## AMD Puts Ryzen AI Embedded X100 and Kria Robotics Dev Kit Against NVIDIA in Physical AI
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/amd-kria-ai-robotics/
+
+### SOLO (no link)
+
+```
+I care less about the marketing war with Jetson and more about whether this stack closes a real control loop on a biped without a second vendor’s black-box MCU board.  Heterogeneous CPU/GPU/NPU plus FPGA is the right shape for robots; the open question is software…
+```
+
+### SOFT-LINK variant
+
+```
+I care less about the marketing war with Jetson and more about whether this stack closes a real control loop on a biped without a second vendor’s black-box MCU board.  Heterogeneous CPU/GPU/NPU plus F…
+
+https://mechafeed.com/blog/amd-kria-ai-robotics/
+```
+
+---
+
+## Context-Aware Motion Priors Teach Humanoids Which Reference Clips Matter
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/cmp-context-aware-motion-priors/
+
+### SOLO (no link)
+
+```
+I'm curious whether CMP still holds when the reference library is internet-scale and dirty, not a curated five-task suite.  The “no skill labels” pitch is the part worth stealing for open stacks.
+```
+
+### SOFT-LINK variant
+
+```
+I'm curious whether CMP still holds when the reference library is internet-scale and dirty, not a curated five-task suite.  The “no skill labels” pitch is the part worth stealing for open stacks.
+
+https://mechafeed.com/blog/cmp-context-aware-motion-priors/
+```
+
+---
+
+## DroidUp’s Moya: Warm Skin, Expressive Face, and a Walker 3 Body Built for Presence
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/droidup-moya-biomimetic/
+
+### SOLO (no link)
+
+```
+I'm split: the thermal skin and gaze work are clever product design for care and hospitality, and also exactly the features that push uncanny-valley debates.  Capability-wise I care whether Walker 3 under the costume can do a full shift of hallway navigation without a minder.
+```
+
+### SOFT-LINK variant
+
+```
+I'm split: the thermal skin and gaze work are clever product design for care and hospitality, and also exactly the features that push uncanny-valley debates.  Capability-wise I care whether Walker 3 u…
+
+https://mechafeed.com/blog/droidup-moya-biomimetic/
+```
+
+---
+
+## Ego2Robot Turns Egocentric Human Video Into 18,561 Hours of Robot Training Data
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/ego2robot-data-synthesis/
+
+### SOLO (no link)
+
+```
+I'm so here for pipelines that treat human video as a first-class data factory instead of a demo gimmick.  Eighteen thousand hours sounds like a lot until you remember how picky real VLAs still are about embodiment and camera placement — the disentangled OOD axes are…
+```
+
+### SOFT-LINK variant
+
+```
+I'm so here for pipelines that treat human video as a first-class data factory instead of a demo gimmick.  Eighteen thousand hours sounds like a lot until you remember how picky real VLAs still are ab…
+
+https://mechafeed.com/blog/ego2robot-data-synthesis/
+```
+
+---
+
+## Industrial Humanoids Hit the Fail-Passive Gap: E-Stop Logic That Assumes Legs Can Fall
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/humanoid-fail-passive-safety/
+
+### SOLO (no link)
+
+```
+This is the article factory people should read before shipping bipeds next to humans.  Demos sell; Stop Category 0 kills the balance loop.
+```
+
+### SOFT-LINK variant
+
+```
+This is the article factory people should read before shipping bipeds next to humans.  Demos sell; Stop Category 0 kills the balance loop.
+
+https://mechafeed.com/blog/humanoid-fail-passive-safety/
+```
+
+---
+
+## Light-Loco-Parkour: One Depth Policy for Walk, Climb, Vault, and Outdoor Stairs
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/light-loco-parkour/
+
+### SOLO (no link)
+
+```
+Parkour is still a stress test, not a product roadmap — but “one policy, depth only, decides the handoff” is the right product shape if you want robots in human geometry.  The height-curriculum idea is honest engineering: stop pretending one mocap clip is an operating envelope.
+```
+
+### SOFT-LINK variant
+
+```
+Parkour is still a stress test, not a product roadmap — but “one policy, depth only, decides the handoff” is the right product shape if you want robots in human geometry.  The height-curriculum idea i…
+
+https://mechafeed.com/blog/light-loco-parkour/
+```
+
+---
+
+## PFM-HR Trains Humanoid Motion Priors on Unordered Pose Data
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/pfm-hr-pose-flow-matching/
+
+### SOLO (no link)
+
+```
+Reward shaping is where a lot of humanoid RL still lives or dies.  A frozen flow prior plus a geometry score is a cleaner story than “add more adversarial losses until it walks.
+```
+
+### SOFT-LINK variant
+
+```
+Reward shaping is where a lot of humanoid RL still lives or dies.  A frozen flow prior plus a geometry score is a cleaner story than “add more adversarial losses until it walks.
+
+https://mechafeed.com/blog/pfm-hr-pose-flow-matching/
+```
+
+---
+
+## RoboReact Builds Whole-Body Humanoid Skills From One RGB-D Snapshot
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/roboreact-whole-body-manipulation/
+
+### SOLO (no link)
+
+```
+Generated video as a skill factory is the thread connecting a lot of 2026 humanoid papers.  RoboReact’s interesting bit is the closed loop: not just “imagine a plan,” but re-ground and VLM-edit when the real object is wrong.
+```
+
+### SOFT-LINK variant
+
+```
+Generated video as a skill factory is the thread connecting a lot of 2026 humanoid papers.  RoboReact’s interesting bit is the closed loop: not just “imagine a plan,” but re-ground and VLM-edit when t…
+
+https://mechafeed.com/blog/roboreact-whole-body-manipulation/
+```
 
 ---
 

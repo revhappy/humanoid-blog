@@ -1041,3 +1041,78 @@ pm run verify-media:today — 0 errors)
 - **Push:** 3e42513 → origin/main
 - **Failures:** none blocking
 
+
+
+## 2026-08-05 - Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-05
+- git pull --rebase origin main: already up to date
+- Prior catalog through 2026-08-04 afternoon (HumanCLAW, HERO, HuMI, BifrostUMI, HiWET, Deep parkour + morning seven) — **do not rehash**
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — semantic/keyword streams mix old demos, spam, thin viral clips (disclosed)
+- Owner lists login-walled; proceeded with public X + web (disclosed)
+- Notable leads (leads only): AMD Kria/physical AI chatter; crop-picking humanoid clips (thin primary); Anthrobotics muscle clip (thin); UBTECH Y1 factory swarm rehashes; Figure ladder rehash (covered)
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** AMD Ryzen AI Embedded X100 + Kria AI Robotics Dev Platform - AMD IR + ServeTheHome + Robot Report - lane: **build**
+2. **[CANDIDATE/WRITTEN]** Ego2Robot 18,561h ego-to-robot data - arXiv:2608.02580 + project - lane: **build**
+3. **[CANDIDATE/WRITTEN]** Light-Loco-Parkour single depth policy - arXiv:2608.02653 + project + YT - lane: **build**
+4. **[CANDIDATE/WRITTEN]** CMP context-aware motion priors - arXiv:2608.03234 - lane: **build**
+5. **[CANDIDATE/WRITTEN]** PFM-HR pose flow matching - arXiv:2608.03227 - lane: **build**
+6. **[CANDIDATE/WRITTEN]** RoboReact whole-body from one RGB-D - arXiv:2608.03387 - lane: **build**
+7. **[CANDIDATE/WRITTEN]** Fail-passive gap industrial humanoid safety - arXiv:2608.02809 - lane: **build**
+8. **[CANDIDATE/WRITTEN]** DroidUp Moya biomimetic - Futurism + humanoid.press + YT - lane: **build**
+9. **[SKIP: already covered]** UK Humanoid unicorn (uk-humanoid-152m); BrainCo BCI (brainco-*); Figure ladder; Tau cleaning; FCC ban; BYD; Agibot 15k; Aug 4 research batch
+10. **[SKIP: thin / primary weak]** Chinese ag humanoid field clip (no firm primary); Anthrobotics muscle (thin Cybernews clip); front-desk silicone face (no solid primary English package)
+11. **[SKIP: business lane]** Unitree IPO rewrites; pure capital under 25% cap
+
+### Selected for Writing (ranked) - 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | amd-kria-ai-robotics | Robb Harlan | Robotics | build |
+| 2 | ego2robot-data-synthesis | Shar Hendrix | Research | build |
+| 3 | light-loco-parkour | Robb Harlan | Humanoids | build |
+| 4 | cmp-context-aware-motion-priors | Shar Hendrix | Research | build |
+| 5 | pfm-hr-pose-flow-matching | Robb Harlan | Research | build |
+| 6 | roboreact-whole-body-manipulation | Shar Hendrix | Research | build |
+| 7 | humanoid-fail-passive-safety | Robb Harlan | Research | build |
+| 8 | droidup-moya-biomimetic | Shar Hendrix | Humanoids | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Solid candidates with primary/secondary depth: **8** | Writing: **8**
+- Soft floor 3 met; hit target without padding or capital news
+
+### Notes for Future Agents
+- AMD Kria: ODM SOM ship dates and first public humanoid integration demos
+- Ego2Robot: code/dataset release
+- Light-Loco-Parkour: outdoor field hours beyond stairs
+- CMP/PFM-HR: public code drops
+- RoboReact: third-party replications
+- Fail-passive: standards-body follow-ups / more OEMs
+- Moya: late-2026 commercial delivery verification
+- Afternoon slot: do not rehash this morning eight
+
+### Run summary
+- **Articles published (8):**
+  1. amd-kria-ai-robotics — AMD Kria / Ryzen AI Embedded X100
+  2. ego2robot-data-synthesis — Ego2Robot 18,561h
+  3. light-loco-parkour — Light-Loco-Parkour
+  4. cmp-context-aware-motion-priors — CMP
+  5. pfm-hr-pose-flow-matching — PFM-HR
+  6. roboreact-whole-body-manipulation — RoboReact
+  7. humanoid-fail-passive-safety — Fail-passive gap
+  8. droidup-moya-biomimetic — DroidUp Moya
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** PASS (
+pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** Confirmed stills for all 8 slugs (AMD Kria dev kit + SOM; Ego2Robot pipeline + morphologies + rollouts; Lightbot parkour montage + pipeline; CMP context figures; PFM-HR diagram; RoboReact teaser + system; G1 safety cell + pickup/transport; Moya face + YT still)
+- **Social:** tweets (110 drafts); robb-x
+- **Push:** pending
+- **Failures:** none blocking; solid candidates 8 of target 8
