@@ -1179,3 +1179,72 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Push:** pending
 - **Failures:** none blocking; solid candidates 6 of target 6
 
+
+## 2026-08-06 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-06
+- git pull --rebase origin main: already up to date
+- Prior catalog through 2026-08-05 afternoon (Shooting for Contact, Track4Action, DigitCode, SARF, Semantic haptic, UVT + morning eight) — **do not rehash**
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — semantic/keyword streams mix old demos, spam, thin viral clips (disclosed)
+- Owner lists login-walled; proceeded with public X + web (disclosed)
+- Notable leads (leads only): Vulcan/Sourccey open home robot ($1999 chatter); Dobot LUMO companion humanoid; Noetix E1 terrain demo (thin English primary package); Steel Bot FCC-era open US humanoid (manifesto/X — thin primary product page); Optimus bartender rehashes (skip)
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Vulcan Robotics Sourccey open-source home robot — vulcanrobotics.ai + specs + GitHub — lane: **build**
+2. **[CANDIDATE/WRITTEN]** DOBOT LUMO all-terrain companion humanoid — eu.36kr.com Aug 6 launch — lane: **build**
+3. **[CANDIDATE/WRITTEN]** StableMimic G1 tracking+recovery — arXiv:2608.02385 — lane: **build**
+4. **[CANDIDATE/WRITTEN]** 3D-printed conformal EIT tactile skin — arXiv:2608.02080 — lane: **build**
+5. **[CANDIDATE/WRITTEN]** BridgeVLA++ memory VLA — arXiv:2608.05042 + project — lane: **build**
+6. **[CANDIDATE/WRITTEN]** SiMDex ego video mining for dexterous VLA — arXiv:2608.04196 + project + YT — lane: **build**
+7. **[SKIP: already covered]** AMD Kria, Ego2Robot, Light-Loco-Parkour, CMP, PFM-HR, RoboReact, Fail-passive, Moya, DSMS, Track4Action, DigitCode, SARF, UVT, BYD Di Space teaser, FCC ban, Unitree IPO process
+8. **[SKIP: thin / primary weak]** Noetix E1 latest jump demo (X lead; official EN product page thin this session); Steel Bot manifesto (X/500 Global — no full product primary depth); Tesla Optimus bartender viral (no fresh primary)
+9. **[SKIP: business lane]** Unitree book-building/pricing day chatter under 25% cap — day already full of build stories
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | vulcan-sourccey-open-source-home-robot | Shar Hendrix | Deals | build |
+| 2 | dobot-lumo-all-terrain-humanoid | Robb Harlan | Humanoids | build |
+| 3 | stablemimic-humanoid-recovery | Robb Harlan | Research | build |
+| 4 | eit-conformal-tactile-skin | Shar Hendrix | Research | build |
+| 5 | bridgevla-plus-memory-vla | Shar Hendrix | AI | build |
+| 6 | simdex-egocentric-data-mining | Robb Harlan | AI | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (<=25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Solid candidates with primary/secondary depth: **6** | Writing: **6**
+- Soft floor 3 met; below target 8 without padding — day rich in research + two product launches; no capital filler
+- Thin relative to target only in the sense of not inventing a 7th/8th story; quality floor held
+
+### Notes for Future Agents
+- Sourccey: confirm store price at launch; September ship verification; LeRobot community repos
+- LUMO: official English product page / pricing / shipping when DOBOT posts more than 36Kr package
+- StableMimic: outdoor G1 replications; code release
+- EIT skin: whole-body torso integration; durability tests
+- BridgeVLA++: code drop; third-party arm replications
+- SiMDex: open retrieval indices; more hand morphologies
+- Afternoon: do not rehash this morning six; check Noetix E1 if primary English package improves; Unitree IPO results only if build mix allows one industry slot
+
+
+### Run summary
+- **Articles published (6):**
+  1. vulcan-sourccey-open-source-home-robot — Vulcan Sourccey open home robot
+  2. dobot-lumo-all-terrain-humanoid — DOBOT LUMO companion humanoid
+  3. stablemimic-humanoid-recovery — StableMimic G1 recovery
+  4. eit-conformal-tactile-skin — 3D-printed EIT tactile skin
+  5. bridgevla-plus-memory-vla — BridgeVLA++ memory VLA
+  6. simdex-egocentric-data-mining — SiMDex ego data mining
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 6 posts)
+- **Vision gate:** Confirmed stills for all 6 slugs (Sourccey product photos; LUMO outdoor biped; StableMimic diagram + G1 recovery grids; EIT planar/curved sensors; BridgeVLA++ teaser/architecture/setup; SiMDex pipeline + tasks + tools)
+- **Social:** tweets (122 drafts); robb-x
+- **Push:** pending
+- **Failures:** none blocking; solid candidates 6 of target 8 (quality floor — no padding)
+

@@ -14,8 +14,132 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-05T21:04:52.084Z
-Posts: 116
+Generated: 2026-08-06T16:30:07.434Z
+Posts: 122
+
+---
+
+## BridgeVLA++ Adds Spatio-Temporal Memory Without Blowing the Data Budget
+
+- **Slug:** `bridgevla-plus-memory-vla`
+- **Date:** 2026-08-06
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/bridgevla-plus-memory-vla/
+- **Chars:** 259/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=BridgeVLA%2B%2B%20Adds%20Spatio-Temporal%20Memory%20Without%20Blowing%20the%20Data%20Budget%0A%0ABridgeVLA%2B%2B%20posts%20SOTA%20on%20memory%20manipulation%20benchmarks%20while%20keeping%20few-shot%20real-robot%20generalization%20from%20the%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fbridgevla-plus-memory-vla%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+BridgeVLA++ Adds Spatio-Temporal Memory Without Blowing the Data Budget
+
+BridgeVLA++ posts SOTA on memory manipulation benchmarks while keeping few-shot real-robot generalization from the…
+
+https://mechafeed.com/blog/bridgevla-plus-memory-vla/
+
+#AI #Humanoids
+```
+
+---
+
+## Dobot Unveils LUMO: ~1.3 m Companion Humanoid for Home, Campus, and Grass
+
+- **Slug:** `dobot-lumo-all-terrain-humanoid`
+- **Date:** 2026-08-06
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/dobot-lumo-all-terrain-humanoid/
+- **Chars:** 151/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Dobot%20Unveils%20LUMO%3A%20~1.3%20m%20Companion%20Humanoid%20for%20Home%2C%20Campus%2C%20and%20Grass%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdobot-lumo-all-terrain-humanoid%2F%0A%0A%23HumanoidRobots)
+
+```
+Dobot Unveils LUMO: ~1.3 m Companion Humanoid for Home, Campus, and Grass
+
+https://mechafeed.com/blog/dobot-lumo-all-terrain-humanoid/
+
+#HumanoidRobots
+```
+
+---
+
+## 3D-Printed EIT Skin: Geometry-Scalable Touch for Humanoid Surfaces
+
+- **Slug:** `eit-conformal-tactile-skin`
+- **Date:** 2026-08-06
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/eit-conformal-tactile-skin/
+- **Chars:** 273/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=3D-Printed%20EIT%20Skin%3A%20Geometry-Scalable%20Touch%20for%20Humanoid%20Surfaces%0A%0ACTU%20Prague%2C%20CU%20Boulder%2C%20and%20TU%2Fe%20show%20a%20conformal%20electrical%20impedance%20tomography%20tactile%20skin%20with%206%20mm%20mean%20error%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Feit-conformal-tactile-skin%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+3D-Printed EIT Skin: Geometry-Scalable Touch for Humanoid Surfaces
+
+CTU Prague, CU Boulder, and TU/e show a conformal electrical impedance tomography tactile skin with 6 mm mean error on…
+
+https://mechafeed.com/blog/eit-conformal-tactile-skin/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## SiMDex: Mine 5% of Ego Videos, Beat Random Mixing on Dexterous Tasks
+
+- **Slug:** `simdex-egocentric-data-mining`
+- **Date:** 2026-08-06
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/simdex-egocentric-data-mining/
+- **Chars:** 265/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=SiMDex%3A%20Mine%205%25%20of%20Ego%20Videos%2C%20Beat%20Random%20Mixing%20on%20Dexterous%20Tasks%0A%0ASiMDex%20treats%20human%20ego%20video%20selection%20as%20a%20recommender%20system%2C%20lifting%20dexterous%20VLA%20success%20from%2047.7%25%20to%2061.1%25%20with%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsimdex-egocentric-data-mining%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+SiMDex: Mine 5% of Ego Videos, Beat Random Mixing on Dexterous Tasks
+
+SiMDex treats human ego video selection as a recommender system, lifting dexterous VLA success from 47.7% to 61.1% with…
+
+https://mechafeed.com/blog/simdex-egocentric-data-mining/
+
+#AI #Humanoids
+```
+
+---
+
+## StableMimic: One G1 Policy for Dance Tracking and Getting Back Up
+
+- **Slug:** `stablemimic-humanoid-recovery`
+- **Date:** 2026-08-06
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/stablemimic-humanoid-recovery/
+- **Chars:** 269/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=StableMimic%3A%20One%20G1%20Policy%20for%20Dance%20Tracking%20and%20Getting%20Back%20Up%0A%0ASUSTech%E2%80%99s%20StableMimic%20blends%20tracking%20and%20post-fall%20recovery%20on%20Unitree%20G1%20with%20100%2F100%20push%20recoveries%20and%20real%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fstablemimic-humanoid-recovery%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+StableMimic: One G1 Policy for Dance Tracking and Getting Back Up
+
+SUSTech’s StableMimic blends tracking and post-fall recovery on Unitree G1 with 100/100 push recoveries and real…
+
+https://mechafeed.com/blog/stablemimic-humanoid-recovery/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## Vulcan’s Sourccey: Open-Source Home Robot for $1,999 and LeRobot Workflows
+
+- **Slug:** `vulcan-sourccey-open-source-home-robot`
+- **Date:** 2026-08-06
+- **Category:** Deals
+- **Article:** https://mechafeed.com/blog/vulcan-sourccey-open-source-home-robot/
+- **Chars:** 271/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Vulcan%E2%80%99s%20Sourccey%3A%20Open-Source%20Home%20Robot%20for%20%241%2C999%20and%20LeRobot%20Workflows%0A%0AVulcan%20Robotics%E2%80%99%20Sourccey%20is%20a%201.03%20m%20wheeled%20dual-arm%20platform%20with%20open%20hardware%2C%20Pi%205%20compute%2C%20and%20an%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fvulcan-sourccey-open-source-home-robot%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Vulcan’s Sourccey: Open-Source Home Robot for $1,999 and LeRobot Workflows
+
+Vulcan Robotics’ Sourccey is a 1.03 m wheeled dual-arm platform with open hardware, Pi 5 compute, and an…
+
+https://mechafeed.com/blog/vulcan-sourccey-open-source-home-robot/
+
+#Robotics #Humanoids
+```
 
 ---
 

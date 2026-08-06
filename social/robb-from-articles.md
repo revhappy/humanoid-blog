@@ -3,9 +3,141 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-05T21:04:53.042Z
+Generated: 2026-08-06T16:30:08.314Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## BridgeVLA++ Adds Spatio-Temporal Memory Without Blowing the Data Budget
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/bridgevla-plus-memory-vla/
+
+### SOLO (no link)
+
+```
+Memory is the difference between “pick the red block” and “uncover the block you covered two steps ago. ” BridgeVLA++’s numbers on RMBench are the kind of jump that usually means the base model had no chance.
+```
+
+### SOFT-LINK variant
+
+```
+Memory is the difference between “pick the red block” and “uncover the block you covered two steps ago. ” BridgeVLA++’s numbers on RMBench are the kind of jump that usually means the base model had no chance.
+
+https://mechafeed.com/blog/bridgevla-plus-memory-vla/
+```
+
+---
+
+## Dobot Unveils LUMO: ~1.3 m Companion Humanoid for Home, Campus, and Grass
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/dobot-lumo-all-terrain-humanoid/
+
+### SOLO (no link)
+
+```
+I care less about “world’s first” marketing and more about what the video actually shows: continuous walking on real outdoor surfaces and a clean cut between sport and home modes.  Emotion-recognition claims and backflip clips are easy to over-index.
+```
+
+### SOFT-LINK variant
+
+```
+I care less about “world’s first” marketing and more about what the video actually shows: continuous walking on real outdoor surfaces and a clean cut between sport and home modes.  Emotion-recognition…
+
+https://mechafeed.com/blog/dobot-lumo-all-terrain-humanoid/
+```
+
+---
+
+## 3D-Printed EIT Skin: Geometry-Scalable Touch for Humanoid Surfaces
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/eit-conformal-tactile-skin/
+
+### SOLO (no link)
+
+```
+Whole-body touch is one of those unsexy bottlenecks that makes humanoids safer around people.  Printing the skin geometry from CAD instead of hand-wiring thousands of taxels is the kind of manufacturing shortcut I want more of.
+```
+
+### SOFT-LINK variant
+
+```
+Whole-body touch is one of those unsexy bottlenecks that makes humanoids safer around people.  Printing the skin geometry from CAD instead of hand-wiring thousands of taxels is the kind of manufacturi…
+
+https://mechafeed.com/blog/eit-conformal-tactile-skin/
+```
+
+---
+
+## SiMDex: Mine 5% of Ego Videos, Beat Random Mixing on Dexterous Tasks
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/simdex-egocentric-data-mining/
+
+### SOLO (no link)
+
+```
+Selection beats scale is a useful corrective in a year when every lab is hoarding ego hours.  If &lt;5% of a curated pool beats an equal-size random dump, the next bottleneck is mining quality, not disk.
+```
+
+### SOFT-LINK variant
+
+```
+Selection beats scale is a useful corrective in a year when every lab is hoarding ego hours.  If &lt;5% of a curated pool beats an equal-size random dump, the next bottleneck is mining quality, not disk.
+
+https://mechafeed.com/blog/simdex-egocentric-data-mining/
+```
+
+---
+
+## StableMimic: One G1 Policy for Dance Tracking and Getting Back Up
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/stablemimic-humanoid-recovery/
+
+### SOLO (no link)
+
+```
+This is the right failure mode to study.  Humanoids will fall; the question is whether the recovery is a thrash or a structured get-up that hands control back to the task.
+```
+
+### SOFT-LINK variant
+
+```
+This is the right failure mode to study.  Humanoids will fall; the question is whether the recovery is a thrash or a structured get-up that hands control back to the task.
+
+https://mechafeed.com/blog/stablemimic-humanoid-recovery/
+```
+
+---
+
+## Vulcan’s Sourccey: Open-Source Home Robot for $1,999 and LeRobot Workflows
+
+- Author on blog: Shar Hendrix
+- Category: Deals
+- Article: https://mechafeed.com/blog/vulcan-sourccey-open-source-home-robot/
+
+### SOLO (no link)
+
+```
+I’m so here for a sub-$2k dual-arm base with public STLs and replaceable servos.  That is how you get more hands collecting home data.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for a sub-$2k dual-arm base with public STLs and replaceable servos.  That is how you get more hands collecting home data.
+
+https://mechafeed.com/blog/vulcan-sourccey-open-source-home-robot/
+```
 
 ---
 
