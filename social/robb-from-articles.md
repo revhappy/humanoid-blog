@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-06T16:30:08.314Z
+Generated: 2026-08-07T16:06:51.743Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## DyPES-VLA: Shared Dynamics Priors, Native Actions Per Embodiment
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/dypes-vla-cross-embodiment/
+
+### SOLO (no link)
+
+```
+Killing the “align every action into one tensor first” pipeline is the part I want other labs to steal.  Shared foresight of how objects move, plus experts that still output native joint or EE commands, is closer to how fleets actually ship.
+```
+
+### SOFT-LINK variant
+
+```
+Killing the “align every action into one tensor first” pipeline is the part I want other labs to steal.  Shared foresight of how objects move, plus experts that still output native joint or EE command…
+
+https://mechafeed.com/blog/dypes-vla-cross-embodiment/
+```
+
+---
+
+## In-Context VLA: Consume Grounded Language, Don’t Narrate CoT
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/in-context-vla-language/
+
+### SOLO (no link)
+
+```
+This matches what I’ve felt watching CoT demos on arms: the robot pauses to monologue, then jerks.  Forcing the model to *read* tool-backed spatial context while only scoring on actions is the sane division of labor.
+```
+
+### SOFT-LINK variant
+
+```
+This matches what I’ve felt watching CoT demos on arms: the robot pauses to monologue, then jerks.  Forcing the model to *read* tool-backed spatial context while only scoring on actions is the sane division of labor.
+
+https://mechafeed.com/blog/in-context-vla-language/
+```
+
+---
+
+## JoyAI-RA 0.5: Scale Manipulation by Aligning Human Video to Robot Actions
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/joyai-ra-05-dual-action-alignment/
+
+### SOLO (no link)
+
+```
+I’m here for the scaling plot more than the acronym pile.  If human video keeps buying real AgiBot score without saturating, that changes what “we need more robot hours” means for smaller labs.
+```
+
+### SOFT-LINK variant
+
+```
+I’m here for the scaling plot more than the acronym pile.  If human video keeps buying real AgiBot score without saturating, that changes what “we need more robot hours” means for smaller labs.
+
+https://mechafeed.com/blog/joyai-ra-05-dual-action-alignment/
+```
+
+---
+
+## KILVO: Humanoid Odometry That Fuses Legs, IMU, LiDAR, and Cameras
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/kilvo-humanoid-odometry/
+
+### SOLO (no link)
+
+```
+Foundation policies get the headlines; localization still decides whether those policies stay on the factory aisle.  KILVO’s sequence — kinematics first, LiDAR geometric prior, then vision — matches how I’d want a biped to fail: drop the camera in a dusty aisle and…
+```
+
+### SOFT-LINK variant
+
+```
+Foundation policies get the headlines; localization still decides whether those policies stay on the factory aisle.  KILVO’s sequence — kinematics first, LiDAR geometric prior, then vision — matches h…
+
+https://mechafeed.com/blog/kilvo-humanoid-odometry/
+```
+
+---
+
+## Nori L3: $1,688 US-Assembled Dual-Arm Home Robot for Fall 2026
+
+- Author on blog: Shar Hendrix
+- Category: Deals
+- Article: https://mechafeed.com/blog/nori-l3-1688-home-robot/
+
+### SOLO (no link)
+
+```
+A wheeled dual-arm box at appliance money is the shape of offer that actually gets into apartments.  I’m watching three receipts: ships on the Fall 2026 window, whether 1.
+```
+
+### SOFT-LINK variant
+
+```
+A wheeled dual-arm box at appliance money is the shape of offer that actually gets into apartments.  I’m watching three receipts: ships on the Fall 2026 window, whether 1.
+
+https://mechafeed.com/blog/nori-l3-1688-home-robot/
+```
+
+---
+
+## ω-0: One Humanoid Policy for Manipulate-While-Moving Chores
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/omega-0-humanoid-loco-manipulation/
+
+### SOLO (no link)
+
+```
+I care less about another arm-only VLA and more about whether the base and torso show up in the same action chunk when the table is wider than the reach envelope.  ω-0’s design bet — latent foresight instead of a full video world model at runtime — is the right…
+```
+
+### SOFT-LINK variant
+
+```
+I care less about another arm-only VLA and more about whether the base and torso show up in the same action chunk when the table is wider than the reach envelope.  ω-0’s design bet — latent foresight …
+
+https://mechafeed.com/blog/omega-0-humanoid-loco-manipulation/
+```
+
+---
+
+## Hijacking a Sorting Robot With a Sticky Note: Physical Prompt Injection
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/physical-prompt-injection-vlm-robots/
+
+### SOLO (no link)
+
+```
+I love a paper that weaponizes sticky notes.  If your warehouse humanoid trusts whatever text falls into the frame, someone will put “ignore sorting rules” on a tote.
+```
+
+### SOFT-LINK variant
+
+```
+I love a paper that weaponizes sticky notes.  If your warehouse humanoid trusts whatever text falls into the frame, someone will put “ignore sorting rules” on a tote.
+
+https://mechafeed.com/blog/physical-prompt-injection-vlm-robots/
+```
+
+---
+
+## TRACE: Legged Odometry When Contacts Lie
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/trace-proprioceptive-odometry/
+
+### SOLO (no link)
+
+```
+I’m glad someone attacked the air-mat case instead of only hard-floor lab runs.  If your humanoid or quadruped is going to work outside a polished demo floor, proprioceptive drift under soft contact is the unsexy bug that kills maps.
+```
+
+### SOFT-LINK variant
+
+```
+I’m glad someone attacked the air-mat case instead of only hard-floor lab runs.  If your humanoid or quadruped is going to work outside a polished demo floor, proprioceptive drift under soft contact i…
+
+https://mechafeed.com/blog/trace-proprioceptive-odometry/
+```
 
 ---
 
@@ -53,6 +229,28 @@ https://mechafeed.com/blog/dobot-lumo-all-terrain-humanoid/
 
 ---
 
+## DreamWAM: World Action Models That Dream Beyond RGB
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/dreamwam-beyond-rgb-world-models/
+
+### SOLO (no link)
+
+```
+Predicting pretty next frames is not the same as predicting the state that makes the grasp land.  DreamWAM’s split — rich future during training, boring RGB at deploy — is the pattern I want more teams to copy.
+```
+
+### SOFT-LINK variant
+
+```
+Predicting pretty next frames is not the same as predicting the state that makes the grasp land.  DreamWAM’s split — rich future during training, boring RGB at deploy — is the pattern I want more teams to copy.
+
+https://mechafeed.com/blog/dreamwam-beyond-rgb-world-models/
+```
+
+---
+
 ## 3D-Printed EIT Skin: Geometry-Scalable Touch for Humanoid Surfaces
 
 - Author on blog: Shar Hendrix
@@ -71,6 +269,72 @@ Whole-body touch is one of those unsexy bottlenecks that makes humanoids safer a
 Whole-body touch is one of those unsexy bottlenecks that makes humanoids safer around people.  Printing the skin geometry from CAD instead of hand-wiring thousands of taxels is the kind of manufacturi…
 
 https://mechafeed.com/blog/eit-conformal-tactile-skin/
+```
+
+---
+
+## Explicit Language Memory Keeps Long-Horizon VLAs on Phase
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/explicit-language-memory-vla/
+
+### SOLO (no link)
+
+```
+Readable state is underrated ops infrastructure.  If the robot’s “brain dump” says the package was never scanned, you can debug a skipped stage instead of staring at a silent action log.
+```
+
+### SOFT-LINK variant
+
+```
+Readable state is underrated ops infrastructure.  If the robot’s “brain dump” says the package was never scanned, you can debug a skipped stage instead of staring at a silent action log.
+
+https://mechafeed.com/blog/explicit-language-memory-vla/
+```
+
+---
+
+## Mind-VLA Aligns VLA Features to the Object the Instruction Names
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/mind-vla-instruction-aware-3d/
+
+### SOLO (no link)
+
+```
+This is one of those papers where the diagnosis is almost as useful as the method.  If your 3D teacher always describes the whole table, the policy can “understand geometry” without locking onto *the banana under the box*.
+```
+
+### SOFT-LINK variant
+
+```
+This is one of those papers where the diagnosis is almost as useful as the method.  If your 3D teacher always describes the whole table, the policy can “understand geometry” without locking onto *the …
+
+https://mechafeed.com/blog/mind-vla-instruction-aware-3d/
+```
+
+---
+
+## SAFECAST: Contrast Sets Make VLA Failure Detectors Hold Up Off-Distribution
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/safecast-vla-failure-detection/
+
+### SOLO (no link)
+
+```
+Failure detection is how you put a VLA near people without pretending the policy never flubs a grasp.  SAFECAST’s idea is simple: if deployment will be messy, stop calibrating only on clean demos.
+```
+
+### SOFT-LINK variant
+
+```
+Failure detection is how you put a VLA near people without pretending the policy never flubs a grasp.  SAFECAST’s idea is simple: if deployment will be messy, stop calibrating only on clean demos.
+
+https://mechafeed.com/blog/safecast-vla-failure-detection/
 ```
 
 ---
@@ -119,6 +383,28 @@ https://mechafeed.com/blog/stablemimic-humanoid-recovery/
 
 ---
 
+## UniX AI Panther Runs Full Pizza Order-to-Bake Sequence
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/unix-panther-pizza-long-horizon/
+
+### SOLO (no link)
+
+```
+Kitchen demos are easy to oversell.  What I care about here is the long-horizon claim: app order → prep → oven → timed bake as one continuous policy stack.
+```
+
+### SOFT-LINK variant
+
+```
+Kitchen demos are easy to oversell.  What I care about here is the long-horizon claim: app order → prep → oven → timed bake as one continuous policy stack.
+
+https://mechafeed.com/blog/unix-panther-pizza-long-horizon/
+```
+
+---
+
 ## Vulcan’s Sourccey: Open-Source Home Robot for $1,999 and LeRobot Workflows
 
 - Author on blog: Shar Hendrix
@@ -137,6 +423,28 @@ I’m so here for a sub-$2k dual-arm base with public STLs and replaceable servo
 I’m so here for a sub-$2k dual-arm base with public STLs and replaceable servos.  That is how you get more hands collecting home data.
 
 https://mechafeed.com/blog/vulcan-sourccey-open-source-home-robot/
+```
+
+---
+
+## ZEALS Launches D1: Japan-Sized Compact Humanoid From ¥5M
+
+- Author on blog: Shar Hendrix
+- Category: Deals
+- Article: https://mechafeed.com/blog/zeals-d1-compact-japan-humanoid/
+
+### SOLO (no link)
+
+```
+I like that this launch leads with corridor width and a price instead of parkour.  Japan’s buildings are a design constraint most “full-size humanoid” decks ignore.
+```
+
+### SOFT-LINK variant
+
+```
+I like that this launch leads with corridor width and a price instead of parkour.  Japan’s buildings are a design constraint most “full-size humanoid” decks ignore.
+
+https://mechafeed.com/blog/zeals-d1-compact-japan-humanoid/
 ```
 
 ---

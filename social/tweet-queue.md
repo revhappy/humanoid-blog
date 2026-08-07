@@ -14,8 +14,176 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-06T16:30:07.434Z
-Posts: 122
+Generated: 2026-08-07T16:06:50.537Z
+Posts: 136
+
+---
+
+## DyPES-VLA: Shared Dynamics Priors, Native Actions Per Embodiment
+
+- **Slug:** `dypes-vla-cross-embodiment`
+- **Date:** 2026-08-07
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/dypes-vla-cross-embodiment/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=DyPES-VLA%3A%20Shared%20Dynamics%20Priors%2C%20Native%20Actions%20Per%20Embodiment%0A%0ADyPES-VLA%20learns%20cross-robot%20dynamics%20in%20a%20VLM%20and%20routes%20control%20through%20an%20embodiment-specific%20MoE%20head%20%E2%80%94%2098%25%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdypes-vla-cross-embodiment%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+DyPES-VLA: Shared Dynamics Priors, Native Actions Per Embodiment
+
+DyPES-VLA learns cross-robot dynamics in a VLM and routes control through an embodiment-specific MoE head — 98% on…
+
+https://mechafeed.com/blog/dypes-vla-cross-embodiment/
+
+#AI #Humanoids
+```
+
+---
+
+## In-Context VLA: Consume Grounded Language, Don’t Narrate CoT
+
+- **Slug:** `in-context-vla-language`
+- **Date:** 2026-08-07
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/in-context-vla-language/
+- **Chars:** 248/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=In-Context%20VLA%3A%20Consume%20Grounded%20Language%2C%20Don%E2%80%99t%20Narrate%20CoT%0A%0AResearchers%20show%20free-form%20chain-of-thought%20hurts%20low-level%20VLA%20control%3B%20in-context%20post-training%20plus%20tool%20use%20hits%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fin-context-vla-language%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+In-Context VLA: Consume Grounded Language, Don’t Narrate CoT
+
+Researchers show free-form chain-of-thought hurts low-level VLA control; in-context post-training plus tool use hits…
+
+https://mechafeed.com/blog/in-context-vla-language/
+
+#AI #Humanoids
+```
+
+---
+
+## JoyAI-RA 0.5: Scale Manipulation by Aligning Human Video to Robot Actions
+
+- **Slug:** `joyai-ra-05-dual-action-alignment`
+- **Date:** 2026-08-07
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/joyai-ra-05-dual-action-alignment/
+- **Chars:** 268/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=JoyAI-RA%200.5%3A%20Scale%20Manipulation%20by%20Aligning%20Human%20Video%20to%20Robot%20Actions%0A%0AJoyAI-RA%200.5%20uses%20dual%20action%20alignment%20across%2053K%2B%20hours%20of%20ego%20video%20plus%20sim%20and%20robot%20data%20on%20AgiBot%20hardware.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fjoyai-ra-05-dual-action-alignment%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+JoyAI-RA 0.5: Scale Manipulation by Aligning Human Video to Robot Actions
+
+JoyAI-RA 0.5 uses dual action alignment across 53K+ hours of ego video plus sim and robot data on AgiBot hardware.
+
+https://mechafeed.com/blog/joyai-ra-05-dual-action-alignment/
+
+#AI #Humanoids
+```
+
+---
+
+## KILVO: Humanoid Odometry That Fuses Legs, IMU, LiDAR, and Cameras
+
+- **Slug:** `kilvo-humanoid-odometry`
+- **Date:** 2026-08-07
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/kilvo-humanoid-odometry/
+- **Chars:** 256/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=KILVO%3A%20Humanoid%20Odometry%20That%20Fuses%20Legs%2C%20IMU%2C%20LiDAR%2C%20and%20Cameras%0A%0AKILVO%20runs%20kinematic-inertial-LiDAR-visual%20odometry%20in%20a%20hybrid%20ESIKF%20built%20for%20bipeds%2C%20with%20code%20and%20datasets%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fkilvo-humanoid-odometry%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+KILVO: Humanoid Odometry That Fuses Legs, IMU, LiDAR, and Cameras
+
+KILVO runs kinematic-inertial-LiDAR-visual odometry in a hybrid ESIKF built for bipeds, with code and datasets on…
+
+https://mechafeed.com/blog/kilvo-humanoid-odometry/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Nori L3: $1,688 US-Assembled Dual-Arm Home Robot for Fall 2026
+
+- **Slug:** `nori-l3-1688-home-robot`
+- **Date:** 2026-08-07
+- **Category:** Deals
+- **Article:** https://mechafeed.com/blog/nori-l3-1688-home-robot/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Nori%20L3%3A%20%241%2C688%20US-Assembled%20Dual-Arm%20Home%20Robot%20for%20Fall%202026%0A%0AYC-backed%20Nori%20Robotics%20lists%20the%20L3%20bimanual%20wheeled%20home%20robot%20at%20%241%2C688%20with%20a%20%24200%20deposit%20and%20San%20Francisco%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnori-l3-1688-home-robot%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Nori L3: $1,688 US-Assembled Dual-Arm Home Robot for Fall 2026
+
+YC-backed Nori Robotics lists the L3 bimanual wheeled home robot at $1,688 with a $200 deposit and San Francisco…
+
+https://mechafeed.com/blog/nori-l3-1688-home-robot/
+
+#Robotics #Humanoids
+```
+
+---
+
+## ω-0: One Humanoid Policy for Manipulate-While-Moving Chores
+
+- **Slug:** `omega-0-humanoid-loco-manipulation`
+- **Date:** 2026-08-07
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/omega-0-humanoid-loco-manipulation/
+- **Chars:** 267/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=%CF%89-0%3A%20One%20Humanoid%20Policy%20for%20Manipulate-While-Moving%20Chores%0A%0ANTU%2FPKU%2FBAAI%20%CF%89-0%20couples%20latent%20foresight%20with%20whole-body%20action%20latents%20on%20a%2040%2B%20hour%20household%20humanoid%20dataset.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fomega-0-humanoid-loco-manipulation%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+ω-0: One Humanoid Policy for Manipulate-While-Moving Chores
+
+NTU/PKU/BAAI ω-0 couples latent foresight with whole-body action latents on a 40+ hour household humanoid dataset.
+
+https://mechafeed.com/blog/omega-0-humanoid-loco-manipulation/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Hijacking a Sorting Robot With a Sticky Note: Physical Prompt Injection
+
+- **Slug:** `physical-prompt-injection-vlm-robots`
+- **Date:** 2026-08-07
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/physical-prompt-injection-vlm-robots/
+- **Chars:** 274/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Hijacking%20a%20Sorting%20Robot%20With%20a%20Sticky%20Note%3A%20Physical%20Prompt%20Injection%0A%0AA%205%2C670-trial%20study%20shows%20paper%20signs%20can%20steer%20VLM%20robot%20planners%3B%20simple%20defenses%20cut%20most%20of%20the%20risk.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fphysical-prompt-injection-vlm-robots%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+Hijacking a Sorting Robot With a Sticky Note: Physical Prompt Injection
+
+A 5,670-trial study shows paper signs can steer VLM robot planners; simple defenses cut most of the risk.
+
+https://mechafeed.com/blog/physical-prompt-injection-vlm-robots/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## TRACE: Legged Odometry When Contacts Lie
+
+- **Slug:** `trace-proprioceptive-odometry`
+- **Date:** 2026-08-07
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/trace-proprioceptive-odometry/
+- **Chars:** 236/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=TRACE%3A%20Legged%20Odometry%20When%20Contacts%20Lie%0A%0AKAIST%E2%80%99s%20TRACE%20learns%20proprioceptive%20odometry%20with%20foot-aware%20attention%20%E2%80%94%20less%20position%20drift%20on%20soft%20and%20outdoor%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftrace-proprioceptive-odometry%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+TRACE: Legged Odometry When Contacts Lie
+
+KAIST’s TRACE learns proprioceptive odometry with foot-aware attention — less position drift on soft and outdoor…
+
+https://mechafeed.com/blog/trace-proprioceptive-odometry/
+
+#Robotics #Humanoids
+```
 
 ---
 
@@ -59,6 +227,27 @@ https://mechafeed.com/blog/dobot-lumo-all-terrain-humanoid/
 
 ---
 
+## DreamWAM: World Action Models That Dream Beyond RGB
+
+- **Slug:** `dreamwam-beyond-rgb-world-models`
+- **Date:** 2026-08-06
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/dreamwam-beyond-rgb-world-models/
+- **Chars:** 262/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=DreamWAM%3A%20World%20Action%20Models%20That%20Dream%20Beyond%20RGB%0A%0AHUST%20researchers%E2%80%99%20DreamWAM%20predicts%20motion%2C%20geometry%2C%20and%20semantics%E2%80%94not%20just%20pixels%E2%80%94raising%20real-robot%20success%20under%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdreamwam-beyond-rgb-world-models%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+DreamWAM: World Action Models That Dream Beyond RGB
+
+HUST researchers’ DreamWAM predicts motion, geometry, and semantics—not just pixels—raising real-robot success under…
+
+https://mechafeed.com/blog/dreamwam-beyond-rgb-world-models/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
 ## 3D-Printed EIT Skin: Geometry-Scalable Touch for Humanoid Surfaces
 
 - **Slug:** `eit-conformal-tactile-skin`
@@ -76,6 +265,69 @@ CTU Prague, CU Boulder, and TU/e show a conformal electrical impedance tomograph
 https://mechafeed.com/blog/eit-conformal-tactile-skin/
 
 #RoboticsResearch #Humanoids
+```
+
+---
+
+## Explicit Language Memory Keeps Long-Horizon VLAs on Phase
+
+- **Slug:** `explicit-language-memory-vla`
+- **Date:** 2026-08-06
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/explicit-language-memory-vla/
+- **Chars:** 242/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Explicit%20Language%20Memory%20Keeps%20Long-Horizon%20VLAs%20on%20Phase%0A%0AFudan%20researchers%20add%20a%20rolling%20natural-language%20memory%20to%20hierarchical%20VLAs%2C%20lifting%20multi-stage%20success%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fexplicit-language-memory-vla%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Explicit Language Memory Keeps Long-Horizon VLAs on Phase
+
+Fudan researchers add a rolling natural-language memory to hierarchical VLAs, lifting multi-stage success on…
+
+https://mechafeed.com/blog/explicit-language-memory-vla/
+
+#AI #Humanoids
+```
+
+---
+
+## Mind-VLA Aligns VLA Features to the Object the Instruction Names
+
+- **Slug:** `mind-vla-instruction-aware-3d`
+- **Date:** 2026-08-06
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/mind-vla-instruction-aware-3d/
+- **Chars:** 260/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Mind-VLA%20Aligns%20VLA%20Features%20to%20the%20Object%20the%20Instruction%20Names%0A%0ACAS%2FNanjing%20researchers%20introduce%20Mind-VLA%3A%20instruction-aware%203D%20alignment%20for%20VLAs%2C%20hitting%2093.9%25%20LIBERO%20and%20stronger%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmind-vla-instruction-aware-3d%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Mind-VLA Aligns VLA Features to the Object the Instruction Names
+
+CAS/Nanjing researchers introduce Mind-VLA: instruction-aware 3D alignment for VLAs, hitting 93.9% LIBERO and stronger…
+
+https://mechafeed.com/blog/mind-vla-instruction-aware-3d/
+
+#AI #Humanoids
+```
+
+---
+
+## SAFECAST: Contrast Sets Make VLA Failure Detectors Hold Up Off-Distribution
+
+- **Slug:** `safecast-vla-failure-detection`
+- **Date:** 2026-08-06
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/safecast-vla-failure-detection/
+- **Chars:** 271/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=SAFECAST%3A%20Contrast%20Sets%20Make%20VLA%20Failure%20Detectors%20Hold%20Up%20Off-Distribution%0A%0AUSC%E2%80%99s%20SAFECAST%20trains%20and%20calibrates%20hidden-state%20failure%20probes%20with%20visual%20and%20language%20contrast%20sets%2C%20beating%20SAFE%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsafecast-vla-failure-detection%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+SAFECAST: Contrast Sets Make VLA Failure Detectors Hold Up Off-Distribution
+
+USC’s SAFECAST trains and calibrates hidden-state failure probes with visual and language contrast sets, beating SAFE…
+
+https://mechafeed.com/blog/safecast-vla-failure-detection/
+
+#AI #Humanoids
 ```
 
 ---
@@ -122,6 +374,27 @@ https://mechafeed.com/blog/stablemimic-humanoid-recovery/
 
 ---
 
+## UniX AI Panther Runs Full Pizza Order-to-Bake Sequence
+
+- **Slug:** `unix-panther-pizza-long-horizon`
+- **Date:** 2026-08-06
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/unix-panther-pizza-long-horizon/
+- **Chars:** 259/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=UniX%20AI%20Panther%20Runs%20Full%20Pizza%20Order-to-Bake%20Sequence%0A%0AUniX%20AI%E2%80%99s%20wheeled%20dual-arm%20Panther%20demos%20app-to-oven%20pizza%20prep%20with%20UniCortex%20long-horizon%20planning%2C%20on%20a%2034-DoF%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Funix-panther-pizza-long-horizon%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+UniX AI Panther Runs Full Pizza Order-to-Bake Sequence
+
+UniX AI’s wheeled dual-arm Panther demos app-to-oven pizza prep with UniCortex long-horizon planning, on a 34-DoF…
+
+https://mechafeed.com/blog/unix-panther-pizza-long-horizon/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
 ## Vulcan’s Sourccey: Open-Source Home Robot for $1,999 and LeRobot Workflows
 
 - **Slug:** `vulcan-sourccey-open-source-home-robot`
@@ -137,6 +410,27 @@ Vulcan’s Sourccey: Open-Source Home Robot for $1,999 and LeRobot Workflows
 Vulcan Robotics’ Sourccey is a 1.03 m wheeled dual-arm platform with open hardware, Pi 5 compute, and an…
 
 https://mechafeed.com/blog/vulcan-sourccey-open-source-home-robot/
+
+#Robotics #Humanoids
+```
+
+---
+
+## ZEALS Launches D1: Japan-Sized Compact Humanoid From ¥5M
+
+- **Slug:** `zeals-d1-compact-japan-humanoid`
+- **Date:** 2026-08-06
+- **Category:** Deals
+- **Article:** https://mechafeed.com/blog/zeals-d1-compact-japan-humanoid/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ZEALS%20Launches%20D1%3A%20Japan-Sized%20Compact%20Humanoid%20From%20%C2%A55M%0A%0ATokyo%E2%80%99s%20ZEALS%20opens%20sales%20on%20D1%2C%20a%20~129%20cm%20semi-domestic%20humanoid%20built%20for%20Japanese%20indoor%20corridors%2C%20with%20%C2%A55M%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fzeals-d1-compact-japan-humanoid%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+ZEALS Launches D1: Japan-Sized Compact Humanoid From ¥5M
+
+Tokyo’s ZEALS opens sales on D1, a ~129 cm semi-domestic humanoid built for Japanese indoor corridors, with ¥5M…
+
+https://mechafeed.com/blog/zeals-d1-compact-japan-humanoid/
 
 #Robotics #Humanoids
 ```

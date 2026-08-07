@@ -1248,3 +1248,81 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Push:** pending
 - **Failures:** none blocking; solid candidates 6 of target 8 (quality floor — no padding)
 
+
+## 2026-08-07 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-07
+- git pull --rebase origin main: already up to date
+- Prior catalog through 2026-08-06 (Vulcan, Dobot LUMO, StableMimic, EIT, BridgeVLA++, SiMDex, DreamWAM, SAFECAST, Mind-VLA, Explicit Language Memory, UniX Panther, ZEALS D1, etc.) — **do not rehash**
+- No 2026-08-07 posts before this run
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — keyword streams flooded with unrelated/spam Atlas finance, crypto vaults, rehashes (disclosed)
+- Owner lists login-walled; proceeded with public X + web (disclosed)
+- Notable leads (leads only): Unitree IPO pricing chatter (business; prior CSRC piece exists); RoboParty UFO rehash; Nori L3 price/product (new vs FCC post); ROBOTIS AI Sapiens re-share (already covered)
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** ω-0 concurrent humanoid loco-manipulation — arXiv:2608.06375 + HTML + project — lane: **build**
+2. **[CANDIDATE/WRITTEN]** KILVO humanoid multi-sensor odometry — arXiv:2608.05647 + HTML + TMECH DOI — lane: **build**
+3. **[CANDIDATE/WRITTEN]** JoyAI-RA 0.5 dual action alignment — arXiv:2608.05674 + project page — lane: **build**
+4. **[CANDIDATE/WRITTEN]** DyPES-VLA cross-embodiment — arXiv:2608.06374 + HTML — lane: **build**
+5. **[CANDIDATE/WRITTEN]** Physical prompt injection on VLM robots — arXiv:2608.05715 + HTML — lane: **build**
+6. **[CANDIDATE/WRITTEN]** In-Context VLA (consume grounded language) — arXiv:2608.05738 + HTML — lane: **build**
+7. **[CANDIDATE/WRITTEN]** TRACE proprioceptive odometry under unreliable contact — arXiv:2608.05975 + HTML — lane: **build**
+8. **[CANDIDATE/WRITTEN]** Nori L3 $1,688 product page — norirobotics.com + RuntimeWire — lane: **build** (product/price Deals)
+9. **[SKIP: already covered / business rehash]** Unitree STAR IPO pricing day (Bloomberg/Reuters) — prior unitree-star-market-ipo-csrc; counts as business under 25% cap
+10. **[SKIP: already covered]** BridgeVLA++, DreamWAM, SAFECAST, Mind-VLA, Explicit Language Memory, StableMimic, fail-passive, Nori FCC-era post angle, Robotis AI Sapiens
+11. **[SKIP: thin / older]** Robotera Q5 CES-era rehash; UBTech U1 September deliveries (prior UWorld/U1 coverage); KEPLER Highlanders (prior Mitsubishi/Highlanders production piece)
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | omega-0-humanoid-loco-manipulation | Robb Harlan | Humanoids | build |
+| 2 | kilvo-humanoid-odometry | Robb Harlan | Robotics | build |
+| 3 | joyai-ra-05-dual-action-alignment | Shar Hendrix | AI | build |
+| 4 | dypes-vla-cross-embodiment | Robb Harlan | AI | build |
+| 5 | physical-prompt-injection-vlm-robots | Shar Hendrix | Research | build |
+| 6 | in-context-vla-language | Robb Harlan | AI | build |
+| 7 | trace-proprioceptive-odometry | Shar Hendrix | Robotics | build |
+| 8 | nori-l3-1688-home-robot | Shar Hendrix | Deals | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (<=25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Solid candidates with primary/secondary depth: **8** | Writing: **8**
+- Soft floor 3 met; hit target from Aug 6–7 arXiv batch + Nori L3 product page
+
+### Notes for Future Agents
+- ω-0: third-party SONIC hardware hours; outdoor chores
+- KILVO: open-source GitHub replications on G1/Fourier-class
+- JoyAI-RA: public weights / non-AgiBot transfer
+- DyPES-VLA: code release; fifth morphology expert cost
+- Physical prompt injection: warehouse-label dual-use defenses
+- In-Context VLA: tool-call latency on real closed loops
+- TRACE: humanoid (not only quadruped) outdoor logs
+- Nori L3: fall 2026 ship verification; 1.5 kg arm durability
+- Afternoon: do not rehash this morning eight; Unitree subscription open Aug 10 only if build mix allows one industry slot
+
+### Run summary
+- **Articles published (8):**
+  1. omega-0-humanoid-loco-manipulation
+  2. kilvo-humanoid-odometry
+  3. joyai-ra-05-dual-action-alignment
+  4. dypes-vla-cross-embodiment
+  5. physical-prompt-injection-vlm-robots
+  6. in-context-vla-language
+  7. trace-proprioceptive-odometry
+  8. nori-l3-1688-home-robot
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** PASS (
+pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** Confirmed stills (ω-0 overview/architecture/dataset; KILVO cover/system/config; JoyAI teaser+data+arch; DyPES diagram+details; physical prompt teaser+Kinova setup+taxonomy; In-Context CoT vs ICL+method+results; TRACE air-mat traj+arch; Nori workshop+arm)
+- **Social:** tweets (136 drafts); robb-x
+- **Build:** PASS (149 pages)
+- **Push:** pending
+- **Failures:** none blocking; solid candidates 8 of target 8
+
