@@ -14,8 +14,8 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-07T16:06:50.537Z
-Posts: 136
+Generated: 2026-08-07T21:05:31.896Z
+Posts: 142
 
 ---
 
@@ -34,6 +34,27 @@ DyPES-VLA: Shared Dynamics Priors, Native Actions Per Embodiment
 DyPES-VLA learns cross-robot dynamics in a VLM and routes control through an embodiment-specific MoE head — 98% on…
 
 https://mechafeed.com/blog/dypes-vla-cross-embodiment/
+
+#AI #Humanoids
+```
+
+---
+
+## GeniWorld Turns Robot Actions Into Pictures the World Model Can Follow
+
+- **Slug:** `geniworld-visual-action-world-model`
+- **Date:** 2026-08-07
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/geniworld-visual-action-world-model/
+- **Chars:** 272/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=GeniWorld%20Turns%20Robot%20Actions%20Into%20Pictures%20the%20World%20Model%20Can%20Follow%0A%0ATencent%20Robotics%20X%20and%20Tsinghua%E2%80%99s%20GeniWorld%20conditions%20video%20world%20models%20on%20URDF-rendered%20robot%20motion%20for%20OOD%20scenes%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgeniworld-visual-action-world-model%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+GeniWorld Turns Robot Actions Into Pictures the World Model Can Follow
+
+Tencent Robotics X and Tsinghua’s GeniWorld conditions video world models on URDF-rendered robot motion for OOD scenes…
+
+https://mechafeed.com/blog/geniworld-visual-action-world-model/
 
 #AI #Humanoids
 ```
@@ -103,6 +124,27 @@ https://mechafeed.com/blog/kilvo-humanoid-odometry/
 
 ---
 
+## Near-Sensor Tactile Depth in 0.211 ms Beats the Host PC
+
+- **Slug:** `near-sensor-visuotactile-poisson`
+- **Date:** 2026-08-07
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/near-sensor-visuotactile-poisson/
+- **Chars:** 261/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Near-Sensor%20Tactile%20Depth%20in%200.211%20ms%20Beats%20the%20Host%20PC%0A%0AShanghaiTech%20maps%20GelSight-style%20Poisson%20reconstruction%20onto%20an%20FPGA%20pipeline%3A%20fixed%200.211%20ms%20latency%2C%2028%20ms%20protective%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnear-sensor-visuotactile-poisson%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Near-Sensor Tactile Depth in 0.211 ms Beats the Host PC
+
+ShanghaiTech maps GelSight-style Poisson reconstruction onto an FPGA pipeline: fixed 0.211 ms latency, 28 ms protective…
+
+https://mechafeed.com/blog/near-sensor-visuotactile-poisson/
+
+#Robotics #Humanoids
+```
+
+---
+
 ## Nori L3: $1,688 US-Assembled Dual-Arm Home Robot for Fall 2026
 
 - **Slug:** `nori-l3-1688-home-robot`
@@ -166,6 +208,27 @@ https://mechafeed.com/blog/physical-prompt-injection-vlm-robots/
 
 ---
 
+## SkillMemo Stores Atomic Skills and Pulls Them Back at Runtime
+
+- **Slug:** `skillmemo-skill-memory-manipulation`
+- **Date:** 2026-08-07
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/skillmemo-skill-memory-manipulation/
+- **Chars:** 260/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=SkillMemo%20Stores%20Atomic%20Skills%20and%20Pulls%20Them%20Back%20at%20Runtime%0A%0ATsinghua%E2%80%99s%20SkillMemo%20segments%20demos%20with%20MoE%20experts%2C%20banks%20skill%20gating%20profiles%2C%20and%20lifts%20%CF%800.5%20to%2098%25%20average%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fskillmemo-skill-memory-manipulation%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+SkillMemo Stores Atomic Skills and Pulls Them Back at Runtime
+
+Tsinghua’s SkillMemo segments demos with MoE experts, banks skill gating profiles, and lifts π0.5 to 98% average on…
+
+https://mechafeed.com/blog/skillmemo-skill-memory-manipulation/
+
+#AI #Humanoids
+```
+
+---
+
 ## TRACE: Legged Odometry When Contacts Lie
 
 - **Slug:** `trace-proprioceptive-odometry`
@@ -183,6 +246,69 @@ KAIST’s TRACE learns proprioceptive odometry with foot-aware attention — les
 https://mechafeed.com/blog/trace-proprioceptive-odometry/
 
 #Robotics #Humanoids
+```
+
+---
+
+## VLAff Learns Where, How, and Which Way From Ego Video
+
+- **Slug:** `vlaff-actionable-affordances`
+- **Date:** 2026-08-07
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/vlaff-actionable-affordances/
+- **Chars:** 246/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=VLAff%20Learns%20Where%2C%20How%2C%20and%20Which%20Way%20From%20Ego%20Video%0A%0AUniversity%20of%20Tokyo%E2%80%99s%20IROS%202026%20VLAff%20trains%20one%20VLM%20on%20204K%20EgoAffordance%20episodes%20for%20visual%20heatmaps%2C%20grasps%2C%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fvlaff-actionable-affordances%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+VLAff Learns Where, How, and Which Way From Ego Video
+
+University of Tokyo’s IROS 2026 VLAff trains one VLM on 204K EgoAffordance episodes for visual heatmaps, grasps, and…
+
+https://mechafeed.com/blog/vlaff-actionable-affordances/
+
+#AI #Humanoids
+```
+
+---
+
+## W²-VLA Predicts How the Wrist Will Move Before It Moves
+
+- **Slug:** `w2-vla-world-to-wrist`
+- **Date:** 2026-08-07
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/w2-vla-world-to-wrist/
+- **Chars:** 242/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=W%C2%B2-VLA%20Predicts%20How%20the%20Wrist%20Will%20Move%20Before%20It%20Moves%0A%0AWorld-to-Wrist%20VLA%20forecasts%20task-conditioned%20future%20wrist%20latents%20for%20fine%20contact%20work%20at%2080%2B%20Hz%20on%20LIBERO%20and%20real%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fw2-vla-world-to-wrist%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+W²-VLA Predicts How the Wrist Will Move Before It Moves
+
+World-to-Wrist VLA forecasts task-conditioned future wrist latents for fine contact work at 80+ Hz on LIBERO and real…
+
+https://mechafeed.com/blog/w2-vla-world-to-wrist/
+
+#AI #Humanoids
+```
+
+---
+
+## XEWorld Asks: Can Your World Model Draw a Robot It Never Saw?
+
+- **Slug:** `xeworld-cross-embodiment-world-models`
+- **Date:** 2026-08-07
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/xeworld-cross-embodiment-world-models/
+- **Chars:** 278/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=XEWorld%20Asks%3A%20Can%20Your%20World%20Model%20Draw%20a%20Robot%20It%20Never%20Saw%3F%0A%0AXEWorld%E2%80%99s%20cross-embodiment%20testbed%20finds%20action-conditioned%20world%20models%20act%20like%202D%20pattern%20matchers%E2%80%94visual%20distance%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fxeworld-cross-embodiment-world-models%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+XEWorld Asks: Can Your World Model Draw a Robot It Never Saw?
+
+XEWorld’s cross-embodiment testbed finds action-conditioned world models act like 2D pattern matchers—visual distance…
+
+https://mechafeed.com/blog/xeworld-cross-embodiment-world-models/
+
+#RoboticsResearch #Humanoids
 ```
 
 ---

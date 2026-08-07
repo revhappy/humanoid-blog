@@ -1326,3 +1326,65 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Push:** pending
 - **Failures:** none blocking; solid candidates 8 of target 8
 
+
+## 2026-08-07 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-07
+- git pull --rebase origin main: already up to date
+- Morning already published 8 posts today (omega-0, KILVO, JoyAI-RA, DyPES-VLA, physical prompt injection, In-Context VLA, TRACE, Nori L3) — **do not rehash**
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — semantic/keyword streams mix rehashes, spam, thin clips (disclosed)
+- Owner lists login-walled; proceeded with public X + web (disclosed)
+- Notable leads (leads only): Noetix E1 terrain (thin English primary package); 1X hands rehash (covered); Light-Loco parkour rehash (covered); GeniWorld/SkillMemo/W2-VLA research wave on arXiv
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** GeniWorld visual-action world model — arXiv:2608.06332 + project — lane: **build**
+2. **[CANDIDATE/WRITTEN]** W²-VLA World-to-Wrist — arXiv:2608.05369 + project — lane: **build**
+3. **[CANDIDATE/WRITTEN]** SkillMemo skill memory — arXiv:2608.05970 + project — lane: **build**
+4. **[CANDIDATE/WRITTEN]** XEWorld cross-embodiment world-model testbed — arXiv:2608.05799 — lane: **build**
+5. **[CANDIDATE/WRITTEN]** VLAff actionable affordances / EgoAffordance — arXiv:2608.05215 + project — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Near-sensor visuotactile Poisson FPGA — arXiv:2608.05725 — lane: **build**
+7. **[SKIP: already covered morning]** omega-0, KILVO, JoyAI-RA, DyPES-VLA, physical prompt injection, In-Context VLA, TRACE, Nori L3
+8. **[SKIP: already covered prior]** BridgeVLA++, DreamWAM, SAFECAST, Light-Loco-Parkour, StableMimic, 1X hands, Dobot LUMO, Vulcan Sourccey
+9. **[SKIP: thin / primary weak]** Noetix E1 latest terrain demo (X lead; official EN product package still thin for a full post this session)
+10. **[SKIP: business lane]** Unitree STAR IPO pricing chatter under 25% cap
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | geniworld-visual-action-world-model | Robb Harlan | AI | build |
+| 2 | w2-vla-world-to-wrist | Shar Hendrix | AI | build |
+| 3 | skillmemo-skill-memory-manipulation | Robb Harlan | AI | build |
+| 4 | xeworld-cross-embodiment-world-models | Shar Hendrix | Research | build |
+| 5 | vlaff-actionable-affordances | Shar Hendrix | AI | build |
+| 6 | near-sensor-visuotactile-poisson | Robb Harlan | Robotics | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (<=25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Solid candidates with primary/secondary depth: **6** | Writing: **6**
+- Soft floor 2 met; hit target from Aug 5–6 arXiv build batch without capital filler
+
+### Notes for Future Agents
+- GeniWorld: code/release and multi-camera factory setups
+- W²-VLA: third-party CoBoT Magic replications; HuggingFace weights
+- SkillMemo: open code; π0.5 stack recipes
+- XEWorld: public data release of paired multi-embodiment rollouts
+- VLAff: code/weights drop; PR2/Fetch full task videos
+- Near-sensor tactile: 256+ grids with external memory; commercial GelSight integration
+- Next morning: do not rehash this afternoon six
+
+### Run summary
+- **Articles published (6):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 today posts incl. morning)
+- **Vision gate:** Confirmed stills (GeniWorld overview+OOD+Xtrainer; W2-VLA teaser+arch+rollouts; SkillMemo teaser+pipeline+experts; XEWorld probe+interventions; VLAff overview+arch; visuotactile reflex+latency)
+- **Social:** pending tweets / robb-x
+- **Push:** pending
+- **Failures:** none blocking; solid candidates 6 of target 6
+

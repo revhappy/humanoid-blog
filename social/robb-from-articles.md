@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-07T16:06:51.743Z
+Generated: 2026-08-07T21:05:34.412Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -27,6 +27,28 @@ Killing the “align every action into one tensor first” pipeline is the part 
 Killing the “align every action into one tensor first” pipeline is the part I want other labs to steal.  Shared foresight of how objects move, plus experts that still output native joint or EE command…
 
 https://mechafeed.com/blog/dypes-vla-cross-embodiment/
+```
+
+---
+
+## GeniWorld Turns Robot Actions Into Pictures the World Model Can Follow
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/geniworld-visual-action-world-model/
+
+### SOLO (no link)
+
+```
+I’m more interested in the conditioning trick than another “world model” brand.  If dense rendered robot motion is what keeps OOD tables from melting the arm, every lab with a URDF just got a cheaper path to synthetic hours.
+```
+
+### SOFT-LINK variant
+
+```
+I’m more interested in the conditioning trick than another “world model” brand.  If dense rendered robot motion is what keeps OOD tables from melting the arm, every lab with a URDF just got a cheaper …
+
+https://mechafeed.com/blog/geniworld-visual-action-world-model/
 ```
 
 ---
@@ -97,6 +119,28 @@ https://mechafeed.com/blog/kilvo-humanoid-odometry/
 
 ---
 
+## Near-Sensor Tactile Depth in 0.211 ms Beats the Host PC
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/near-sensor-visuotactile-poisson/
+
+### SOLO (no link)
+
+```
+This is the kind of systems paper I trust: fixed cycle counts, same actuator on both paths, camera-timed contact.  If you care about slip reaction or contact-rich hands, deterministic sub-millisecond geometry on-chip is more useful than another soft-skin render.
+```
+
+### SOFT-LINK variant
+
+```
+This is the kind of systems paper I trust: fixed cycle counts, same actuator on both paths, camera-timed contact.  If you care about slip reaction or contact-rich hands, deterministic sub-millisecond …
+
+https://mechafeed.com/blog/near-sensor-visuotactile-poisson/
+```
+
+---
+
 ## Nori L3: $1,688 US-Assembled Dual-Arm Home Robot for Fall 2026
 
 - Author on blog: Shar Hendrix
@@ -163,6 +207,28 @@ https://mechafeed.com/blog/physical-prompt-injection-vlm-robots/
 
 ---
 
+## SkillMemo Stores Atomic Skills and Pulls Them Back at Runtime
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/skillmemo-skill-memory-manipulation/
+
+### SOLO (no link)
+
+```
+A 1. 2-point LIBERO bump over π₀.
+```
+
+### SOFT-LINK variant
+
+```
+A 1. 2-point LIBERO bump over π₀.
+
+https://mechafeed.com/blog/skillmemo-skill-memory-manipulation/
+```
+
+---
+
 ## TRACE: Legged Odometry When Contacts Lie
 
 - Author on blog: Shar Hendrix
@@ -181,6 +247,72 @@ I’m glad someone attacked the air-mat case instead of only hard-floor lab runs
 I’m glad someone attacked the air-mat case instead of only hard-floor lab runs.  If your humanoid or quadruped is going to work outside a polished demo floor, proprioceptive drift under soft contact i…
 
 https://mechafeed.com/blog/trace-proprioceptive-odometry/
+```
+
+---
+
+## VLAff Learns Where, How, and Which Way From Ego Video
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/vlaff-actionable-affordances/
+
+### SOLO (no link)
+
+```
+I’m excited when “see / grasp / move” comes out of one model trained on kitchen ego video, not another 10k teleop hours.  The real-robot gap over VidBot is the money shot; the remaining miss mode — bad first trajectory direction — is exactly the kind of bug you can…
+```
+
+### SOFT-LINK variant
+
+```
+I’m excited when “see / grasp / move” comes out of one model trained on kitchen ego video, not another 10k teleop hours.  The real-robot gap over VidBot is the money shot; the remaining miss mode — ba…
+
+https://mechafeed.com/blog/vlaff-actionable-affordances/
+```
+
+---
+
+## W²-VLA Predicts How the Wrist Will Move Before It Moves
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/w2-vla-world-to-wrist/
+
+### SOLO (no link)
+
+```
+I’m so here for “predict the fingertips, not the whole room. ” Plug insertion and wipe cloths live or die in the last centimeters; giving the action head a wrist-future prior is the kind of boring-smart bias that actually ships.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for “predict the fingertips, not the whole room. ” Plug insertion and wipe cloths live or die in the last centimeters; giving the action head a wrist-future prior is the kind of boring-smart bias that actually ships.
+
+https://mechafeed.com/blog/w2-vla-world-to-wrist/
+```
+
+---
+
+## XEWorld Asks: Can Your World Model Draw a Robot It Never Saw?
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/xeworld-cross-embodiment-world-models/
+
+### SOLO (no link)
+
+```
+This is the paper that makes me side-eye every “world model as simulator” slide.  If the network needs a perfectly aligned silhouette stream to paint an arm it has never seen, we are not shipping general physics yet — we are shipping fancy video completion with a control cable.
+```
+
+### SOFT-LINK variant
+
+```
+This is the paper that makes me side-eye every “world model as simulator” slide.  If the network needs a perfectly aligned silhouette stream to paint an arm it has never seen, we are not shipping gene…
+
+https://mechafeed.com/blog/xeworld-cross-embodiment-world-models/
 ```
 
 ---
