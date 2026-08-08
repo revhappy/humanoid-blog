@@ -1529,3 +1529,10 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Push:** pending
 - **Failures:** none blocking at write time
 
+
+#### Afternoon finalize
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 today posts incl. morning 8 + afternoon 6)
+- **Vision gate:** Confirmed stills — Hangang YT outdoor run + ROBOTIS product torso; GUARD failed/success rollouts + architecture; IcFuzz Isaac stack + workflow + bug case; Robust-WAM teaser + arch + real light OOD; ErgoSurf arm+GPIS diagram + dual rep + setup; LiLa-WAM size plot + arch + real Piper sequences
+- **Social:** tweets (156 drafts); robb-x refreshed
+- **Push:** SUCCESS (`b0a83cc` → origin/main)
+- **Failures:** none blocking; solid candidates 6 of target 6
