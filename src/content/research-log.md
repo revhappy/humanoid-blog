@@ -1323,7 +1323,7 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Vision gate:** Confirmed stills (ω-0 overview/architecture/dataset; KILVO cover/system/config; JoyAI teaser+data+arch; DyPES diagram+details; physical prompt teaser+Kinova setup+taxonomy; In-Context CoT vs ICL+method+results; TRACE air-mat traj+arch; Nori workshop+arm)
 - **Social:** tweets (136 drafts); robb-x
 - **Build:** PASS (149 pages)
-- **Push:** pending
+- **Push:** SUCCESS (47cd470 → origin/main)
 - **Failures:** none blocking; solid candidates 8 of target 8
 
 
@@ -1462,6 +1462,6 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Vision gate:** Confirmed stills (Noetix E1 product hero; Mimir motivation+structure; ARGUS pipeline+tasks; FailBench hallway compare+trajs+contact; SpikingNav arch+corruptions; HiRoC motivation+framework+real; GAUGE overview+tasks+MoCap; VIDP arm contact stills)
 - **Social:** tweets (150 drafts); robb-x
 - **Build:** PASS (163 pages)
-- **Push:** pending
+- **Push:** SUCCESS (47cd470 → origin/main)
 - **Failures:** none blocking; solid candidates 8 of target 8
 
