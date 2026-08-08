@@ -1388,3 +1388,80 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Push:** pending
 - **Failures:** none blocking; solid candidates 6 of target 6
 
+
+## 2026-08-08 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-08
+- git pull --rebase origin main: already up to date
+- Prior catalog through 2026-08-07 morning+afternoon (14 posts: omega-0 through near-sensor) — **do not rehash**
+- No 2026-08-08 posts before this run
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — keyword/semantic streams mix spam, rehashes, thin clips (disclosed)
+- Owner lists login-walled; proceeded with public X + web (disclosed)
+- Notable leads (leads only): Noetix E1 terrain/stairs demos; DOBOT LUMO rehash (already covered 8/6); Figure ladder rehash; 1X hands rehash; Light Origins parkour rehash; Gemini Robotics 2 rehash
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Noetix E1 product + terrain demos — noetixrobotics.com/en/e1 + about/events — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Mimir neuro-symbolic memory — arXiv:2608.04933 + HTML — lane: **build**
+3. **[CANDIDATE/WRITTEN]** ARGUS viewpoint canonicalization — arXiv:2608.05579 + project + YouTube — lane: **build**
+4. **[CANDIDATE/WRITTEN]** FailBench / Failing Gracefully — arXiv:2608.05313 + HTML (ICRA 2026) — lane: **build**
+5. **[CANDIDATE/WRITTEN]** SpikingNav — arXiv:2608.05078 + HTML — lane: **build**
+6. **[CANDIDATE/WRITTEN]** HiRoC hierarchical VLA post-training — arXiv:2608.05999 + HTML — lane: **build**
+7. **[CANDIDATE/WRITTEN]** GAUGE physics fidelity benchmark — arXiv:2608.05948 + HTML + project — lane: **build**
+8. **[CANDIDATE/WRITTEN]** VIDP variable impedance diffusion — arXiv:2608.06210 + PDF — lane: **build**
+9. **[SKIP: already covered]** Dobot LUMO, 1X hands, Light-Loco parkour, omega-0, KILVO, GeniWorld, SkillMemo, W2-VLA, Nori L3, BridgeVLA++, etc.
+10. **[SKIP: business lane]** Unitree STAR IPO pricing chatter under 25% cap
+11. **[SKIP: Adaptive-WAM]** Autonomous driving planner — weaker humanoid-blog fit than selected build stack
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | noetix-e1-terrain-humanoid | Shar Hendrix | Humanoids | build |
+| 2 | mimir-neuro-symbolic-memory | Robb Harlan | AI | build |
+| 3 | argus-viewpoint-canonical-policy | Shar Hendrix | Robotics | build |
+| 4 | failbench-graceful-robot-failures | Robb Harlan | Research | build |
+| 5 | spikingnav-embodied-navigation | Shar Hendrix | AI | build |
+| 6 | hiroc-hierarchical-vla-post-training | Robb Harlan | AI | build |
+| 7 | gauge-physics-fidelity-benchmark | Shar Hendrix | Research | build |
+| 8 | vidp-variable-impedance-diffusion | Robb Harlan | Robotics | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Solid candidates with primary/secondary depth: **8** | Writing: **8**
+- Soft floor 3 met; hit target from Noetix product page + Aug 5–6 arXiv build batch (not rehashed 8/7)
+
+### Notes for Future Agents
+- Noetix E1: wait for public price / outdoor hour counts; Bumi consumer price already public elsewhere
+- Mimir: code release; real kitchen transfer
+- ARGUS: lower VGGT latency for closed loop
+- FailBench: open-source drop; VLM severity labels
+- SpikingNav: full on-chip policy not just SSE
+- HiRoC: planner replan under occlusion
+- GAUGE: fluids / deformable video track expansion
+- VIDP: open code + force-ground-truth ablations
+- Afternoon: do not rehash this morning eight
+
+### Run summary
+- **Articles published (8):**
+  1. noetix-e1-terrain-humanoid
+  2. mimir-neuro-symbolic-memory
+  3. argus-viewpoint-canonical-policy
+  4. failbench-graceful-robot-failures
+  5. spikingnav-embodied-navigation
+  6. hiroc-hierarchical-vla-post-training
+  7. gauge-physics-fidelity-benchmark
+  8. vidp-variable-impedance-diffusion
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** PASS (npm run verify-media:today - 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** Confirmed stills (Noetix E1 product hero; Mimir motivation+structure; ARGUS pipeline+tasks; FailBench hallway compare+trajs+contact; SpikingNav arch+corruptions; HiRoC motivation+framework+real; GAUGE overview+tasks+MoCap; VIDP arm contact stills)
+- **Social:** tweets (150 drafts); robb-x
+- **Build:** PASS (163 pages)
+- **Push:** pending
+- **Failures:** none blocking; solid candidates 8 of target 8
+

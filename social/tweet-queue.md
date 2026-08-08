@@ -14,8 +14,174 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-07T21:05:31.896Z
-Posts: 142
+Generated: 2026-08-08T16:06:52.666Z
+Posts: 150
+
+---
+
+## ARGUS Canonicalizes Camera Views Before Visuomotor Policies Learn
+
+- **Slug:** `argus-viewpoint-canonical-policy`
+- **Date:** 2026-08-08
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/argus-viewpoint-canonical-policy/
+- **Chars:** 270/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ARGUS%20Canonicalizes%20Camera%20Views%20Before%20Visuomotor%20Policies%20Learn%0A%0AUIUC%2FHarvard%20ARGUS%20rebuilds%20multi-view%20scenes%20with%20VGGT%2C%20re-renders%20a%20fixed%20camera%2C%20and%20trains%20policies%204%E2%80%936%C3%97%20faster%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fargus-viewpoint-canonical-policy%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+ARGUS Canonicalizes Camera Views Before Visuomotor Policies Learn
+
+UIUC/Harvard ARGUS rebuilds multi-view scenes with VGGT, re-renders a fixed camera, and trains policies 4–6× faster on…
+
+https://mechafeed.com/blog/argus-viewpoint-canonical-policy/
+
+#Robotics #Humanoids
+```
+
+---
+
+## FailBench Asks What Happens When the Robot Failure Is Inevitable
+
+- **Slug:** `failbench-graceful-robot-failures`
+- **Date:** 2026-08-08
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/failbench-graceful-robot-failures/
+- **Chars:** 279/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FailBench%20Asks%20What%20Happens%20When%20the%20Robot%20Failure%20Is%20Inevitable%0A%0AGeorge%20Mason%E2%80%99s%20ICRA%202026%20paper%20scores%20failure%20impact%20(probability%20%C3%97%20severity)%20and%20ships%20a%20MuJoCo%20injector%20for%20household%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffailbench-graceful-robot-failures%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+FailBench Asks What Happens When the Robot Failure Is Inevitable
+
+George Mason’s ICRA 2026 paper scores failure impact (probability × severity) and ships a MuJoCo injector for household…
+
+https://mechafeed.com/blog/failbench-graceful-robot-failures/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## GAUGE Stress-Tests Physics Engines and Video World Models Against Real Motion Capture
+
+- **Slug:** `gauge-physics-fidelity-benchmark`
+- **Date:** 2026-08-08
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/gauge-physics-fidelity-benchmark/
+- **Chars:** 166/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=GAUGE%20Stress-Tests%20Physics%20Engines%20and%20Video%20World%20Models%20Against%20Real%20Motion%20Capture%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgauge-physics-fidelity-benchmark%2F%0A%0A%23RoboticsResearch)
+
+```
+GAUGE Stress-Tests Physics Engines and Video World Models Against Real Motion Capture
+
+https://mechafeed.com/blog/gauge-physics-fidelity-benchmark/
+
+#RoboticsResearch
+```
+
+---
+
+## HiRoC Post-Trains VLAs as Planner Plus Subgoal Executor
+
+- **Slug:** `hiroc-hierarchical-vla-post-training`
+- **Date:** 2026-08-08
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/hiroc-hierarchical-vla-post-training/
+- **Chars:** 255/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=HiRoC%20Post-Trains%20VLAs%20as%20Planner%20Plus%20Subgoal%20Executor%0A%0AHierarchical%20Robotic%20Control%20freezes%20a%20Qwen%20planner%2C%20aligns%20an%20OpenVLA%20executor%20to%20subgoals%2C%20then%20runs%20hierarchical%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhiroc-hierarchical-vla-post-training%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+HiRoC Post-Trains VLAs as Planner Plus Subgoal Executor
+
+Hierarchical Robotic Control freezes a Qwen planner, aligns an OpenVLA executor to subgoals, then runs hierarchical…
+
+https://mechafeed.com/blog/hiroc-hierarchical-vla-post-training/
+
+#AI #Humanoids
+```
+
+---
+
+## Mimir Splits World Memory from Task Memory for Long-Horizon Agents
+
+- **Slug:** `mimir-neuro-symbolic-memory`
+- **Date:** 2026-08-08
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/mimir-neuro-symbolic-memory/
+- **Chars:** 256/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Mimir%20Splits%20World%20Memory%20from%20Task%20Memory%20for%20Long-Horizon%20Agents%0A%0AarXiv%20paper%20Mimir%20keeps%20scene%20belief%20and%20goal%20progress%20separate%2C%20then%20grounds%20them%20before%20each%20action%E2%80%94big%20gains%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmimir-neuro-symbolic-memory%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Mimir Splits World Memory from Task Memory for Long-Horizon Agents
+
+arXiv paper Mimir keeps scene belief and goal progress separate, then grounds them before each action—big gains on…
+
+https://mechafeed.com/blog/mimir-neuro-symbolic-memory/
+
+#AI #Humanoids
+```
+
+---
+
+## Noetix E1 Puts Terrain and Stair Work on a 136 cm Humanoid Spec Sheet
+
+- **Slug:** `noetix-e1-terrain-humanoid`
+- **Date:** 2026-08-08
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/noetix-e1-terrain-humanoid/
+- **Chars:** 270/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Noetix%20E1%20Puts%20Terrain%20and%20Stair%20Work%20on%20a%20136%20cm%20Humanoid%20Spec%20Sheet%0A%0ABeijing%E2%80%99s%20Noetix%20lists%20E1%20at%20136%20cm%20%2F%2040%20kg%20with%20terrain%20walking%2C%20jumps%2C%20and%20stairs%20on%20the%20product%20page%20as%20terrain%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnoetix-e1-terrain-humanoid%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Noetix E1 Puts Terrain and Stair Work on a 136 cm Humanoid Spec Sheet
+
+Beijing’s Noetix lists E1 at 136 cm / 40 kg with terrain walking, jumps, and stairs on the product page as terrain…
+
+https://mechafeed.com/blog/noetix-e1-terrain-humanoid/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## SpikingNav Navigates With Fewer FLOPs and Better Corruption Survival
+
+- **Slug:** `spikingnav-embodied-navigation`
+- **Date:** 2026-08-08
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/spikingnav-embodied-navigation/
+- **Chars:** 266/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=SpikingNav%20Navigates%20With%20Fewer%20FLOPs%20and%20Better%20Corruption%20Survival%0A%0ASpikingNav%E2%80%99s%20SSE%2BSPN%20stack%20beats%20a%20matched%20ANN%20on%20ObjectNav%20and%20visual%20corruptions%2C%20and%20runs%20sensing%20on%20the%20Thruster-V2%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fspikingnav-embodied-navigation%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+SpikingNav Navigates With Fewer FLOPs and Better Corruption Survival
+
+SpikingNav’s SSE+SPN stack beats a matched ANN on ObjectNav and visual corruptions, and runs sensing on the Thruster-V2…
+
+https://mechafeed.com/blog/spikingnav-embodied-navigation/
+
+#AI #Humanoids
+```
+
+---
+
+## VIDP Learns Variable Impedance From Demos Without Force Sensors
+
+- **Slug:** `vidp-variable-impedance-diffusion`
+- **Date:** 2026-08-08
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/vidp-variable-impedance-diffusion/
+- **Chars:** 269/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=VIDP%20Learns%20Variable%20Impedance%20From%20Demos%20Without%20Force%20Sensors%0A%0AVariable%20Impedance%20Diffusion%20Policy%20maps%20demonstration%20trajectory%20distributions%20to%20stiffness%20profiles%20for%20contact-rich%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fvidp-variable-impedance-diffusion%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+VIDP Learns Variable Impedance From Demos Without Force Sensors
+
+Variable Impedance Diffusion Policy maps demonstration trajectory distributions to stiffness profiles for contact-rich…
+
+https://mechafeed.com/blog/vidp-variable-impedance-diffusion/
+
+#Robotics #Humanoids
+```
 
 ---
 

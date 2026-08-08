@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-07T21:05:34.412Z
+Generated: 2026-08-08T16:06:53.771Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## ARGUS Canonicalizes Camera Views Before Visuomotor Policies Learn
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/argus-viewpoint-canonical-policy/
+
+### SOLO (no link)
+
+```
+I like the honesty of treating viewpoint as a nuisance to kill before learning, not a virtue to drown in data.  If your fleet cameras wander, canonicalization is the right first lever — just budget the 3D model latency, or this stays a research-table trick rather than…
+```
+
+### SOFT-LINK variant
+
+```
+I like the honesty of treating viewpoint as a nuisance to kill before learning, not a virtue to drown in data.  If your fleet cameras wander, canonicalization is the right first lever — just budget th…
+
+https://mechafeed.com/blog/argus-viewpoint-canonical-policy/
+```
+
+---
+
+## FailBench Asks What Happens When the Robot Failure Is Inevitable
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/failbench-graceful-robot-failures/
+
+### SOLO (no link)
+
+```
+Home robots will not be certified on “never fail. ” They will be judged on how ugly the failure looks.
+```
+
+### SOFT-LINK variant
+
+```
+Home robots will not be certified on “never fail. ” They will be judged on how ugly the failure looks.
+
+https://mechafeed.com/blog/failbench-graceful-robot-failures/
+```
+
+---
+
+## GAUGE Stress-Tests Physics Engines and Video World Models Against Real Motion Capture
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/gauge-physics-fidelity-benchmark/
+
+### SOLO (no link)
+
+```
+If your “world model” can’t bounce a ball with the right restitution or fling a cloth without inventing mass, your robot policy is learning theater.  GAUGE’s useful move is refusing a single beauty score — law form, parameters, and engine trajectory error are different…
+```
+
+### SOFT-LINK variant
+
+```
+If your “world model” can’t bounce a ball with the right restitution or fling a cloth without inventing mass, your robot policy is learning theater.  GAUGE’s useful move is refusing a single beauty sc…
+
+https://mechafeed.com/blog/gauge-physics-fidelity-benchmark/
+```
+
+---
+
+## HiRoC Post-Trains VLAs as Planner Plus Subgoal Executor
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/hiroc-hierarchical-vla-post-training/
+
+### SOLO (no link)
+
+```
+Long-horizon VLAs need intermediate semantic anchors more than another flat GRPO run.  Freezing the planner is a practical trade — credit assignment across plan and act on sparse rewards is messy.
+```
+
+### SOFT-LINK variant
+
+```
+Long-horizon VLAs need intermediate semantic anchors more than another flat GRPO run.  Freezing the planner is a practical trade — credit assignment across plan and act on sparse rewards is messy.
+
+https://mechafeed.com/blog/hiroc-hierarchical-vla-post-training/
+```
+
+---
+
+## Mimir Splits World Memory from Task Memory for Long-Horizon Agents
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/mimir-neuro-symbolic-memory/
+
+### SOLO (no link)
+
+```
+Flat chat history is a terrible robot OS.  What I like here is the fail-closed grounding: if the world entry never entered perception, Mimir does not invent a mug behind the dishwasher.
+```
+
+### SOFT-LINK variant
+
+```
+Flat chat history is a terrible robot OS.  What I like here is the fail-closed grounding: if the world entry never entered perception, Mimir does not invent a mug behind the dishwasher.
+
+https://mechafeed.com/blog/mimir-neuro-symbolic-memory/
+```
+
+---
+
+## Noetix E1 Puts Terrain and Stair Work on a 136 cm Humanoid Spec Sheet
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/noetix-e1-terrain-humanoid/
+
+### SOLO (no link)
+
+```
+I’m here for any humanoid that shows stairs and messy ground instead of only polished stage floors.  The 40 kg / sub-1.
+```
+
+### SOFT-LINK variant
+
+```
+I’m here for any humanoid that shows stairs and messy ground instead of only polished stage floors.  The 40 kg / sub-1.
+
+https://mechafeed.com/blog/noetix-e1-terrain-humanoid/
+```
+
+---
+
+## SpikingNav Navigates With Fewer FLOPs and Better Corruption Survival
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/spikingnav-embodied-navigation/
+
+### SOLO (no link)
+
+```
+I’m less interested in “SNNs beat ImageNet” than “SNNs keep walking when the camera is junk. ” The retention-ratio story in the paper is the receipt: static recognition doesn’t favor the SNN backbone, but closed-loop navigation does.
+```
+
+### SOFT-LINK variant
+
+```
+I’m less interested in “SNNs beat ImageNet” than “SNNs keep walking when the camera is junk. ” The retention-ratio story in the paper is the receipt: static recognition doesn’t favor the SNN backbone,…
+
+https://mechafeed.com/blog/spikingnav-embodied-navigation/
+```
+
+---
+
+## VIDP Learns Variable Impedance From Demos Without Force Sensors
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/vidp-variable-impedance-diffusion/
+
+### SOLO (no link)
+
+```
+Force-free impedance learning is the right direction for cheap arms and open datasets that never shipped wrench streams.  My skepticism is calibration: if TP-DAMM misreads geometric variance as compliance, you’ll get soft when you needed stiff.
+```
+
+### SOFT-LINK variant
+
+```
+Force-free impedance learning is the right direction for cheap arms and open datasets that never shipped wrench streams.  My skepticism is calibration: if TP-DAMM misreads geometric variance as compli…
+
+https://mechafeed.com/blog/vidp-variable-impedance-diffusion/
+```
 
 ---
 
