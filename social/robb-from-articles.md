@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-08T16:06:53.771Z
+Generated: 2026-08-08T21:06:35.153Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -27,6 +27,28 @@ I like the honesty of treating viewpoint as a nuisance to kill before learning, 
 I like the honesty of treating viewpoint as a nuisance to kill before learning, not a virtue to drown in data.  If your fleet cameras wander, canonicalization is the right first lever — just budget th…
 
 https://mechafeed.com/blog/argus-viewpoint-canonical-policy/
+```
+
+---
+
+## ErgoSurf Covers Surfaces It Has Not Seen Yet
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/ergosurf-unknown-surface-coverage/
+
+### SOLO (no link)
+
+```
+I’m excited about any method that treats “we don’t have CAD” as the default, not the bug.  ErgoSurf is classic DLR strength: contact, impedance, geometry under uncertainty.
+```
+
+### SOFT-LINK variant
+
+```
+I’m excited about any method that treats “we don’t have CAD” as the default, not the bug.  ErgoSurf is classic DLR strength: contact, impedance, geometry under uncertainty.
+
+https://mechafeed.com/blog/ergosurf-unknown-surface-coverage/
 ```
 
 ---
@@ -75,6 +97,28 @@ https://mechafeed.com/blog/gauge-physics-fidelity-benchmark/
 
 ---
 
+## GUARD Watches Whether a Diffusion VLA Is Actually Looking at the Scene
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/guard-diffusion-vla-risk/
+
+### SOLO (no link)
+
+```
+I care less about another VLA leaderboard tick and more about whether the robot knows it is winging it.  GUARD’s KV ablation idea is the right class of tool: probe the action head’s dependence on evidence at test time.
+```
+
+### SOFT-LINK variant
+
+```
+I care less about another VLA leaderboard tick and more about whether the robot knows it is winging it.  GUARD’s KV ablation idea is the right class of tool: probe the action head’s dependence on evidence at test time.
+
+https://mechafeed.com/blog/guard-diffusion-vla-risk/
+```
+
+---
+
 ## HiRoC Post-Trains VLAs as Planner Plus Subgoal Executor
 
 - Author on blog: Robb Harlan
@@ -93,6 +137,50 @@ Long-horizon VLAs need intermediate semantic anchors more than another flat GRPO
 Long-horizon VLAs need intermediate semantic anchors more than another flat GRPO run.  Freezing the planner is a practical trade — credit assignment across plan and act on sparse rewards is messy.
 
 https://mechafeed.com/blog/hiroc-hierarchical-vla-post-training/
+```
+
+---
+
+## IcFuzz Is the First Fuzzer Built for NVIDIA Isaac Sim
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/icfuzz-isaac-sim/
+
+### SOLO (no link)
+
+```
+Sim is the factory floor for a lot of “physical AI” claims.  If the sim dies on a legal API call, your training run and your trust both evaporate.
+```
+
+### SOFT-LINK variant
+
+```
+Sim is the factory floor for a lot of “physical AI” claims.  If the sim dies on a legal API call, your training run and your trust both evaporate.
+
+https://mechafeed.com/blog/icfuzz-isaac-sim/
+```
+
+---
+
+## LiLa-WAM Trains a World-Action Model on One 24 GB GPU
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/lila-wam-single-gpu/
+
+### SOLO (no link)
+
+```
+Single-GPU trainability is a product requirement, not a brag.  If foresight only works when you rent a cluster, labs will keep shipping reactive VLAs.
+```
+
+### SOFT-LINK variant
+
+```
+Single-GPU trainability is a product requirement, not a brag.  If foresight only works when you rent a cluster, labs will keep shipping reactive VLAs.
+
+https://mechafeed.com/blog/lila-wam-single-gpu/
 ```
 
 ---
@@ -137,6 +225,50 @@ I’m here for any humanoid that shows stairs and messy ground instead of only p
 I’m here for any humanoid that shows stairs and messy ground instead of only polished stage floors.  The 40 kg / sub-1.
 
 https://mechafeed.com/blog/noetix-e1-terrain-humanoid/
+```
+
+---
+
+## ROBOTIS AI Sapiens Runs the Hangang River Path in 38°C Heat
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/robotis-sapiens-hangang-outdoor/
+
+### SOLO (no link)
+
+```
+I’m so here for open hardware that leaves the lab before the press deck is finished.  A Hangang run does not prove warehouse throughput, but it is a cleaner honesty check than another perfect indoor circle.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for open hardware that leaves the lab before the press deck is finished.  A Hangang run does not prove warehouse throughput, but it is a cleaner honesty check than another perfect indoor circle.
+
+https://mechafeed.com/blog/robotis-sapiens-hangang-outdoor/
+```
+
+---
+
+## Robust-WAM Keeps Video Pretraining and Adds Semantic Foresight
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/robust-wam-semantic-foresight/
+
+### SOLO (no link)
+
+```
+Lighting OOD is where a lot of “it worked in the demo” dies.  Robust-WAM’s bet is correct for operators: don’t throw away the video prior, post-train the action head to care about scene semantics.
+```
+
+### SOFT-LINK variant
+
+```
+Lighting OOD is where a lot of “it worked in the demo” dies.  Robust-WAM’s bet is correct for operators: don’t throw away the video prior, post-train the action head to care about scene semantics.
+
+https://mechafeed.com/blog/robust-wam-semantic-foresight/
 ```
 
 ---

@@ -1465,3 +1465,67 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Push:** SUCCESS (47cd470 → origin/main)
 - **Failures:** none blocking; solid candidates 8 of target 8
 
+
+## 2026-08-08 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-08
+- git pull --rebase origin main: already up to date
+- Morning 2026-08-08 already published 8 posts (noetix-e1 through vidp) — **do not rehash**
+- Prior Aug 7 batch (omega-0 through near-sensor) — skip
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — keyword/semantic streams mix spam and thin clips (disclosed)
+- Owner lists login-walled; proceeded with public X + web
+- Notable leads (leads only): ROBOTIS AI Sapiens Hangang outdoor run (YouTube #5); Curr-0 loco-dex chatter (weak primary); roboto_origin rehash (already covered via RoboParty UFO)
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** ROBOTIS AI Sapiens Hangang river outdoor run — YouTube rSsL4E2MwoI + robotis.com AI Sapiens product — lane: **build**
+2. **[CANDIDATE/WRITTEN]** GUARD diffusion VLA risk monitor — arXiv:2608.04510 — lane: **build**
+3. **[CANDIDATE/WRITTEN]** IcFuzz Isaac Sim fuzzer — arXiv:2608.06088 (ASE 2026) — lane: **build**
+4. **[CANDIDATE/WRITTEN]** Robust-WAM semantic foresight — arXiv:2608.05903 + project page — lane: **build**
+5. **[CANDIDATE/WRITTEN]** ErgoSurf unknown surface ergodic coverage — arXiv:2608.06208 — lane: **build**
+6. **[CANDIDATE/WRITTEN]** LiLa-WAM single-GPU world-action model — arXiv:2608.03701 + GitHub — lane: **build**
+7. **[SKIP: already covered morning]** Noetix E1, Mimir, ARGUS, FailBench, SpikingNav, HiRoC, GAUGE, VIDP
+8. **[SKIP: already covered prior]** omega-0, SiMDex, SAFECAST, Track4Action, Mind-VLA, UVT, RoboReact, semantic-haptic, robotis open platform intro (Aug 1), humanoid-fail-passive
+9. **[SKIP: thin primary]** Curr-0 / Curr Robotics loco-dex demos (X/Instagram only; no strong company paper this session)
+10. **[SKIP: business lane]** Unitree STAR IPO pricing chatter under 25% cap
+11. **[SKIP: alternate candidates]** GORDON object-centric rewards (strong but slot filled at 6); Deltoris VLA accelerator
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | robotis-sapiens-hangang-outdoor | Shar Hendrix | Humanoids | build |
+| 2 | guard-diffusion-vla-risk | Robb Harlan | AI | build |
+| 3 | icfuzz-isaac-sim | Shar Hendrix | Robotics | build |
+| 4 | robust-wam-semantic-foresight | Robb Harlan | AI | build |
+| 5 | ergosurf-unknown-surface-coverage | Shar Hendrix | Robotics | build |
+| 6 | lila-wam-single-gpu | Robb Harlan | AI | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Solid candidates with primary/secondary depth: **6** | Writing: **6**
+- Soft floor 2 met; hit target from Hangang field demo + Aug 4–6 arXiv build batch not used in morning
+
+### Notes for Future Agents
+- ROBOTIS: distance/fall stats for Hangang runs; full open stack drop status
+- GUARD: open code + physical sticky-note / lighting attacks
+- IcFuzz: follow Isaac Sim 5.x bug fix landings; non-crash oracles
+- Robust-WAM: third-party Franka purple-light replications
+- ErgoSurf: industrial paint-prep timing numbers
+- LiLa-WAM: RoboTwin random-split third-party runs; messy human VTT
+- Next morning: do not rehash this afternoon six
+
+### Run summary
+- **Articles published (6):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** pending
+- **Vision gate:** pending confirmation
+- **Social:** pending tweets / robb-x
+- **Push:** pending
+- **Failures:** none blocking at write time
+

@@ -14,8 +14,8 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-08T16:06:52.666Z
-Posts: 150
+Generated: 2026-08-08T21:06:33.721Z
+Posts: 156
 
 ---
 
@@ -34,6 +34,27 @@ ARGUS Canonicalizes Camera Views Before Visuomotor Policies Learn
 UIUC/Harvard ARGUS rebuilds multi-view scenes with VGGT, re-renders a fixed camera, and trains policies 4–6× faster on…
 
 https://mechafeed.com/blog/argus-viewpoint-canonical-policy/
+
+#Robotics #Humanoids
+```
+
+---
+
+## ErgoSurf Covers Surfaces It Has Not Seen Yet
+
+- **Slug:** `ergosurf-unknown-surface-coverage`
+- **Date:** 2026-08-08
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/ergosurf-unknown-surface-coverage/
+- **Chars:** 244/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ErgoSurf%20Covers%20Surfaces%20It%20Has%20Not%20Seen%20Yet%0A%0ADLR%E2%80%99s%20ErgoSurf%20pairs%20online%20GPIS%20surface%20learning%20from%20touch%20with%20ergodic%20coverage%20so%20robots%20can%20sand%2C%20clean%2C%20or%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fergosurf-unknown-surface-coverage%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+ErgoSurf Covers Surfaces It Has Not Seen Yet
+
+DLR’s ErgoSurf pairs online GPIS surface learning from touch with ergodic coverage so robots can sand, clean, or…
+
+https://mechafeed.com/blog/ergosurf-unknown-surface-coverage/
 
 #Robotics #Humanoids
 ```
@@ -80,6 +101,27 @@ https://mechafeed.com/blog/gauge-physics-fidelity-benchmark/
 
 ---
 
+## GUARD Watches Whether a Diffusion VLA Is Actually Looking at the Scene
+
+- **Slug:** `guard-diffusion-vla-risk`
+- **Date:** 2026-08-08
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/guard-diffusion-vla-risk/
+- **Chars:** 258/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=GUARD%20Watches%20Whether%20a%20Diffusion%20VLA%20Is%20Actually%20Looking%20at%20the%20Scene%0A%0AarXiv%3A2608.04510%20introduces%20GUARD%2C%20a%20test-time%20monitor%20that%20probes%20KV-cache%20grounding%20for%20diffusion%20VLAs%20and%20raises%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fguard-diffusion-vla-risk%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+GUARD Watches Whether a Diffusion VLA Is Actually Looking at the Scene
+
+arXiv:2608.04510 introduces GUARD, a test-time monitor that probes KV-cache grounding for diffusion VLAs and raises…
+
+https://mechafeed.com/blog/guard-diffusion-vla-risk/
+
+#AI #Humanoids
+```
+
+---
+
 ## HiRoC Post-Trains VLAs as Planner Plus Subgoal Executor
 
 - **Slug:** `hiroc-hierarchical-vla-post-training`
@@ -95,6 +137,48 @@ HiRoC Post-Trains VLAs as Planner Plus Subgoal Executor
 Hierarchical Robotic Control freezes a Qwen planner, aligns an OpenVLA executor to subgoals, then runs hierarchical…
 
 https://mechafeed.com/blog/hiroc-hierarchical-vla-post-training/
+
+#AI #Humanoids
+```
+
+---
+
+## IcFuzz Is the First Fuzzer Built for NVIDIA Isaac Sim
+
+- **Slug:** `icfuzz-isaac-sim`
+- **Date:** 2026-08-08
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/icfuzz-isaac-sim/
+- **Chars:** 242/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=IcFuzz%20Is%20the%20First%20Fuzzer%20Built%20for%20NVIDIA%20Isaac%20Sim%0A%0AASE%202026%20paper%20IcFuzz%20fuzzes%20Isaac%20Sim%20with%20semantic%20stage%20segmentation%20and%20multi-level%20mutation%2C%20finding%2011%20bugs%20with%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ficfuzz-isaac-sim%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+IcFuzz Is the First Fuzzer Built for NVIDIA Isaac Sim
+
+ASE 2026 paper IcFuzz fuzzes Isaac Sim with semantic stage segmentation and multi-level mutation, finding 11 bugs with…
+
+https://mechafeed.com/blog/icfuzz-isaac-sim/
+
+#Robotics #Humanoids
+```
+
+---
+
+## LiLa-WAM Trains a World-Action Model on One 24 GB GPU
+
+- **Slug:** `lila-wam-single-gpu`
+- **Date:** 2026-08-08
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/lila-wam-single-gpu/
+- **Chars:** 240/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=LiLa-WAM%20Trains%20a%20World-Action%20Model%20on%20One%2024%20GB%20GPU%0A%0AarXiv%3A2608.03701%E2%80%99s%20LiLa-WAM%20pairs%20compact%20latent%20foresight%20with%20Visual%20Transition%20Tokens%2C%20hitting%2090.48%25%20on%2050%20RoboTwin%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flila-wam-single-gpu%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+LiLa-WAM Trains a World-Action Model on One 24 GB GPU
+
+arXiv:2608.03701’s LiLa-WAM pairs compact latent foresight with Visual Transition Tokens, hitting 90.48% on 50 RoboTwin…
+
+https://mechafeed.com/blog/lila-wam-single-gpu/
 
 #AI #Humanoids
 ```
@@ -139,6 +223,48 @@ Beijing’s Noetix lists E1 at 136 cm / 40 kg with terrain walking, jumps, and s
 https://mechafeed.com/blog/noetix-e1-terrain-humanoid/
 
 #HumanoidRobots #Humanoids
+```
+
+---
+
+## ROBOTIS AI Sapiens Runs the Hangang River Path in 38°C Heat
+
+- **Slug:** `robotis-sapiens-hangang-outdoor`
+- **Date:** 2026-08-08
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/robotis-sapiens-hangang-outdoor/
+- **Chars:** 260/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ROBOTIS%20AI%20Sapiens%20Runs%20the%20Hangang%20River%20Path%20in%2038%C2%B0C%20Heat%0A%0AROBOTIS%E2%80%99s%20open%20AI%20Sapiens%20humanoid%20posts%20a%20Hangang%20riverside%20run%20demo%20under%2038%C2%B0C%20heat%2C%20stress-testing%20outdoor%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frobotis-sapiens-hangang-outdoor%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+ROBOTIS AI Sapiens Runs the Hangang River Path in 38°C Heat
+
+ROBOTIS’s open AI Sapiens humanoid posts a Hangang riverside run demo under 38°C heat, stress-testing outdoor…
+
+https://mechafeed.com/blog/robotis-sapiens-hangang-outdoor/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Robust-WAM Keeps Video Pretraining and Adds Semantic Foresight
+
+- **Slug:** `robust-wam-semantic-foresight`
+- **Date:** 2026-08-08
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/robust-wam-semantic-foresight/
+- **Chars:** 255/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Robust-WAM%20Keeps%20Video%20Pretraining%20and%20Adds%20Semantic%20Foresight%0A%0AarXiv%3A2608.05903%E2%80%99s%20Robust-WAM%20post-trains%20world-action%20models%20with%20DINOv3%20future%20queries%20so%20lighting%20OOD%20hurts%20less%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frobust-wam-semantic-foresight%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Robust-WAM Keeps Video Pretraining and Adds Semantic Foresight
+
+arXiv:2608.05903’s Robust-WAM post-trains world-action models with DINOv3 future queries so lighting OOD hurts less…
+
+https://mechafeed.com/blog/robust-wam-semantic-foresight/
+
+#AI #Humanoids
 ```
 
 ---
