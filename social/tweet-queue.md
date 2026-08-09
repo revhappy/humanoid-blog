@@ -14,8 +14,50 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-09T17:37:18.827Z
-Posts: 164
+Generated: 2026-08-09T21:08:00.089Z
+Posts: 170
+
+---
+
+## Collaborative Spray Painting: Robot Holds the Part, You Hold the Gun
+
+- **Slug:** `adaptive-hrc-painting-dmp`
+- **Date:** 2026-08-09
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/adaptive-hrc-painting-dmp/
+- **Chars:** 264/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Collaborative%20Spray%20Painting%3A%20Robot%20Holds%20the%20Part%2C%20You%20Hold%20the%20Gun%0A%0APolitecnico%20di%20Milano%20couples%20preference-based%20optimization%20with%20modified%20DMPs%20so%20a%20UR5e%20rotates%20workpieces%20to%20match%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fadaptive-hrc-painting-dmp%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Collaborative Spray Painting: Robot Holds the Part, You Hold the Gun
+
+Politecnico di Milano couples preference-based optimization with modified DMPs so a UR5e rotates workpieces to match…
+
+https://mechafeed.com/blog/adaptive-hrc-painting-dmp/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Adaptive-WAM: Stop Generating the Future Video Just to Steer
+
+- **Slug:** `adaptive-wam-driving`
+- **Date:** 2026-08-09
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/adaptive-wam-driving/
+- **Chars:** 247/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Adaptive-WAM%3A%20Stop%20Generating%20the%20Future%20Video%20Just%20to%20Steer%0A%0AA%20multi-exit%20video%20DiT%20planner%20scores%20trajectories%20early%20and%20skips%20full%20world-model%20depth%2C%20hitting%2090.8%20PDMS%20on%20NAVSIM%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fadaptive-wam-driving%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Adaptive-WAM: Stop Generating the Future Video Just to Steer
+
+A multi-exit video DiT planner scores trajectories early and skips full world-model depth, hitting 90.8 PDMS on NAVSIM…
+
+https://mechafeed.com/blog/adaptive-wam-driving/
+
+#AI #Humanoids
+```
 
 ---
 
@@ -40,6 +82,27 @@ https://mechafeed.com/blog/atp-upper-limb-exoskeleton/
 
 ---
 
+## Avatar Robotics Raises $6.5M Seed for Warehouse Humanoids
+
+- **Slug:** `avatar-robotics-6-5m-seed`
+- **Date:** 2026-08-09
+- **Category:** Industry
+- **Article:** https://mechafeed.com/blog/avatar-robotics-6-5m-seed/
+- **Chars:** 262/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Avatar%20Robotics%20Raises%20%246.5M%20Seed%20for%20Warehouse%20Humanoids%0A%0ASan%20Francisco%E2%80%99s%20Avatar%20Robotics%20closes%20a%20%246.5M%20seed%20led%20by%20AlleyCorp%20to%20scale%20semi-humanoid%20fleets%2C%20remote%20operators%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Favatar-robotics-6-5m-seed%2F%0A%0A%23RoboticsIndustry%20%23Humanoids)
+
+```
+Avatar Robotics Raises $6.5M Seed for Warehouse Humanoids
+
+San Francisco’s Avatar Robotics closes a $6.5M seed led by AlleyCorp to scale semi-humanoid fleets, remote operators,…
+
+https://mechafeed.com/blog/avatar-robotics-6-5m-seed/
+
+#RoboticsIndustry #Humanoids
+```
+
+---
+
 ## CoMuDi Coordinates Up to 9 Arms for Large-Scale Disassembly
 
 - **Slug:** `comudi-multi-robot-disassembly`
@@ -57,6 +120,27 @@ CoMuDi plans multi-robot disassembly with ST-RRT* and temporal constraints, scal
 https://mechafeed.com/blog/comudi-multi-robot-disassembly/
 
 #Robotics #Humanoids
+```
+
+---
+
+## EvoHIL: Human-in-the-Loop RL That Survives a Lighting Change
+
+- **Slug:** `evohil-human-in-loop-rl`
+- **Date:** 2026-08-09
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/evohil-human-in-loop-rl/
+- **Chars:** 248/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=EvoHIL%3A%20Human-in-the-Loop%20RL%20That%20Survives%20a%20Lighting%20Change%0A%0AEvoHIL%20co-adapts%20success%20rewards%2C%20flow-matched%20action%20chunks%2C%20and%20relit%20offline%20replay%20so%20contact-rich%20policies%20keep%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fevohil-human-in-loop-rl%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+EvoHIL: Human-in-the-Loop RL That Survives a Lighting Change
+
+EvoHIL co-adapts success rewards, flow-matched action chunks, and relit offline replay so contact-rich policies keep…
+
+https://mechafeed.com/blog/evohil-human-in-loop-rl/
+
+#AI #Humanoids
 ```
 
 ---
@@ -99,6 +183,27 @@ A Bristol-led LfD study collects 3,142 touchscreen handwriting demos, extends GM
 https://mechafeed.com/blog/handwritten-alphabet-lfd/
 
 #RoboticsResearch #Humanoids
+```
+
+---
+
+## PanoVLA Puts 360° Context Into Mobile Bimanual Manipulation
+
+- **Slug:** `panovla-mobile-manipulation`
+- **Date:** 2026-08-09
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/panovla-mobile-manipulation/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=PanoVLA%20Puts%20360%C2%B0%20Context%20Into%20Mobile%20Bimanual%20Manipulation%0A%0APanoVLA%20fuses%20top-mounted%20panoramas%20with%20local%20cameras%20for%20wheeled%20dual-arm%20tasks%2C%20reporting%2073.4%25%20end-to-end%20success%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpanovla-mobile-manipulation%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+PanoVLA Puts 360° Context Into Mobile Bimanual Manipulation
+
+PanoVLA fuses top-mounted panoramas with local cameras for wheeled dual-arm tasks, reporting 73.4% end-to-end success…
+
+https://mechafeed.com/blog/panovla-mobile-manipulation/
+
+#AI #Humanoids
 ```
 
 ---
@@ -183,6 +288,27 @@ A RO-MAN 2026 study maps finger motion to a Franka arm and cuts task time 53.5% 
 https://mechafeed.com/blog/touchscreen-teleop-manipulator/
 
 #Robotics #Humanoids
+```
+
+---
+
+## Zero-Shot VLM Controllers Often Aren't Looking at the Camera
+
+- **Slug:** `visual-grounding-zero-shot-vlm`
+- **Date:** 2026-08-09
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/visual-grounding-zero-shot-vlm/
+- **Chars:** 257/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Zero-Shot%20VLM%20Controllers%20Often%20Aren't%20Looking%20at%20the%20Camera%0A%0AAn%20input-ablation%20study%20of%2032%2C874%20model%20calls%20finds%20many%20VLMs%20score%20well%20while%20ignoring%20images%3B%20authors%20push%20selective%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fvisual-grounding-zero-shot-vlm%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Zero-Shot VLM Controllers Often Aren't Looking at the Camera
+
+An input-ablation study of 32,874 model calls finds many VLMs score well while ignoring images; authors push selective…
+
+https://mechafeed.com/blog/visual-grounding-zero-shot-vlm/
+
+#AI #Humanoids
 ```
 
 ---

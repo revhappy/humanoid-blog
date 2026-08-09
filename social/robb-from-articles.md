@@ -3,9 +3,53 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-09T17:37:20.070Z
+Generated: 2026-08-09T21:08:01.191Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Collaborative Spray Painting: Robot Holds the Part, You Hold the Gun
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/adaptive-hrc-painting-dmp/
+
+### SOLO (no link)
+
+```
+This is the kind of HRC I actually want on a line: robot does the heavy hold and awkward reorientation; human keeps the spray quality judgment.  Preference learning from “that felt better” is messier than a CAD cost function, but it is how people talk about assist robots.
+```
+
+### SOFT-LINK variant
+
+```
+This is the kind of HRC I actually want on a line: robot does the heavy hold and awkward reorientation; human keeps the spray quality judgment.  Preference learning from “that felt better” is messier …
+
+https://mechafeed.com/blog/adaptive-hrc-painting-dmp/
+```
+
+---
+
+## Adaptive-WAM: Stop Generating the Future Video Just to Steer
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/adaptive-wam-driving/
+
+### SOLO (no link)
+
+```
+World models for driving only matter if they fit a real control cycle.  Early-exit trajectory heads that skip the cinematic rollout is the right failure mode: spend compute when the plan is bad, cash out when it is already fine.
+```
+
+### SOFT-LINK variant
+
+```
+World models for driving only matter if they fit a real control cycle.  Early-exit trajectory heads that skip the cinematic rollout is the right failure mode: spend compute when the plan is bad, cash out when it is already fine.
+
+https://mechafeed.com/blog/adaptive-wam-driving/
+```
 
 ---
 
@@ -31,6 +75,28 @@ https://mechafeed.com/blog/atp-upper-limb-exoskeleton/
 
 ---
 
+## Avatar Robotics Raises $6.5M Seed for Warehouse Humanoids
+
+- Author on blog: Robb Harlan
+- Category: Industry
+- Article: https://mechafeed.com/blog/avatar-robotics-6-5m-seed/
+
+### SOLO (no link)
+
+```
+Seed rounds with “900,000 products shipped” language are rare enough to notice — if the count holds under audit, that is the real story, not the round size.  The hybrid teleop-to-autonomy arc is now the standard industrial humanoid playbook; what separates winners is…
+```
+
+### SOFT-LINK variant
+
+```
+Seed rounds with “900,000 products shipped” language are rare enough to notice — if the count holds under audit, that is the real story, not the round size.  The hybrid teleop-to-autonomy arc is now t…
+
+https://mechafeed.com/blog/avatar-robotics-6-5m-seed/
+```
+
+---
+
 ## CoMuDi Coordinates Up to 9 Arms for Large-Scale Disassembly
 
 - Author on blog: Shar Hendrix
@@ -49,6 +115,28 @@ Disassembly is the unglamorous twin of assembly lines, and it is where recycling
 Disassembly is the unglamorous twin of assembly lines, and it is where recycling and remanufacturing either pay or pile up.  ST-RRT\* plus dependency graphs will not replace a fixture plan, but low id…
 
 https://mechafeed.com/blog/comudi-multi-robot-disassembly/
+```
+
+---
+
+## EvoHIL: Human-in-the-Loop RL That Survives a Lighting Change
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/evohil-human-in-loop-rl/
+
+### SOLO (no link)
+
+```
+I love that they treat “the light changed” as a first-class failure mode instead of a footnote.  Contact-rich insertion is exactly where a static visual reward dies quietly and poisons every critic update after it.
+```
+
+### SOFT-LINK variant
+
+```
+I love that they treat “the light changed” as a first-class failure mode instead of a footnote.  Contact-rich insertion is exactly where a static visual reward dies quietly and poisons every critic update after it.
+
+https://mechafeed.com/blog/evohil-human-in-loop-rl/
 ```
 
 ---
@@ -93,6 +181,28 @@ Handwriting is a controlled stress test: contact force, multi-stroke order, and 
 Handwriting is a controlled stress test: contact force, multi-stroke order, and a human eye that knows when a letter looks wrong.  A 71.
 
 https://mechafeed.com/blog/handwritten-alphabet-lfd/
+```
+
+---
+
+## PanoVLA Puts 360° Context Into Mobile Bimanual Manipulation
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/panovla-mobile-manipulation/
+
+### SOLO (no link)
+
+```
+I’m so here for the boring sensor upgrade: one more camera, wired into the policy the hard way.  Mobile manipulation fails less because of “not enough foundation model” and more because the robot keeps forgetting where the cloth is when the base turns.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for the boring sensor upgrade: one more camera, wired into the policy the hard way.  Mobile manipulation fails less because of “not enough foundation model” and more because the robot keep…
+
+https://mechafeed.com/blog/panovla-mobile-manipulation/
 ```
 
 ---
@@ -181,6 +291,28 @@ A tablet that is both the view and the stick is the kind of boring UX win remote
 A tablet that is both the view and the stick is the kind of boring UX win remote arms need.  Autonomy still wins on TLX, as it should — the interesting number is how much pure teleop improved without …
 
 https://mechafeed.com/blog/touchscreen-teleop-manipulator/
+```
+
+---
+
+## Zero-Shot VLM Controllers Often Aren't Looking at the Camera
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/visual-grounding-zero-shot-vlm/
+
+### SOLO (no link)
+
+```
+This paper is the cold shower the “just put a VLM in the loop” demos needed.  Aggregate reward is a terrible proxy for perception when the simulator pays you for freezing.
+```
+
+### SOFT-LINK variant
+
+```
+This paper is the cold shower the “just put a VLM in the loop” demos needed.  Aggregate reward is a terrible proxy for perception when the simulator pays you for freezing.
+
+https://mechafeed.com/blog/visual-grounding-zero-shot-vlm/
 ```
 
 ---

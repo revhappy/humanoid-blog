@@ -1611,3 +1611,69 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Social:** tweets (164 drafts); robb-x refreshed
 - **Push:** SUCCESS (`023e924` → origin/main)
 - **Failures:** none blocking; solid candidates 8 of target 8
+
+## 2026-08-09 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-09
+- git pull --rebase origin main: already up to date
+- Morning already published 8 posts (tacta, gordon, spacevla, handwriting LfD, touchscreen teleop, prior-sg, comudi, atp) — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **Access quality: PARTIAL / NOISY** (disclosed); proceeded with public X + web
+
+### X List Scan
+- Unitree IPO pricing chatter (business; already have unitree-star-market-ipo-csrc)
+- EngineAI T800 + PaXini foot tactile sole clips (thin primary beyond X/LinkedIn)
+- Spam / Optimus fanfic filtered
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** PanoVLA mobile panorama VLA — arXiv:2608.02257 — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Adaptive HRC painting (DMP+PBO) — arXiv:2608.01981 + RA-L + YouTube — lane: **build**
+3. **[CANDIDATE/WRITTEN]** Visual grounding zero-shot VLM control — arXiv:2608.06154 + GitHub — lane: **build**
+4. **[CANDIDATE/WRITTEN]** EvoHIL HIL-RL under lighting shift — arXiv:2608.03872 — lane: **build**
+5. **[CANDIDATE/WRITTEN]** Adaptive-WAM early-exit driving planner — arXiv:2608.06008 — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Avatar Robotics $6.5M seed — PR Newswire + The Robot Report — lane: **business**
+7. **[SKIP: already covered]** HiRoC (2608.05999), fail-passive safety, TRACE, SkillMemo, GORDON, morning eight
+8. **[SKIP: no usable figures / thin primary]** Jetson 8GB ACT paper (20KB PDF, no stills); PaXini PX-Footrix EngineAI (X-only primary)
+9. **[SKIP: business under mix]** Unitree IPO price 150.8 yuan / ~$9B (Reuters) — new pricing angle but business lane already filled by Avatar; prior Unitree IPO registration article exists
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | panovla-mobile-manipulation | Shar Hendrix | AI | build |
+| 2 | adaptive-hrc-painting-dmp | Robb Harlan | Robotics | build |
+| 3 | visual-grounding-zero-shot-vlm | Robb Harlan | AI | build |
+| 4 | evohil-human-in-loop-rl | Shar Hendrix | AI | build |
+| 5 | adaptive-wam-driving | Robb Harlan | AI | build |
+| 6 | avatar-robotics-6-5m-seed | Robb Harlan | Industry | business |
+
+### Mix check
+- Build/innovate: 5 | Business/industry: 1 | Business share: 1/6 ≈ 16.7% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Solid candidates with primary/secondary depth: **6** | Writing: **6**
+- Soft floor 2 met; hit target from Aug 3–6 arXiv build batch + Avatar seed not used in morning
+
+### Notes for Future Agents
+- PanoVLA: open code / third-party wheeled dual-arm replications
+- HRC painting: factory panel sizes beyond student cohort
+- Visual grounding: natural-camera closed-loop (paper is mostly sim)
+- EvoHIL: open code release; non-lighting domain shifts
+- Adaptive-WAM: public code; non-NAVSIM driving stacks
+- Avatar: named customer logos, operator:robot ratios after seed
+- Do not rehash this afternoon six tomorrow morning
+
+### Run summary
+- **Articles published (6):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** pending
+- **Vision gate:** pending
+- **Social:** pending
+- **Push:** pending
+
+#### Afternoon finalize
+- **Media verify:** PASS (
+pm run verify-media:today — 0 errors, 0 warnings on 14 today posts incl. morning 8 + afternoon 6)
+- **Vision gate:** Confirmed stills — PanoVLA teleop+rollouts; HRC painting setup+trajectory; VLM controller interface+entropy/agreement plots; EvoHIL task suite+architecture; Adaptive-WAM diagrams; Avatar warehouse humanoids (TRR)
+- **Social:** tweets regenerated; robb-x if available
+- **Push:** pending
