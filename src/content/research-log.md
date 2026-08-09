@@ -1536,3 +1536,71 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Social:** tweets (156 drafts); robb-x refreshed
 - **Push:** SUCCESS (`b0a83cc` → origin/main)
 - **Failures:** none blocking; solid candidates 6 of target 6
+
+## 2026-08-09 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-09
+- git pull --rebase origin main: already up to date
+- Prior catalog through 2026-08-08 morning+afternoon (noetix-e1 through lila-wam) — **do not rehash**
+- No 2026-08-09 posts before this run
+
+### X List Scan
+- Primary list: https://x.com/i/lists/1805786050763087967
+- **Access quality: PARTIAL / NOISY** — keyword/semantic streams mix spam, rehashes, thin clips (disclosed)
+- Owner lists login-walled; proceeded with public X + web (disclosed)
+- Notable leads (leads only): ROBOTIS Hangang rehash (covered 8/8); DOBOT LUMO rehash; 1X hands rehash; Curr-0 loco-dex chatter (weak primary); UBTECH U1 cinematic demos (already have ubtech-uworld-u1)
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Tacta Systems TactaBot — therobotreport.com + tactasystems.com — lane: **build**
+2. **[CANDIDATE/WRITTEN]** GORDON object-centric rewards — arXiv:2608.03753 + project page — lane: **build**
+3. **[CANDIDATE/WRITTEN]** SpaceVLA visual intent anchors — arXiv:2608.05730 — lane: **build**
+4. **[CANDIDATE/WRITTEN]** Handwritten alphabet LfD — arXiv:2608.06221 (ICDL 2026) — lane: **build**
+5. **[CANDIDATE/WRITTEN]** Touchscreen teleop interface — arXiv:2608.06219 (RO-MAN 2026) — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Prior-SG scene graphs — arXiv:2608.06170 — lane: **build**
+7. **[CANDIDATE/WRITTEN]** CoMuDi multi-robot disassembly — arXiv:2608.05830 — lane: **build**
+8. **[CANDIDATE/WRITTEN]** ATP upper-limb exoskeleton — arXiv:2608.05723 — lane: **build**
+9. **[SKIP: already covered]** ROBOTIS Hangang, Noetix E1, omega-0, GeniWorld, VIDP, ErgoSurf, IcFuzz, HiRoC, FailBench, DyPES, etc.
+10. **[SKIP: business lane under 25% cap]** Avatar Robotics $6.5M seed (teleop wheeled humanoids) — solid but funding-primary; batch filled with build
+11. **[SKIP: thin / older]** morph soft cells (June), Adaptive-WAM driving planner, Curr-0 X-only demos
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | tacta-systems-tactabot | Shar Hendrix | Robotics | build |
+| 2 | gordon-object-centric-rewards | Robb Harlan | AI | build |
+| 3 | spacevla-visual-intent-anchors | Shar Hendrix | AI | build |
+| 4 | handwritten-alphabet-lfd | Robb Harlan | Research | build |
+| 5 | touchscreen-teleop-manipulator | Shar Hendrix | Robotics | build |
+| 6 | prior-sg-scene-graphs | Robb Harlan | Robotics | build |
+| 7 | comudi-multi-robot-disassembly | Shar Hendrix | Robotics | build |
+| 8 | atp-upper-limb-exoskeleton | Robb Harlan | Robotics | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Solid candidates with primary/secondary depth: **8** | Writing: **8**
+- Soft floor 3 met; hit target from Tacta product launch + Aug 4–6 arXiv build batch not used 8/8
+
+### Notes for Future Agents
+- Tacta: early 2027 ship numbers / electronics customer case studies
+- GORDON: open code third-party ManiSkill runs
+- SpaceVLA: 3D world-frame anchors on real robot
+- Handwriting LfD: transfer beyond alphabet to surface tasks
+- Touchscreen teleop: dirty-cell replication
+- Prior-SG: prior-graph failure cases when LLM invents rooms
+- CoMuDi: physical multi-arm cell
+- ATP: larger EMG cohort / factory reach tasks
+- Afternoon: do not rehash this morning eight; Avatar $6.5M available if business lane open
+
+### Run summary
+- **Articles published (8):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** Confirmed stills — Tacta hand product + O-ring contact; GORDON teaser + pipeline; SpaceVLA overview + dataset; handwriting pipeline + tablet demo; touchscreen operator + path annotation; Prior-SG floor segmentation; CoMuDi multi-arm scenes; ATP worn exo + CAD + torque plot
+- **Social:** pending tweets / robb-x
+- **Push:** pending
+- **Failures:** none blocking at write time
+

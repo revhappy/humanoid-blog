@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-08-08T21:06:33.721Z",
+  "generatedAt": "2026-08-09T17:37:18.827Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "atp-upper-limb-exoskeleton",
+      "title": "ATP Brings Anatomical Torque Assist to Upper-Limb Exoskeletons",
+      "pubDate": "2026-08-09",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/atp-upper-limb-exoskeleton/",
+      "tweet": "ATP Brings Anatomical Torque Assist to Upper-Limb Exoskeletons\n\nATP couples RL musculoskeletal torque references with passivity-based cable-driven control; EMG shows up to 48% lower…\n\nhttps://mechafeed.com/blog/atp-upper-limb-exoskeleton/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=ATP%20Brings%20Anatomical%20Torque%20Assist%20to%20Upper-Limb%20Exoskeletons%0A%0AATP%20couples%20RL%20musculoskeletal%20torque%20references%20with%20passivity-based%20cable-driven%20control%3B%20EMG%20shows%20up%20to%2048%25%20lower%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fatp-upper-limb-exoskeleton%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 260
+    },
+    {
+      "id": "comudi-multi-robot-disassembly",
+      "title": "CoMuDi Coordinates Up to 9 Arms for Large-Scale Disassembly",
+      "pubDate": "2026-08-09",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/comudi-multi-robot-disassembly/",
+      "tweet": "CoMuDi Coordinates Up to 9 Arms for Large-Scale Disassembly\n\nCoMuDi plans multi-robot disassembly with ST-RRT* and temporal constraints, scaling to 49-piece assemblies and low idle…\n\nhttps://mechafeed.com/blog/comudi-multi-robot-disassembly/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=CoMuDi%20Coordinates%20Up%20to%209%20Arms%20for%20Large-Scale%20Disassembly%0A%0ACoMuDi%20plans%20multi-robot%20disassembly%20with%20ST-RRT*%20and%20temporal%20constraints%2C%20scaling%20to%2049-piece%20assemblies%20and%20low%20idle%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcomudi-multi-robot-disassembly%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 263
+    },
+    {
+      "id": "gordon-object-centric-rewards",
+      "title": "GORDON Learns Object-Centric Rewards From Action-Free Video",
+      "pubDate": "2026-08-09",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/gordon-object-centric-rewards/",
+      "tweet": "GORDON Learns Object-Centric Rewards From Action-Free Video\n\nGORDON turns action-free demos into graph-based object-centric rewards and auto-discovers subtasks, hitting 74.4%…\n\nhttps://mechafeed.com/blog/gordon-object-centric-rewards/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=GORDON%20Learns%20Object-Centric%20Rewards%20From%20Action-Free%20Video%0A%0AGORDON%20turns%20action-free%20demos%20into%20graph-based%20object-centric%20rewards%20and%20auto-discovers%20subtasks%2C%20hitting%2074.4%25%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgordon-object-centric-rewards%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 250
+    },
+    {
+      "id": "handwritten-alphabet-lfd",
+      "title": "Robots Learn Human-Like Handwriting From 3,142 Alphabet Demos",
+      "pubDate": "2026-08-09",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/handwritten-alphabet-lfd/",
+      "tweet": "Robots Learn Human-Like Handwriting From 3,142 Alphabet Demos\n\nA Bristol-led LfD study collects 3,142 touchscreen handwriting demos, extends GMM/GMR with force and time, and scores…\n\nhttps://mechafeed.com/blog/handwritten-alphabet-lfd/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Robots%20Learn%20Human-Like%20Handwriting%20From%203%2C142%20Alphabet%20Demos%0A%0AA%20Bristol-led%20LfD%20study%20collects%203%2C142%20touchscreen%20handwriting%20demos%2C%20extends%20GMM%2FGMR%20with%20force%20and%20time%2C%20and%20scores%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhandwritten-alphabet-lfd%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 265
+    },
+    {
+      "id": "prior-sg-scene-graphs",
+      "title": "Prior-SG Segments Open-Plan Spaces With LLM Scene Priors",
+      "pubDate": "2026-08-09",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/prior-sg-scene-graphs/",
+      "tweet": "Prior-SG Segments Open-Plan Spaces With LLM Scene Priors\n\nETH/ShanghaiTech Prior-SG builds hierarchical 3D scene graphs by aligning RGB-D instance maps with LLM prior graphs—no…\n\nhttps://mechafeed.com/blog/prior-sg-scene-graphs/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Prior-SG%20Segments%20Open-Plan%20Spaces%20With%20LLM%20Scene%20Priors%0A%0AETH%2FShanghaiTech%20Prior-SG%20builds%20hierarchical%203D%20scene%20graphs%20by%20aligning%20RGB-D%20instance%20maps%20with%20LLM%20prior%20graphs%E2%80%94no%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fprior-sg-scene-graphs%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 250
+    },
+    {
+      "id": "spacevla-visual-intent-anchors",
+      "title": "SpaceVLA Puts User Grasp and Place Anchors Into OpenVLA",
+      "pubDate": "2026-08-09",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/spacevla-visual-intent-anchors/",
+      "tweet": "SpaceVLA Puts User Grasp and Place Anchors Into OpenVLA\n\nSkoltech’s SpaceVLA paints green/blue visual intent anchors on RGB so OpenVLA-7B hits 91.25% full-task success in…\n\nhttps://mechafeed.com/blog/spacevla-visual-intent-anchors/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=SpaceVLA%20Puts%20User%20Grasp%20and%20Place%20Anchors%20Into%20OpenVLA%0A%0ASkoltech%E2%80%99s%20SpaceVLA%20paints%20green%2Fblue%20visual%20intent%20anchors%20on%20RGB%20so%20OpenVLA-7B%20hits%2091.25%25%20full-task%20success%20in%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fspacevla-visual-intent-anchors%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 247
+    },
+    {
+      "id": "tacta-systems-tactabot",
+      "title": "Tacta Systems Launches TactaBot for High-Skill Manufacturing Hands",
+      "pubDate": "2026-08-09",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/tacta-systems-tactabot/",
+      "tweet": "Tacta Systems Launches TactaBot for High-Skill Manufacturing Hands\n\nPalo Alto’s Tacta Systems packages a 15-DoF fluidic-tendon hand, grain-of-sand tactile sensors, skill-capture glove,…\n\nhttps://mechafeed.com/blog/tacta-systems-tactabot/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Tacta%20Systems%20Launches%20TactaBot%20for%20High-Skill%20Manufacturing%20Hands%0A%0APalo%20Alto%E2%80%99s%20Tacta%20Systems%20packages%20a%2015-DoF%20fluidic-tendon%20hand%2C%20grain-of-sand%20tactile%20sensors%2C%20skill-capture%20glove%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftacta-systems-tactabot%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 259
+    },
+    {
+      "id": "touchscreen-teleop-manipulator",
+      "title": "Touchscreen Teleop Beats Joysticks on Nuclear-Style Surface Tasks",
+      "pubDate": "2026-08-09",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/touchscreen-teleop-manipulator/",
+      "tweet": "Touchscreen Teleop Beats Joysticks on Nuclear-Style Surface Tasks\n\nA RO-MAN 2026 study maps finger motion to a Franka arm and cuts task time 53.5% vs joystick, with lower NASA-TLX, on…\n\nhttps://mechafeed.com/blog/touchscreen-teleop-manipulator/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Touchscreen%20Teleop%20Beats%20Joysticks%20on%20Nuclear-Style%20Surface%20Tasks%0A%0AA%20RO-MAN%202026%20study%20maps%20finger%20motion%20to%20a%20Franka%20arm%20and%20cuts%20task%20time%2053.5%25%20vs%20joystick%2C%20with%20lower%20NASA-TLX%2C%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftouchscreen-teleop-manipulator%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 266
+    },
     {
       "id": "argus-viewpoint-canonical-policy",
       "title": "ARGUS Canonicalizes Camera Views Before Visuomotor Policies Learn",

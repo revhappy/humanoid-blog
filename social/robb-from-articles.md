@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-08T21:06:35.153Z
+Generated: 2026-08-09T17:37:20.070Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## ATP Brings Anatomical Torque Assist to Upper-Limb Exoskeletons
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/atp-upper-limb-exoskeleton/
+
+### SOLO (no link)
+
+```
+Passivity is the safety story I actually listen to on wearable hardware — “we tracked a sine wave” is not enough.  The 48% EMG drop is the human receipt; I want it on more than five people and on tasks that look like factory reach-and-place, not only lab multi-joint scripts.
+```
+
+### SOFT-LINK variant
+
+```
+Passivity is the safety story I actually listen to on wearable hardware — “we tracked a sine wave” is not enough.  The 48% EMG drop is the human receipt; I want it on more than five people and on task…
+
+https://mechafeed.com/blog/atp-upper-limb-exoskeleton/
+```
+
+---
+
+## CoMuDi Coordinates Up to 9 Arms for Large-Scale Disassembly
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/comudi-multi-robot-disassembly/
+
+### SOLO (no link)
+
+```
+Disassembly is the unglamorous twin of assembly lines, and it is where recycling and remanufacturing either pay or pile up.  ST-RRT\* plus dependency graphs will not replace a fixture plan, but low idle time on nine arms is the metric I would take to a plant engineer.
+```
+
+### SOFT-LINK variant
+
+```
+Disassembly is the unglamorous twin of assembly lines, and it is where recycling and remanufacturing either pay or pile up.  ST-RRT\* plus dependency graphs will not replace a fixture plan, but low id…
+
+https://mechafeed.com/blog/comudi-multi-robot-disassembly/
+```
+
+---
+
+## GORDON Learns Object-Centric Rewards From Action-Free Video
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/gordon-object-centric-rewards/
+
+### SOLO (no link)
+
+```
+Object graphs will not save you if detection fails in a greasy cell — but for sim and clean bench work, “reward from video without actions, then split the long task for free” is the right kind of lazy.  I want the open project code run on a third-party ManiSkill suite…
+```
+
+### SOFT-LINK variant
+
+```
+Object graphs will not save you if detection fails in a greasy cell — but for sim and clean bench work, “reward from video without actions, then split the long task for free” is the right kind of lazy…
+
+https://mechafeed.com/blog/gordon-object-centric-rewards/
+```
+
+---
+
+## Robots Learn Human-Like Handwriting From 3,142 Alphabet Demos
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/handwritten-alphabet-lfd/
+
+### SOLO (no link)
+
+```
+Handwriting is a controlled stress test: contact force, multi-stroke order, and a human eye that knows when a letter looks wrong.  A 71.
+```
+
+### SOFT-LINK variant
+
+```
+Handwriting is a controlled stress test: contact force, multi-stroke order, and a human eye that knows when a letter looks wrong.  A 71.
+
+https://mechafeed.com/blog/handwritten-alphabet-lfd/
+```
+
+---
+
+## Prior-SG Segments Open-Plan Spaces With LLM Scene Priors
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/prior-sg-scene-graphs/
+
+### SOLO (no link)
+
+```
+LLM priors on room labels scare me when the model invents a “pantry” that is not there — but open-plan segmentation that can re-slice for “prepare dinner” vs “clean floors” is exactly what mobile manipulators need.  I want failure cases when the prior graph lies; SOTA…
+```
+
+### SOFT-LINK variant
+
+```
+LLM priors on room labels scare me when the model invents a “pantry” that is not there — but open-plan segmentation that can re-slice for “prepare dinner” vs “clean floors” is exactly what mobile mani…
+
+https://mechafeed.com/blog/prior-sg-scene-graphs/
+```
+
+---
+
+## SpaceVLA Puts User Grasp and Place Anchors Into OpenVLA
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/spacevla-visual-intent-anchors/
+
+### SOLO (no link)
+
+```
+This is preference injection without full teleop, and the ablation is honest: wrong anchors hurt, no anchors collapse.  Until the masks live in 3D, it is a sim-and-static-camera trick.
+```
+
+### SOFT-LINK variant
+
+```
+This is preference injection without full teleop, and the ablation is honest: wrong anchors hurt, no anchors collapse.  Until the masks live in 3D, it is a sim-and-static-camera trick.
+
+https://mechafeed.com/blog/spacevla-visual-intent-anchors/
+```
+
+---
+
+## Tacta Systems Launches TactaBot for High-Skill Manufacturing Hands
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/tacta-systems-tactabot/
+
+### SOLO (no link)
+
+```
+I care less about another five-finger render and more about whether fluidic tendons and replaceable fingertips survive a shift of threaded inserts without a babysitter.  The glove-as-data-factory angle is the part that can compound if customers actually wear it.
+```
+
+### SOFT-LINK variant
+
+```
+I care less about another five-finger render and more about whether fluidic tendons and replaceable fingertips survive a shift of threaded inserts without a babysitter.  The glove-as-data-factory angl…
+
+https://mechafeed.com/blog/tacta-systems-tactabot/
+```
+
+---
+
+## Touchscreen Teleop Beats Joysticks on Nuclear-Style Surface Tasks
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/touchscreen-teleop-manipulator/
+
+### SOLO (no link)
+
+```
+A tablet that is both the view and the stick is the kind of boring UX win remote arms need.  Autonomy still wins on TLX, as it should — the interesting number is how much pure teleop improved without adding a second operator.
+```
+
+### SOFT-LINK variant
+
+```
+A tablet that is both the view and the stick is the kind of boring UX win remote arms need.  Autonomy still wins on TLX, as it should — the interesting number is how much pure teleop improved without …
+
+https://mechafeed.com/blog/touchscreen-teleop-manipulator/
+```
 
 ---
 
