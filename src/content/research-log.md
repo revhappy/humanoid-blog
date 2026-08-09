@@ -1604,3 +1604,10 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Push:** pending
 - **Failures:** none blocking at write time
 
+
+#### Morning finalize
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** Confirmed stills for all 8 slugs (product/paper figures match story subjects)
+- **Social:** tweets (164 drafts); robb-x refreshed
+- **Push:** SUCCESS (`023e924` → origin/main)
+- **Failures:** none blocking; solid candidates 8 of target 8
