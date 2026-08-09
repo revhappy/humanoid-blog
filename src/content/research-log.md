@@ -1677,3 +1677,10 @@ pm run verify-media:today — 0 errors, 0 warnings on 14 today posts incl. morni
 - **Vision gate:** Confirmed stills — PanoVLA teleop+rollouts; HRC painting setup+trajectory; VLM controller interface+entropy/agreement plots; EvoHIL task suite+architecture; Adaptive-WAM diagrams; Avatar warehouse humanoids (TRR)
 - **Social:** tweets regenerated; robb-x if available
 - **Push:** pending
+
+#### Afternoon finalize (confirmed)
+- **Media verify:** PASS
+- **Vision gate:** PASS (all 6 slugs)
+- **Social:** tweets 170 drafts; robb-x refreshed
+- **Push:** SUCCESS (260980d → origin/main)
+- **Failures:** none blocking; solid candidates 6 of target 6
