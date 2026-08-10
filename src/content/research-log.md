@@ -1684,3 +1684,72 @@ pm run verify-media:today — 0 errors, 0 warnings on 14 today posts incl. morni
 - **Social:** tweets 170 drafts; robb-x refreshed
 - **Push:** SUCCESS (260980d → origin/main)
 - **Failures:** none blocking; solid candidates 6 of target 6
+
+## 2026-08-10 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-10
+- git pull --rebase origin main: already up to date
+- Prior day (8/9): morning 8 + afternoon 6 already published — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **Access quality: PARTIAL / NOISY** (disclosed); proceeded with public X + web + arXiv cs.RO recent
+
+### X List Scan
+- ROBOTIS Hangang outdoor Sapiens stress clips — **SKIP: already covered** (robotis-sapiens-hangang-outdoor)
+- UBTECH U1 product theater — **SKIP: already covered** (ubtech-uworld-u1)
+- AheadForm cinematic face demo recirculation — **SKIP: already covered**
+- 1X NEO 25-DoF hands recirculation — **SKIP: already covered**
+- Figure 03 stair/autonomy chatter — **SKIP: already covered** (figure-f03-ladder / figure-03-bmw)
+- Spam / non-robot filtered
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** C2Dex monocular→dexterous contacts — arXiv:2608.07045 + project — lane: **build**
+2. **[CANDIDATE/WRITTEN]** TEMPO two-timescale VLA RL post-training — arXiv:2608.07314 — lane: **build**
+3. **[CANDIDATE/WRITTEN]** Fault-tolerant locomotion adaptive gait (Kyon 68 kg, IROS) — arXiv:2608.07328 — lane: **build**
+4. **[CANDIDATE/WRITTEN]** AtlasVLA world-ego wrist-only VLA — arXiv:2608.06729 — lane: **build**
+5. **[CANDIDATE/WRITTEN]** AutoIntervene calibrated chunk intervention — arXiv:2608.07065 + aus.bot — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Guqin haptic robot finger — arXiv:2608.07002 / IEEE ToH — lane: **build**
+7. **[CANDIDATE/WRITTEN]** TECDAR 6D IMU extrinsic contact ranging — arXiv:2608.07075 — lane: **build**
+8. **[CANDIDATE/WRITTEN]** Cross-view action consistency camera-robust VLA — arXiv:2608.06965 — lane: **build**
+9. **[SKIP: already covered]** ω-0 humanoid loco-manip (2608.06375), DyPES-VLA, GeniWorld, BYD Di Space, Avatar seed, Unitree IPO, Tacta, morning/afternoon 8/9 batches
+10. **[SKIP: no HTML figures / thin media]** SoRoMoX soft-robot JAX (2608.06650) — no arXiv HTML stills this session
+11. **[SKIP: business under mix]** Funding/IPO recirculation — batch is 100% build; no business lane needed
+
+### Selected for Writing (ranked) - 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | c2dex-dexterous-monocular-video | Shar Hendrix | Robotics | build |
+| 2 | tempo-vla-rl-post-training | Robb Harlan | AI | build |
+| 3 | fault-tolerant-locomotion-adaptive-gait | Robb Harlan | Robotics | build |
+| 4 | atlasvla-persistent-world-ego | Shar Hendrix | AI | build |
+| 5 | autointervene-action-chunking | Robb Harlan | Robotics | build |
+| 6 | guqin-haptic-robot-finger | Shar Hendrix | Robotics | build |
+| 7 | tecdar-6d-tactile-contact | Robb Harlan | Robotics | build |
+| 8 | cross-view-vla-camera-robust | Shar Hendrix | AI | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Solid candidates with primary/secondary depth: **8** | Writing: **8**
+- Soft floor 3 met; hit target from Aug 7 arXiv build batch (hands, locomotion, VLA memory, tactile, haptics)
+
+### Notes for Future Agents
+- C2Dex: third-party open-loop replay on non-G1 hands; in-hand finger gaiting limitation noted by authors
+- TEMPO: code release / non-CALVIN embodiments
+- Fault-tolerant Kyon: onboard LiDAR terrain + multi-joint faults
+- AtlasVLA: open weights / multi-arm
+- AutoIntervene: factory cycle-time operator savings data
+- Guqin finger: transfer to industrial wire/connector contact
+- TECDAR: oily/dirty shop parts accuracy
+- Cross-view VLA: multi-camera cells without re-collect
+- Afternoon: do not rehash this morning eight
+
+### Run summary
+- **Articles published (8):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** pending
+- **Vision gate:** pending
+- **Social:** pending
+- **Push:** pending
+

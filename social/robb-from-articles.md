@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-09T21:08:01.191Z
+Generated: 2026-08-10T16:06:59.959Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## AtlasVLA Remembers the Room With Only a Wrist Camera
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/atlasvla-persistent-world-ego/
+
+### SOLO (no link)
+
+```
+I'm so here for "the wrist cam is enough if you bother to keep a map. " Multi-camera cells are a luxury; mobile manipulators and humanoids will live with FOVs that move when the arm does.
+```
+
+### SOFT-LINK variant
+
+```
+I'm so here for "the wrist cam is enough if you bother to keep a map. " Multi-camera cells are a luxury; mobile manipulators and humanoids will live with FOVs that move when the arm does.
+
+https://mechafeed.com/blog/atlasvla-persistent-world-ego/
+```
+
+---
+
+## AutoIntervene Hands Control Back When Chunking Policies Drift
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/autointervene-action-chunking/
+
+### SOLO (no link)
+
+```
+Shared autonomy that only fires when the chunk is off-distribution is how you actually staff a cell with fewer operators.  The quantile calibration detail matters: without it, someone will hard-code a threshold that either never intervenes or never lets go.
+```
+
+### SOFT-LINK variant
+
+```
+Shared autonomy that only fires when the chunk is off-distribution is how you actually staff a cell with fewer operators.  The quantile calibration detail matters: without it, someone will hard-code a…
+
+https://mechafeed.com/blog/autointervene-action-chunking/
+```
+
+---
+
+## C2Dex Turns Phone Videos Into Dexterous Hand Trajectories
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/c2dex-dexterous-monocular-video/
+
+### SOLO (no link)
+
+```
+I'm so here for the boring object-space contact bank.  Most video-to-dexterity stacks fail because contacts jitter every frame and retargeting matches fingertips instead of *where the object actually gets touched*.
+```
+
+### SOFT-LINK variant
+
+```
+I'm so here for the boring object-space contact bank.  Most video-to-dexterity stacks fail because contacts jitter every frame and retargeting matches fingertips instead of *where the object actually gets touched*.
+
+https://mechafeed.com/blog/c2dex-dexterous-monocular-video/
+```
+
+---
+
+## Cross-View Consistency Makes Flow VLAs Survive Camera Moves
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/cross-view-vla-camera-robust/
+
+### SOLO (no link)
+
+```
+I'm so here for training that assumes the camera will move.  Extrinsics-free, wrist-masked evaluation is the honest stress test for any "just fine-tune π₀ on our cell" pitch.
+```
+
+### SOFT-LINK variant
+
+```
+I'm so here for training that assumes the camera will move.  Extrinsics-free, wrist-masked evaluation is the honest stress test for any "just fine-tune π₀ on our cell" pitch.
+
+https://mechafeed.com/blog/cross-view-vla-camera-robust/
+```
+
+---
+
+## IIT Teaches a 68 kg Quad to Walk After Actuator Power Loss
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/fault-tolerant-locomotion-adaptive-gait/
+
+### SOLO (no link)
+
+```
+I care less about the marketing of "resilience" and more about the mass class.  Teaching a 15 kg demo dog to limp is a different physics problem from a 68 kg platform with tighter torque budgets.
+```
+
+### SOFT-LINK variant
+
+```
+I care less about the marketing of "resilience" and more about the mass class.  Teaching a 15 kg demo dog to limp is a different physics problem from a 68 kg platform with tighter torque budgets.
+
+https://mechafeed.com/blog/fault-tolerant-locomotion-adaptive-gait/
+```
+
+---
+
+## A Biomimetic Finger Built to Feel Guqin Strings
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/guqin-haptic-robot-finger/
+
+### SOLO (no link)
+
+```
+I'm so here for instrument work that starts with the fingertip, not the playlist.  If the multimodal nail-and-pad geometry is what makes stopped notes and harmonics detectable, that same stack transfers to wire routing, cable connectors, and any other contact where "I…
+```
+
+### SOFT-LINK variant
+
+```
+I'm so here for instrument work that starts with the fingertip, not the playlist.  If the multimodal nail-and-pad geometry is what makes stopped notes and harmonics detectable, that same stack transfe…
+
+https://mechafeed.com/blog/guqin-haptic-robot-finger/
+```
+
+---
+
+## TECDAR Localizes Tool Collisions With a Tiny 6D IMU in the Gripper Tip
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/tecdar-6d-tactile-contact/
+
+### SOLO (no link)
+
+```
+I like cheap, fast sensors that answer one question well: *where on the tool did the world hit me? * Dense tactile skins are great research; a 6D IMU in the tip is something you can actually fit on a product gripper without a second power budget.
+```
+
+### SOFT-LINK variant
+
+```
+I like cheap, fast sensors that answer one question well: *where on the tool did the world hit me? * Dense tactile skins are great research; a 6D IMU in the tip is something you can actually fit on a …
+
+https://mechafeed.com/blog/tecdar-6d-tactile-contact/
+```
+
+---
+
+## TEMPO Splits VLA RL: Freeze Semantics, Train Actions Fast
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/tempo-vla-rl-post-training/
+
+### SOLO (no link)
+
+```
+Here's what I care about: whether the backbone is still a generalist after a weekend of on-policy thrashing.  Fast control updates and slow semantic updates is how a lot of industrial control stacks already think, just without the transformer marketing.
+```
+
+### SOFT-LINK variant
+
+```
+Here's what I care about: whether the backbone is still a generalist after a weekend of on-policy thrashing.  Fast control updates and slow semantic updates is how a lot of industrial control stacks a…
+
+https://mechafeed.com/blog/tempo-vla-rl-post-training/
+```
 
 ---
 

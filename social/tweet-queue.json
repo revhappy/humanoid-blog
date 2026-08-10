@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-08-09T21:08:00.089Z",
+  "generatedAt": "2026-08-10T16:06:58.689Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "atlasvla-persistent-world-ego",
+      "title": "AtlasVLA Remembers the Room With Only a Wrist Camera",
+      "pubDate": "2026-08-10",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/atlasvla-persistent-world-ego/",
+      "tweet": "AtlasVLA Remembers the Room With Only a Wrist Camera\n\nAtlasVLA pairs a 4D voxel world memory with ego-working task memory, hitting 97.6% on LIBERO and +17.5pp on real…\n\nhttps://mechafeed.com/blog/atlasvla-persistent-world-ego/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=AtlasVLA%20Remembers%20the%20Room%20With%20Only%20a%20Wrist%20Camera%0A%0AAtlasVLA%20pairs%20a%204D%20voxel%20world%20memory%20with%20ego-working%20task%20memory%2C%20hitting%2097.6%25%20on%20LIBERO%20and%20%2B17.5pp%20on%20real%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fatlasvla-persistent-world-ego%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 242
+    },
+    {
+      "id": "autointervene-action-chunking",
+      "title": "AutoIntervene Hands Control Back When Chunking Policies Drift",
+      "pubDate": "2026-08-10",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/autointervene-action-chunking/",
+      "tweet": "AutoIntervene Hands Control Back When Chunking Policies Drift\n\nAutoIntervene watches action-chunking IL policies against a visual-action support memory and switches to the operator…\n\nhttps://mechafeed.com/blog/autointervene-action-chunking/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=AutoIntervene%20Hands%20Control%20Back%20When%20Chunking%20Policies%20Drift%0A%0AAutoIntervene%20watches%20action-chunking%20IL%20policies%20against%20a%20visual-action%20support%20memory%20and%20switches%20to%20the%20operator%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fautointervene-action-chunking%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 262
+    },
+    {
+      "id": "c2dex-dexterous-monocular-video",
+      "title": "C2Dex Turns Phone Videos Into Dexterous Hand Trajectories",
+      "pubDate": "2026-08-10",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/c2dex-dexterous-monocular-video/",
+      "tweet": "C2Dex Turns Phone Videos Into Dexterous Hand Trajectories\n\nC2Dex recovers stable object-side contacts from monocular video, retargets them to robot hands, and hits 57.78% success…\n\nhttps://mechafeed.com/blog/c2dex-dexterous-monocular-video/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=C2Dex%20Turns%20Phone%20Videos%20Into%20Dexterous%20Hand%20Trajectories%0A%0AC2Dex%20recovers%20stable%20object-side%20contacts%20from%20monocular%20video%2C%20retargets%20them%20to%20robot%20hands%2C%20and%20hits%2057.78%25%20success%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fc2dex-dexterous-monocular-video%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 262
+    },
+    {
+      "id": "cross-view-vla-camera-robust",
+      "title": "Cross-View Consistency Makes Flow VLAs Survive Camera Moves",
+      "pubDate": "2026-08-10",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/cross-view-vla-camera-robust/",
+      "tweet": "Cross-View Consistency Makes Flow VLAs Survive Camera Moves\n\nA new arXiv method regularizes action-flow velocities across paired scene-camera views, lifting LIBERO-Plus…\n\nhttps://mechafeed.com/blog/cross-view-vla-camera-robust/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Cross-View%20Consistency%20Makes%20Flow%20VLAs%20Survive%20Camera%20Moves%0A%0AA%20new%20arXiv%20method%20regularizes%20action-flow%20velocities%20across%20paired%20scene-camera%20views%2C%20lifting%20LIBERO-Plus%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcross-view-vla-camera-robust%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 243
+    },
+    {
+      "id": "fault-tolerant-locomotion-adaptive-gait",
+      "title": "IIT Teaches a 68 kg Quad to Walk After Actuator Power Loss",
+      "pubDate": "2026-08-10",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/fault-tolerant-locomotion-adaptive-gait/",
+      "tweet": "IIT Teaches a 68 kg Quad to Walk After Actuator Power Loss\n\nIROS 2026 work from IIT uses asymmetric actor-critic RL plus learnable gait frequency so Kyon keeps moving when a joint…\n\nhttps://mechafeed.com/blog/fault-tolerant-locomotion-adaptive-gait/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=IIT%20Teaches%20a%2068%20kg%20Quad%20to%20Walk%20After%20Actuator%20Power%20Loss%0A%0AIROS%202026%20work%20from%20IIT%20uses%20asymmetric%20actor-critic%20RL%20plus%20learnable%20gait%20frequency%20so%20Kyon%20keeps%20moving%20when%20a%20joint%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffault-tolerant-locomotion-adaptive-gait%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 271
+    },
+    {
+      "id": "guqin-haptic-robot-finger",
+      "title": "A Biomimetic Finger Built to Feel Guqin Strings",
+      "pubDate": "2026-08-10",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/guqin-haptic-robot-finger/",
+      "tweet": "A Biomimetic Finger Built to Feel Guqin Strings\n\nIEEE Transactions on Haptics paper presents a multimodal fingertip with nail geometry for open-string, stopped-note,…\n\nhttps://mechafeed.com/blog/guqin-haptic-robot-finger/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=A%20Biomimetic%20Finger%20Built%20to%20Feel%20Guqin%20Strings%0A%0AIEEE%20Transactions%20on%20Haptics%20paper%20presents%20a%20multimodal%20fingertip%20with%20nail%20geometry%20for%20open-string%2C%20stopped-note%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fguqin-haptic-robot-finger%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 243
+    },
+    {
+      "id": "tecdar-6d-tactile-contact",
+      "title": "TECDAR Localizes Tool Collisions With a Tiny 6D IMU in the Gripper Tip",
+      "pubDate": "2026-08-10",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/tecdar-6d-tactile-contact/",
+      "tweet": "TECDAR Localizes Tool Collisions With a Tiny 6D IMU in the Gripper Tip\n\nHUMIT Lab's TECDAR uses a 2.5×3 mm 6D IMU at 7 kHz to detect and range extrinsic contacts on grasped objects within…\n\nhttps://mechafeed.com/blog/tecdar-6d-tactile-contact/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=TECDAR%20Localizes%20Tool%20Collisions%20With%20a%20Tiny%206D%20IMU%20in%20the%20Gripper%20Tip%0A%0AHUMIT%20Lab's%20TECDAR%20uses%20a%202.5%C3%973%20mm%206D%20IMU%20at%207%20kHz%20to%20detect%20and%20range%20extrinsic%20contacts%20on%20grasped%20objects%20within%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftecdar-6d-tactile-contact%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 265
+    },
+    {
+      "id": "tempo-vla-rl-post-training",
+      "title": "TEMPO Splits VLA RL: Freeze Semantics, Train Actions Fast",
+      "pubDate": "2026-08-10",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/tempo-vla-rl-post-training/",
+      "tweet": "TEMPO Splits VLA RL: Freeze Semantics, Train Actions Fast\n\nTEMPO freezes the VLA backbone and runs two-timescale RL on a semantic projection layer and action expert, beating…\n\nhttps://mechafeed.com/blog/tempo-vla-rl-post-training/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=TEMPO%20Splits%20VLA%20RL%3A%20Freeze%20Semantics%2C%20Train%20Actions%20Fast%0A%0ATEMPO%20freezes%20the%20VLA%20backbone%20and%20runs%20two-timescale%20RL%20on%20a%20semantic%20projection%20layer%20and%20action%20expert%2C%20beating%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftempo-vla-rl-post-training%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 246
+    },
     {
       "id": "adaptive-hrc-painting-dmp",
       "title": "Collaborative Spray Painting: Robot Holds the Part, You Hold the Gun",
