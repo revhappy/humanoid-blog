@@ -1829,3 +1829,6 @@ pm run verify-media:today — 0 errors, 0 warnings on 14 today posts incl. morni
 - **Vision gate:** PASS - dyna-2 (one-step dual-arm + celery quality); mimic-hand (gloved hands + data pyramid); atlas-battery (warehouse Atlas + BD headshot); kc-svsdf (tunnel/forest compare + corridor payload); lifelongcrossnav (multi-floor illustration + framework); crosstracer (legged/wheeled lobby + architecture)
 - **Social:** tweets 184 drafts; robb-x refreshed
 - **Push:** pending
+
+- **Push:** SUCCESS (`bec4600` → origin/main)
+- **Failures:** none; solid candidates 6 of target 6
