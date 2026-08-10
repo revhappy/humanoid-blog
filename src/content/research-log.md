@@ -1753,3 +1753,12 @@ pm run verify-media:today — 0 errors, 0 warnings on 14 today posts incl. morni
 - **Social:** pending
 - **Push:** pending
 
+
+#### Morning finalize (2026-08-10)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** PASS — confirmed stills for c2dex (HOI pipeline), tempo-vla (two-timescale diagram), fault-tolerant-gait (Kyon fault frames), atlasvla (world-ego teaser), autointervene (bimanual tasks collage), guqin-haptic-finger (guqin + tactile plots), tecdar-tactile (line/point contact IMU), cross-view-vla (camera perturbation teaser)
+- **Social:** tweets 178 drafts; robb-x refreshed
+- **Push:** SUCCESS (`58d90bd` → origin/main)
+- **Failures:** none; solid candidates 8 of target 8
+- **X list accessible?** Partial/noisy (disclosed)
+
