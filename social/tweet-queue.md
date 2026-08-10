@@ -14,8 +14,29 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-10T16:06:58.689Z
-Posts: 178
+Generated: 2026-08-10T21:07:28.389Z
+Posts: 184
+
+---
+
+## Atlas Swaps Its Own Battery in Under Three Minutes
+
+- **Slug:** `atlas-autonomous-battery-swap`
+- **Date:** 2026-08-10
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/atlas-autonomous-battery-swap/
+- **Chars:** 255/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Atlas%20Swaps%20Its%20Own%20Battery%20in%20Under%20Three%20Minutes%0A%0ABoston%20Dynamics%20says%20production%20Atlas%20runs%20~4%20hours%20typical%20duty%20and%20can%20autonomously%20swap%20batteries%20in%20under%20three%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fatlas-autonomous-battery-swap%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Atlas Swaps Its Own Battery in Under Three Minutes
+
+Boston Dynamics says production Atlas runs ~4 hours typical duty and can autonomously swap batteries in under three…
+
+https://mechafeed.com/blog/atlas-autonomous-battery-swap/
+
+#HumanoidRobots #Humanoids
+```
 
 ---
 
@@ -103,6 +124,48 @@ https://mechafeed.com/blog/cross-view-vla-camera-robust/
 
 ---
 
+## CrossTracer: One Semantic Path, Residual Fixes per Robot
+
+- **Slug:** `crosstracer-cross-embodiment-nav`
+- **Date:** 2026-08-10
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/crosstracer-cross-embodiment-nav/
+- **Chars:** 250/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=CrossTracer%3A%20One%20Semantic%20Path%2C%20Residual%20Fixes%20per%20Robot%0A%0ACrossTracer%20scores%2045.68%20on%20NaviTrace%E2%80%9428%25%20above%20Gemini-2.5-Pro%E2%80%94by%20refining%20VLA%20pixel%20traces%20for%20wheeled%20vs%20legged%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcrosstracer-cross-embodiment-nav%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+CrossTracer: One Semantic Path, Residual Fixes per Robot
+
+CrossTracer scores 45.68 on NaviTrace—28% above Gemini-2.5-Pro—by refining VLA pixel traces for wheeled vs legged…
+
+https://mechafeed.com/blog/crosstracer-cross-embodiment-nav/
+
+#AI #Humanoids
+```
+
+---
+
+## Dyna-2 Trains a World-Action Model on 1M Hours of Human Video
+
+- **Slug:** `dyna-2-world-action-model`
+- **Date:** 2026-08-10
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/dyna-2-world-action-model/
+- **Chars:** 248/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Dyna-2%20Trains%20a%20World-Action%20Model%20on%201M%20Hours%20of%20Human%20Video%0A%0ADyna%20Robotics%20says%20DYNA-2%2C%20trained%20on%20over%20a%20million%20hours%20of%20egocentric%20human%20video%2C%20hits%2087%25%20zero-shot%20customer%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdyna-2-world-action-model%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Dyna-2 Trains a World-Action Model on 1M Hours of Human Video
+
+Dyna Robotics says DYNA-2, trained on over a million hours of egocentric human video, hits 87% zero-shot customer…
+
+https://mechafeed.com/blog/dyna-2-world-action-model/
+
+#AI #Humanoids
+```
+
+---
+
 ## IIT Teaches a 68 kg Quad to Walk After Actuator Power Loss
 
 - **Slug:** `fault-tolerant-locomotion-adaptive-gait`
@@ -139,6 +202,69 @@ A Biomimetic Finger Built to Feel Guqin Strings
 IEEE Transactions on Haptics paper presents a multimodal fingertip with nail geometry for open-string, stopped-note,…
 
 https://mechafeed.com/blog/guqin-haptic-robot-finger/
+
+#Robotics #Humanoids
+```
+
+---
+
+## KC-SVSDF Plans Mobile Manipulators With Weird Payloads
+
+- **Slug:** `kc-svsdf-payload-motion-planning`
+- **Date:** 2026-08-10
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/kc-svsdf-payload-motion-planning/
+- **Chars:** 256/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=KC-SVSDF%20Plans%20Mobile%20Manipulators%20With%20Weird%20Payloads%0A%0AHKU%20researchers%20propose%20kinematically%20coupled%20swept-volume%20planning%20so%20wheeled%20arms%20can%20haul%20large%20non-convex%20loads%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fkc-svsdf-payload-motion-planning%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+KC-SVSDF Plans Mobile Manipulators With Weird Payloads
+
+HKU researchers propose kinematically coupled swept-volume planning so wheeled arms can haul large non-convex loads…
+
+https://mechafeed.com/blog/kc-svsdf-payload-motion-planning/
+
+#Robotics #Humanoids
+```
+
+---
+
+## LifelongCrossNav Keeps a 3D Map Across Floors and Goals
+
+- **Slug:** `lifelongcrossnav-multi-floor`
+- **Date:** 2026-08-10
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/lifelongcrossnav-multi-floor/
+- **Chars:** 243/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=LifelongCrossNav%20Keeps%20a%203D%20Map%20Across%20Floors%20and%20Goals%0A%0ANew%20framework%20stores%20sparse%203D%20semantic%20memory%20so%20robots%20can%20chain%20multi-object%20searches%20across%20stairs%E2%80%94plus%20the%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flifelongcrossnav-multi-floor%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+LifelongCrossNav Keeps a 3D Map Across Floors and Goals
+
+New framework stores sparse 3D semantic memory so robots can chain multi-object searches across stairs—plus the…
+
+https://mechafeed.com/blog/lifelongcrossnav-multi-floor/
+
+#AI #Humanoids
+```
+
+---
+
+## Mimic Hand M1: Swiss Tendon Hand Built for Factory AI
+
+- **Slug:** `mimic-hand-m1-tendon-driven`
+- **Date:** 2026-08-10
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/mimic-hand-m1-tendon-driven/
+- **Chars:** 247/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Mimic%20Hand%20M1%3A%20Swiss%20Tendon%20Hand%20Built%20for%20Factory%20AI%0A%0AMimic%20Robotics%E2%80%99%20M1%20packs%2015%20active%20DoF%2C%20%3E25%20kg%20power%20grasp%2C%20and%20sub-0.05%20Nm%20backdrive%20torque%2C%20with%20a%20matching%20U1%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmimic-hand-m1-tendon-driven%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Mimic Hand M1: Swiss Tendon Hand Built for Factory AI
+
+Mimic Robotics’ M1 packs 15 active DoF, >25 kg power grasp, and sub-0.05 Nm backdrive torque, with a matching U1…
+
+https://mechafeed.com/blog/mimic-hand-m1-tendon-driven/
 
 #Robotics #Humanoids
 ```

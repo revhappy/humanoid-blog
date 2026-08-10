@@ -3,9 +3,31 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-10T16:06:59.959Z
+Generated: 2026-08-10T21:07:29.329Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Atlas Swaps Its Own Battery in Under Three Minutes
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/atlas-autonomous-battery-swap/
+
+### SOLO (no link)
+
+```
+Four hours of work and a three-minute pack change is the kind of unit-economics detail I trust more than a parkour reel.  If the dock, pack logistics, and fault handling are as boring as a forklift battery room, Atlas starts to look like shift equipment.
+```
+
+### SOFT-LINK variant
+
+```
+Four hours of work and a three-minute pack change is the kind of unit-economics detail I trust more than a parkour reel.  If the dock, pack logistics, and fault handling are as boring as a forklift ba…
+
+https://mechafeed.com/blog/atlas-autonomous-battery-swap/
+```
 
 ---
 
@@ -97,6 +119,50 @@ https://mechafeed.com/blog/cross-view-vla-camera-robust/
 
 ---
 
+## CrossTracer: One Semantic Path, Residual Fixes per Robot
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/crosstracer-cross-embodiment-nav/
+
+### SOLO (no link)
+
+```
+Pixel-space residuals are a clean interface: language understands “go upstairs to the blue door,” kinematics decide whether that is legal for *this* chassis.  Beating a giant generalist VLM on an embodiment-sensitive benchmark with an 8B stack is a fun receipt.
+```
+
+### SOFT-LINK variant
+
+```
+Pixel-space residuals are a clean interface: language understands “go upstairs to the blue door,” kinematics decide whether that is legal for *this* chassis.  Beating a giant generalist VLM on an embo…
+
+https://mechafeed.com/blog/crosstracer-cross-embodiment-nav/
+```
+
+---
+
+## Dyna-2 Trains a World-Action Model on 1M Hours of Human Video
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/dyna-2-world-action-model/
+
+### SOLO (no link)
+
+```
+I’m here for the operator-graded site pass rate, not the “170 years of experience” line.  If 87% vs 46% holds under customer acceptance criteria with no site data in the pre-train set, that is a real deployment story.
+```
+
+### SOFT-LINK variant
+
+```
+I’m here for the operator-graded site pass rate, not the “170 years of experience” line.  If 87% vs 46% holds under customer acceptance criteria with no site data in the pre-train set, that is a real deployment story.
+
+https://mechafeed.com/blog/dyna-2-world-action-model/
+```
+
+---
+
 ## IIT Teaches a 68 kg Quad to Walk After Actuator Power Loss
 
 - Author on blog: Robb Harlan
@@ -137,6 +203,72 @@ I'm so here for instrument work that starts with the fingertip, not the playlist
 I'm so here for instrument work that starts with the fingertip, not the playlist.  If the multimodal nail-and-pad geometry is what makes stopped notes and harmonics detectable, that same stack transfe…
 
 https://mechafeed.com/blog/guqin-haptic-robot-finger/
+```
+
+---
+
+## KC-SVSDF Plans Mobile Manipulators With Weird Payloads
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/kc-svsdf-payload-motion-planning/
+
+### SOLO (no link)
+
+```
+If your “mobile manipulator” only plans as if the payload is a tennis ball, you do not have a logistics robot—you have a demo.  Coupling collision gradients through the arm is the unglamorous fix that decides whether a door panel fits a 90 cm gap.
+```
+
+### SOFT-LINK variant
+
+```
+If your “mobile manipulator” only plans as if the payload is a tennis ball, you do not have a logistics robot—you have a demo.  Coupling collision gradients through the arm is the unglamorous fix that…
+
+https://mechafeed.com/blog/kc-svsdf-payload-motion-planning/
+```
+
+---
+
+## LifelongCrossNav Keeps a 3D Map Across Floors and Goals
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/lifelongcrossnav-multi-floor/
+
+### SOLO (no link)
+
+```
+Stairs plus memory is how service robots stop looking lost between “find the remote” and “find the charging cable upstairs. ” The Cross-Floor-Required zero for planar maps is the clearest receipt.
+```
+
+### SOFT-LINK variant
+
+```
+Stairs plus memory is how service robots stop looking lost between “find the remote” and “find the charging cable upstairs. ” The Cross-Floor-Required zero for planar maps is the clearest receipt.
+
+https://mechafeed.com/blog/lifelongcrossnav-multi-floor/
+```
+
+---
+
+## Mimic Hand M1: Swiss Tendon Hand Built for Factory AI
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/mimic-hand-m1-tendon-driven/
+
+### SOLO (no link)
+
+```
+I’m so here for a hand that treats force sensing as a first-class design requirement instead of a fingertip sticker after the fact.  Sub-0.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for a hand that treats force sensing as a first-class design requirement instead of a fingertip sticker after the fact.  Sub-0.
+
+https://mechafeed.com/blog/mimic-hand-m1-tendon-driven/
 ```
 
 ---

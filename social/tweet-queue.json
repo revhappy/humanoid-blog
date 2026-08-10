@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-08-10T16:06:58.689Z",
+  "generatedAt": "2026-08-10T21:07:28.389Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "atlas-autonomous-battery-swap",
+      "title": "Atlas Swaps Its Own Battery in Under Three Minutes",
+      "pubDate": "2026-08-10",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/atlas-autonomous-battery-swap/",
+      "tweet": "Atlas Swaps Its Own Battery in Under Three Minutes\n\nBoston Dynamics says production Atlas runs ~4 hours typical duty and can autonomously swap batteries in under three…\n\nhttps://mechafeed.com/blog/atlas-autonomous-battery-swap/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Atlas%20Swaps%20Its%20Own%20Battery%20in%20Under%20Three%20Minutes%0A%0ABoston%20Dynamics%20says%20production%20Atlas%20runs%20~4%20hours%20typical%20duty%20and%20can%20autonomously%20swap%20batteries%20in%20under%20three%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fatlas-autonomous-battery-swap%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 255
+    },
     {
       "id": "atlasvla-persistent-world-ego",
       "title": "AtlasVLA Remembers the Room With Only a Wrist Camera",
@@ -43,6 +53,26 @@
       "chars": 243
     },
     {
+      "id": "crosstracer-cross-embodiment-nav",
+      "title": "CrossTracer: One Semantic Path, Residual Fixes per Robot",
+      "pubDate": "2026-08-10",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/crosstracer-cross-embodiment-nav/",
+      "tweet": "CrossTracer: One Semantic Path, Residual Fixes per Robot\n\nCrossTracer scores 45.68 on NaviTrace—28% above Gemini-2.5-Pro—by refining VLA pixel traces for wheeled vs legged…\n\nhttps://mechafeed.com/blog/crosstracer-cross-embodiment-nav/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=CrossTracer%3A%20One%20Semantic%20Path%2C%20Residual%20Fixes%20per%20Robot%0A%0ACrossTracer%20scores%2045.68%20on%20NaviTrace%E2%80%9428%25%20above%20Gemini-2.5-Pro%E2%80%94by%20refining%20VLA%20pixel%20traces%20for%20wheeled%20vs%20legged%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcrosstracer-cross-embodiment-nav%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 250
+    },
+    {
+      "id": "dyna-2-world-action-model",
+      "title": "Dyna-2 Trains a World-Action Model on 1M Hours of Human Video",
+      "pubDate": "2026-08-10",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/dyna-2-world-action-model/",
+      "tweet": "Dyna-2 Trains a World-Action Model on 1M Hours of Human Video\n\nDyna Robotics says DYNA-2, trained on over a million hours of egocentric human video, hits 87% zero-shot customer…\n\nhttps://mechafeed.com/blog/dyna-2-world-action-model/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Dyna-2%20Trains%20a%20World-Action%20Model%20on%201M%20Hours%20of%20Human%20Video%0A%0ADyna%20Robotics%20says%20DYNA-2%2C%20trained%20on%20over%20a%20million%20hours%20of%20egocentric%20human%20video%2C%20hits%2087%25%20zero-shot%20customer%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdyna-2-world-action-model%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 248
+    },
+    {
       "id": "fault-tolerant-locomotion-adaptive-gait",
       "title": "IIT Teaches a 68 kg Quad to Walk After Actuator Power Loss",
       "pubDate": "2026-08-10",
@@ -61,6 +91,36 @@
       "tweet": "A Biomimetic Finger Built to Feel Guqin Strings\n\nIEEE Transactions on Haptics paper presents a multimodal fingertip with nail geometry for open-string, stopped-note,…\n\nhttps://mechafeed.com/blog/guqin-haptic-robot-finger/\n\n#Robotics #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=A%20Biomimetic%20Finger%20Built%20to%20Feel%20Guqin%20Strings%0A%0AIEEE%20Transactions%20on%20Haptics%20paper%20presents%20a%20multimodal%20fingertip%20with%20nail%20geometry%20for%20open-string%2C%20stopped-note%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fguqin-haptic-robot-finger%2F%0A%0A%23Robotics%20%23Humanoids",
       "chars": 243
+    },
+    {
+      "id": "kc-svsdf-payload-motion-planning",
+      "title": "KC-SVSDF Plans Mobile Manipulators With Weird Payloads",
+      "pubDate": "2026-08-10",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/kc-svsdf-payload-motion-planning/",
+      "tweet": "KC-SVSDF Plans Mobile Manipulators With Weird Payloads\n\nHKU researchers propose kinematically coupled swept-volume planning so wheeled arms can haul large non-convex loads…\n\nhttps://mechafeed.com/blog/kc-svsdf-payload-motion-planning/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=KC-SVSDF%20Plans%20Mobile%20Manipulators%20With%20Weird%20Payloads%0A%0AHKU%20researchers%20propose%20kinematically%20coupled%20swept-volume%20planning%20so%20wheeled%20arms%20can%20haul%20large%20non-convex%20loads%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fkc-svsdf-payload-motion-planning%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 256
+    },
+    {
+      "id": "lifelongcrossnav-multi-floor",
+      "title": "LifelongCrossNav Keeps a 3D Map Across Floors and Goals",
+      "pubDate": "2026-08-10",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/lifelongcrossnav-multi-floor/",
+      "tweet": "LifelongCrossNav Keeps a 3D Map Across Floors and Goals\n\nNew framework stores sparse 3D semantic memory so robots can chain multi-object searches across stairs—plus the…\n\nhttps://mechafeed.com/blog/lifelongcrossnav-multi-floor/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=LifelongCrossNav%20Keeps%20a%203D%20Map%20Across%20Floors%20and%20Goals%0A%0ANew%20framework%20stores%20sparse%203D%20semantic%20memory%20so%20robots%20can%20chain%20multi-object%20searches%20across%20stairs%E2%80%94plus%20the%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flifelongcrossnav-multi-floor%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 243
+    },
+    {
+      "id": "mimic-hand-m1-tendon-driven",
+      "title": "Mimic Hand M1: Swiss Tendon Hand Built for Factory AI",
+      "pubDate": "2026-08-10",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/mimic-hand-m1-tendon-driven/",
+      "tweet": "Mimic Hand M1: Swiss Tendon Hand Built for Factory AI\n\nMimic Robotics’ M1 packs 15 active DoF, >25 kg power grasp, and sub-0.05 Nm backdrive torque, with a matching U1…\n\nhttps://mechafeed.com/blog/mimic-hand-m1-tendon-driven/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Mimic%20Hand%20M1%3A%20Swiss%20Tendon%20Hand%20Built%20for%20Factory%20AI%0A%0AMimic%20Robotics%E2%80%99%20M1%20packs%2015%20active%20DoF%2C%20%3E25%20kg%20power%20grasp%2C%20and%20sub-0.05%20Nm%20backdrive%20torque%2C%20with%20a%20matching%20U1%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmimic-hand-m1-tendon-driven%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 247
     },
     {
       "id": "tecdar-6d-tactile-contact",

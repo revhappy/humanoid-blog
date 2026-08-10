@@ -1762,3 +1762,70 @@ pm run verify-media:today — 0 errors, 0 warnings on 14 today posts incl. morni
 - **Failures:** none; solid candidates 8 of target 8
 - **X list accessible?** Partial/noisy (disclosed)
 
+
+## 2026-08-10 - Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-10
+- git pull --rebase origin main: already up to date
+- Morning already published 8 posts (c2dex, tempo, fault-tolerant-gait, atlasvla, autointervene, guqin, tecdar, cross-view-vla) - **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 - **Access quality: PARTIAL / NOISY** (disclosed); proceeded with public X + web + arXiv cs.RO recent
+
+### X List Scan
+- Mimic M1 hand recirculation (tendon-driven Swiss hand) - **CANDIDATE** (not yet on blog)
+- Dyna Robotics Dyna-2 / zero-shot deployment clips - **CANDIDATE** (PR same day)
+- Optimus / Figure / ROBOTIS recirculation - **SKIP: already covered**
+- Spam / AI-video farm bots filtered
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Dyna-2 World-Action Model (1M human video hours) - PR Newswire Aug 10 + dyna.co/dyna-2 - lane: **build**
+2. **[CANDIDATE/WRITTEN]** Mimic Hand M1 + U1 wearable - Mimic blog + Interesting Engineering - lane: **build**
+3. **[CANDIDATE/WRITTEN]** Atlas autonomous battery swap <3 min - BD enterprise blog + product page + IE - lane: **build**
+4. **[CANDIDATE/WRITTEN]** KC-SVSDF payload mobile manip planning - arXiv:2608.07005 - lane: **build**
+5. **[CANDIDATE/WRITTEN]** LifelongCrossNav multi-floor multi-object - arXiv:2608.07079 - lane: **build**
+6. **[CANDIDATE/WRITTEN]** CrossTracer embodiment residual nav - arXiv:2608.06688 - lane: **build**
+7. **[SKIP: already covered morning]** C2Dex, TEMPO, fault-tolerant gait, AtlasVLA, AutoIntervene, Guqin, TECDAR, cross-view VLA
+8. **[SKIP: secondary / thin media]** EMS adaptive VLA (2608.06434) - solid but batch full; VicOne Isaac Sim security; Tate Hirebotics welders (more industry)
+9. **[SKIP: business under mix]** Unitree IPO pricing recirculation - prior coverage; morning was 100% build
+
+### Selected for Writing (ranked) - 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | dyna-2-world-action-model | Robb Harlan | AI | build |
+| 2 | mimic-hand-m1-tendon-driven | Shar Hendrix | Robotics | build |
+| 3 | atlas-autonomous-battery-swap | Robb Harlan | Humanoids | build |
+| 4 | kc-svsdf-payload-motion-planning | Robb Harlan | Robotics | build |
+| 5 | lifelongcrossnav-multi-floor | Shar Hendrix | AI | build |
+| 6 | crosstracer-cross-embodiment-nav | Shar Hendrix | AI | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Solid candidates with primary/secondary depth: **6** | Writing: **6**
+- Soft floor 2 met; hit target (same-day Dyna-2 PR + uncovered Aug 7 arXiv + Mimic/Atlas product stills)
+
+### Notes for Future Agents
+- Dyna-2: third-party site pass rates; open scaling curves
+- Mimic M1: published pricing if any; factory cycle data
+- Atlas battery: dock reliability / pack logistics field reports
+- KC-SVSDF: code release; more cluttered online maps
+- LifelongCrossNav: real multi-floor robot deployment
+- CrossTracer: open weights / outdoor terrain
+- Do not rehash this afternoon six tomorrow morning
+
+### Run summary
+- **Articles published (6):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** pending
+- **Vision gate:** pending
+- **Social:** pending
+- **Push:** pending
+
+
+#### Afternoon finalize (2026-08-10)
+- **Media verify:** PASS (`npm run verify-media:today` - 0 errors, 0 warnings on 14 today posts incl. morning 8 + afternoon 6)
+- **Vision gate:** PASS - dyna-2 (one-step dual-arm + celery quality); mimic-hand (gloved hands + data pyramid); atlas-battery (warehouse Atlas + BD headshot); kc-svsdf (tunnel/forest compare + corridor payload); lifelongcrossnav (multi-floor illustration + framework); crosstracer (legged/wheeled lobby + architecture)
+- **Social:** tweets 184 drafts; robb-x refreshed
+- **Push:** pending
