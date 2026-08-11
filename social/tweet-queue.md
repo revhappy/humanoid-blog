@@ -14,8 +14,176 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-10T21:07:28.389Z
-Posts: 184
+Generated: 2026-08-11T16:06:48.983Z
+Posts: 192
+
+---
+
+## AdaDexGrasp Fuses Geometry and Touch for Adaptive Dexterous Grasps
+
+- **Slug:** `adadexgrasp-visuo-tactile`
+- **Date:** 2026-08-11
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/adadexgrasp-visuo-tactile/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=AdaDexGrasp%20Fuses%20Geometry%20and%20Touch%20for%20Adaptive%20Dexterous%20Grasps%0A%0AECCV%202026%20framework%20hits%2091%25%20seen%20%2F%2083%25%20unseen-category%20success%20in%20sim%20and%2090%25%20%2F%2081%25%20on%20a%20real%20Psibot%20hand.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fadadexgrasp-visuo-tactile%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+AdaDexGrasp Fuses Geometry and Touch for Adaptive Dexterous Grasps
+
+ECCV 2026 framework hits 91% seen / 83% unseen-category success in sim and 90% / 81% on a real Psibot hand.
+
+https://mechafeed.com/blog/adadexgrasp-visuo-tactile/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Differential Direct-Drive Gripper Chases Torque Without Killing Transparency
+
+- **Slug:** `ddd-gripper-ultra-low-impedance`
+- **Date:** 2026-08-11
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/ddd-gripper-ultra-low-impedance/
+- **Chars:** 273/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Differential%20Direct-Drive%20Gripper%20Chases%20Torque%20Without%20Killing%20Transparency%0A%0A9-DOF%20three-finger%20DDD%20hand%3A%20~18%20N%20grasp%2C%204.7%20N%20fingertip%20force%2C%2050.1%20N%2Fm%20max%20passive%20impedance%2C%20patent%20pending.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fddd-gripper-ultra-low-impedance%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Differential Direct-Drive Gripper Chases Torque Without Killing Transparency
+
+9-DOF three-finger DDD hand: ~18 N grasp, 4.7 N fingertip force, 50.1 N/m max passive impedance, patent pending.
+
+https://mechafeed.com/blog/ddd-gripper-ultra-low-impedance/
+
+#Robotics #Humanoids
+```
+
+---
+
+## JEPA-WAM Couples Latent Transitions With Action Generation
+
+- **Slug:** `jepa-wam-joint-embedding`
+- **Date:** 2026-08-11
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/jepa-wam-joint-embedding/
+- **Chars:** 233/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=JEPA-WAM%20Couples%20Latent%20Transitions%20With%20Action%20Generation%0A%0ALatent%20world-action%20model%20hits%2079.2%25%20on%20LIBERO-Plus%20without%20robot%20pretraining%3B%20%CF%800.5%2BJEPA%20reaches%2086.3%25.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fjepa-wam-joint-embedding%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+JEPA-WAM Couples Latent Transitions With Action Generation
+
+Latent world-action model hits 79.2% on LIBERO-Plus without robot pretraining; π0.5+JEPA reaches 86.3%.
+
+https://mechafeed.com/blog/jepa-wam-joint-embedding/
+
+#AI #Humanoids
+```
+
+---
+
+## Mixed-Stiffness Fingertips Widen the Operating Range for Coin Pickup
+
+- **Slug:** `mixed-stiffness-fingertip-coin`
+- **Date:** 2026-08-11
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/mixed-stiffness-fingertip-coin/
+- **Chars:** 268/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Mixed-Stiffness%20Fingertips%20Widen%20the%20Operating%20Range%20for%20Coin%20Pickup%0A%0ASoft-center%2C%20stiff-side%20anthropomimetic%20pads%20beat%20uniform%20soft%20pads%20on%20approach%20and%20rotation%20ranges%3B%20nail-free%20tips%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmixed-stiffness-fingertip-coin%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Mixed-Stiffness Fingertips Widen the Operating Range for Coin Pickup
+
+Soft-center, stiff-side anthropomimetic pads beat uniform soft pads on approach and rotation ranges; nail-free tips…
+
+https://mechafeed.com/blog/mixed-stiffness-fingertip-coin/
+
+#Robotics #Humanoids
+```
+
+---
+
+## PEEL Races Parts Out of Assemblies With Parallel Motion Planning
+
+- **Slug:** `peel-disassembly-planning`
+- **Date:** 2026-08-11
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/peel-disassembly-planning/
+- **Chars:** 260/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=PEEL%20Races%20Parts%20Out%20of%20Assemblies%20With%20Parallel%20Motion%20Planning%0A%0AMAB-RRT%20hits%20100%25%20on%2076%20Automate%20single-part%20extractions%3B%20PEEL%20dismantles%2010%E2%80%9317%20part%20assemblies%20on%20a%20Fetch%20simulator.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpeel-disassembly-planning%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+PEEL Races Parts Out of Assemblies With Parallel Motion Planning
+
+MAB-RRT hits 100% on 76 Automate single-part extractions; PEEL dismantles 10–17 part assemblies on a Fetch simulator.
+
+https://mechafeed.com/blog/peel-disassembly-planning/
+
+#Robotics #Humanoids
+```
+
+---
+
+## SLIM-0.5B Packs Action-Grounded Latents Into a Compact Robot Policy
+
+- **Slug:** `slim-05b-action-grounded-latents`
+- **Date:** 2026-08-11
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/slim-05b-action-grounded-latents/
+- **Chars:** 258/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=SLIM-0.5B%20Packs%20Action-Grounded%20Latents%20Into%20a%20Compact%20Robot%20Policy%0A%0A0.47B%20latent%20interaction%20model%20hits%2097.5%25%20on%20LIBERO%20and%2077.45%25%20zero-shot%20LIBERO-Plus%20with%2060.6%20ms%20H100%20latency.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fslim-05b-action-grounded-latents%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+SLIM-0.5B Packs Action-Grounded Latents Into a Compact Robot Policy
+
+0.47B latent interaction model hits 97.5% on LIBERO and 77.45% zero-shot LIBERO-Plus with 60.6 ms H100 latency.
+
+https://mechafeed.com/blog/slim-05b-action-grounded-latents/
+
+#AI #Humanoids
+```
+
+---
+
+## Vid2WAM Distills Video Diffusion Into a Compact World-Action Student
+
+- **Slug:** `vid2wam-video-diffusion-distill`
+- **Date:** 2026-08-11
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/vid2wam-video-diffusion-distill/
+- **Chars:** 263/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Vid2WAM%20Distills%20Video%20Diffusion%20Into%20a%20Compact%20World-Action%20Student%0A%0AOffline%20teacher%20rollouts%20plus%20IDM%20pseudo-actions%20lift%20novel-task%20success%20on%20RoboTwin%20and%20real%20bimanual%20arms%20without%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fvid2wam-video-diffusion-distill%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Vid2WAM Distills Video Diffusion Into a Compact World-Action Student
+
+Offline teacher rollouts plus IDM pseudo-actions lift novel-task success on RoboTwin and real bimanual arms without…
+
+https://mechafeed.com/blog/vid2wam-video-diffusion-distill/
+
+#AI #Humanoids
+```
+
+---
+
+## XPolicyLab Wants One Adapter Per Robot Policy, Not One Per Benchmark
+
+- **Slug:** `xpolicylab-robot-policy-ecosystem`
+- **Date:** 2026-08-11
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/xpolicylab-robot-policy-ecosystem/
+- **Chars:** 269/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=XPolicyLab%20Wants%20One%20Adapter%20Per%20Robot%20Policy%2C%20Not%20One%20Per%20Benchmark%0A%0AOpen%20ecosystem%20unifies%2042%20robot%20policies%20behind%20one%20schema%2C%20cutting%20integration%20from%205%2B%20hours%20to%20~30%20minutes%20with%20agent%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fxpolicylab-robot-policy-ecosystem%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+XPolicyLab Wants One Adapter Per Robot Policy, Not One Per Benchmark
+
+Open ecosystem unifies 42 robot policies behind one schema, cutting integration from 5+ hours to ~30 minutes with agent…
+
+https://mechafeed.com/blog/xpolicylab-robot-policy-ecosystem/
+
+#AI #Humanoids
+```
 
 ---
 

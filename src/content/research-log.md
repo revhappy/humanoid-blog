@@ -1832,3 +1832,78 @@ pm run verify-media:today — 0 errors, 0 warnings on 14 today posts incl. morni
 
 - **Push:** SUCCESS (`bec4600` → origin/main)
 - **Failures:** none; solid candidates 6 of target 6
+
+## 2026-08-11 - Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-11
+- git pull --rebase origin main: already up to date
+- Prior day (8/10): morning 8 + afternoon 6 already published - **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 - **Access quality: PARTIAL / NOISY** (disclosed); keyword search polluted; proceeded with public X semantic + web + arXiv cs.RO recent (Tue 11 Aug / Mon 10 Aug)
+
+### X List Scan
+- DOBOT LUMO recirculation - **SKIP: already covered** (dobot-lumo-all-terrain-humanoid)
+- AheadForm face demo recirculation - **SKIP: already covered**
+- Dyna-2 / Mimic hand / Atlas battery - **SKIP: afternoon 8/10**
+- LightOrigins leg-adaptation clips - thin primary source this session
+- Spam / non-robot filtered
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** XPolicyLab unified policy eval ecosystem - arXiv:2608.09892 + GitHub - lane: **build**
+2. **[CANDIDATE/WRITTEN]** SLIM-0.5B action-grounded predictive latents - arXiv:2608.09771 + project - lane: **build**
+3. **[CANDIDATE/WRITTEN]** JEPA-WAM joint-embedding world action model - arXiv:2608.09381 + project - lane: **build**
+4. **[CANDIDATE/WRITTEN]** AdaDexGrasp visuo-tactile adaptive grasp - arXiv:2608.07600 ECCV 2026 - lane: **build**
+5. **[CANDIDATE/WRITTEN]** Mixed-stiffness anthropomimetic fingertip coin grasp - arXiv:2608.07887 + GitHub - lane: **build**
+6. **[CANDIDATE/WRITTEN]** Differential Direct-Drive ultra-low-impedance gripper - arXiv:2608.09198 - lane: **build**
+7. **[CANDIDATE/WRITTEN]** Vid2WAM distill video diffusion into WAM - arXiv:2608.08558 + project - lane: **build**
+8. **[CANDIDATE/WRITTEN]** PEEL parallel long-horizon disassembly - arXiv:2608.08773 + project - lane: **build**
+9. **[SKIP: already covered]** DOBOT LUMO, Dyna-2, Mimic M1, Atlas battery, BYD Di Space, Unitree IPO, Tacta, yesterday arXiv batch
+10. **[SKIP: business under mix]** Funding/IPO recirculation - batch is 100% build
+
+### Selected for Writing (ranked) - 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | xpolicylab-robot-policy-ecosystem | Shar Hendrix | AI | build |
+| 2 | slim-05b-action-grounded-latents | Robb Harlan | AI | build |
+| 3 | jepa-wam-joint-embedding | Shar Hendrix | AI | build |
+| 4 | adadexgrasp-visuo-tactile | Robb Harlan | Robotics | build |
+| 5 | mixed-stiffness-fingertip-coin | Shar Hendrix | Robotics | build |
+| 6 | ddd-gripper-ultra-low-impedance | Robb Harlan | Robotics | build |
+| 7 | vid2wam-video-diffusion-distill | Shar Hendrix | AI | build |
+| 8 | peel-disassembly-planning | Robb Harlan | Robotics | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (<=25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Solid candidates with primary/secondary depth: **8** | Writing: **8**
+- Soft floor 3 met; hit target from Aug 8-10 arXiv build batch (policy infra, compact VLA, WAM, hands, gripper, disassembly)
+
+### Notes for Future Agents
+- XPolicyLab: adapter adoption outside RoboTwin/RoboDojo
+- SLIM: open weights / cross-embodiment scaling
+- JEPA-WAM: real multi-site OOD
+- AdaDexGrasp: commercial hand ports beyond Shadow/Psibot
+- Mixed fingertip: cards/thin objects beyond coins
+- DDD gripper: sensorless force control results
+- Vid2WAM: open teacher/student checkpoints
+- PEEL: physics-aware refinement beyond pure geometry
+- Afternoon: do not rehash this morning eight
+
+### Run summary
+- **Articles published (8):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** pending
+- **Vision gate:** pending
+- **Social:** pending
+- **Push:** pending
+
+
+#### Morning finalize (2026-08-11)
+- **Media verify:** PASS (`npm run verify-media:today` - 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** PASS - confirmed stills for xpolicylab (infra diagram), slim-05b (pipeline+metrics with robot cams), jepa-wam (architecture+charts with robot), adadexgrasp (hand adaptation sim/real), mixed-stiffness (coin pinch sequences), ddd-gripper (hardware photo), vid2wam (distill diagram+bars), peel (pliers CAD + Fetch place)
+- **Social:** tweets 192 drafts; robb-x refreshed
+- **Build:** PASS (205 pages)
+- **Push:** pending
+

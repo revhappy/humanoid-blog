@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-10T21:07:29.329Z
+Generated: 2026-08-11T16:06:49.746Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## AdaDexGrasp Fuses Geometry and Touch for Adaptive Dexterous Grasps
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/adadexgrasp-visuo-tactile/
+
+### SOLO (no link)
+
+```
+The useful idea is not "add tactile features. " It is naming which finger owns which contact before and after touch, then refusing to lift until the classifier is happy.
+```
+
+### SOFT-LINK variant
+
+```
+The useful idea is not "add tactile features. " It is naming which finger owns which contact before and after touch, then refusing to lift until the classifier is happy.
+
+https://mechafeed.com/blog/adadexgrasp-visuo-tactile/
+```
+
+---
+
+## Differential Direct-Drive Gripper Chases Torque Without Killing Transparency
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/ddd-gripper-ultra-low-impedance/
+
+### SOLO (no link)
+
+```
+I'm watching the impedance and bandwidth numbers more than the marketing torque.  If motor-current force estimation works on this stack without a wrist F/T sensor, that is the practical win — fewer cables, fewer calibration rituals.
+```
+
+### SOFT-LINK variant
+
+```
+I'm watching the impedance and bandwidth numbers more than the marketing torque.  If motor-current force estimation works on this stack without a wrist F/T sensor, that is the practical win — fewer ca…
+
+https://mechafeed.com/blog/ddd-gripper-ultra-low-impedance/
+```
+
+---
+
+## JEPA-WAM Couples Latent Transitions With Action Generation
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/jepa-wam-joint-embedding/
+
+### SOLO (no link)
+
+```
+I like that they treat world modeling as backbone shaping, not as a free future video the action head has to babysit.  The 79.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they treat world modeling as backbone shaping, not as a free future video the action head has to babysit.  The 79.
+
+https://mechafeed.com/blog/jepa-wam-joint-embedding/
+```
+
+---
+
+## Mixed-Stiffness Fingertips Widen the Operating Range for Coin Pickup
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/mixed-stiffness-fingertip-coin/
+
+### SOLO (no link)
+
+```
+This is the kind of small, measurable hardware paper I want more of.  Not a new foundation model — a stiffness map that widens the set of poses that still form a constraint.
+```
+
+### SOFT-LINK variant
+
+```
+This is the kind of small, measurable hardware paper I want more of.  Not a new foundation model — a stiffness map that widens the set of poses that still form a constraint.
+
+https://mechafeed.com/blog/mixed-stiffness-fingertip-coin/
+```
+
+---
+
+## PEEL Races Parts Out of Assemblies With Parallel Motion Planning
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/peel-disassembly-planning/
+
+### SOLO (no link)
+
+```
+I like treating "can I pull this part out without hitting anything" as the *definition* of the next step instead of a post-check on a symbolic plan.  That will not replace physics for gravity-sensitive subassemblies, and the authors know it — pure geometry is a…
+```
+
+### SOFT-LINK variant
+
+```
+I like treating "can I pull this part out without hitting anything" as the *definition* of the next step instead of a post-check on a symbolic plan.  That will not replace physics for gravity-sensitiv…
+
+https://mechafeed.com/blog/peel-disassembly-planning/
+```
+
+---
+
+## SLIM-0.5B Packs Action-Grounded Latents Into a Compact Robot Policy
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/slim-05b-action-grounded-latents/
+
+### SOLO (no link)
+
+```
+I care less about another leaderboard peak than about latency and memory per correct chunk.  If a half-billion-parameter model can hold LIBERO-class success while cutting GPU footprint versus multi-B VLAs, that is the stack you can actually run next to a cell controller.
+```
+
+### SOFT-LINK variant
+
+```
+I care less about another leaderboard peak than about latency and memory per correct chunk.  If a half-billion-parameter model can hold LIBERO-class success while cutting GPU footprint versus multi-B …
+
+https://mechafeed.com/blog/slim-05b-action-grounded-latents/
+```
+
+---
+
+## Vid2WAM Distills Video Diffusion Into a Compact World-Action Student
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/vid2wam-video-diffusion-distill/
+
+### SOLO (no link)
+
+```
+The interesting claim is that future supervision does not have to be a logged expert trajectory.  If that holds outside the authors' teacher finetune, video models become offline data factories for policies instead of online planners that are too slow for the loop.
+```
+
+### SOFT-LINK variant
+
+```
+The interesting claim is that future supervision does not have to be a logged expert trajectory.  If that holds outside the authors' teacher finetune, video models become offline data factories for po…
+
+https://mechafeed.com/blog/vid2wam-video-diffusion-distill/
+```
+
+---
+
+## XPolicyLab Wants One Adapter Per Robot Policy, Not One Per Benchmark
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/xpolicylab-robot-policy-ecosystem/
+
+### SOLO (no link)
+
+```
+I'm so here for boring plumbing that makes leaderboards comparable.  The paper is honest that absolute real-robot scores are still low and that sim ranks only partially track metal.
+```
+
+### SOFT-LINK variant
+
+```
+I'm so here for boring plumbing that makes leaderboards comparable.  The paper is honest that absolute real-robot scores are still low and that sim ranks only partially track metal.
+
+https://mechafeed.com/blog/xpolicylab-robot-policy-ecosystem/
+```
 
 ---
 
