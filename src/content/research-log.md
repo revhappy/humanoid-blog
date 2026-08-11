@@ -1985,3 +1985,7 @@ pm run verify-media:today - 0 errors, 0 warnings on 14 today posts incl. morning
 - **Build:** PASS (211 pages)
 - **Push:** pending
 
+
+- **Push:** SUCCESS (23a5ad6 -> origin/main)
+- **Failures:** none; solid candidates 6 of target 6
+- **X list accessible?** Partial/noisy (disclosed)
