@@ -1912,3 +1912,76 @@ pm run verify-media:today — 0 errors, 0 warnings on 14 today posts incl. morni
 - **Failures:** none; solid candidates 8 of target 8
 - **X list accessible?** Partial/noisy (disclosed)
 
+
+
+## 2026-08-11 - Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-11
+- git pull --rebase origin main: already up to date
+- Morning already published 8 posts (xpolicylab, slim-05b, jepa-wam, adadexgrasp, mixed-stiffness, ddd-gripper, vid2wam, peel) - **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 - **Access quality: PARTIAL / NOISY** (disclosed); keyword search polluted with replies; proceeded with public X semantic + web + arXiv cs.RO recent (Tue 11 Aug / Mon 10 Aug)
+
+### X List Scan
+- Seeed reBot-DevArm open-source arm recirculation - **CANDIDATE** (not on blog)
+- Wuji Hand ICRA recirculation - **SKIP: not enough primary depth / not fresh**
+- Dyna-2 / Mimic / morning arXiv batch - **SKIP: already covered**
+- Carbon Robotics LaserWeeder - **SKIP: off beat**
+- Spam / non-robot filtered
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** RynnValue temporal-distance value foundation model - arXiv:2608.09853 - lane: **build**
+2. **[CANDIDATE/WRITTEN]** Seeed reBot-DevArm open hardware arm - GitHub + Seeed store + wiki - lane: **build**
+3. **[CANDIDATE/WRITTEN]** Wireless reconfigurable HRC 5G cells - arXiv:2608.09658 IROS 2026 - lane: **build**
+4. **[CANDIDATE/WRITTEN]** Robot-assisted bathing capture/transfer - arXiv:2608.09127 RSS 2026 - lane: **build**
+5. **[CANDIDATE/WRITTEN]** RoboSeg part-level semantic reconstruction - arXiv:2608.09778 - lane: **build**
+6. **[CANDIDATE/WRITTEN]** HarnessWAM deliberation harness for WAMs - arXiv:2608.09516 - lane: **build**
+7. **[SKIP: already covered morning]** XPolicyLab, SLIM, JEPA-WAM, AdaDexGrasp, mixed fingertip, DDD gripper, Vid2WAM, PEEL
+8. **[SKIP: batch full / secondary]** VANE TTT, WorldSimProbe, SAIN nav, OnEvoMemory, WA-SpecDec, SHRIMP
+9. **[SKIP: business under mix]** Funding/IPO recirculation - batch is 100% build
+
+### Selected for Writing (ranked) - 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | rynnvalue-temporal-distance-reward | Robb Harlan | AI | build |
+| 2 | seeed-rebot-devarm-open-source | Shar Hendrix | Robotics | build |
+| 3 | wireless-reconfigurable-hrc-5g | Robb Harlan | Robotics | build |
+| 4 | robot-assisted-bathing-demo-transfer | Shar Hendrix | Research | build |
+| 5 | roboseg-part-level-semantic | Robb Harlan | Robotics | build |
+| 6 | harnesswam-deliberation-wam | Shar Hendrix | AI | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (<=25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Solid candidates with primary/secondary depth: **6** | Writing: **6**
+- Soft floor 2 met; hit target (open-source arm product + five Aug 10 arXiv build papers)
+
+### Notes for Future Agents
+- RynnValue: third-party zero-shot reward on non-Franka cells
+- reBot: pricing changes; Isaac courses ship date
+- Wireless HRC: plant multi-week layout-change field log
+- Bathing: public dataset release; human-subject readiness criteria
+- RoboSeg: larger physical trial / open code
+- HarnessWAM: second WAM backend / real dual-arm
+- Do not rehash this afternoon six tomorrow morning
+
+### Run summary
+- **Articles published (6):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed)
+- **Media verify:** pending
+- **Vision gate:** pending
+- **Social:** pending
+- **Push:** pending
+
+
+
+#### Afternoon finalize (2026-08-11)
+- **Media verify:** PASS (
+pm run verify-media:today - 0 errors, 0 warnings on 14 today posts incl. morning 8 + afternoon 6)
+- **Vision gate:** PASS - rynnvalue (overview+Franka tasks), seeed-rebot (product render+raspberry field), wireless-hrc (sensor board+cobot cell), robot-assisted-bathing (pipeline+mannequin hand), roboseg (online vs offline+architecture), harnesswam (gap figure+architecture)
+- **Social:** tweets 198 drafts; robb-x refreshed
+- **Build:** PASS (211 pages)
+- **Push:** pending
+

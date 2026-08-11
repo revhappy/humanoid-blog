@@ -14,8 +14,8 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-11T16:06:48.983Z
-Posts: 192
+Generated: 2026-08-11T21:06:57.591Z
+Posts: 198
 
 ---
 
@@ -57,6 +57,27 @@ Differential Direct-Drive Gripper Chases Torque Without Killing Transparency
 https://mechafeed.com/blog/ddd-gripper-ultra-low-impedance/
 
 #Robotics #Humanoids
+```
+
+---
+
+## HarnessWAM Adds Planning Memory on Top of World Action Models
+
+- **Slug:** `harnesswam-deliberation-wam`
+- **Date:** 2026-08-11
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/harnesswam-deliberation-wam/
+- **Chars:** 241/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=HarnessWAM%20Adds%20Planning%20Memory%20on%20Top%20of%20World%20Action%20Models%0A%0AAgentic%20harness%20lifts%20RoboMemArena%20full-task%20success%20to%2059.6%25%20by%20closing%20the%20prediction%E2%80%93deliberation%20gap.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fharnesswam-deliberation-wam%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+HarnessWAM Adds Planning Memory on Top of World Action Models
+
+Agentic harness lifts RoboMemArena full-task success to 59.6% by closing the prediction–deliberation gap.
+
+https://mechafeed.com/blog/harnesswam-deliberation-wam/
+
+#AI #Humanoids
 ```
 
 ---
@@ -124,6 +145,88 @@ https://mechafeed.com/blog/peel-disassembly-planning/
 
 ---
 
+## RoboSeg Maps Handles and Spouts From One Wrist Camera
+
+- **Slug:** `roboseg-part-level-semantic`
+- **Date:** 2026-08-11
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/roboseg-part-level-semantic/
+- **Chars:** 227/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=RoboSeg%20Maps%20Handles%20and%20Spouts%20From%20One%20Wrist%20Camera%0A%0AOnline%20part-level%20reconstruction%20hits%2083.4%25%20mIoU%20and%2021%2F24%20task%20successes%20without%20CAD%20models.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Froboseg-part-level-semantic%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+RoboSeg Maps Handles and Spouts From One Wrist Camera
+
+Online part-level reconstruction hits 83.4% mIoU and 21/24 task successes without CAD models.
+
+https://mechafeed.com/blog/roboseg-part-level-semantic/
+
+#Robotics #Humanoids
+```
+
+---
+
+## CMU Team Captures Real Clinician Bathing Demos for Soft-Hand Transfer
+
+- **Slug:** `robot-assisted-bathing-demo-transfer`
+- **Date:** 2026-08-11
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/robot-assisted-bathing-demo-transfer/
+- **Chars:** 154/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=CMU%20Team%20Captures%20Real%20Clinician%20Bathing%20Demos%20for%20Soft-Hand%20Transfer%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frobot-assisted-bathing-demo-transfer%2F%0A%0A%23RoboticsResearch)
+
+```
+CMU Team Captures Real Clinician Bathing Demos for Soft-Hand Transfer
+
+https://mechafeed.com/blog/robot-assisted-bathing-demo-transfer/
+
+#RoboticsResearch
+```
+
+---
+
+## RynnValue Turns Timestamps Into Robot Rewards at 7,000 Hours Scale
+
+- **Slug:** `rynnvalue-temporal-distance-reward`
+- **Date:** 2026-08-11
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/rynnvalue-temporal-distance-reward/
+- **Chars:** 266/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=RynnValue%20Turns%20Timestamps%20Into%20Robot%20Rewards%20at%207%2C000%20Hours%20Scale%0A%0AAlibaba%20DAMO%20open-sources%20a%20value%20foundation%20model%20that%20uses%20temporal%20distance%2C%20not%20preferences%2C%20and%20lifts%20real-world%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frynnvalue-temporal-distance-reward%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+RynnValue Turns Timestamps Into Robot Rewards at 7,000 Hours Scale
+
+Alibaba DAMO open-sources a value foundation model that uses temporal distance, not preferences, and lifts real-world…
+
+https://mechafeed.com/blog/rynnvalue-temporal-distance-reward/
+
+#AI #Humanoids
+```
+
+---
+
+## Seeed’s reBot Arm Opens the Full CAD, BOM, and LeRobot Stack
+
+- **Slug:** `seeed-rebot-devarm-open-source`
+- **Date:** 2026-08-11
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/seeed-rebot-devarm-open-source/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Seeed%E2%80%99s%20reBot%20Arm%20Opens%20the%20Full%20CAD%2C%20BOM%2C%20and%20LeRobot%20Stack%0A%0AreBot-DevArm%20ships%206%2B1%20DoF%20arms%20with%20open%20hardware%2C%20ROS2%2C%20and%20LeRobot%3B%20DM%20kit%20lists%20around%20%241%2C799%20assembled.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fseeed-rebot-devarm-open-source%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Seeed’s reBot Arm Opens the Full CAD, BOM, and LeRobot Stack
+
+reBot-DevArm ships 6+1 DoF arms with open hardware, ROS2, and LeRobot; DM kit lists around $1,799 assembled.
+
+https://mechafeed.com/blog/seeed-rebot-devarm-open-source/
+
+#Robotics #Humanoids
+```
+
+---
+
 ## SLIM-0.5B Packs Action-Grounded Latents Into a Compact Robot Policy
 
 - **Slug:** `slim-05b-action-grounded-latents`
@@ -162,6 +265,27 @@ Offline teacher rollouts plus IDM pseudo-actions lift novel-task success on Robo
 https://mechafeed.com/blog/vid2wam-video-diffusion-distill/
 
 #AI #Humanoids
+```
+
+---
+
+## Wireless 5G Workcells Cut the Cabling Tax on Human–Robot Cells
+
+- **Slug:** `wireless-reconfigurable-hrc-5g`
+- **Date:** 2026-08-11
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/wireless-reconfigurable-hrc-5g/
+- **Chars:** 264/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Wireless%205G%20Workcells%20Cut%20the%20Cabling%20Tax%20on%20Human%E2%80%93Robot%20Cells%0A%0AIROS%202026%20paper%20shows%20a%20battery%20multi-sensor%20platform%20and%20edge%20CV%20over%205G%2C%20with%20hand%20detection%20mAP%2097.7%25%20and%20RTT%20down%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fwireless-reconfigurable-hrc-5g%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Wireless 5G Workcells Cut the Cabling Tax on Human–Robot Cells
+
+IROS 2026 paper shows a battery multi-sensor platform and edge CV over 5G, with hand detection mAP 97.7% and RTT down…
+
+https://mechafeed.com/blog/wireless-reconfigurable-hrc-5g/
+
+#Robotics #Humanoids
 ```
 
 ---

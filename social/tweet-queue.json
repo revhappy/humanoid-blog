@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T16:06:48.983Z",
+  "generatedAt": "2026-08-11T21:06:57.591Z",
   "site": "https://mechafeed.com/",
   "posts": [
     {
@@ -21,6 +21,16 @@
       "tweet": "Differential Direct-Drive Gripper Chases Torque Without Killing Transparency\n\n9-DOF three-finger DDD hand: ~18 N grasp, 4.7 N fingertip force, 50.1 N/m max passive impedance, patent pending.\n\nhttps://mechafeed.com/blog/ddd-gripper-ultra-low-impedance/\n\n#Robotics #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=Differential%20Direct-Drive%20Gripper%20Chases%20Torque%20Without%20Killing%20Transparency%0A%0A9-DOF%20three-finger%20DDD%20hand%3A%20~18%20N%20grasp%2C%204.7%20N%20fingertip%20force%2C%2050.1%20N%2Fm%20max%20passive%20impedance%2C%20patent%20pending.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fddd-gripper-ultra-low-impedance%2F%0A%0A%23Robotics%20%23Humanoids",
       "chars": 273
+    },
+    {
+      "id": "harnesswam-deliberation-wam",
+      "title": "HarnessWAM Adds Planning Memory on Top of World Action Models",
+      "pubDate": "2026-08-11",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/harnesswam-deliberation-wam/",
+      "tweet": "HarnessWAM Adds Planning Memory on Top of World Action Models\n\nAgentic harness lifts RoboMemArena full-task success to 59.6% by closing the prediction–deliberation gap.\n\nhttps://mechafeed.com/blog/harnesswam-deliberation-wam/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=HarnessWAM%20Adds%20Planning%20Memory%20on%20Top%20of%20World%20Action%20Models%0A%0AAgentic%20harness%20lifts%20RoboMemArena%20full-task%20success%20to%2059.6%25%20by%20closing%20the%20prediction%E2%80%93deliberation%20gap.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fharnesswam-deliberation-wam%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 241
     },
     {
       "id": "jepa-wam-joint-embedding",
@@ -53,6 +63,46 @@
       "chars": 260
     },
     {
+      "id": "roboseg-part-level-semantic",
+      "title": "RoboSeg Maps Handles and Spouts From One Wrist Camera",
+      "pubDate": "2026-08-11",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/roboseg-part-level-semantic/",
+      "tweet": "RoboSeg Maps Handles and Spouts From One Wrist Camera\n\nOnline part-level reconstruction hits 83.4% mIoU and 21/24 task successes without CAD models.\n\nhttps://mechafeed.com/blog/roboseg-part-level-semantic/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=RoboSeg%20Maps%20Handles%20and%20Spouts%20From%20One%20Wrist%20Camera%0A%0AOnline%20part-level%20reconstruction%20hits%2083.4%25%20mIoU%20and%2021%2F24%20task%20successes%20without%20CAD%20models.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Froboseg-part-level-semantic%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 227
+    },
+    {
+      "id": "robot-assisted-bathing-demo-transfer",
+      "title": "CMU Team Captures Real Clinician Bathing Demos for Soft-Hand Transfer",
+      "pubDate": "2026-08-11",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/robot-assisted-bathing-demo-transfer/",
+      "tweet": "CMU Team Captures Real Clinician Bathing Demos for Soft-Hand Transfer\n\nhttps://mechafeed.com/blog/robot-assisted-bathing-demo-transfer/\n\n#RoboticsResearch",
+      "intent": "https://twitter.com/intent/tweet?text=CMU%20Team%20Captures%20Real%20Clinician%20Bathing%20Demos%20for%20Soft-Hand%20Transfer%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frobot-assisted-bathing-demo-transfer%2F%0A%0A%23RoboticsResearch",
+      "chars": 154
+    },
+    {
+      "id": "rynnvalue-temporal-distance-reward",
+      "title": "RynnValue Turns Timestamps Into Robot Rewards at 7,000 Hours Scale",
+      "pubDate": "2026-08-11",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/rynnvalue-temporal-distance-reward/",
+      "tweet": "RynnValue Turns Timestamps Into Robot Rewards at 7,000 Hours Scale\n\nAlibaba DAMO open-sources a value foundation model that uses temporal distance, not preferences, and lifts real-world…\n\nhttps://mechafeed.com/blog/rynnvalue-temporal-distance-reward/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=RynnValue%20Turns%20Timestamps%20Into%20Robot%20Rewards%20at%207%2C000%20Hours%20Scale%0A%0AAlibaba%20DAMO%20open-sources%20a%20value%20foundation%20model%20that%20uses%20temporal%20distance%2C%20not%20preferences%2C%20and%20lifts%20real-world%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frynnvalue-temporal-distance-reward%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 266
+    },
+    {
+      "id": "seeed-rebot-devarm-open-source",
+      "title": "Seeed’s reBot Arm Opens the Full CAD, BOM, and LeRobot Stack",
+      "pubDate": "2026-08-11",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/seeed-rebot-devarm-open-source/",
+      "tweet": "Seeed’s reBot Arm Opens the Full CAD, BOM, and LeRobot Stack\n\nreBot-DevArm ships 6+1 DoF arms with open hardware, ROS2, and LeRobot; DM kit lists around $1,799 assembled.\n\nhttps://mechafeed.com/blog/seeed-rebot-devarm-open-source/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Seeed%E2%80%99s%20reBot%20Arm%20Opens%20the%20Full%20CAD%2C%20BOM%2C%20and%20LeRobot%20Stack%0A%0AreBot-DevArm%20ships%206%2B1%20DoF%20arms%20with%20open%20hardware%2C%20ROS2%2C%20and%20LeRobot%3B%20DM%20kit%20lists%20around%20%241%2C799%20assembled.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fseeed-rebot-devarm-open-source%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 252
+    },
+    {
       "id": "slim-05b-action-grounded-latents",
       "title": "SLIM-0.5B Packs Action-Grounded Latents Into a Compact Robot Policy",
       "pubDate": "2026-08-11",
@@ -71,6 +121,16 @@
       "tweet": "Vid2WAM Distills Video Diffusion Into a Compact World-Action Student\n\nOffline teacher rollouts plus IDM pseudo-actions lift novel-task success on RoboTwin and real bimanual arms without…\n\nhttps://mechafeed.com/blog/vid2wam-video-diffusion-distill/\n\n#AI #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=Vid2WAM%20Distills%20Video%20Diffusion%20Into%20a%20Compact%20World-Action%20Student%0A%0AOffline%20teacher%20rollouts%20plus%20IDM%20pseudo-actions%20lift%20novel-task%20success%20on%20RoboTwin%20and%20real%20bimanual%20arms%20without%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fvid2wam-video-diffusion-distill%2F%0A%0A%23AI%20%23Humanoids",
       "chars": 263
+    },
+    {
+      "id": "wireless-reconfigurable-hrc-5g",
+      "title": "Wireless 5G Workcells Cut the Cabling Tax on Human–Robot Cells",
+      "pubDate": "2026-08-11",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/wireless-reconfigurable-hrc-5g/",
+      "tweet": "Wireless 5G Workcells Cut the Cabling Tax on Human–Robot Cells\n\nIROS 2026 paper shows a battery multi-sensor platform and edge CV over 5G, with hand detection mAP 97.7% and RTT down…\n\nhttps://mechafeed.com/blog/wireless-reconfigurable-hrc-5g/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Wireless%205G%20Workcells%20Cut%20the%20Cabling%20Tax%20on%20Human%E2%80%93Robot%20Cells%0A%0AIROS%202026%20paper%20shows%20a%20battery%20multi-sensor%20platform%20and%20edge%20CV%20over%205G%2C%20with%20hand%20detection%20mAP%2097.7%25%20and%20RTT%20down%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fwireless-reconfigurable-hrc-5g%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 264
     },
     {
       "id": "xpolicylab-robot-policy-ecosystem",

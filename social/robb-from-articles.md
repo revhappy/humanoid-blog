@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-11T16:06:49.746Z
+Generated: 2026-08-11T21:07:00.034Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -49,6 +49,28 @@ I'm watching the impedance and bandwidth numbers more than the marketing torque.
 I'm watching the impedance and bandwidth numbers more than the marketing torque.  If motor-current force estimation works on this stack without a wrist F/T sensor, that is the practical win — fewer ca…
 
 https://mechafeed.com/blog/ddd-gripper-ultra-low-impedance/
+```
+
+---
+
+## HarnessWAM Adds Planning Memory on Top of World Action Models
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/harnesswam-deliberation-wam/
+
+### SOLO (no link)
+
+```
+I am glad someone wrote “the model is fine; the loop is wrong” without pretending the WAM itself grew a hippocampus.  Projection is the star: open language plans that cannot be grounded in executable skills are just confident fiction.
+```
+
+### SOFT-LINK variant
+
+```
+I am glad someone wrote “the model is fine; the loop is wrong” without pretending the WAM itself grew a hippocampus.  Projection is the star: open language plans that cannot be grounded in executable …
+
+https://mechafeed.com/blog/harnesswam-deliberation-wam/
 ```
 
 ---
@@ -119,6 +141,94 @@ https://mechafeed.com/blog/peel-disassembly-planning/
 
 ---
 
+## RoboSeg Maps Handles and Spouts From One Wrist Camera
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/roboseg-part-level-semantic/
+
+### SOLO (no link)
+
+```
+Semantic indexing on top of an off-the-shelf grasp detector is the right layering.  You keep AnyGrasp for geometry and use the part map as a filter — that is how I want factory cells to grow features without rewriting the whole stack.
+```
+
+### SOFT-LINK variant
+
+```
+Semantic indexing on top of an off-the-shelf grasp detector is the right layering.  You keep AnyGrasp for geometry and use the part map as a filter — that is how I want factory cells to grow features …
+
+https://mechafeed.com/blog/roboseg-part-level-semantic/
+```
+
+---
+
+## CMU Team Captures Real Clinician Bathing Demos for Soft-Hand Transfer
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/robot-assisted-bathing-demo-transfer/
+
+### SOLO (no link)
+
+```
+This is the kind of dataset I want more of: messy, contact-rich, clinician-sourced, with the failure modes written down.  Contact as a processing primitive is an elegant way around glove-vs-skin geometry fights.
+```
+
+### SOFT-LINK variant
+
+```
+This is the kind of dataset I want more of: messy, contact-rich, clinician-sourced, with the failure modes written down.  Contact as a processing primitive is an elegant way around glove-vs-skin geometry fights.
+
+https://mechafeed.com/blog/robot-assisted-bathing-demo-transfer/
+```
+
+---
+
+## RynnValue Turns Timestamps Into Robot Rewards at 7,000 Hours Scale
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/rynnvalue-temporal-distance-reward/
+
+### SOLO (no link)
+
+```
+Preference farms were always going to lose to anything you can stamp from a clock.  Temporal distance is an old control idea, and the contribution is the engineering that makes it work across heterogeneous robots without inventing a progress scale per dataset.
+```
+
+### SOFT-LINK variant
+
+```
+Preference farms were always going to lose to anything you can stamp from a clock.  Temporal distance is an old control idea, and the contribution is the engineering that makes it work across heteroge…
+
+https://mechafeed.com/blog/rynnvalue-temporal-distance-reward/
+```
+
+---
+
+## Seeed’s reBot Arm Opens the Full CAD, BOM, and LeRobot Stack
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/seeed-rebot-devarm-open-source/
+
+### SOLO (no link)
+
+```
+I like when the open-source claim survives a BOM audit.  Screw links, motor IDs, and a leader-arm SKU are the receipts that separate a real developer platform from a render and a Discord.
+```
+
+### SOFT-LINK variant
+
+```
+I like when the open-source claim survives a BOM audit.  Screw links, motor IDs, and a leader-arm SKU are the receipts that separate a real developer platform from a render and a Discord.
+
+https://mechafeed.com/blog/seeed-rebot-devarm-open-source/
+```
+
+---
+
 ## SLIM-0.5B Packs Action-Grounded Latents Into a Compact Robot Policy
 
 - Author on blog: Robb Harlan
@@ -159,6 +269,28 @@ The interesting claim is that future supervision does not have to be a logged ex
 The interesting claim is that future supervision does not have to be a logged expert trajectory.  If that holds outside the authors' teacher finetune, video models become offline data factories for po…
 
 https://mechafeed.com/blog/vid2wam-video-diffusion-distill/
+```
+
+---
+
+## Wireless 5G Workcells Cut the Cabling Tax on Human–Robot Cells
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/wireless-reconfigurable-hrc-5g/
+
+### SOLO (no link)
+
+```
+If your cell moves every week, copper is a tax.  Twelve-millisecond RTT and nearly 98% hand mAP are the numbers that make this more than a 5G brochure: they are in the same conversation as safety-grade co-location, not just telemetry.
+```
+
+### SOFT-LINK variant
+
+```
+If your cell moves every week, copper is a tax.  Twelve-millisecond RTT and nearly 98% hand mAP are the numbers that make this more than a 5G brochure: they are in the same conversation as safety-grad…
+
+https://mechafeed.com/blog/wireless-reconfigurable-hrc-5g/
 ```
 
 ---
