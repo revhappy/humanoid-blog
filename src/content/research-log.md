@@ -1907,3 +1907,8 @@ pm run verify-media:today — 0 errors, 0 warnings on 14 today posts incl. morni
 - **Build:** PASS (205 pages)
 - **Push:** pending
 
+
+- **Push:** SUCCESS (`78fd5b3`  origin/main)
+- **Failures:** none; solid candidates 8 of target 8
+- **X list accessible?** Partial/noisy (disclosed)
+
