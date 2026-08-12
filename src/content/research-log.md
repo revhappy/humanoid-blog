@@ -2145,4 +2145,6 @@ pm run verify-media:today - 0 errors, 0 warnings on 14 today posts incl. morning
 - **Vision gate:** PASS — tcam (Velcro gripper + wrist cameras + CAD), rhoas (KUKA precision + agility + shadow assist), semantic-3dgs (Go2 platform + drawer/banana sequence + tabletop tasks), fact (architecture with dual-arm stills + five real tasks + failure-future compare), boost (UR3 kitchen bars + framework + cross-domain skills), crowd-follow (CrowdNav qualitative + policy diagram)
 - **Social:** tweets 212 drafts; robb-x refreshed
 - **Build:** PASS (225 pages)
-- **Push:** pending
+- **Push:** SUCCESS (`c0ced58` → origin/main)
+- **Failures:** none; solid candidates 6 of target 6
+- **X list accessible?** Partial/noisy (disclosed)
