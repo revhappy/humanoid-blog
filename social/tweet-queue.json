@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T16:08:34.105Z",
+  "generatedAt": "2026-08-12T21:14:23.154Z",
   "site": "https://mechafeed.com/",
   "posts": [
     {
@@ -13,6 +13,16 @@
       "chars": 271
     },
     {
+      "id": "boost-skill-transfer",
+      "title": "BooST Moves Franka Skills Onto a UR3 From Five Demos",
+      "pubDate": "2026-08-12",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/boost-skill-transfer/",
+      "tweet": "BooST Moves Franka Skills Onto a UR3 From Five Demos\n\nSeoul National’s skill codebook bridges what and how, then a 60 Hz policy adapts across action spaces.\n\nhttps://mechafeed.com/blog/boost-skill-transfer/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=BooST%20Moves%20Franka%20Skills%20Onto%20a%20UR3%20From%20Five%20Demos%0A%0ASeoul%20National%E2%80%99s%20skill%20codebook%20bridges%20what%20and%20how%2C%20then%20a%2060%20Hz%20policy%20adapts%20across%20action%20spaces.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fboost-skill-transfer%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 222
+    },
+    {
       "id": "casbot-hands-l1-d1-m1",
       "title": "CASBOT Hands Splits Off Three Dexterous Hands, Plus a Tendon Preview",
       "pubDate": "2026-08-12",
@@ -20,6 +30,26 @@
       "url": "https://mechafeed.com/blog/casbot-hands-l1-d1-m1/",
       "tweet": "CASBOT Hands Splits Off Three Dexterous Hands, Plus a Tendon Preview\n\nZhongke Huisi launched L1, D1, and M1 hands in Changsha, with an F-series tendon preview and a $2,700 L1 listing.\n\nhttps://mechafeed.com/blog/casbot-hands-l1-d1-m1/\n\n#Robotics #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=CASBOT%20Hands%20Splits%20Off%20Three%20Dexterous%20Hands%2C%20Plus%20a%20Tendon%20Preview%0A%0AZhongke%20Huisi%20launched%20L1%2C%20D1%2C%20and%20M1%20hands%20in%20Changsha%2C%20with%20an%20F-series%20tendon%20preview%20and%20a%20%242%2C700%20L1%20listing.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcasbot-hands-l1-d1-m1%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 256
+    },
+    {
+      "id": "crowd-follow-safety",
+      "title": "A Follower Robot That Lets You Dial ‘Don’t Hit People’ vs ‘Don’t Lose Them’",
+      "pubDate": "2026-08-12",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/crowd-follow-safety/",
+      "tweet": "A Follower Robot That Lets You Dial ‘Don’t Hit People’ vs ‘Don’t Lose Them’\n\nAn IROS 2026 paper splits crowd-following into cost constraints and deploys it zero-shot on a ROSMASTER X3.\n\nhttps://mechafeed.com/blog/crowd-follow-safety/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=A%20Follower%20Robot%20That%20Lets%20You%20Dial%20%E2%80%98Don%E2%80%99t%20Hit%20People%E2%80%99%20vs%20%E2%80%98Don%E2%80%99t%20Lose%20Them%E2%80%99%0A%0AAn%20IROS%202026%20paper%20splits%20crowd-following%20into%20cost%20constraints%20and%20deploys%20it%20zero-shot%20on%20a%20ROSMASTER%20X3.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcrowd-follow-safety%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 255
+    },
+    {
+      "id": "fact-wam-failure-aware",
+      "title": "FACT Trains World-Action Models on Failures Without Copying Bad Moves",
+      "pubDate": "2026-08-12",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/fact-wam-failure-aware/",
+      "tweet": "FACT Trains World-Action Models on Failures Without Copying Bad Moves\n\nUC San Diego’s causal WAM uses failed rollouts as consequence labels and lifts real bimanual success from 82% to 89%.\n\nhttps://mechafeed.com/blog/fact-wam-failure-aware/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=FACT%20Trains%20World-Action%20Models%20on%20Failures%20Without%20Copying%20Bad%20Moves%0A%0AUC%20San%20Diego%E2%80%99s%20causal%20WAM%20uses%20failed%20rollouts%20as%20consequence%20labels%20and%20lifts%20real%20bimanual%20success%20from%2082%25%20to%2089%25.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffact-wam-failure-aware%2F%0A%0A%23AI%20%23Humanoids",
       "chars": 256
     },
     {
@@ -73,6 +103,26 @@
       "chars": 273
     },
     {
+      "id": "rhoas-hand-guiding",
+      "title": "KUKA’s RHOAS Makes Hand-Guiding Push Back Without a Wrist Sensor",
+      "pubDate": "2026-08-12",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/rhoas-hand-guiding/",
+      "tweet": "KUKA’s RHOAS Makes Hand-Guiding Push Back Without a Wrist Sensor\n\nA 16-person study on a LWR iiwa shows observer-based active support cuts effort and wins the agility test.\n\nhttps://mechafeed.com/blog/rhoas-hand-guiding/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=KUKA%E2%80%99s%20RHOAS%20Makes%20Hand-Guiding%20Push%20Back%20Without%20a%20Wrist%20Sensor%0A%0AA%2016-person%20study%20on%20a%20LWR%20iiwa%20shows%20observer-based%20active%20support%20cuts%20effort%20and%20wins%20the%20agility%20test.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frhoas-hand-guiding%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 242
+    },
+    {
+      "id": "semantic-3dgs-mobile-manip",
+      "title": "A Go2 With a Local 3D Gaussian Map Stops Grabbing Banana Photos",
+      "pubDate": "2026-08-12",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/semantic-3dgs-mobile-manip/",
+      "tweet": "A Go2 With a Local 3D Gaussian Map Stops Grabbing Banana Photos\n\nHKUST(GZ) and Midea put Semantic-3DGS on a Unitree quadruped and lift clutter success from 46% to 74%.\n\nhttps://mechafeed.com/blog/semantic-3dgs-mobile-manip/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=A%20Go2%20With%20a%20Local%203D%20Gaussian%20Map%20Stops%20Grabbing%20Banana%20Photos%0A%0AHKUST(GZ)%20and%20Midea%20put%20Semantic-3DGS%20on%20a%20Unitree%20quadruped%20and%20lift%20clutter%20success%20from%2046%25%20to%2074%25.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsemantic-3dgs-mobile-manip%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 245
+    },
+    {
       "id": "surgical-wam-data-efficient",
       "title": "Surgical WAM Turns Unlabeled Endoscopy Video Into Closed-Loop Control",
       "pubDate": "2026-08-12",
@@ -81,6 +131,16 @@
       "tweet": "Surgical WAM Turns Unlabeled Endoscopy Video Into Closed-Loop Control\n\nA Cosmos Policy WAM lifts SurRoL success from 63.5% to 77.8% after action-free video pretraining on a fixed label…\n\nhttps://mechafeed.com/blog/surgical-wam-data-efficient/\n\n#AI #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=Surgical%20WAM%20Turns%20Unlabeled%20Endoscopy%20Video%20Into%20Closed-Loop%20Control%0A%0AA%20Cosmos%20Policy%20WAM%20lifts%20SurRoL%20success%20from%2063.5%25%20to%2077.8%25%20after%20action-free%20video%20pretraining%20on%20a%20fixed%20label%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsurgical-wam-data-efficient%2F%0A%0A%23AI%20%23Humanoids",
       "chars": 258
+    },
+    {
+      "id": "tcam-wbcd-tshirt",
+      "title": "A Custom Gripper and Four Wrist Cameras Won WBCD’s T-Shirt Track",
+      "pubDate": "2026-08-12",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/tcam-wbcd-tshirt/",
+      "tweet": "A Custom Gripper and Four Wrist Cameras Won WBCD’s T-Shirt Track\n\nTermiTech’s RMC2 team loaded 25 shirts in ~23 seconds each at ICRA’s deformable-manipulation challenge.\n\nhttps://mechafeed.com/blog/tcam-wbcd-tshirt/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=A%20Custom%20Gripper%20and%20Four%20Wrist%20Cameras%20Won%20WBCD%E2%80%99s%20T-Shirt%20Track%0A%0ATermiTech%E2%80%99s%20RMC2%20team%20loaded%2025%20shirts%20in%20~23%20seconds%20each%20at%20ICRA%E2%80%99s%20deformable-manipulation%20challenge.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftcam-wbcd-tshirt%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 237
     },
     {
       "id": "adadexgrasp-visuo-tactile",

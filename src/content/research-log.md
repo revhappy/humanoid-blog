@@ -2072,3 +2072,77 @@ pm run verify-media:today - 0 errors, 0 warnings on 14 today posts incl. morning
 - **Push:** SUCCESS (`82038bd` → origin/main)
 - **Failures:** none; solid candidates 8 of target 8
 - **X list accessible?** Partial/noisy (disclosed)
+
+## 2026-08-12 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-12
+- git pull --rebase origin main: already up to date
+- Morning already published 8 posts (casbot-hands, nucleus-robotics, flex-pi, surgical-wam, confined-space, bimanual-grasp, gated-vla, hip-hopping) — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **Access quality: PARTIAL / NOISY** (disclosed). Keyword search mixed Flex-π / Dyna-2 recirculation, AutoFAB clip, spam. Proceeded with public X semantic + web + arXiv cs.RO new listings (Wed 12 Aug leftovers).
+
+### X List Scan
+- Flex-π / Jesse Zhang / Ge Yan threads — **SKIP: already covered** this morning
+- Dyna-2 recirculation — **SKIP: already covered**
+- DOBOT LUMO recirculation — **SKIP: already covered**
+- AGIBot G2 livestream — **SKIP: already covered**
+- Digit V5 Forbes — **SKIP: already covered**
+- LightOrigins clipped-leg — **SKIP: thin primary** (same as morning)
+- Duatic Alpha TU/e unboxing — **SKIP: not a new product; March 2026 robot, lab delivery only**
+- AutoFAB world-model R2S2R clip — **SKIP: thin primary**
+- Realbotix Q3 earnings — **SKIP: business / off mix**
+- TALUS Army logistics contract (Robot Report Aug 12) — **SKIP: not humanoid / business-adjacent**
+- Spam / non-robot filtered
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** TCAM / RMC2 champion T-shirt loader — arXiv:2608.10718 + WBCD site — lane: **build**
+2. **[CANDIDATE/WRITTEN]** RHOAS observer-based hand-guiding — arXiv:2608.10847 + ancillary video — lane: **build**
+3. **[CANDIDATE/WRITTEN]** Semantic-3DGS mobile manipulation on Go2 — arXiv:2608.10756 ACM MM 2026 + alphaXiv — lane: **build**
+4. **[CANDIDATE/WRITTEN]** FACT failure-aware WAM — arXiv:2608.10232 + fact-wam.github.io — lane: **build**
+5. **[CANDIDATE/WRITTEN]** BooST skill transfer — arXiv:2608.10600 + boost-robots.github.io — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Crowd-following constraint RL — arXiv:2608.10056 IROS 2026 + project page — lane: **build**
+7. **[SKIP: already covered morning]** Confined-space WBP, bimanual grasp, hip hopping, gated VLA-cache, Flex-π, Surgical WAM, CASBOT, Nucleus
+8. **[SKIP: batch full / secondary]** SALT / Lost-in-Reconstruction, PBD-AG, AECNav, DURA VLA attack, robot recomposition, fabric destacking ICMA
+9. **[SKIP: business under mix]** Realbotix earnings, TALUS contract, 370B humanoid-design essay, Unitree IPO recirculation
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | tcam-wbcd-tshirt | Shar Hendrix | Robotics | build |
+| 2 | rhoas-hand-guiding | Robb Harlan | Robotics | build |
+| 3 | semantic-3dgs-mobile-manip | Shar Hendrix | Robotics | build |
+| 4 | fact-wam-failure-aware | Robb Harlan | AI | build |
+| 5 | boost-skill-transfer | Shar Hendrix | AI | build |
+| 6 | crowd-follow-safety | Robb Harlan | Robotics | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary depth: **6** | Writing: **6**
+- Soft floor 2 met; hit target (WBCD champion hardware + KUKA hand-guiding + Go2 3DGS + three leftover Aug 10–11 arXiv build papers morning skipped)
+
+### Notes for Future Agents
+- TCAM: alignment-demo expansion; autonomous abort vs human run-management
+- RHOAS: second cobot brand; gravity-axis assistance
+- Semantic-3DGS: onboard Orin, refresh during motion
+- FACT: third-party real-robot scoring replication
+- BooST: independent UR3 / non-kitchen transfer
+- Crowd-follow: week-long log on a heavier platform
+- Do not rehash this afternoon six tomorrow morning
+
+### Run summary
+- **Articles published (6):** tcam-wbcd-tshirt, rhoas-hand-guiding, semantic-3dgs-mobile-manip, fact-wam-failure-aware, boost-skill-transfer, crowd-follow-safety
+- **X list accessible?** Partial/noisy (N for clean feed; disclosed)
+- **Media verify:** pending
+- **Vision gate:** pending
+- **Social:** pending
+- **Push:** pending
+
+#### Afternoon finalize (2026-08-12)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 today posts incl. morning 8 + afternoon 6)
+- **Vision gate:** PASS — tcam (Velcro gripper + wrist cameras + CAD), rhoas (KUKA precision + agility + shadow assist), semantic-3dgs (Go2 platform + drawer/banana sequence + tabletop tasks), fact (architecture with dual-arm stills + five real tasks + failure-future compare), boost (UR3 kitchen bars + framework + cross-domain skills), crowd-follow (CrowdNav qualitative + policy diagram)
+- **Social:** tweets 212 drafts; robb-x refreshed
+- **Build:** PASS (225 pages)
+- **Push:** pending

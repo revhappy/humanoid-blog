@@ -14,8 +14,8 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-12T16:08:34.105Z
-Posts: 206
+Generated: 2026-08-12T21:14:23.154Z
+Posts: 212
 
 ---
 
@@ -40,6 +40,27 @@ https://mechafeed.com/blog/bimanual-dexterous-grasp-single-view/
 
 ---
 
+## BooST Moves Franka Skills Onto a UR3 From Five Demos
+
+- **Slug:** `boost-skill-transfer`
+- **Date:** 2026-08-12
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/boost-skill-transfer/
+- **Chars:** 222/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=BooST%20Moves%20Franka%20Skills%20Onto%20a%20UR3%20From%20Five%20Demos%0A%0ASeoul%20National%E2%80%99s%20skill%20codebook%20bridges%20what%20and%20how%2C%20then%20a%2060%20Hz%20policy%20adapts%20across%20action%20spaces.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fboost-skill-transfer%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+BooST Moves Franka Skills Onto a UR3 From Five Demos
+
+Seoul National’s skill codebook bridges what and how, then a 60 Hz policy adapts across action spaces.
+
+https://mechafeed.com/blog/boost-skill-transfer/
+
+#AI #Humanoids
+```
+
+---
+
 ## CASBOT Hands Splits Off Three Dexterous Hands, Plus a Tendon Preview
 
 - **Slug:** `casbot-hands-l1-d1-m1`
@@ -57,6 +78,48 @@ Zhongke Huisi launched L1, D1, and M1 hands in Changsha, with an F-series tendon
 https://mechafeed.com/blog/casbot-hands-l1-d1-m1/
 
 #Robotics #Humanoids
+```
+
+---
+
+## A Follower Robot That Lets You Dial ‘Don’t Hit People’ vs ‘Don’t Lose Them’
+
+- **Slug:** `crowd-follow-safety`
+- **Date:** 2026-08-12
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/crowd-follow-safety/
+- **Chars:** 255/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20Follower%20Robot%20That%20Lets%20You%20Dial%20%E2%80%98Don%E2%80%99t%20Hit%20People%E2%80%99%20vs%20%E2%80%98Don%E2%80%99t%20Lose%20Them%E2%80%99%0A%0AAn%20IROS%202026%20paper%20splits%20crowd-following%20into%20cost%20constraints%20and%20deploys%20it%20zero-shot%20on%20a%20ROSMASTER%20X3.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcrowd-follow-safety%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+A Follower Robot That Lets You Dial ‘Don’t Hit People’ vs ‘Don’t Lose Them’
+
+An IROS 2026 paper splits crowd-following into cost constraints and deploys it zero-shot on a ROSMASTER X3.
+
+https://mechafeed.com/blog/crowd-follow-safety/
+
+#Robotics #Humanoids
+```
+
+---
+
+## FACT Trains World-Action Models on Failures Without Copying Bad Moves
+
+- **Slug:** `fact-wam-failure-aware`
+- **Date:** 2026-08-12
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/fact-wam-failure-aware/
+- **Chars:** 256/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FACT%20Trains%20World-Action%20Models%20on%20Failures%20Without%20Copying%20Bad%20Moves%0A%0AUC%20San%20Diego%E2%80%99s%20causal%20WAM%20uses%20failed%20rollouts%20as%20consequence%20labels%20and%20lifts%20real%20bimanual%20success%20from%2082%25%20to%2089%25.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffact-wam-failure-aware%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+FACT Trains World-Action Models on Failures Without Copying Bad Moves
+
+UC San Diego’s causal WAM uses failed rollouts as consequence labels and lifts real bimanual success from 82% to 89%.
+
+https://mechafeed.com/blog/fact-wam-failure-aware/
+
+#AI #Humanoids
 ```
 
 ---
@@ -166,6 +229,48 @@ https://mechafeed.com/blog/nucleus-robotics-factory-labor/
 
 ---
 
+## KUKA’s RHOAS Makes Hand-Guiding Push Back Without a Wrist Sensor
+
+- **Slug:** `rhoas-hand-guiding`
+- **Date:** 2026-08-12
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/rhoas-hand-guiding/
+- **Chars:** 242/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=KUKA%E2%80%99s%20RHOAS%20Makes%20Hand-Guiding%20Push%20Back%20Without%20a%20Wrist%20Sensor%0A%0AA%2016-person%20study%20on%20a%20LWR%20iiwa%20shows%20observer-based%20active%20support%20cuts%20effort%20and%20wins%20the%20agility%20test.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frhoas-hand-guiding%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+KUKA’s RHOAS Makes Hand-Guiding Push Back Without a Wrist Sensor
+
+A 16-person study on a LWR iiwa shows observer-based active support cuts effort and wins the agility test.
+
+https://mechafeed.com/blog/rhoas-hand-guiding/
+
+#Robotics #Humanoids
+```
+
+---
+
+## A Go2 With a Local 3D Gaussian Map Stops Grabbing Banana Photos
+
+- **Slug:** `semantic-3dgs-mobile-manip`
+- **Date:** 2026-08-12
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/semantic-3dgs-mobile-manip/
+- **Chars:** 245/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20Go2%20With%20a%20Local%203D%20Gaussian%20Map%20Stops%20Grabbing%20Banana%20Photos%0A%0AHKUST(GZ)%20and%20Midea%20put%20Semantic-3DGS%20on%20a%20Unitree%20quadruped%20and%20lift%20clutter%20success%20from%2046%25%20to%2074%25.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsemantic-3dgs-mobile-manip%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+A Go2 With a Local 3D Gaussian Map Stops Grabbing Banana Photos
+
+HKUST(GZ) and Midea put Semantic-3DGS on a Unitree quadruped and lift clutter success from 46% to 74%.
+
+https://mechafeed.com/blog/semantic-3dgs-mobile-manip/
+
+#Robotics #Humanoids
+```
+
+---
+
 ## Surgical WAM Turns Unlabeled Endoscopy Video Into Closed-Loop Control
 
 - **Slug:** `surgical-wam-data-efficient`
@@ -183,6 +288,27 @@ A Cosmos Policy WAM lifts SurRoL success from 63.5% to 77.8% after action-free v
 https://mechafeed.com/blog/surgical-wam-data-efficient/
 
 #AI #Humanoids
+```
+
+---
+
+## A Custom Gripper and Four Wrist Cameras Won WBCD’s T-Shirt Track
+
+- **Slug:** `tcam-wbcd-tshirt`
+- **Date:** 2026-08-12
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/tcam-wbcd-tshirt/
+- **Chars:** 237/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20Custom%20Gripper%20and%20Four%20Wrist%20Cameras%20Won%20WBCD%E2%80%99s%20T-Shirt%20Track%0A%0ATermiTech%E2%80%99s%20RMC2%20team%20loaded%2025%20shirts%20in%20~23%20seconds%20each%20at%20ICRA%E2%80%99s%20deformable-manipulation%20challenge.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftcam-wbcd-tshirt%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+A Custom Gripper and Four Wrist Cameras Won WBCD’s T-Shirt Track
+
+TermiTech’s RMC2 team loaded 25 shirts in ~23 seconds each at ICRA’s deformable-manipulation challenge.
+
+https://mechafeed.com/blog/tcam-wbcd-tshirt/
+
+#Robotics #Humanoids
 ```
 
 ---

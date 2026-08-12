@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-12T16:08:34.783Z
+Generated: 2026-08-12T21:14:39.564Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -31,6 +31,28 @@ https://mechafeed.com/blog/bimanual-dexterous-grasp-single-view/
 
 ---
 
+## BooST Moves Franka Skills Onto a UR3 From Five Demos
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/boost-skill-transfer/
+
+### SOLO (no link)
+
+```
+Five demos on a different arm, after pretraining in a different action space, is the receipt I wanted.  Reconstructing actions instead of pixels is a small, stubborn design choice that shows up in the distractor table.
+```
+
+### SOFT-LINK variant
+
+```
+Five demos on a different arm, after pretraining in a different action space, is the receipt I wanted.  Reconstructing actions instead of pixels is a small, stubborn design choice that shows up in the distractor table.
+
+https://mechafeed.com/blog/boost-skill-transfer/
+```
+
+---
+
 ## CASBOT Hands Splits Off Three Dexterous Hands, Plus a Tendon Preview
 
 - Author on blog: Shar Hendrix
@@ -49,6 +71,50 @@ I like that they launched a lineup instead of one hero hand with a DoF number on
 I like that they launched a lineup instead of one hero hand with a DoF number on the slide.  L1 already has a job (play a real guitar in public), D1 and M1 have different mechanical stories, and the F…
 
 https://mechafeed.com/blog/casbot-hands-l1-d1-m1/
+```
+
+---
+
+## A Follower Robot That Lets You Dial ‘Don’t Hit People’ vs ‘Don’t Lose Them’
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/crowd-follow-safety/
+
+### SOLO (no link)
+
+```
+I have watched too many “social navigation” demos that look fine until someone sprints.  Giving the operator two named knobs, proximity and collision, is more useful than another blended reward.
+```
+
+### SOFT-LINK variant
+
+```
+I have watched too many “social navigation” demos that look fine until someone sprints.  Giving the operator two named knobs, proximity and collision, is more useful than another blended reward.
+
+https://mechafeed.com/blog/crowd-follow-safety/
+```
+
+---
+
+## FACT Trains World-Action Models on Failures Without Copying Bad Moves
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/fact-wam-failure-aware/
+
+### SOLO (no link)
+
+```
+Throwing away failed rollouts is how you train a liar.  FACT’s mask is the unglamorous part I trust: do not clone the miss, do learn what the miss looked like.
+```
+
+### SOFT-LINK variant
+
+```
+Throwing away failed rollouts is how you train a liar.  FACT’s mask is the unglamorous part I trust: do not clone the miss, do learn what the miss looked like.
+
+https://mechafeed.com/blog/fact-wam-failure-aware/
 ```
 
 ---
@@ -163,6 +229,50 @@ https://mechafeed.com/blog/nucleus-robotics-factory-labor/
 
 ---
 
+## KUKA’s RHOAS Makes Hand-Guiding Push Back Without a Wrist Sensor
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/rhoas-hand-guiding/
+
+### SOLO (no link)
+
+```
+If you are paying people to drag a 7-DoF arm for a dataset, the interesting number is not a new imitation-learning score.  It is whether the operator is still accurate on hour three.
+```
+
+### SOFT-LINK variant
+
+```
+If you are paying people to drag a 7-DoF arm for a dataset, the interesting number is not a new imitation-learning score.  It is whether the operator is still accurate on hour three.
+
+https://mechafeed.com/blog/rhoas-hand-guiding/
+```
+
+---
+
+## A Go2 With a Local 3D Gaussian Map Stops Grabbing Banana Photos
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/semantic-3dgs-mobile-manip/
+
+### SOLO (no link)
+
+```
+The photo-banana result is the one I will quote.  A VLA that cannot tell a fruit from a screen is not ready for a kitchen, and a 3D field that you rebuild from four wrist shots is a practical fix, not a new foundation model.
+```
+
+### SOFT-LINK variant
+
+```
+The photo-banana result is the one I will quote.  A VLA that cannot tell a fruit from a screen is not ready for a kitchen, and a 3D field that you rebuild from four wrist shots is a practical fix, not a new foundation model.
+
+https://mechafeed.com/blog/semantic-3dgs-mobile-manip/
+```
+
+---
+
 ## Surgical WAM Turns Unlabeled Endoscopy Video Into Closed-Loop Control
 
 - Author on blog: Robb Harlan
@@ -181,6 +291,28 @@ This is the right bottleneck to attack.  OR kinematics cost a specialist and a c
 This is the right bottleneck to attack.  OR kinematics cost a specialist and a console; endoscopy already exists by the terabyte.
 
 https://mechafeed.com/blog/surgical-wam-data-efficient/
+```
+
+---
+
+## A Custom Gripper and Four Wrist Cameras Won WBCD’s T-Shirt Track
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/tcam-wbcd-tshirt/
+
+### SOLO (no link)
+
+```
+I like that they treated the gripper as part of the learning problem.  Velcro and a cheap camera aimed at the pinch are not glamorous, and they are why 22 of 25 shirts were flat enough to print.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they treated the gripper as part of the learning problem.  Velcro and a cheap camera aimed at the pinch are not glamorous, and they are why 22 of 25 shirts were flat enough to print.
+
+https://mechafeed.com/blog/tcam-wbcd-tshirt/
 ```
 
 ---
