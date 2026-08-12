@@ -2069,4 +2069,6 @@ pm run verify-media:today - 0 errors, 0 warnings on 14 today posts incl. morning
 - **Vision gate:** PASS — casbot (BAND + L1 display table), nucleus (warehouse G1s + Konecranes aisle + shelf demo), flex-pi (YAM workcell teaser + real-task bars), surgical-wam (peg-transfer sim + architecture + JIGSAWS frames), confined-space (G1 hole sequence + NIST diagrams), bimanual-grasp (H1-2 + objects hero; bin enclosure body), gated-vla (cache vs full recompute + LIBERO suites), hip-hopping (Jerboa hardware + SLIP diagram)
 - **Social:** tweets 206 drafts; robb-x refreshed
 - **Build:** PASS (219 pages)
-- **Push:** pending
+- **Push:** SUCCESS (`82038bd` → origin/main)
+- **Failures:** none; solid candidates 8 of target 8
+- **X list accessible?** Partial/noisy (disclosed)
