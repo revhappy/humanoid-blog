@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-11T21:07:00.034Z
+Generated: 2026-08-12T16:08:34.783Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Two Dexterous Hands, One Depth Frame: Real Bimanual Lifts Hit 73%
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/bimanual-dexterous-grasp-single-view/
+
+### SOLO (no link)
+
+```
+73% on unseen bins from one head camera is the kind of receipt I want from “bimanual dexterity. ” The force close is doing a lot of the work, and that is fine.
+```
+
+### SOFT-LINK variant
+
+```
+73% on unseen bins from one head camera is the kind of receipt I want from “bimanual dexterity. ” The force close is doing a lot of the work, and that is fine.
+
+https://mechafeed.com/blog/bimanual-dexterous-grasp-single-view/
+```
+
+---
+
+## CASBOT Hands Splits Off Three Dexterous Hands, Plus a Tendon Preview
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/casbot-hands-l1-d1-m1/
+
+### SOLO (no link)
+
+```
+I like that they launched a lineup instead of one hero hand with a DoF number on the slide.  L1 already has a job (play a real guitar in public), D1 and M1 have different mechanical stories, and the F-series preview is honest about still being research.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they launched a lineup instead of one hero hand with a DoF number on the slide.  L1 already has a job (play a real guitar in public), D1 and M1 have different mechanical stories, and the F…
+
+https://mechafeed.com/blog/casbot-hands-l1-d1-m1/
+```
+
+---
+
+## Flex-π Predicts RGB, Depth, and DINO Futures From One Checkpoint
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/flex-pi-world-action-model/
+
+### SOLO (no link)
+
+```
+The part that made me sit up is not another 6B WAM.  It is that the same frozen video VAE already “sees” pointmaps, so they get geometry supervision without a depth camera at deploy.
+```
+
+### SOFT-LINK variant
+
+```
+The part that made me sit up is not another 6B WAM.  It is that the same frozen video VAE already “sees” pointmaps, so they get geometry supervision without a depth camera at deploy.
+
+https://mechafeed.com/blog/flex-pi-world-action-model/
+```
+
+---
+
+## Gated VLA-Cache Recomputes Only When the Policy Sounds Unsure
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/gated-vla-cache-introspection/
+
+### SOLO (no link)
+
+```
+Recompute when the policy is arguing with itself is a grown-up cache.  I like that it is training-free and that it mostly sleeps when OFT is already calm.
+```
+
+### SOFT-LINK variant
+
+```
+Recompute when the policy is arguing with itself is a grown-up cache.  I like that it is training-free and that it mostly sleeps when OFT is already calm.
+
+https://mechafeed.com/blog/gated-vla-cache-introspection/
+```
+
+---
+
+## Penn Jerboa Hops at 8.85 Leg-Lengths per Second on Hip Torque Alone
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/hip-energized-monopedal-hopping/
+
+### SOLO (no link)
+
+```
+I have a soft spot for machines that do a lot with one hip motor.  Recruiting the pitch loop as a free energy pump is a clever piece of underactuated accounting, and 8.
+```
+
+### SOFT-LINK variant
+
+```
+I have a soft spot for machines that do a lot with one hip motor.  Recruiting the pitch loop as a free energy pump is a clever piece of underactuated accounting, and 8.
+
+https://mechafeed.com/blog/hip-energized-monopedal-hopping/
+```
+
+---
+
+## UT Austin Walks a G1 Through Holes Tighter Than NIST Specs
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/humanoid-confined-space-planning/
+
+### SOLO (no link)
+
+```
+Confined space is the job humanoids keep promising and rarely show.  Planning over volumes instead of points is the right geometry.
+```
+
+### SOFT-LINK variant
+
+```
+Confined space is the job humanoids keep promising and rarely show.  Planning over volumes instead of points is the right geometry.
+
+https://mechafeed.com/blog/humanoid-confined-space-planning/
+```
+
+---
+
+## Nucleus Puts Supervised G1s on a German Floor and Bills by the Hour
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/nucleus-robotics-factory-labor/
+
+### SOLO (no link)
+
+```
+Billing labor by the hour is the honest product.  The G1 in a branded suit is not a new robot, and I do not care.
+```
+
+### SOFT-LINK variant
+
+```
+Billing labor by the hour is the honest product.  The G1 in a branded suit is not a new robot, and I do not care.
+
+https://mechafeed.com/blog/nucleus-robotics-factory-labor/
+```
+
+---
+
+## Surgical WAM Turns Unlabeled Endoscopy Video Into Closed-Loop Control
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/surgical-wam-data-efficient/
+
+### SOLO (no link)
+
+```
+This is the right bottleneck to attack.  OR kinematics cost a specialist and a console; endoscopy already exists by the terabyte.
+```
+
+### SOFT-LINK variant
+
+```
+This is the right bottleneck to attack.  OR kinematics cost a specialist and a console; endoscopy already exists by the terabyte.
+
+https://mechafeed.com/blog/surgical-wam-data-efficient/
+```
 
 ---
 

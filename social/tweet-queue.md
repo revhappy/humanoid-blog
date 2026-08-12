@@ -14,8 +14,176 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-11T21:06:57.591Z
-Posts: 198
+Generated: 2026-08-12T16:08:34.105Z
+Posts: 206
+
+---
+
+## Two Dexterous Hands, One Depth Frame: Real Bimanual Lifts Hit 73%
+
+- **Slug:** `bimanual-dexterous-grasp-single-view`
+- **Date:** 2026-08-12
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/bimanual-dexterous-grasp-single-view/
+- **Chars:** 271/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Two%20Dexterous%20Hands%2C%20One%20Depth%20Frame%3A%20Real%20Bimanual%20Lifts%20Hit%2073%25%0A%0AChongqing%20and%20Auckland%20researchers%20lift%20bins%20and%20balls%20with%20an%20H1-2%20plus%20Inspire%20hands%20from%20a%20single%20RealSense%20view.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fbimanual-dexterous-grasp-single-view%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Two Dexterous Hands, One Depth Frame: Real Bimanual Lifts Hit 73%
+
+Chongqing and Auckland researchers lift bins and balls with an H1-2 plus Inspire hands from a single RealSense view.
+
+https://mechafeed.com/blog/bimanual-dexterous-grasp-single-view/
+
+#Robotics #Humanoids
+```
+
+---
+
+## CASBOT Hands Splits Off Three Dexterous Hands, Plus a Tendon Preview
+
+- **Slug:** `casbot-hands-l1-d1-m1`
+- **Date:** 2026-08-12
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/casbot-hands-l1-d1-m1/
+- **Chars:** 256/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=CASBOT%20Hands%20Splits%20Off%20Three%20Dexterous%20Hands%2C%20Plus%20a%20Tendon%20Preview%0A%0AZhongke%20Huisi%20launched%20L1%2C%20D1%2C%20and%20M1%20hands%20in%20Changsha%2C%20with%20an%20F-series%20tendon%20preview%20and%20a%20%242%2C700%20L1%20listing.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcasbot-hands-l1-d1-m1%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+CASBOT Hands Splits Off Three Dexterous Hands, Plus a Tendon Preview
+
+Zhongke Huisi launched L1, D1, and M1 hands in Changsha, with an F-series tendon preview and a $2,700 L1 listing.
+
+https://mechafeed.com/blog/casbot-hands-l1-d1-m1/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Flex-π Predicts RGB, Depth, and DINO Futures From One Checkpoint
+
+- **Slug:** `flex-pi-world-action-model`
+- **Date:** 2026-08-12
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/flex-pi-world-action-model/
+- **Chars:** 233/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Flex-%CF%80%20Predicts%20RGB%2C%20Depth%2C%20and%20DINO%20Futures%20From%20One%20Checkpoint%0A%0AUW%20and%20AI2%E2%80%99s%206B%20WAM%20beats%20%CF%800.5%20on%20real%20bimanual%20tasks%20and%20can%20drop%20to%20a%2060%20ms%20action-only%20mode.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fflex-pi-world-action-model%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Flex-π Predicts RGB, Depth, and DINO Futures From One Checkpoint
+
+UW and AI2’s 6B WAM beats π0.5 on real bimanual tasks and can drop to a 60 ms action-only mode.
+
+https://mechafeed.com/blog/flex-pi-world-action-model/
+
+#AI #Humanoids
+```
+
+---
+
+## Gated VLA-Cache Recomputes Only When the Policy Sounds Unsure
+
+- **Slug:** `gated-vla-cache-introspection`
+- **Date:** 2026-08-12
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/gated-vla-cache-introspection/
+- **Chars:** 258/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Gated%20VLA-Cache%20Recomputes%20Only%20When%20the%20Policy%20Sounds%20Unsure%0A%0AA%20training-free%20logit-margin%20gate%20recovers%20OpenVLA%20accuracy%20on%20LIBERO-Long%20while%20keeping%20about%2080%25%20of%20the%20cache%20savings.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgated-vla-cache-introspection%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Gated VLA-Cache Recomputes Only When the Policy Sounds Unsure
+
+A training-free logit-margin gate recovers OpenVLA accuracy on LIBERO-Long while keeping about 80% of the cache savings.
+
+https://mechafeed.com/blog/gated-vla-cache-introspection/
+
+#AI #Humanoids
+```
+
+---
+
+## Penn Jerboa Hops at 8.85 Leg-Lengths per Second on Hip Torque Alone
+
+- **Slug:** `hip-energized-monopedal-hopping`
+- **Date:** 2026-08-12
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/hip-energized-monopedal-hopping/
+- **Chars:** 269/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Penn%20Jerboa%20Hops%20at%208.85%20Leg-Lengths%20per%20Second%20on%20Hip%20Torque%20Alone%0A%0AKoditschek%E2%80%99s%20lab%20recruits%20pitch-stabilizing%20hip%20torque%20to%20replace%20tail%20energizing%2C%20with%20hardware%20speeds%20of%201.02%E2%80%931.77%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhip-energized-monopedal-hopping%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Penn Jerboa Hops at 8.85 Leg-Lengths per Second on Hip Torque Alone
+
+Koditschek’s lab recruits pitch-stabilizing hip torque to replace tail energizing, with hardware speeds of 1.02–1.77…
+
+https://mechafeed.com/blog/hip-energized-monopedal-hopping/
+
+#Robotics #Humanoids
+```
+
+---
+
+## UT Austin Walks a G1 Through Holes Tighter Than NIST Specs
+
+- **Slug:** `humanoid-confined-space-planning`
+- **Date:** 2026-08-12
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/humanoid-confined-space-planning/
+- **Chars:** 270/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=UT%20Austin%20Walks%20a%20G1%20Through%20Holes%20Tighter%20Than%20NIST%20Specs%0A%0AA%20three-stage%20whole-body%20planner%20plus%20residual%20RL%20threads%20a%20Unitree%20G1%20through%20Cr%20%3C%201.5%20openings%20where%20spline%20baselines%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhumanoid-confined-space-planning%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+UT Austin Walks a G1 Through Holes Tighter Than NIST Specs
+
+A three-stage whole-body planner plus residual RL threads a Unitree G1 through Cr < 1.5 openings where spline baselines…
+
+https://mechafeed.com/blog/humanoid-confined-space-planning/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Nucleus Puts Supervised G1s on a German Floor and Bills by the Hour
+
+- **Slug:** `nucleus-robotics-factory-labor`
+- **Date:** 2026-08-12
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/nucleus-robotics-factory-labor/
+- **Chars:** 273/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Nucleus%20Puts%20Supervised%20G1s%20on%20a%20German%20Floor%20and%20Bills%20by%20the%20Hour%0A%0AThe%20European%20startup%20left%20stealth%20Aug.%205%20after%20a%20sub-90-day%20factory%20deploy%20on%20Unitree%20G1s%2C%20selling%20labor%20instead%20of%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnucleus-robotics-factory-labor%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Nucleus Puts Supervised G1s on a German Floor and Bills by the Hour
+
+The European startup left stealth Aug. 5 after a sub-90-day factory deploy on Unitree G1s, selling labor instead of…
+
+https://mechafeed.com/blog/nucleus-robotics-factory-labor/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Surgical WAM Turns Unlabeled Endoscopy Video Into Closed-Loop Control
+
+- **Slug:** `surgical-wam-data-efficient`
+- **Date:** 2026-08-12
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/surgical-wam-data-efficient/
+- **Chars:** 258/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Surgical%20WAM%20Turns%20Unlabeled%20Endoscopy%20Video%20Into%20Closed-Loop%20Control%0A%0AA%20Cosmos%20Policy%20WAM%20lifts%20SurRoL%20success%20from%2063.5%25%20to%2077.8%25%20after%20action-free%20video%20pretraining%20on%20a%20fixed%20label%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsurgical-wam-data-efficient%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Surgical WAM Turns Unlabeled Endoscopy Video Into Closed-Loop Control
+
+A Cosmos Policy WAM lifts SurRoL success from 63.5% to 77.8% after action-free video pretraining on a fixed label…
+
+https://mechafeed.com/blog/surgical-wam-data-efficient/
+
+#AI #Humanoids
+```
 
 ---
 

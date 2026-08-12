@@ -1989,3 +1989,84 @@ pm run verify-media:today - 0 errors, 0 warnings on 14 today posts incl. morning
 - **Push:** SUCCESS (23a5ad6 -> origin/main)
 - **Failures:** none; solid candidates 6 of target 6
 - **X list accessible?** Partial/noisy (disclosed)
+
+
+## 2026-08-12 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-12
+- git pull --rebase origin main: already up to date
+- Prior day (8/11): morning 8 + afternoon 6 already published — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **Access quality: PARTIAL / NOISY** (disclosed). Keyword search returned spam, GPT pricing, unrelated crash-out posts. Proceeded with public X semantic + web + arXiv cs.RO new listings (Wed 12 Aug / leftover Tue 11 Aug).
+
+### X List Scan
+- CASBOT Hands / dexterous-hand launch recirculation — **CANDIDATE** (not on blog)
+- Nucleus Robotics stealth / German factory — not on the list feed this session; found via web + IE
+- AGIBot G2 6-day livestream recirculation — **SKIP: already covered** (agibot-15000 / June livestream)
+- DOBOT LUMO recirculation — **SKIP: already covered**
+- Digit V5 Forbes “out of the cage” — **SKIP: already covered** (agility SPAC + Fremont cooperative-safety angle)
+- LightOrigins clipped-leg adaptation — **SKIP: thin primary**
+- ROBOTIS Hangang / Gemini Robotics 2 / Optimus price chatter — **SKIP: already covered**
+- Kodiak Nasdaq bell — **SKIP: off beat**
+- LDA-1B RoboPapers episode — **SKIP: RSS 2026 paper already months old**
+- Spam / non-robot filtered
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** CASBOT Hands L1/D1/M1 + F-series preview — RoboticsTomorrow 2026-08-12 + 36Kr + AIFITLAB listing — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Nucleus Robotics stealth, Unitree G1 factory labor-by-hour — nucleuslab.ai + IE + Humanoids Daily — lane: **build**
+3. **[CANDIDATE/WRITTEN]** Flex-π multi-stream WAM — arXiv:2608.10860 + flex-pi.github.io — lane: **build**
+4. **[CANDIDATE/WRITTEN]** Surgical WAM video pretrain — arXiv:2608.11204 + alphaXiv — lane: **build**
+5. **[CANDIDATE/WRITTEN]** Confined-space whole-body planning on G1 — arXiv:2608.10220 + project page — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Real bimanual dexterous grasp from single view — arXiv:2608.10383 + GitHub — lane: **build**
+7. **[CANDIDATE/WRITTEN]** Gated VLA-Cache logit-margin gate — arXiv:2608.10824 IROS 2026 — lane: **build**
+8. **[CANDIDATE/WRITTEN]** Hip-energized monopedal hopping / Penn Jerboa — arXiv:2608.10387 + alphaXiv — lane: **build**
+9. **[SKIP: already covered]** DOBOT LUMO, Dyna-2, Mimic M1, Atlas battery, yesterday’s 14 posts, Unitree IPO pricing (unitree-star-market-ipo-csrc)
+10. **[SKIP: business under mix]** Unitree STAR pricing / 8000× oversubscription — already covered; Digit v5 Forbes is cooperative-safety rehash
+11. **[SKIP: batch full / secondary]** FACT WAM, BooST, PBD-AG, Lost-in-Reconstruction VLA, Embodied 3DGS nav, VANE TTT, WorldSimProbe
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | casbot-hands-l1-d1-m1 | Shar Hendrix | Robotics | build |
+| 2 | nucleus-robotics-factory-labor | Robb Harlan | Humanoids | build |
+| 3 | flex-pi-world-action-model | Shar Hendrix | AI | build |
+| 4 | surgical-wam-data-efficient | Robb Harlan | AI | build |
+| 5 | humanoid-confined-space-planning | Robb Harlan | Humanoids | build |
+| 6 | bimanual-dexterous-grasp-single-view | Shar Hendrix | Robotics | build |
+| 7 | gated-vla-cache-introspection | Robb Harlan | AI | build |
+| 8 | hip-energized-monopedal-hopping | Shar Hendrix | Robotics | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Solid candidates with primary/secondary depth: **8** | Writing: **8**
+- Soft floor 3 met; hit target (same-day CASBOT product + uncovered Nucleus stealth + six Aug 11–12 arXiv build papers)
+
+### Notes for Future Agents
+- CASBOT Hands: watch F-series ship date and whether Lens actually builds L1 at volume
+- Nucleus: named customer, hourly rate, second site — follow if any of those land
+- Flex-π: third-party YAM self-repair replication; open weights
+- Surgical WAM: closed-loop on real dVRK, not just JIGSAWS video
+- Confined-space WBP: hardware G1 hole crossing
+- Bimanual grasp: cluttered scenes / open-vocab detection
+- Gated VLA-Cache: real-robot timing at 15 Hz
+- Hip hopping: spatial (off-boom) Jerboa or biped transfer
+- Afternoon: do not rehash this morning eight
+
+### Run summary
+- **Articles published (8):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed; disclosed)
+- **Media verify:** pending
+- **Vision gate:** pending
+- **Social:** pending
+- **Push:** pending
+
+
+#### Morning finalize (2026-08-12)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** PASS — casbot (BAND + L1 display table), nucleus (warehouse G1s + Konecranes aisle + shelf demo), flex-pi (YAM workcell teaser + real-task bars), surgical-wam (peg-transfer sim + architecture + JIGSAWS frames), confined-space (G1 hole sequence + NIST diagrams), bimanual-grasp (H1-2 + objects hero; bin enclosure body), gated-vla (cache vs full recompute + LIBERO suites), hip-hopping (Jerboa hardware + SLIP diagram)
+- **Social:** tweets 206 drafts; robb-x refreshed
+- **Build:** PASS (219 pages)
+- **Push:** pending
