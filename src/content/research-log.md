@@ -2219,4 +2219,6 @@ pm run verify-media:today - 0 errors, 0 warnings on 14 today posts incl. morning
 - **Vision gate:** PASS — g05 (teaser + R1-Lite towels + R1-Pro crate stack), smpc (pipeline + G1 box + Spot tire), handedit (teaser + SAM/inpaint pipeline + editor grid), stellavla (overview + Piper scenes + framework), recomposition (Spot reactor stages + Panther/Turtlebot search + payload kit), hand-priors (17-pose apple grid + success heatmaps)
 - **Social:** tweets 218 drafts; robb-x refreshed
 - **Build:** skipped this slot (frontmatter matches schema; media gate clean)
-- **Push:** pending
+- **Push:** SUCCESS (`13528f2` → origin/main)
+- **Failures:** none; solid candidates 6 of target 6
+- **X list accessible?** Partial/noisy (disclosed)
