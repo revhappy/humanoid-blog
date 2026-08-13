@@ -2148,3 +2148,75 @@ pm run verify-media:today - 0 errors, 0 warnings on 14 today posts incl. morning
 - **Push:** SUCCESS (`c0ced58` → origin/main)
 - **Failures:** none; solid candidates 6 of target 6
 - **X list accessible?** Partial/noisy (disclosed)
+
+
+## 2026-08-13 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-13
+- git pull --rebase origin main: already up to date
+- No 2026-08-13 morning posts in `src/content/blog/` (morning slot appears not to have published). Last published batch is 2026-08-12 morning 8 + afternoon 6 — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **Access quality: PARTIAL / NOISY** (disclosed). Keyword search returned Matic Robots reply spam, Claude/OpenAI chatter, and recirculation. Proceeded with public X semantic + web + arXiv cs.RO new listings (Thu 13 Aug / leftover Wed 12 Aug).
+
+### X List Scan
+- Matic Robots / Hey Matic kitchen clips — **SKIP: off beat** (floor cleaner, not humanoid/manipulation research)
+- DOBOT LUMO / LightOrigins / Digit V5 / Gemini Robotics 2 recirculation — **SKIP: already covered**
+- Arkshel MX01 flying-humanoid YouTube short — **SKIP: thin primary / unverified product**
+- Generative Bionics QVAC clip — **SKIP: already covered**
+- Spam / non-robot filtered
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Galaxea G0.5 unified autoregressive VLA — arXiv:2608.11739 + project page — lane: **build**
+2. **[CANDIDATE/WRITTEN]** SMPC to sparse RL loco-manipulation on Spot + G1 — arXiv:2608.12063 + RAI project — lane: **build**
+3. **[CANDIDATE/WRITTEN]** HandEdit 200M human-to-robot hand edits — arXiv:2608.12122 + handedit.github.io — lane: **build**
+4. **[CANDIDATE/WRITTEN]** StellaVLA in-context structured demos — arXiv:2608.11671 + stelledge.com — lane: **build**
+5. **[CANDIDATE/WRITTEN]** UT Austin field recomposition (Spot/Panther/Turtlebot) — arXiv:2608.11063 + project + YouTube — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Policy-induced hand priors on humanoid dual-arm VLAs — arXiv:2608.11769 + alphaXiv — lane: **build**
+7. **[SKIP: media inaccessible]** BioflexBot pneumatic hand — TRR + Advanced Science + EurekAlert + IE same-day (Aug 13). Strong product story; Wiley/TRR image CDNs 403 from this environment; IE hero is Wikimedia stock (banned). Left for a later slot if figures can be fetched.
+8. **[SKIP: thin / event]** RoboBusiness State of Humanoids panel announcement (TRR Aug 13); TRR gated mobile-manipulators ebook
+9. **[SKIP: business / mix]** ARM Institute defense project call (TRR Aug 13); Unitree IPO lot-math recirculation (Gasgoo Aug 13)
+10. **[SKIP: already covered Aug 12]** CASBOT Hands, Flex-pi, Surgical WAM, confined-space, bimanual grasp, gated VLA, hip hopping, TCAM, RHOAS, Semantic-3DGS, FACT, BooST, crowd-follow
+11. **[SKIP: batch full / secondary]** RIFT WAM future tokens (2608.11521), D3D-GEN (2608.11876), Adaptation of generalist policies (2608.11363), World Tokens (2608.09730)
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | g05-autoregressive-vla | Robb Harlan | AI | build |
+| 2 | smpc-loco-manipulation-spot-g1 | Robb Harlan | Humanoids | build |
+| 3 | handedit-human-to-robot | Shar Hendrix | Robotics | build |
+| 4 | stellavla-structured-demo | Shar Hendrix | AI | build |
+| 5 | robot-recomposition-field | Robb Harlan | Robotics | build |
+| 6 | policy-hand-priors-humanoid | Shar Hendrix | Humanoids | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (<=25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary depth + usable stills: **6** | Writing: **6**
+- Morning slot did not publish today; afternoon filled from Thu 13 Aug arXiv + leftover Aug 11-12 field paper. BioflexBot skipped only for media, not for lack of story.
+
+### Notes for Future Agents
+- BioflexBot (Advanced Science 10.1002/advs.76527, TRR + IE + EurekAlert Aug 13): fetch Wiley figures from a less-blocked path; do not use IE Wikimedia stock or TRR Adobe Stock
+- G0.5: third-party R1-Lite/R1-Pro replication; open weights
+- SMPC-RL: vision-only / outdoor transfer; unfreeze low-level ReLIC
+- HandEdit: policy trained on the 200M composites that transfers to a real Shadow/Orca
+- StellaVLA: OOD-L2 drawer still fails; watch Hugging Face checkpoint
+- Field recomposition: camera-ready code drop; second site beyond reactor demo
+- Hand priors: more policies on the 17-pose grid
+- Do not rehash this afternoon six tomorrow morning
+
+### Run summary
+- **Articles published (6):** g05-autoregressive-vla, smpc-loco-manipulation-spot-g1, handedit-human-to-robot, stellavla-structured-demo, robot-recomposition-field, policy-hand-priors-humanoid
+- **X list accessible?** Partial/noisy (N for clean feed; disclosed)
+- **Media verify:** pending
+- **Vision gate:** pending
+- **Social:** pending
+- **Push:** pending
+
+#### Afternoon finalize (2026-08-13)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 6 posts)
+- **Vision gate:** PASS — g05 (teaser + R1-Lite towels + R1-Pro crate stack), smpc (pipeline + G1 box + Spot tire), handedit (teaser + SAM/inpaint pipeline + editor grid), stellavla (overview + Piper scenes + framework), recomposition (Spot reactor stages + Panther/Turtlebot search + payload kit), hand-priors (17-pose apple grid + success heatmaps)
+- **Social:** tweets 218 drafts; robb-x refreshed
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Push:** pending

@@ -3,9 +3,141 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-12T21:14:39.564Z
+Generated: 2026-08-13T21:12:29.258Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Galaxea G0.5 Puts Reasoning and Action in One Token Stream
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/g05-autoregressive-vla/
+
+### SOLO (no link)
+
+```
+I’m glad someone is arguing that the VLM should stay the decision-maker.  Flow-matching experts made high-frequency control cheap, and they also made the language model a feature extractor.
+```
+
+### SOFT-LINK variant
+
+```
+I’m glad someone is arguing that the VLM should stay the decision-maker.  Flow-matching experts made high-frequency control cheap, and they also made the language model a feature extractor.
+
+https://mechafeed.com/blog/g05-autoregressive-vla/
+```
+
+---
+
+## HandEdit Turns Egocentric Human Video Into 26 Robot Hands
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/handedit-human-to-robot/
+
+### SOLO (no link)
+
+```
+I wanted this benchmark last year.  If we are going to train dexterous policies on kitchen video, someone has to say whether the “robot” in the frame is the URDF you asked for or a pretty hallucination.
+```
+
+### SOFT-LINK variant
+
+```
+I wanted this benchmark last year.  If we are going to train dexterous policies on kitchen video, someone has to say whether the “robot” in the frame is the URDF you asked for or a pretty hallucination.
+
+https://mechafeed.com/blog/handedit-human-to-robot/
+```
+
+---
+
+## Humanoid VLAs Pick a Hand From the Starting Pose
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/policy-hand-priors-humanoid/
+
+### SOLO (no link)
+
+```
+This is a small, useful complaint about how we score humanoid VLAs.  A single success rate can hide a robot that only works if you park the arms in the dataset’s favorite pose.
+```
+
+### SOFT-LINK variant
+
+```
+This is a small, useful complaint about how we score humanoid VLAs.  A single success rate can hide a robot that only works if you park the arms in the dataset’s favorite pose.
+
+https://mechafeed.com/blog/policy-hand-priors-humanoid/
+```
+
+---
+
+## UT Austin Lets Field Crews Plug New Payloads Into Spot in Minutes
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/robot-recomposition-field/
+
+### SOLO (no link)
+
+```
+Minutes versus a developer weekend is the claim that matters, and they put clocks on the figures.  I care that the same thermal pack moved from a Spot follow, to a Panther survey, to a Pi-class Turtlebot without rewriting launch files.
+```
+
+### SOFT-LINK variant
+
+```
+Minutes versus a developer weekend is the claim that matters, and they put clocks on the figures.  I care that the same thermal pack moved from a Spot follow, to a Panther survey, to a Pi-class Turtle…
+
+https://mechafeed.com/blog/robot-recomposition-field/
+```
+
+---
+
+## RAI Trains Spot and a G1 to Push Boxes With Sparse Rewards
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/smpc-loco-manipulation-spot-g1/
+
+### SOLO (no link)
+
+```
+This is the right kind of “the robot works a shift” paper: a 14 kg tire, a G1 pushing a box, and a reward you can write on a napkin.  I like that they measured the teacher and then beat it, and I like that they said multi-modal planner data wrecks training.
+```
+
+### SOFT-LINK variant
+
+```
+This is the right kind of “the robot works a shift” paper: a 14 kg tire, a G1 pushing a box, and a reward you can write on a napkin.  I like that they measured the teacher and then beat it, and I like…
+
+https://mechafeed.com/blog/smpc-loco-manipulation-spot-g1/
+```
+
+---
+
+## StellaVLA Adapts From One Demo by Teaching the Why
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/stellavla-structured-demo/
+
+### SOLO (no link)
+
+```
+I like a paper that breaks its own context.  If a wrong demo hurts more than no demo, the model is actually reading the example.
+```
+
+### SOFT-LINK variant
+
+```
+I like a paper that breaks its own context.  If a wrong demo hurts more than no demo, the model is actually reading the example.
+
+https://mechafeed.com/blog/stellavla-structured-demo/
+```
 
 ---
 

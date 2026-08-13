@@ -14,8 +14,134 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-12T21:14:23.154Z
-Posts: 212
+Generated: 2026-08-13T21:12:04.111Z
+Posts: 218
+
+---
+
+## Galaxea G0.5 Puts Reasoning and Action in One Token Stream
+
+- **Slug:** `g05-autoregressive-vla`
+- **Date:** 2026-08-13
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/g05-autoregressive-vla/
+- **Chars:** 243/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Galaxea%20G0.5%20Puts%20Reasoning%20and%20Action%20in%20One%20Token%20Stream%0A%0AG0.5%20is%20an%20autoregressive%20VLA%20that%20emits%20chain-of-thought%20and%20motor%20tokens%20together%2C%20beating%20%CF%800.5%20on%20R1%20robots%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fg05-autoregressive-vla%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Galaxea G0.5 Puts Reasoning and Action in One Token Stream
+
+G0.5 is an autoregressive VLA that emits chain-of-thought and motor tokens together, beating π0.5 on R1 robots and…
+
+https://mechafeed.com/blog/g05-autoregressive-vla/
+
+#AI #Humanoids
+```
+
+---
+
+## HandEdit Turns Egocentric Human Video Into 26 Robot Hands
+
+- **Slug:** `handedit-human-to-robot`
+- **Date:** 2026-08-13
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/handedit-human-to-robot/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=HandEdit%20Turns%20Egocentric%20Human%20Video%20Into%2026%20Robot%20Hands%0A%0AA%20200-million-edit%20benchmark%20asks%20image%20models%20to%20swap%20a%20human%20hand%20for%20a%20URDF-specified%20dexterous%20robot%2C%20then%20scores%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhandedit-human-to-robot%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+HandEdit Turns Egocentric Human Video Into 26 Robot Hands
+
+A 200-million-edit benchmark asks image models to swap a human hand for a URDF-specified dexterous robot, then scores…
+
+https://mechafeed.com/blog/handedit-human-to-robot/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Humanoid VLAs Pick a Hand From the Starting Pose
+
+- **Slug:** `policy-hand-priors-humanoid`
+- **Date:** 2026-08-13
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/policy-hand-priors-humanoid/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Humanoid%20VLAs%20Pick%20a%20Hand%20From%20the%20Starting%20Pose%0A%0AJung%20and%20Park%20measure%20a%20policy-induced%20hand%20prior%20across%2017%20initial%20arm%20poses%20and%20show%20more%20pose%20coverage%20in%20training%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpolicy-hand-priors-humanoid%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Humanoid VLAs Pick a Hand From the Starting Pose
+
+Jung and Park measure a policy-induced hand prior across 17 initial arm poses and show more pose coverage in training…
+
+https://mechafeed.com/blog/policy-hand-priors-humanoid/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## UT Austin Lets Field Crews Plug New Payloads Into Spot in Minutes
+
+- **Slug:** `robot-recomposition-field`
+- **Date:** 2026-08-13
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/robot-recomposition-field/
+- **Chars:** 257/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=UT%20Austin%20Lets%20Field%20Crews%20Plug%20New%20Payloads%20Into%20Spot%20in%20Minutes%0A%0AA%20runtime%20recomposition%20stack%20on%20Spot%2C%20a%20Panther%2C%20and%20a%20Turtlebot%20swaps%20cameras%20and%20compute%20without%20a%20developer%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frobot-recomposition-field%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+UT Austin Lets Field Crews Plug New Payloads Into Spot in Minutes
+
+A runtime recomposition stack on Spot, a Panther, and a Turtlebot swaps cameras and compute without a developer,…
+
+https://mechafeed.com/blog/robot-recomposition-field/
+
+#Robotics #Humanoids
+```
+
+---
+
+## RAI Trains Spot and a G1 to Push Boxes With Sparse Rewards
+
+- **Slug:** `smpc-loco-manipulation-spot-g1`
+- **Date:** 2026-08-13
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/smpc-loco-manipulation-spot-g1/
+- **Chars:** 267/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=RAI%20Trains%20Spot%20and%20a%20G1%20to%20Push%20Boxes%20With%20Sparse%20Rewards%0A%0ASMPC%20in%20simulation%20writes%20the%20expert%20data%3B%20sparse-reward%20RL%20then%20beats%20the%20teacher%20on%20a%20Spot%20with%20an%20arm%20and%20a%20Unitree%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsmpc-loco-manipulation-spot-g1%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+RAI Trains Spot and a G1 to Push Boxes With Sparse Rewards
+
+SMPC in simulation writes the expert data; sparse-reward RL then beats the teacher on a Spot with an arm and a Unitree…
+
+https://mechafeed.com/blog/smpc-loco-manipulation-spot-g1/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## StellaVLA Adapts From One Demo by Teaching the Why
+
+- **Slug:** `stellavla-structured-demo`
+- **Date:** 2026-08-13
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/stellavla-structured-demo/
+- **Chars:** 238/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=StellaVLA%20Adapts%20From%20One%20Demo%20by%20Teaching%20the%20Why%0A%0AStellarEdge%E2%80%99s%20VLA%20ranks%20first%20on%20VLA-Arena%20at%200.63%20by%20retrieving%20a%20structured%20demonstration%20instead%20of%20fine-tuning.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fstellavla-structured-demo%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+StellaVLA Adapts From One Demo by Teaching the Why
+
+StellarEdge’s VLA ranks first on VLA-Arena at 0.63 by retrieving a structured demonstration instead of fine-tuning.
+
+https://mechafeed.com/blog/stellavla-structured-demo/
+
+#AI #Humanoids
+```
 
 ---
 
