@@ -2222,3 +2222,70 @@ pm run verify-media:today - 0 errors, 0 warnings on 14 today posts incl. morning
 - **Push:** SUCCESS (`13528f2` → origin/main)
 - **Failures:** none; solid candidates 6 of target 6
 - **X list accessible?** Partial/noisy (disclosed)
+
+
+## 2026-08-14 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-14
+- git pull --rebase origin main: already up to date
+- Prior day (8/13 afternoon): g05, smpc, handedit, stellavla, recomposition, hand-priors — **do not rehash**
+- No 2026-08-14 posts in blog/ before this run
+- X list: https://x.com/i/lists/1805786050763087967 — **Access quality: PARTIAL / NOISY** (disclosed). Keyword search returned GTA/pricing spam. Proceeded with public X semantic + web + arXiv cs.RO new listings (Fri 14 Aug / leftover Thu 13 Aug).
+
+### X List Scan
+- Curated list feed not reliably accessible without login
+- Public X: Agibot G2 factory-shift recirculation — **SKIP: already covered**
+- AheadForm / UBTECH U1 cinematic clips — **SKIP: already covered**
+- Unitree STAR pricing chatter — **SKIP: already covered** (unitree-star-market-ipo-csrc); CNBC Aug 14 IPO-price recap parked under mix cap
+- Spam / non-robot filtered
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** BioflexBot pneumatic spring hand — Advanced Science + EurekAlert + TRR Aug 13 (skipped yesterday for media; TRR Advanced Science Fig. 7 now fetched) — lane: **build**
+2. **[CANDIDATE/WRITTEN]** HumanoidVLN Isaac Sim benchmark — arXiv:2608.12860 + project page — lane: **build**
+3. **[CANDIDATE/WRITTEN]** NestDex copilot teleop — arXiv:2608.13362 + aus.bot — lane: **build**
+4. **[CANDIDATE/WRITTEN]** ContactGuard pre-contact monitor — arXiv:2608.13438 + alphaXiv — lane: **build**
+5. **[CANDIDATE/WRITTEN]** H2R-Bench human-to-robot video — arXiv:2608.13049 + project page — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Temporal GRPO VLA credit — arXiv:2608.13026 — lane: **build**
+7. **[CANDIDATE/WRITTEN]** Seeker attention-from-action — arXiv:2608.13422 + GitHub — lane: **build**
+8. **[CANDIDATE/WRITTEN]** Decoding task progress from π0.5 — arXiv:2608.13474 — lane: **build**
+9. **[SKIP: business / mix]** Unitree STAR IPO priced 150.8 yuan / ~\ / ~\ (CNBC Aug 14) — new vs CSRC article, parked so batch stays 0% business
+10. **[SKIP: already covered 8/13]** G0.5, SMPC Spot/G1, HandEdit, StellaVLA, field recomposition, hand priors
+11. **[SKIP: already covered 8/12]** CASBOT Hands, Nucleus, Flex-π, Surgical WAM, confined-space, bimanual grasp, gated VLA, hip hopping, TCAM, RHOAS, Semantic-3DGS, FACT, BooST, crowd-follow
+12. **[SKIP: event / thin]** RoboBusiness panel, ARM Institute call, TRR mobile-manipulators ebook
+13. **[SKIP: leftover]** S2-HWM surgical world model, RoboSynChallenge, D3D-GEN, Decoding alternatives, Capstan surgical continuum
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | bioflexbot-pneumatic-hand | Shar Hendrix | Robotics | build |
+| 2 | humanoid-vln-isaac-benchmark | Robb Harlan | Humanoids | build |
+| 3 | nestdex-copilot-teleop | Shar Hendrix | Robotics | build |
+| 4 | contactguard-precontact-monitor | Robb Harlan | Robotics | build |
+| 5 | h2r-bench-human-to-robot-video | Shar Hendrix | AI | build |
+| 6 | temporal-grpo-vla-credit | Robb Harlan | AI | build |
+| 7 | seeker-attention-from-action | Shar Hendrix | AI | build |
+| 8 | vla-task-progress-probe | Robb Harlan | AI | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary depth + usable stills: **8** | Writing: **8**
+- Soft floor 3 met; hit target (BioflexBot hardware leftover + seven Fri 14 Aug arXiv build papers)
+
+### Notes for Future Agents
+- Unitree STAR actual pricing (CNBC Aug 14: 150.8 yuan, ~\ raise, ~\ value, 5,000× retail oversub) is a new development vs unitree-star-market-ipo-csrc — afternoon may take it if business lane is empty
+- BioflexBot: Wiley PDF/figures still Cloudflare 403; only TRR reprint of Advanced Science Fig. 7 is fetchable here
+- HumanoidVLN unitreeg1.webp on the project page does **not** look like a Unitree G1; do not caption it as G1
+- S2-HWM (2608.13103) and RoboSynChallenge remain unused
+- Afternoon: do not rehash this morning eight
+
+### Run summary
+- **Articles published (8):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed; disclosed)
+- **Media verify:** pending
+- **Vision gate:** pending
+- **Social:** pending
+- **Push:** pending

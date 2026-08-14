@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-08-13T21:12:04.111Z",
+  "generatedAt": "2026-08-14T16:14:24.470Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "bioflexbot-pneumatic-hand",
+      "title": "BioflexBot Does Hand Work With a Spring and Two Air Lines",
+      "pubDate": "2026-08-14",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/bioflexbot-pneumatic-hand/",
+      "tweet": "BioflexBot Does Hand Work With a Spring and Two Air Lines\n\nA coiled-spring pneumatic gripper pinches, rotates, hooks, and grasps without copying finger anatomy.\n\nhttps://mechafeed.com/blog/bioflexbot-pneumatic-hand/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=BioflexBot%20Does%20Hand%20Work%20With%20a%20Spring%20and%20Two%20Air%20Lines%0A%0AA%20coiled-spring%20pneumatic%20gripper%20pinches%2C%20rotates%2C%20hooks%2C%20and%20grasps%20without%20copying%20finger%20anatomy.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fbioflexbot-pneumatic-hand%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 237
+    },
+    {
+      "id": "contactguard-precontact-monitor",
+      "title": "ContactGuard Aborts a Bad Grasp Before the Fingers Close",
+      "pubDate": "2026-08-14",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/contactguard-precontact-monitor/",
+      "tweet": "ContactGuard Aborts a Bad Grasp Before the Fingers Close\n\nVanderbilt and Sydney train a latent world model that vetoes a chunked policy at the last pre-contact step.\n\nhttps://mechafeed.com/blog/contactguard-precontact-monitor/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=ContactGuard%20Aborts%20a%20Bad%20Grasp%20Before%20the%20Fingers%20Close%0A%0AVanderbilt%20and%20Sydney%20train%20a%20latent%20world%20model%20that%20vetoes%20a%20chunked%20policy%20at%20the%20last%20pre-contact%20step.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcontactguard-precontact-monitor%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 248
+    },
+    {
+      "id": "h2r-bench-human-to-robot-video",
+      "title": "H2R-Bench: Pretty Robot Videos Still Fail the Transfer",
+      "pubDate": "2026-08-14",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/h2r-bench-human-to-robot-video/",
+      "tweet": "H2R-Bench: Pretty Robot Videos Still Fail the Transfer\n\nSJTU and Shanghai AI Lab score 11 video models on whether a human demo becomes a usable robot tape.\n\nhttps://mechafeed.com/blog/h2r-bench-human-to-robot-video/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=H2R-Bench%3A%20Pretty%20Robot%20Videos%20Still%20Fail%20the%20Transfer%0A%0ASJTU%20and%20Shanghai%20AI%20Lab%20score%2011%20video%20models%20on%20whether%20a%20human%20demo%20becomes%20a%20usable%20robot%20tape.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fh2r-bench-human-to-robot-video%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 231
+    },
+    {
+      "id": "humanoid-vln-isaac-benchmark",
+      "title": "HumanoidVLN Makes Bipedal Navigation a Physics Problem",
+      "pubDate": "2026-08-14",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/humanoid-vln-isaac-benchmark/",
+      "tweet": "HumanoidVLN Makes Bipedal Navigation a Physics Problem\n\nVinMotion’s Isaac Sim benchmark walks G1 and H1 through 933 episodes instead of teleporting them.\n\nhttps://mechafeed.com/blog/humanoid-vln-isaac-benchmark/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=HumanoidVLN%20Makes%20Bipedal%20Navigation%20a%20Physics%20Problem%0A%0AVinMotion%E2%80%99s%20Isaac%20Sim%20benchmark%20walks%20G1%20and%20H1%20through%20933%20episodes%20instead%20of%20teleporting%20them.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhumanoid-vln-isaac-benchmark%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 239
+    },
+    {
+      "id": "nestdex-copilot-teleop",
+      "title": "NestDex Lets the Hand Policy Collect Its Own Demos",
+      "pubDate": "2026-08-14",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/nestdex-copilot-teleop/",
+      "tweet": "NestDex Lets the Hand Policy Collect Its Own Demos\n\nSydney and Vanderbilt train inner finger skills, then an outer policy that drops the copilot at deploy.\n\nhttps://mechafeed.com/blog/nestdex-copilot-teleop/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=NestDex%20Lets%20the%20Hand%20Policy%20Collect%20Its%20Own%20Demos%0A%0ASydney%20and%20Vanderbilt%20train%20inner%20finger%20skills%2C%20then%20an%20outer%20policy%20that%20drops%20the%20copilot%20at%20deploy.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnestdex-copilot-teleop%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 229
+    },
+    {
+      "id": "seeker-attention-from-action",
+      "title": "Seeker Learns Where to Look From the Action Stream",
+      "pubDate": "2026-08-14",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/seeker-attention-from-action/",
+      "tweet": "Seeker Learns Where to Look From the Action Stream\n\nKTH and Freiburg train a DINOv3 ROI readout with no gaze labels and lift real-robot success from 48% to 77%.\n\nhttps://mechafeed.com/blog/seeker-attention-from-action/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Seeker%20Learns%20Where%20to%20Look%20From%20the%20Action%20Stream%0A%0AKTH%20and%20Freiburg%20train%20a%20DINOv3%20ROI%20readout%20with%20no%20gaze%20labels%20and%20lift%20real-robot%20success%20from%2048%25%20to%2077%25.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fseeker-attention-from-action%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 234
+    },
+    {
+      "id": "temporal-grpo-vla-credit",
+      "title": "Temporal GRPO Stops Punishing the Good Part of a Failed Rollout",
+      "pubDate": "2026-08-14",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/temporal-grpo-vla-credit/",
+      "tweet": "Temporal GRPO Stops Punishing the Good Part of a Failed Rollout\n\nCAS researchers split VLA-RL credit by detectable task stage on RoboTwin 2.0 and LIBERO-Long.\n\nhttps://mechafeed.com/blog/temporal-grpo-vla-credit/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Temporal%20GRPO%20Stops%20Punishing%20the%20Good%20Part%20of%20a%20Failed%20Rollout%0A%0ACAS%20researchers%20split%20VLA-RL%20credit%20by%20detectable%20task%20stage%20on%20RoboTwin%202.0%20and%20LIBERO-Long.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftemporal-grpo-vla-credit%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 228
+    },
+    {
+      "id": "vla-task-progress-probe",
+      "title": "A Linear Probe Reads Task Progress Out of π0.5",
+      "pubDate": "2026-08-14",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/vla-task-progress-probe/",
+      "tweet": "A Linear Probe Reads Task Progress Out of π0.5\n\nCornell shows leftover time in a trajectory is linearly decodable from PaliGemma activations, and useful as a stall…\n\nhttps://mechafeed.com/blog/vla-task-progress-probe/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=A%20Linear%20Probe%20Reads%20Task%20Progress%20Out%20of%20%CF%800.5%0A%0ACornell%20shows%20leftover%20time%20in%20a%20trajectory%20is%20linearly%20decodable%20from%20PaliGemma%20activations%2C%20and%20useful%20as%20a%20stall%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fvla-task-progress-probe%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 233
+    },
     {
       "id": "g05-autoregressive-vla",
       "title": "Galaxea G0.5 Puts Reasoning and Action in One Token Stream",

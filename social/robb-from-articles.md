@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-13T21:12:29.258Z
+Generated: 2026-08-14T16:14:25.534Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## BioflexBot Does Hand Work With a Spring and Two Air Lines
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/bioflexbot-pneumatic-hand/
+
+### SOLO (no link)
+
+```
+I’m here for any hand that admits it does not need 20 actuators to pick up a flashlight.  Two air lines and a spring is a bet I want more labs to take.
+```
+
+### SOFT-LINK variant
+
+```
+I’m here for any hand that admits it does not need 20 actuators to pick up a flashlight.  Two air lines and a spring is a bet I want more labs to take.
+
+https://mechafeed.com/blog/bioflexbot-pneumatic-hand/
+```
+
+---
+
+## ContactGuard Aborts a Bad Grasp Before the Fingers Close
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/contactguard-precontact-monitor/
+
+### SOLO (no link)
+
+```
+I care less about another world-model architecture than about *when* it is allowed to speak.  A monitor that only screams after the cup is on the floor is a logger.
+```
+
+### SOFT-LINK variant
+
+```
+I care less about another world-model architecture than about *when* it is allowed to speak.  A monitor that only screams after the cup is on the floor is a logger.
+
+https://mechafeed.com/blog/contactguard-precontact-monitor/
+```
+
+---
+
+## H2R-Bench: Pretty Robot Videos Still Fail the Transfer
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/h2r-bench-human-to-robot-video/
+
+### SOLO (no link)
+
+```
+This is the right rude question.  I do not want another “robot-looking” clip that still has human knuckles in it.
+```
+
+### SOFT-LINK variant
+
+```
+This is the right rude question.  I do not want another “robot-looking” clip that still has human knuckles in it.
+
+https://mechafeed.com/blog/h2r-bench-human-to-robot-video/
+```
+
+---
+
+## HumanoidVLN Makes Bipedal Navigation a Physics Problem
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/humanoid-vln-isaac-benchmark/
+
+### SOLO (no link)
+
+```
+Teleportation VLN taught models to talk about hallways.  It did not teach them to keep a 70-kilo biped upright while the head camera bounces.
+```
+
+### SOFT-LINK variant
+
+```
+Teleportation VLN taught models to talk about hallways.  It did not teach them to keep a 70-kilo biped upright while the head camera bounces.
+
+https://mechafeed.com/blog/humanoid-vln-isaac-benchmark/
+```
+
+---
+
+## NestDex Lets the Hand Policy Collect Its Own Demos
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/nestdex-copilot-teleop/
+
+### SOLO (no link)
+
+```
+This is the first teleop paper in a while that treats the operator as a scarce resource instead of a motion-capture suit.  A clutch and a reusable pinch is how you scale data without hiring more glove-wearers.
+```
+
+### SOFT-LINK variant
+
+```
+This is the first teleop paper in a while that treats the operator as a scarce resource instead of a motion-capture suit.  A clutch and a reusable pinch is how you scale data without hiring more glove-wearers.
+
+https://mechafeed.com/blog/nestdex-copilot-teleop/
+```
+
+---
+
+## Seeker Learns Where to Look From the Action Stream
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/seeker-attention-from-action/
+
+### SOLO (no link)
+
+```
+I like that nobody had to wear an eye tracker.  If the action already knows where the demonstrator was looking, you should be able to recover that map.
+```
+
+### SOFT-LINK variant
+
+```
+I like that nobody had to wear an eye tracker.  If the action already knows where the demonstrator was looking, you should be able to recover that map.
+
+https://mechafeed.com/blog/seeker-attention-from-action/
+```
+
+---
+
+## Temporal GRPO Stops Punishing the Good Part of a Failed Rollout
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/temporal-grpo-vla-credit/
+
+### SOLO (no link)
+
+```
+Credit aliasing is the boring reason long-horizon RL looks drunk.  If you punish the grasp that worked because the place failed, you teach the policy to forget the grasp.
+```
+
+### SOFT-LINK variant
+
+```
+Credit aliasing is the boring reason long-horizon RL looks drunk.  If you punish the grasp that worked because the place failed, you teach the policy to forget the grasp.
+
+https://mechafeed.com/blog/temporal-grpo-vla-credit/
+```
+
+---
+
+## A Linear Probe Reads Task Progress Out of π0.5
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/vla-task-progress-probe/
+
+### SOLO (no link)
+
+```
+I want a cheap heartbeat on every deployed VLA, and leftover-time is a better heartbeat than “the softmax looks weird. ” The no-steering result is the adult part of the paper.
+```
+
+### SOFT-LINK variant
+
+```
+I want a cheap heartbeat on every deployed VLA, and leftover-time is a better heartbeat than “the softmax looks weird. ” The no-steering result is the adult part of the paper.
+
+https://mechafeed.com/blog/vla-task-progress-probe/
+```
 
 ---
 
