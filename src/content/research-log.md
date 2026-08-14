@@ -2300,3 +2300,64 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Push:** SUCCESS (d6558aa -> origin/main)
 - **Failures:** none; solid candidates 8 of target 8
 - **X list accessible?** Partial/noisy (disclosed)
+
+## 2026-08-14 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-14
+- git pull --rebase origin main: already up to date (stash/pop around local leftover Aug-6 drafts and deleted unused heroes — those leftovers were **not** published)
+- Morning already published 8 posts (bioflexbot, humanoid-vln, nestdex, contactguard, h2r-bench, temporal-grpo, seeker, vla-task-progress) — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **Access quality: PARTIAL / NOISY** (disclosed). Semantic/keyword search mixed Nori sneak peek, REVEL recirculation, Tesla trailer commentary, Dyna-2 recirculation, GTA/pricing spam. Proceeded with public X semantic + web + arXiv cs.RO Friday leftovers.
+
+### X List Scan
+- Curated list feed not reliably accessible without login
+- Nori “new design sneak peek” — **SKIP: already covered** (nori-l3 / nori-robotics-us-hardware)
+- REVEL Robotics 20-DoF upper body — **SKIP: no fetchable primary** this session
+- Tesla Optimus “studio trailer” commentary — **SKIP: unverified / no official source fetched**
+- Dyna-2 / Generative Bionics / BYD / Optimus recirculation — **SKIP: already covered**
+- Spam / non-robot filtered
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** LG + NVIDIA bipedal humanoid Q1 2027 — PR Newswire + KJAD + Aju + Yonhap + RTT + NVIDIA GR00T — lane: **build**
+2. **[CANDIDATE/WRITTEN]** World Humanoid Robot Games 2026 roster (2,056 robots) — Beijing Review/Xinhua + ANews + Guardian 2025 + Wikipedia — lane: **build**
+3. **[CANDIDATE/WRITTEN]** HumanTracker motion-tracking benchmark — arXiv:2608.13555 + project page + alphaXiv — lane: **build**
+4. **[CANDIDATE/WRITTEN]** S2-HWM surgical hierarchical world model — arXiv:2608.13103 + HTML + alphaXiv — lane: **build**
+5. **[CANDIDATE/WRITTEN]** FAM-DQ dual-quadrotor aerial manipulator — arXiv:2608.13220 + HTML — lane: **build**
+6. **[CANDIDATE/WRITTEN]** RoboSynChallenge NeurIPS 2026 — arXiv:2608.12416 + site + GitHub — lane: **build**
+7. **[SKIP: business / mix]** Unitree STAR IPO priced 150.8 yuan (CNBC Aug 14) — morning parked it; still parked so batch stays 0% business
+8. **[SKIP: already covered morning]** BioflexBot, HumanoidVLN, NestDex, ContactGuard, H2R-Bench, Temporal GRPO, Seeker, VLA progress probe
+9. **[SKIP: already covered 8/13]** G0.5, SMPC, HandEdit, StellaVLA, recomposition, hand priors
+10. **[SKIP: thin / leftover]** Capstan continuum surgical robot (too close to S2-HWM surgical lane), Deliberate Practice, EDD social robots, FIRE-VLA driving, Nori sneak peek
+11. **[SKIP: untracked leftover drafts]** dreamwam / zeals-d1 / mind-vla / safecast / unix-panther / explicit-language-memory — local Aug 6 files, not this slot
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | lg-nvidia-bipedal-humanoid-2027 | Robb Harlan | Humanoids | build |
+| 2 | world-humanoid-robot-games-2026 | Shar Hendrix | Humanoids | build |
+| 3 | humantracker-motion-tracking-benchmark | Robb Harlan | Research | build |
+| 4 | s2-hwm-surgical-world-model | Shar Hendrix | Research | build |
+| 5 | fam-dq-dual-quadrotor-manipulator | Shar Hendrix | Robotics | build |
+| 6 | robosynchallenge-sim2real-dexterity | Robb Harlan | Research | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary depth + usable stills: **6** | Writing: **6**
+- Soft floor 2 met; hit target (LG/NVIDIA product stack + WHRG roster + four leftover Fri 14 Aug arXiv build papers morning skipped)
+
+### Notes for Future Agents
+- Unitree STAR actual pricing (CNBC Aug 14) remains unused — still a valid business-lane follow if a future batch has room under 25%
+- REVEL Robotics 20-DoF hand: no company page fetched this session
+- Capstan continuum surgical robot (2608.13396) unused
+- Do not rehash this afternoon six tomorrow morning
+
+### Run summary
+- **Articles published (pending verify/push):** listed above
+- **X list accessible?** Partial/noisy (N for clean feed; disclosed)
+- **Media verify:** pending
+- **Vision gate:** pending
+- **Social:** pending
+- **Push:** pending

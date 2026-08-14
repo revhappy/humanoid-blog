@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-14T16:14:25.534Z
+Generated: 2026-08-14T21:07:58.706Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -53,6 +53,28 @@ https://mechafeed.com/blog/contactguard-precontact-monitor/
 
 ---
 
+## FAM-DQ Is Two Quads on a Stick That Can Drive a Screw
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/fam-dq-dual-quadrotor-manipulator/
+
+### SOLO (no link)
+
+```
+I am here for the lever, not the CAD adjectives.  Two cheap quads and a long tube is a readable way to buy torque without another tilt actuator.
+```
+
+### SOFT-LINK variant
+
+```
+I am here for the lever, not the CAD adjectives.  Two cheap quads and a long tube is a readable way to buy torque without another tilt actuator.
+
+https://mechafeed.com/blog/fam-dq-dual-quadrotor-manipulator/
+```
+
+---
+
 ## H2R-Bench: Pretty Robot Videos Still Fail the Transfer
 
 - Author on blog: Shar Hendrix
@@ -97,6 +119,50 @@ https://mechafeed.com/blog/humanoid-vln-isaac-benchmark/
 
 ---
 
+## HumanTracker Grades Humanoid Tracking the Way People See It
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/humantracker-motion-tracking-benchmark/
+
+### SOLO (no link)
+
+```
+I like a metric that punishes skating more than a pretty average joint error.  I also want the next version on metal.
+```
+
+### SOFT-LINK variant
+
+```
+I like a metric that punishes skating more than a pretty average joint error.  I also want the next version on metal.
+
+https://mechafeed.com/blog/humantracker-motion-tracking-benchmark/
+```
+
+---
+
+## LG Will Unveil a Jetson Thor Humanoid in Q1 2027
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/lg-nvidia-bipedal-humanoid-2027/
+
+### SOLO (no link)
+
+```
+I will watch Tennessee, not Santa Clara.  A signed MOU and a boxed desk robot do not tell you if a biped can hold a shift.
+```
+
+### SOFT-LINK variant
+
+```
+I will watch Tennessee, not Santa Clara.  A signed MOU and a boxed desk robot do not tell you if a biped can hold a shift.
+
+https://mechafeed.com/blog/lg-nvidia-bipedal-humanoid-2027/
+```
+
+---
+
 ## NestDex Lets the Hand Policy Collect Its Own Demos
 
 - Author on blog: Shar Hendrix
@@ -115,6 +181,50 @@ This is the first teleop paper in a while that treats the operator as a scarce r
 This is the first teleop paper in a while that treats the operator as a scarce resource instead of a motion-capture suit.  A clutch and a reusable pinch is how you scale data without hiring more glove-wearers.
 
 https://mechafeed.com/blog/nestdex-copilot-teleop/
+```
+
+---
+
+## RoboSynChallenge Grades Manipulation on Real Arms, Not Just Sim
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/robosynchallenge-sim2real-dexterity/
+
+### SOLO (no link)
+
+```
+A competition that refuses to let you hide in Isaac is the right kind of annoying.  Sixty real demos per task is still thin, and Piper is not a factory cell.
+```
+
+### SOFT-LINK variant
+
+```
+A competition that refuses to let you hide in Isaac is the right kind of annoying.  Sixty real demos per task is still thin, and Piper is not a factory cell.
+
+https://mechafeed.com/blog/robosynchallenge-sim2real-dexterity/
+```
+
+---
+
+## S2-HWM Lets a Surgical World Model Think in Events
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/s2-hwm-surgical-world-model/
+
+### SOLO (no link)
+
+```
+I like that they refused to hard-code “now you are in grasp. ” Surgical timing is messy; a gate that learns when the interaction flipped is the right object.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they refused to hard-code “now you are in grasp. ” Surgical timing is messy; a gate that learns when the interaction flipped is the right object.
+
+https://mechafeed.com/blog/s2-hwm-surgical-world-model/
 ```
 
 ---
@@ -181,6 +291,28 @@ I want a cheap heartbeat on every deployed VLA, and leftover-time is a better he
 I want a cheap heartbeat on every deployed VLA, and leftover-time is a better heartbeat than “the softmax looks weird. ” The no-steering result is the adult part of the paper.
 
 https://mechafeed.com/blog/vla-task-progress-probe/
+```
+
+---
+
+## 2,056 Humanoids Are Headed to Beijing’s Robot Games
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/world-humanoid-robot-games-2026/
+
+### SOLO (no link)
+
+```
+I want the new events more than the headcount.  Tug-of-war and hotel housekeeping are uglier problems than a staged 100-meter.
+```
+
+### SOFT-LINK variant
+
+```
+I want the new events more than the headcount.  Tug-of-war and hotel housekeeping are uglier problems than a staged 100-meter.
+
+https://mechafeed.com/blog/world-humanoid-robot-games-2026/
 ```
 
 ---

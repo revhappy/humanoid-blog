@@ -14,8 +14,8 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-14T16:14:24.470Z
-Posts: 226
+Generated: 2026-08-14T21:07:58.004Z
+Posts: 232
 
 ---
 
@@ -55,6 +55,27 @@ ContactGuard Aborts a Bad Grasp Before the Fingers Close
 Vanderbilt and Sydney train a latent world model that vetoes a chunked policy at the last pre-contact step.
 
 https://mechafeed.com/blog/contactguard-precontact-monitor/
+
+#Robotics #Humanoids
+```
+
+---
+
+## FAM-DQ Is Two Quads on a Stick That Can Drive a Screw
+
+- **Slug:** `fam-dq-dual-quadrotor-manipulator`
+- **Date:** 2026-08-14
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/fam-dq-dual-quadrotor-manipulator/
+- **Chars:** 248/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FAM-DQ%20Is%20Two%20Quads%20on%20a%20Stick%20That%20Can%20Drive%20a%20Screw%0A%0AA%20447-gram%20dual-quadrotor%20aerial%20manipulator%20puts%20out%201.019%20N%C2%B7m%20and%20tightens%20an%20M8%20screw%20while%20holding%20pose.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffam-dq-dual-quadrotor-manipulator%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+FAM-DQ Is Two Quads on a Stick That Can Drive a Screw
+
+A 447-gram dual-quadrotor aerial manipulator puts out 1.019 N·m and tightens an M8 screw while holding pose.
+
+https://mechafeed.com/blog/fam-dq-dual-quadrotor-manipulator/
 
 #Robotics #Humanoids
 ```
@@ -103,6 +124,48 @@ https://mechafeed.com/blog/humanoid-vln-isaac-benchmark/
 
 ---
 
+## HumanTracker Grades Humanoid Tracking the Way People See It
+
+- **Slug:** `humantracker-motion-tracking-benchmark`
+- **Date:** 2026-08-14
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/humantracker-motion-tracking-benchmark/
+- **Chars:** 275/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=HumanTracker%20Grades%20Humanoid%20Tracking%20the%20Way%20People%20See%20It%0A%0AGalbot%2C%20Tsinghua%2C%20and%20partners%20post%20a%20153-hour%20mocap%20benchmark%20and%20HumanScore%2C%20a%20preference%20metric%20that%20beats%20MPJPE.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhumantracker-motion-tracking-benchmark%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+HumanTracker Grades Humanoid Tracking the Way People See It
+
+Galbot, Tsinghua, and partners post a 153-hour mocap benchmark and HumanScore, a preference metric that beats MPJPE.
+
+https://mechafeed.com/blog/humantracker-motion-tracking-benchmark/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## LG Will Unveil a Jetson Thor Humanoid in Q1 2027
+
+- **Slug:** `lg-nvidia-bipedal-humanoid-2027`
+- **Date:** 2026-08-14
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/lg-nvidia-bipedal-humanoid-2027/
+- **Chars:** 257/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=LG%20Will%20Unveil%20a%20Jetson%20Thor%20Humanoid%20in%20Q1%202027%0A%0ALG%20and%20NVIDIA%20sign%20an%20MOU%20for%20a%20bipedal%20humanoid%20on%20Isaac%20GR00T%2C%20Jetson%20Thor%2C%20and%20Halos%2C%20plus%20a%20CLOiD%20factory%20test%20in%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flg-nvidia-bipedal-humanoid-2027%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+LG Will Unveil a Jetson Thor Humanoid in Q1 2027
+
+LG and NVIDIA sign an MOU for a bipedal humanoid on Isaac GR00T, Jetson Thor, and Halos, plus a CLOiD factory test in…
+
+https://mechafeed.com/blog/lg-nvidia-bipedal-humanoid-2027/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
 ## NestDex Lets the Hand Policy Collect Its Own Demos
 
 - **Slug:** `nestdex-copilot-teleop`
@@ -120,6 +183,48 @@ Sydney and Vanderbilt train inner finger skills, then an outer policy that drops
 https://mechafeed.com/blog/nestdex-copilot-teleop/
 
 #Robotics #Humanoids
+```
+
+---
+
+## RoboSynChallenge Grades Manipulation on Real Arms, Not Just Sim
+
+- **Slug:** `robosynchallenge-sim2real-dexterity`
+- **Date:** 2026-08-14
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/robosynchallenge-sim2real-dexterity/
+- **Chars:** 274/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=RoboSynChallenge%20Grades%20Manipulation%20on%20Real%20Arms%2C%20Not%20Just%20Sim%0A%0AA%20NeurIPS%202026%20competition%20from%20CUHK%20Shenzhen%20and%20DexForce%20trains%20on%20generated%20data%2C%20then%20scores%20policies%20on%20dual%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frobosynchallenge-sim2real-dexterity%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+RoboSynChallenge Grades Manipulation on Real Arms, Not Just Sim
+
+A NeurIPS 2026 competition from CUHK Shenzhen and DexForce trains on generated data, then scores policies on dual…
+
+https://mechafeed.com/blog/robosynchallenge-sim2real-dexterity/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## S2-HWM Lets a Surgical World Model Think in Events
+
+- **Slug:** `s2-hwm-surgical-world-model`
+- **Date:** 2026-08-14
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/s2-hwm-surgical-world-model/
+- **Chars:** 250/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=S2-HWM%20Lets%20a%20Surgical%20World%20Model%20Think%20in%20Events%0A%0AA%20hierarchical%20world%20model%20hits%2098.7%25%20on%20SurRoL%20PegTransfer%20by%20planning%20over%20variable-length%20events%2C%20not%20every%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fs2-hwm-surgical-world-model%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+S2-HWM Lets a Surgical World Model Think in Events
+
+A hierarchical world model hits 98.7% on SurRoL PegTransfer by planning over variable-length events, not every…
+
+https://mechafeed.com/blog/s2-hwm-surgical-world-model/
+
+#RoboticsResearch #Humanoids
 ```
 
 ---
@@ -183,6 +288,27 @@ Cornell shows leftover time in a trajectory is linearly decodable from PaliGemma
 https://mechafeed.com/blog/vla-task-progress-probe/
 
 #AI #Humanoids
+```
+
+---
+
+## 2,056 Humanoids Are Headed to Beijing’s Robot Games
+
+- **Slug:** `world-humanoid-robot-games-2026`
+- **Date:** 2026-08-14
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/world-humanoid-robot-games-2026/
+- **Chars:** 262/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=2%2C056%20Humanoids%20Are%20Headed%20to%20Beijing%E2%80%99s%20Robot%20Games%0A%0AThe%20second%20World%20Humanoid%20Robot%20Games%20(Aug.%2022%E2%80%9326)%20lists%20666%20teams%20and%20new%20events%20from%20tug-of-war%20to%20hotel%20housekeeping.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fworld-humanoid-robot-games-2026%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+2,056 Humanoids Are Headed to Beijing’s Robot Games
+
+The second World Humanoid Robot Games (Aug. 22–26) lists 666 teams and new events from tug-of-war to hotel housekeeping.
+
+https://mechafeed.com/blog/world-humanoid-robot-games-2026/
+
+#HumanoidRobots #Humanoids
 ```
 
 ---
