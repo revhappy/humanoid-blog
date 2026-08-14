@@ -2355,9 +2355,14 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - Do not rehash this afternoon six tomorrow morning
 
 ### Run summary
-- **Articles published (pending verify/push):** listed above
+- **Articles published (6):** lg-nvidia-bipedal-humanoid-2027, world-humanoid-robot-games-2026, humantracker-motion-tracking-benchmark, s2-hwm-surgical-world-model, fam-dq-dual-quadrotor-manipulator, robosynchallenge-sim2real-dexterity
 - **X list accessible?** Partial/noisy (N for clean feed; disclosed)
-- **Media verify:** pending
-- **Vision gate:** pending
-- **Social:** pending
-- **Push:** pending
+
+#### Afternoon finalize (2026-08-14)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 today posts incl. morning 8 + afternoon 6)
+- **Vision gate:** PASS — lg-nvidia (KJAD handshake + Yonhap boxed miniature + NVIDIA GR00T stack), whrg (ANews lineup + Guardian/Reuters 2025 football), humantracker (teaser + four-family grid + HumanScore architecture), s2-hwm (manager/ETM diagram + PegTransfer strip + phase actions), fam-dq (CAD + circle flight + screw-drive overlay), robosynchallenge (Piper table + pipeline + real/sim task grid)
+- **Social:** tweets 232 drafts; robb-x refreshed
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Push:** SUCCESS (`1e0015d` → origin/main)
+- **Failures:** none; solid candidates 6 of target 6
+- **X list accessible?** Partial/noisy (disclosed)
