@@ -2289,3 +2289,14 @@ pm run verify-media:today - 0 errors, 0 warnings on 14 today posts incl. morning
 - **Vision gate:** pending
 - **Social:** pending
 - **Push:** pending
+
+
+#### Morning finalize (2026-08-14)
+- **Media verify:** PASS (
+pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** PASS — bioflexbot (Advanced Science Fig.7 aeroengine + humanoid grasp + channel), humanoid-vln (platform + MAA pipeline + GRScenes interior), nestdex (task collage + copilot diagram + inner-skill objects), contactguard (teaser abort + JEPA architecture + cup grasp strip), h2r-bench (pipeline + Seedance/Hunyuan/Veo qualitative + quality-vs-core scatter), temporal-grpo (stage-credit teaser + stage-construction crop + alignment crop), seeker (real coffee/cleanup/assembly + MimicGen ROI crops + architecture), vla-task-progress (teaser + OOD injection curves + R2 progress plots)
+- **Social:** tweets 226 drafts; robb-x refreshed
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Push:** SUCCESS (d6558aa -> origin/main)
+- **Failures:** none; solid candidates 8 of target 8
+- **X list accessible?** Partial/noisy (disclosed)
