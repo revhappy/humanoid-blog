@@ -2435,3 +2435,13 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Social:** pending
 - **Push:** pending
 
+
+#### Morning finalize (2026-08-15)
+- **Media verify:** PASS (`npm run verify-media:today` â€” 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** PASS â€” revel-genesis (site humanoid + bin-sort + visor + Neural Gambit sleeve), capstan (drive unit + bench bending + two-segment tests), dreamx-phi (overview + RoboTwin rollouts + train diagram), egophi (architecture + ARCTIC/H2O force maps + 2D/3D comparison), midas (overview + YAM block filmstrip + knife/donut filmstrip), parry (Flexiv carton + MuJoCo transport + trajectories), mind-the-context (living-room vs meeting cartoon + EDD diagram + social-view scene), hand2bot (L515 vs sim + PassGen comparison + pipeline)
+- **Social:** tweets 240 drafts; robb-x refreshed
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Push:** SUCCESS (`b64179a` â†’ origin/main)
+- **Failures:** none; solid candidates 8 of target 8
+- **X list accessible?** N (disclosed)
+
