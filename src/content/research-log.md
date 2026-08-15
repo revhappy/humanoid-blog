@@ -2501,11 +2501,17 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - Arkshel official MP4 is ~121 MB; do not commit it. Stills extracted locally.
 
 ### Run summary
-- **Articles published (pending verify/push):** listed above
+- **Articles published (6):** arkshel-mx01-flying-humanoid, stembot-under-canopy-climber, kit-cad-pomdp-disassembly, sap-nav-hierarchical-ovon, fuse-active-affordance, attune-operator-attention
+- **Skipped candidates:** Unitree STAR IPO (business/mix), Nori sneak peek, Source Robotics wrist (old), Human Archive meetup, leftover Fri papers without HTML (Deliberate Practice, airtight SPA), FIRE-VLA/BrainWAM driving, leftover Aug-6 drafts
 - **X list accessible?** N (disclosed)
-- **Media verify:** pending
-- **Vision gate:** pending
-- **Social:** pending
-- **Push:** pending
+
+#### Afternoon finalize (2026-08-15)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 today posts incl. morning 8 + afternoon 6)
+- **Vision gate:** PASS — arkshel (official poster + modes graphic + standing/quad/flight prototype frames from official MP4), stembot (exploded hardware + 7–33 mm bench + component breakdown + four-plant maps), kit-disassembly (wbk Comau cell + architecture/two setups + rivet POMDP figure), sap-nav (LangMap teaser + QSSR/AVV diagram + Lite3 kitchen/living-room trials), fuse (passive vs active kitchen figure + architecture + next-viewpoint heat map), attune (watch/annotate/summary teaser + six-view UI + 12-person heatmaps)
+- **Social:** tweets 246 drafts; robb-x refreshed
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Push:** SUCCESS (`b774845` → origin/main)
+- **Failures:** none; solid candidates 6 of target 6
+- **X list accessible?** N (disclosed)
 
 
