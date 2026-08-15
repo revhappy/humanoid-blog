@@ -14,8 +14,50 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-15T16:10:23.640Z
-Posts: 240
+Generated: 2026-08-15T21:12:46.533Z
+Posts: 246
+
+---
+
+## Arkshel Unveils MX01, a Prototype That Walks, Crawls, and Flies
+
+- **Slug:** `arkshel-mx01-flying-humanoid`
+- **Date:** 2026-08-15
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/arkshel-mx01-flying-humanoid/
+- **Chars:** 268/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Arkshel%20Unveils%20MX01%2C%20a%20Prototype%20That%20Walks%2C%20Crawls%2C%20and%20Flies%0A%0AShenzhen%20startup%20Arkshel%20shows%20MX01%20test%20footage%3A%20one%20platform%20switching%20among%20humanoid%2C%20quadruped%2C%20and%20aerial%20modes.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Farkshel-mx01-flying-humanoid%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Arkshel Unveils MX01, a Prototype That Walks, Crawls, and Flies
+
+Shenzhen startup Arkshel shows MX01 test footage: one platform switching among humanoid, quadruped, and aerial modes.
+
+https://mechafeed.com/blog/arkshel-mx01-flying-humanoid/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Attune Asks Operators Why Their Eyes Left One Robot for Another
+
+- **Slug:** `attune-operator-attention`
+- **Date:** 2026-08-15
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/attune-operator-attention/
+- **Chars:** 268/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Attune%20Asks%20Operators%20Why%20Their%20Eyes%20Left%20One%20Robot%20for%20Another%0A%0AA%20George%20Mason%20UIST%20paper%20records%20gaze%20on%20two%20robot%20feeds%2C%20then%20helps%20the%20operator%20label%20why%20they%20looked%20away.%20Twelve%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fattune-operator-attention%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+Attune Asks Operators Why Their Eyes Left One Robot for Another
+
+A George Mason UIST paper records gaze on two robot feeds, then helps the operator label why they looked away. Twelve…
+
+https://mechafeed.com/blog/attune-operator-attention/
+
+#RoboticsResearch #Humanoids
+```
 
 ---
 
@@ -82,6 +124,27 @@ https://mechafeed.com/blog/egophi-contact-force-egocentric/
 
 ---
 
+## FUSE Looks Around Before It Decides What Can Scoop the Food
+
+- **Slug:** `fuse-active-affordance`
+- **Date:** 2026-08-15
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/fuse-active-affordance/
+- **Chars:** 262/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FUSE%20Looks%20Around%20Before%20It%20Decides%20What%20Can%20Scoop%20the%20Food%0A%0AA%20new%20Habitat%20benchmark%20asks%20a%20robot%20to%20find%20an%20object%20by%20function%2C%20not%20name.%20FUSE%20picks%20extra%20viewpoints%20and%20hits%2072%25%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffuse-active-affordance%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+FUSE Looks Around Before It Decides What Can Scoop the Food
+
+A new Habitat benchmark asks a robot to find an object by function, not name. FUSE picks extra viewpoints and hits 72%…
+
+https://mechafeed.com/blog/fuse-active-affordance/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
 ## Hand2Bot Teaches a UR5e to Wait Until You Mean the Handover
 
 - **Slug:** `hand2bot-passgen-handover`
@@ -97,6 +160,27 @@ Hand2Bot Teaches a UR5e to Wait Until You Mean the Handover
 NTU’s PassGen builds a 5,000-clip RGB-D handover set and an intention gate that cut false triggers from 25/30 to 2/30…
 
 https://mechafeed.com/blog/hand2bot-passgen-handover/
+
+#Robotics #Humanoids
+```
+
+---
+
+## KIT Turns CAD Into a Guess-and-Check Plan for Taking Stuff Apart
+
+- **Slug:** `kit-cad-pomdp-disassembly`
+- **Date:** 2026-08-15
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/kit-cad-pomdp-disassembly/
+- **Chars:** 259/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=KIT%20Turns%20CAD%20Into%20a%20Guess-and-Check%20Plan%20for%20Taking%20Stuff%20Apart%0A%0AKarlsruhe%20researchers%20model%20end-of-life%20disassembly%20as%20a%20POMDP%2C%20then%20let%20arms%20unscrew%2C%20mill%2C%20or%20switch%20tools%20when%20a%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fkit-cad-pomdp-disassembly%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+KIT Turns CAD Into a Guess-and-Check Plan for Taking Stuff Apart
+
+Karlsruhe researchers model end-of-life disassembly as a POMDP, then let arms unscrew, mill, or switch tools when a…
+
+https://mechafeed.com/blog/kit-cad-pomdp-disassembly/
 
 #Robotics #Humanoids
 ```
@@ -183,6 +267,48 @@ Czech startup REVEL shows Genesis, a special-purpose humanoid, plus Neural Gambi
 https://mechafeed.com/blog/revel-genesis-neural-gambit/
 
 #HumanoidRobots #Humanoids
+```
+
+---
+
+## SAP-Nav Makes a Robot Look Twice Before It Claims It Found the Pillow
+
+- **Slug:** `sap-nav-hierarchical-ovon`
+- **Date:** 2026-08-15
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/sap-nav-hierarchical-ovon/
+- **Chars:** 273/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=SAP-Nav%20Makes%20a%20Robot%20Look%20Twice%20Before%20It%20Claims%20It%20Found%20the%20Pillow%0A%0AA%20zero-shot%20navigator%20builds%20room%20snapshots%20on%20the%20fly%2C%20then%20walks%20to%20a%20better%20viewpoint%20before%20trusting%20a%20match.%20It%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsap-nav-hierarchical-ovon%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+SAP-Nav Makes a Robot Look Twice Before It Claims It Found the Pillow
+
+A zero-shot navigator builds room snapshots on the fly, then walks to a better viewpoint before trusting a match. It…
+
+https://mechafeed.com/blog/sap-nav-hierarchical-ovon/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## STEMbot Climbs Plant Stems to Look Where Drones Cannot
+
+- **Slug:** `stembot-under-canopy-climber`
+- **Date:** 2026-08-15
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/stembot-under-canopy-climber/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=STEMbot%20Climbs%20Plant%20Stems%20to%20Look%20Where%20Drones%20Cannot%0A%0AMichigan%E2%80%99s%20ARM%20Lab%20built%20a%20compliant%20stem%20climber%20with%20PIN-SLAM%20and%20a%207%E2%80%9333%20mm%20grip%20range.%20IEEE%20Spectrum%20featured%20it%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fstembot-under-canopy-climber%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+STEMbot Climbs Plant Stems to Look Where Drones Cannot
+
+Michigan’s ARM Lab built a compliant stem climber with PIN-SLAM and a 7–33 mm grip range. IEEE Spectrum featured it…
+
+https://mechafeed.com/blog/stembot-under-canopy-climber/
+
+#Robotics #Humanoids
 ```
 
 ---

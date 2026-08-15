@@ -2445,3 +2445,67 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Failures:** none; solid candidates 8 of target 8
 - **X list accessible?** N (disclosed)
 
+## 2026-08-15 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-15
+- git pull --rebase origin main: already up to date
+- Morning already published 8 posts (revel-genesis, capstan, dreamx-phi, egophi, midas, parry, mind-the-context, hand2bot) — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE** (login/tool wall). Disclosed. Proceeded with public X semantic/keyword + web + leftover Friday arXiv + IEEE Spectrum.
+
+### X List Scan
+- Curated list feed not accessible without login
+- Arkshel MX01 transformable flying humanoid (Kalil / Technia clips, company site now fetchable) — **CANDIDATE**
+- Nori new-design sneak peek — **SKIP: already covered**; demo still “next week”
+- Source Robotics 3D-printed differential wrist — **SKIP: old open-source drop** (GitHub/MakerWorld, not this week)
+- Human Archive weekend HA-SLAM/HA-HAND meetup — **SKIP: event, not a new primary paper/launch**
+- REVEL / Tesla / LG-NVIDIA / Unitree STAR recirculation — **SKIP: already covered**
+- Spam / non-robot filtered
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Arkshel MX01 flying transformable humanoid — arkshel.com launch + about + official test video — lane: **build**
+2. **[CANDIDATE/WRITTEN]** STEMbot under-canopy climber — IEEE Spectrum Video Friday 14 Aug + project page + arXiv 2607.07873 + umrobotics short — lane: **build**
+3. **[CANDIDATE/WRITTEN]** KIT CAD-to-POMDP disassembly — IEEE Spectrum 10 Aug + arXiv 2511.23407 + project page (ICRA 2026) — lane: **build**
+4. **[CANDIDATE/WRITTEN]** SAP-Nav hierarchical OVON — arXiv 2608.12707 + project page (Jueying Lite3) — lane: **build**
+5. **[CANDIDATE/WRITTEN]** FUSE active functional affordance — arXiv 2608.12683 — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Attune operator attention tool — arXiv 2608.12650 + UIST 26 + project page — lane: **build**
+7. **[SKIP: already covered morning]** REVEL, capstan, DreamX-Phi, EgoPHI, MiDAS, PARRY, Mind the Context, Hand2Bot
+8. **[SKIP: already covered 8/14]** BioflexBot, HumanoidVLN, NestDex, ContactGuard, H2R-Bench, Temporal GRPO, Seeker, VLA progress, LG/NVIDIA, WHRG, HumanTracker, S2-HWM, FAM-DQ, RoboSynChallenge
+9. **[SKIP: business / mix]** Unitree STAR priced IPO / 5,000x oversub (CNBC Aug 14) — still parked
+10. **[SKIP: thin / leftover]** Deliberate Practice (no HTML), airtight SPA (no HTML), FIRE-VLA / BrainWAM (driving), AirForesight UAV, AMR-Pose, Semantic Radiance Fields
+11. **[SKIP: wrong stills]** Kalil MX01 YouTube thumbnail is clickbait CGI; unused. Official video frames used instead.
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | arkshel-mx01-flying-humanoid | Shar Hendrix | Humanoids | build |
+| 2 | stembot-under-canopy-climber | Shar Hendrix | Robotics | build |
+| 3 | kit-cad-pomdp-disassembly | Robb Harlan | Robotics | build |
+| 4 | sap-nav-hierarchical-ovon | Robb Harlan | Research | build |
+| 5 | fuse-active-affordance | Shar Hendrix | Research | build |
+| 6 | attune-operator-attention | Robb Harlan | Research | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary depth + usable stills: **6** | Writing: **6**
+- Soft floor 2 met; hit target (Arkshel unused launch + Spectrum leftovers + three unused Fri 14 papers)
+
+### Notes for Future Agents
+- Unitree STAR actual pricing + 5,000x oversub still unused (CNBC Aug 14). Valid business-lane follow if a future batch has room.
+- Nori real demo still “next week”
+- Do not rehash this afternoon six
+- Leftover untracked Aug-6 drafts still in the working tree — do not publish as today’s news
+- Arkshel official MP4 is ~121 MB; do not commit it. Stills extracted locally.
+
+### Run summary
+- **Articles published (pending verify/push):** listed above
+- **X list accessible?** N (disclosed)
+- **Media verify:** pending
+- **Vision gate:** pending
+- **Social:** pending
+- **Push:** pending
+
+

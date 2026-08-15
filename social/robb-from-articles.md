@@ -3,9 +3,53 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-15T16:10:30.738Z
+Generated: 2026-08-15T21:12:47.098Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Arkshel Unveils MX01, a Prototype That Walks, Crawls, and Flies
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/arkshel-mx01-flying-humanoid/
+
+### SOLO (no link)
+
+```
+I’m here for the mode switch, not the “world’s first” line.  Walking, crawling, then getting picked up by a flight pack is a fun mechanical idea if the joints and docking actually survive more than a demo bay.
+```
+
+### SOFT-LINK variant
+
+```
+I’m here for the mode switch, not the “world’s first” line.  Walking, crawling, then getting picked up by a flight pack is a fun mechanical idea if the joints and docking actually survive more than a demo bay.
+
+https://mechafeed.com/blog/arkshel-mx01-flying-humanoid/
+```
+
+---
+
+## Attune Asks Operators Why Their Eyes Left One Robot for Another
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/attune-operator-attention/
+
+### SOLO (no link)
+
+```
+I would not ship a fleet UI from twelve students talking to a Stretch.  I would steal the replay card.
+```
+
+### SOFT-LINK variant
+
+```
+I would not ship a fleet UI from twelve students talking to a Stretch.  I would steal the replay card.
+
+https://mechafeed.com/blog/attune-operator-attention/
+```
 
 ---
 
@@ -75,6 +119,28 @@ https://mechafeed.com/blog/egophi-contact-force-egocentric/
 
 ---
 
+## FUSE Looks Around Before It Decides What Can Scoop the Food
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/fuse-active-affordance/
+
+### SOLO (no link)
+
+```
+I like that the one-shot “canonical view” was *worse* than sitting still.  Extra motion without a reason is not a strategy.
+```
+
+### SOFT-LINK variant
+
+```
+I like that the one-shot “canonical view” was *worse* than sitting still.  Extra motion without a reason is not a strategy.
+
+https://mechafeed.com/blog/fuse-active-affordance/
+```
+
+---
+
 ## Hand2Bot Teaches a UR5e to Wait Until You Mean the Handover
 
 - Author on blog: Robb Harlan
@@ -93,6 +159,28 @@ The result I will remember is 25/30 false grabs without the gate.  Gaze is doing
 The result I will remember is 25/30 false grabs without the gate.  Gaze is doing real work there.
 
 https://mechafeed.com/blog/hand2bot-passgen-handover/
+```
+
+---
+
+## KIT Turns CAD Into a Guess-and-Check Plan for Taking Stuff Apart
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/kit-cad-pomdp-disassembly/
+
+### SOLO (no link)
+
+```
+This is the rare recycling-robot story that starts from the failure mode instead of a glossy “circular economy” slide.  If the CAD says the screw turns and the screw does not turn, the useful machine is the one that notices and grabs a mill.
+```
+
+### SOFT-LINK variant
+
+```
+This is the rare recycling-robot story that starts from the failure mode instead of a glossy “circular economy” slide.  If the CAD says the screw turns and the screw does not turn, the useful machine …
+
+https://mechafeed.com/blog/kit-cad-pomdp-disassembly/
 ```
 
 ---
@@ -181,6 +269,50 @@ I like the sleeve more than the visor.  If they really record force, muscle, and
 I like the sleeve more than the visor.  If they really record force, muscle, and intent from a person who already knows the job, that is a cleaner data story than another teleop farm.
 
 https://mechafeed.com/blog/revel-genesis-neural-gambit/
+```
+
+---
+
+## SAP-Nav Makes a Robot Look Twice Before It Claims It Found the Pillow
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/sap-nav-hierarchical-ovon/
+
+### SOLO (no link)
+
+```
+I like the blacklist more than the leaderboard.  If the robot already decided that pillow is in the wrong room, do not ask the VLM about it again.
+```
+
+### SOFT-LINK variant
+
+```
+I like the blacklist more than the leaderboard.  If the robot already decided that pillow is in the wrong room, do not ask the VLM about it again.
+
+https://mechafeed.com/blog/sap-nav-hierarchical-ovon/
+```
+
+---
+
+## STEMbot Climbs Plant Stems to Look Where Drones Cannot
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/stembot-under-canopy-climber/
+
+### SOLO (no link)
+
+```
+A robot that can hang inverted on a 7 mm stem and still run SLAM is the kind of weird hardware I want more of.  The live-plant Chamfer jump is the receipt that the greenhouse is harder than the PLA fixture.
+```
+
+### SOFT-LINK variant
+
+```
+A robot that can hang inverted on a 7 mm stem and still run SLAM is the kind of weird hardware I want more of.  The live-plant Chamfer jump is the receipt that the greenhouse is harder than the PLA fixture.
+
+https://mechafeed.com/blog/stembot-under-canopy-climber/
 ```
 
 ---
