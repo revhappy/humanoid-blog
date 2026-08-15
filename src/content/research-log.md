@@ -2366,3 +2366,72 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Push:** SUCCESS (`1e0015d` → origin/main)
 - **Failures:** none; solid candidates 6 of target 6
 - **X list accessible?** Partial/noisy (disclosed)
+
+## 2026-08-15 â€” Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-15
+- git pull --rebase origin main: blocked by leftover unstaged hero deletions; restored tracked `public/images/heroes/` then continued. Branch already up to date with origin/main.
+- Prior day (8/14): morning 8 + afternoon 6 (bioflexbot through robosynchallenge) â€” **do not rehash**
+- Untracked leftover Aug-6 drafts (dreamwam, zeals-d1, mind-vla, safecast, unix-panther, explicit-language-memory) left unpublished
+- X list: https://x.com/i/lists/1805786050763087967 â€” **INACCESSIBLE** (tool error / privacy-extension wall). Disclosed. Proceeded with public X semantic/keyword + web + arXiv cs.RO (Fri 14 Aug leftovers; no Sat 15 dump).
+
+### X List Scan
+- Curated list feed not accessible without login
+- Nori new-design sneak peek (Fri 14) â€” **SKIP: already covered** (nori-l3 / nori-robotics-us-hardware); teaser only, demo next week
+- REVEL Robotics clips â€” **CANDIDATE** (company site now fetchable at revelrobotics.com)
+- Tesla Optimus / 60 Minutes Atlas recirculation â€” **SKIP: already covered / not new primary**
+- Sanctuary Phoenix Gen 2 calendar claim â€” **SKIP: no official Sanctuary page fetched**
+- Unitree STAR IPO 150.8 yuan / 5,000x oversub (CNBC Aug 14) â€” **SKIP: business lane; CNBC/Reuters blocked this session; already have unitree-star-market-ipo-csrc**
+- Spam / non-robot filtered
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** REVEL Genesis + Neural Gambit â€” revelrobotics.com + YouTube Ironman clip â€” lane: **build**
+2. **[CANDIDATE/WRITTEN]** Capstan-driven continuum surgical robot â€” arXiv:2608.13396 â€” lane: **build**
+3. **[CANDIDATE/WRITTEN]** DreamX-Phi 1.0 world model â€” arXiv:2608.13489 + GitHub + WorldArena 2.0 paper â€” lane: **build**
+4. **[CANDIDATE/WRITTEN]** EgoPHI contact/force from ego RGB â€” arXiv:2608.13014 + GitHub â€” lane: **build**
+5. **[CANDIDATE/WRITTEN]** MiDAS one-demo policy adaptation â€” arXiv:2608.11363 + project page â€” lane: **build**
+6. **[CANDIDATE/WRITTEN]** PARRY teleop velocity steering â€” arXiv:2608.13284 â€” lane: **build**
+7. **[CANDIDATE/WRITTEN]** Mind the Context social-action CL â€” arXiv:2608.13448 + GitHub â€” lane: **build**
+8. **[CANDIDATE/WRITTEN]** Hand2Bot / PassGen handover â€” arXiv:2608.13028 â€” lane: **build**
+9. **[SKIP: business / mix]** Unitree STAR priced IPO / 5,000x oversub
+10. **[SKIP: already covered 8/14]** BioflexBot, HumanoidVLN, NestDex, ContactGuard, H2R-Bench, Temporal GRPO, Seeker, VLA progress, LG/NVIDIA 2027, WHRG, HumanTracker, S2-HWM, FAM-DQ, RoboSynChallenge
+11. **[SKIP: already covered 8/13]** G0.5, SMPC, HandEdit, StellaVLA, recomposition, hand priors
+12. **[SKIP: thin / leftover]** Deliberate Practice (no HTML figures), FUSE, FIRE-VLA, BrainWAM, SAP-Nav, Attune, airtight SPA manufacturing, D3D-GEN
+13. **[SKIP: old]** CoorDex (June 2026), Science Robotics active palm (Feb 2026)
+
+### Selected for Writing (ranked) â€” 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | revel-genesis-neural-gambit | Shar Hendrix | Humanoids | build |
+| 2 | capstan-continuum-surgical-robot | Robb Harlan | Robotics | build |
+| 3 | dreamx-phi-action-world-model | Shar Hendrix | AI | build |
+| 4 | egophi-contact-force-egocentric | Robb Harlan | Research | build |
+| 5 | midas-one-demo-policy-adaptation | Shar Hendrix | AI | build |
+| 6 | parry-teleop-collision-avoidance | Robb Harlan | Robotics | build |
+| 7 | mind-the-context-social-robot-actions | Shar Hendrix | Research | build |
+| 8 | hand2bot-passgen-handover | Robb Harlan | Robotics | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (â‰¤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary depth + usable stills: **8** | Writing: **8**
+- Soft floor 3 met; hit target (REVEL product site + seven unused Fri 14 / leftover papers)
+
+### Notes for Future Agents
+- Unitree STAR actual pricing + 5,000x oversub still unused (CNBC Aug 14). Valid business-lane follow if a future batch has room.
+- Deliberate Practice (2608.13415) has no HTML; skip unless PDF figures extract cleanly
+- Nori real demo next week â€” check afternoon/Monday
+- Do not rehash this morning eight
+- Leftover untracked Aug-6 drafts still in the working tree â€” do not publish as todayâ€™s news
+
+### Run summary
+- **Articles published (pending verify/push):** listed above
+- **X list accessible?** N (disclosed)
+- **Media verify:** pending
+- **Vision gate:** pending
+- **Social:** pending
+- **Push:** pending
+

@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-08-14T21:07:58.004Z",
+  "generatedAt": "2026-08-15T16:10:23.640Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "capstan-continuum-surgical-robot",
+      "title": "A Capstan Surgical Snake That Feels Cable Tension From the Motor Mount",
+      "pubDate": "2026-08-15",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/capstan-continuum-surgical-robot/",
+      "tweet": "A Capstan Surgical Snake That Feels Cable Tension From the Motor Mount\n\nCUHK researchers put strain gauges in a capstan drive so a 3.5 mm continuum robot can sense shape and contact without…\n\nhttps://mechafeed.com/blog/capstan-continuum-surgical-robot/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=A%20Capstan%20Surgical%20Snake%20That%20Feels%20Cable%20Tension%20From%20the%20Motor%20Mount%0A%0ACUHK%20researchers%20put%20strain%20gauges%20in%20a%20capstan%20drive%20so%20a%203.5%20mm%20continuum%20robot%20can%20sense%20shape%20and%20contact%20without%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcapstan-continuum-surgical-robot%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 274
+    },
+    {
+      "id": "dreamx-phi-action-world-model",
+      "title": "DreamX-Phi Predicts What a Bimanual Arm Will See Next",
+      "pubDate": "2026-08-15",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/dreamx-phi-action-world-model/",
+      "tweet": "DreamX-Phi Predicts What a Bimanual Arm Will See Next\n\nAMAP’s action-conditioned video world model topped WorldArena 2.0 Track 1 by tying each arm’s SE(3) path to the…\n\nhttps://mechafeed.com/blog/dreamx-phi-action-world-model/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=DreamX-Phi%20Predicts%20What%20a%20Bimanual%20Arm%20Will%20See%20Next%0A%0AAMAP%E2%80%99s%20action-conditioned%20video%20world%20model%20topped%20WorldArena%202.0%20Track%201%20by%20tying%20each%20arm%E2%80%99s%20SE(3)%20path%20to%20the%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdreamx-phi-action-world-model%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 242
+    },
+    {
+      "id": "egophi-contact-force-egocentric",
+      "title": "EgoPHI Reads 3D Hand Force From a Single Head-Cam Frame",
+      "pubDate": "2026-08-15",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/egophi-contact-force-egocentric/",
+      "tweet": "EgoPHI Reads 3D Hand Force From a Single Head-Cam Frame\n\nETH Zürich’s ECCV 2026 paper estimates dense contact and 3D force on hands and objects from one egocentric RGB image…\n\nhttps://mechafeed.com/blog/egophi-contact-force-egocentric/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=EgoPHI%20Reads%203D%20Hand%20Force%20From%20a%20Single%20Head-Cam%20Frame%0A%0AETH%20Z%C3%BCrich%E2%80%99s%20ECCV%202026%20paper%20estimates%20dense%20contact%20and%203D%20force%20on%20hands%20and%20objects%20from%20one%20egocentric%20RGB%20image%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fegophi-contact-force-egocentric%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 265
+    },
+    {
+      "id": "hand2bot-passgen-handover",
+      "title": "Hand2Bot Teaches a UR5e to Wait Until You Mean the Handover",
+      "pubDate": "2026-08-15",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/hand2bot-passgen-handover/",
+      "tweet": "Hand2Bot Teaches a UR5e to Wait Until You Mean the Handover\n\nNTU’s PassGen builds a 5,000-clip RGB-D handover set and an intention gate that cut false triggers from 25/30 to 2/30…\n\nhttps://mechafeed.com/blog/hand2bot-passgen-handover/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Hand2Bot%20Teaches%20a%20UR5e%20to%20Wait%20Until%20You%20Mean%20the%20Handover%0A%0ANTU%E2%80%99s%20PassGen%20builds%20a%205%2C000-clip%20RGB-D%20handover%20set%20and%20an%20intention%20gate%20that%20cut%20false%20triggers%20from%2025%2F30%20to%202%2F30%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhand2bot-passgen-handover%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 256
+    },
+    {
+      "id": "midas-one-demo-policy-adaptation",
+      "title": "MiDAS Adapts a Generalist Robot Policy From One Demo",
+      "pubDate": "2026-08-15",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/midas-one-demo-policy-adaptation/",
+      "tweet": "MiDAS Adapts a Generalist Robot Policy From One Demo\n\nCMU’s CoRL 2026 submission fine-tunes π0.5 on a single demonstration, then residual RL lifts success on a bimanual YAM…\n\nhttps://mechafeed.com/blog/midas-one-demo-policy-adaptation/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=MiDAS%20Adapts%20a%20Generalist%20Robot%20Policy%20From%20One%20Demo%0A%0ACMU%E2%80%99s%20CoRL%202026%20submission%20fine-tunes%20%CF%800.5%20on%20a%20single%20demonstration%2C%20then%20residual%20RL%20lifts%20success%20on%20a%20bimanual%20YAM%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmidas-one-demo-policy-adaptation%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 251
+    },
+    {
+      "id": "mind-the-context-social-robot-actions",
+      "title": "Mind the Context Teaches a Robot When Mopping Is Rude",
+      "pubDate": "2026-08-15",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/mind-the-context-social-robot-actions/",
+      "tweet": "Mind the Context Teaches a Robot When Mopping Is Rude\n\nCambridge and Utrecht’s IROS 2026 paper splits a scene into room vs people so a social robot can keep learning which…\n\nhttps://mechafeed.com/blog/mind-the-context-social-robot-actions/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Mind%20the%20Context%20Teaches%20a%20Robot%20When%20Mopping%20Is%20Rude%0A%0ACambridge%20and%20Utrecht%E2%80%99s%20IROS%202026%20paper%20splits%20a%20scene%20into%20room%20vs%20people%20so%20a%20social%20robot%20can%20keep%20learning%20which%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmind-the-context-social-robot-actions%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 269
+    },
+    {
+      "id": "parry-teleop-collision-avoidance",
+      "title": "PARRY Steers a Teleop Arm Around Obstacles Without Stopping",
+      "pubDate": "2026-08-15",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/parry-teleop-collision-avoidance/",
+      "tweet": "PARRY Steers a Teleop Arm Around Obstacles Without Stopping\n\nTsinghua’s plug-in rotates the end-effector’s relative velocity so a Flexiv arm misses a box instead of freezing the…\n\nhttps://mechafeed.com/blog/parry-teleop-collision-avoidance/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=PARRY%20Steers%20a%20Teleop%20Arm%20Around%20Obstacles%20Without%20Stopping%0A%0ATsinghua%E2%80%99s%20plug-in%20rotates%20the%20end-effector%E2%80%99s%20relative%20velocity%20so%20a%20Flexiv%20arm%20misses%20a%20box%20instead%20of%20freezing%20the%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fparry-teleop-collision-avoidance%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 262
+    },
+    {
+      "id": "revel-genesis-neural-gambit",
+      "title": "REVEL Puts Genesis on a Factory Line and a Wrist Sleeve on the Worker",
+      "pubDate": "2026-08-15",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/revel-genesis-neural-gambit/",
+      "tweet": "REVEL Puts Genesis on a Factory Line and a Wrist Sleeve on the Worker\n\nCzech startup REVEL shows Genesis, a special-purpose humanoid, plus Neural Gambit, a forearm sleeve that records expert…\n\nhttps://mechafeed.com/blog/revel-genesis-neural-gambit/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=REVEL%20Puts%20Genesis%20on%20a%20Factory%20Line%20and%20a%20Wrist%20Sleeve%20on%20the%20Worker%0A%0ACzech%20startup%20REVEL%20shows%20Genesis%2C%20a%20special-purpose%20humanoid%2C%20plus%20Neural%20Gambit%2C%20a%20forearm%20sleeve%20that%20records%20expert%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frevel-genesis-neural-gambit%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 276
+    },
     {
       "id": "bioflexbot-pneumatic-hand",
       "title": "BioflexBot Does Hand Work With a Spring and Two Air Lines",

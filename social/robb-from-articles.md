@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-14T21:07:58.706Z
+Generated: 2026-08-15T16:10:30.738Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## A Capstan Surgical Snake That Feels Cable Tension From the Motor Mount
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/capstan-continuum-surgical-robot/
+
+### SOLO (no link)
+
+```
+This is the kind of paper I want more of: a real packaging constraint, a mechanical trick, and numbers on a bench.  Sensing tension from the motor mount is a clever way to keep the capstan small.
+```
+
+### SOFT-LINK variant
+
+```
+This is the kind of paper I want more of: a real packaging constraint, a mechanical trick, and numbers on a bench.  Sensing tension from the motor mount is a clever way to keep the capstan small.
+
+https://mechafeed.com/blog/capstan-continuum-surgical-robot/
+```
+
+---
+
+## DreamX-Phi Predicts What a Bimanual Arm Will See Next
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/dreamx-phi-action-world-model/
+
+### SOLO (no link)
+
+```
+I care that they treated “the wrong arm moved” as a failure mode, not a footnote.  Leaderboard snapshots expire; the useful bit is the interface: keep each arm’s rigid path in the attention, then supervise the object so it does not teleport.
+```
+
+### SOFT-LINK variant
+
+```
+I care that they treated “the wrong arm moved” as a failure mode, not a footnote.  Leaderboard snapshots expire; the useful bit is the interface: keep each arm’s rigid path in the attention, then supe…
+
+https://mechafeed.com/blog/dreamx-phi-action-world-model/
+```
+
+---
+
+## EgoPHI Reads 3D Hand Force From a Single Head-Cam Frame
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/egophi-contact-force-egocentric/
+
+### SOLO (no link)
+
+```
+If you can get a usable 3D force field from a GoPro-style view, robot learning-from-demo gets a lot less tactile-sensor-shaped.  I would not hang a grasp policy on 4 N MAE yet.
+```
+
+### SOFT-LINK variant
+
+```
+If you can get a usable 3D force field from a GoPro-style view, robot learning-from-demo gets a lot less tactile-sensor-shaped.  I would not hang a grasp policy on 4 N MAE yet.
+
+https://mechafeed.com/blog/egophi-contact-force-egocentric/
+```
+
+---
+
+## Hand2Bot Teaches a UR5e to Wait Until You Mean the Handover
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/hand2bot-passgen-handover/
+
+### SOLO (no link)
+
+```
+The result I will remember is 25/30 false grabs without the gate.  Gaze is doing real work there.
+```
+
+### SOFT-LINK variant
+
+```
+The result I will remember is 25/30 false grabs without the gate.  Gaze is doing real work there.
+
+https://mechafeed.com/blog/hand2bot-passgen-handover/
+```
+
+---
+
+## MiDAS Adapts a Generalist Robot Policy From One Demo
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/midas-one-demo-policy-adaptation/
+
+### SOLO (no link)
+
+```
+One demo plus six hours is a number I can argue about.  I am here for residual RL that is allowed to leave the clone’s action cloud, not just sharpen it.
+```
+
+### SOFT-LINK variant
+
+```
+One demo plus six hours is a number I can argue about.  I am here for residual RL that is allowed to leave the clone’s action cloud, not just sharpen it.
+
+https://mechafeed.com/blog/midas-one-demo-policy-adaptation/
+```
+
+---
+
+## Mind the Context Teaches a Robot When Mopping Is Rude
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/mind-the-context-social-robot-actions/
+
+### SOLO (no link)
+
+```
+I like that they treated “the room is part of the rule” as a modeling choice, not noise to be invariant to.  Zero-shot VLMs scoring the scene and then missing the ranking is a useful slap.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they treated “the room is part of the rule” as a modeling choice, not noise to be invariant to.  Zero-shot VLMs scoring the scene and then missing the ranking is a useful slap.
+
+https://mechafeed.com/blog/mind-the-context-social-robot-actions/
+```
+
+---
+
+## PARRY Steers a Teleop Arm Around Obstacles Without Stopping
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/parry-teleop-collision-avoidance/
+
+### SOLO (no link)
+
+```
+A 0. 1 ms filter that keeps the stick feeling alive is the kind of safety layer I would actually leave on.
+```
+
+### SOFT-LINK variant
+
+```
+A 0. 1 ms filter that keeps the stick feeling alive is the kind of safety layer I would actually leave on.
+
+https://mechafeed.com/blog/parry-teleop-collision-avoidance/
+```
+
+---
+
+## REVEL Puts Genesis on a Factory Line and a Wrist Sleeve on the Worker
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/revel-genesis-neural-gambit/
+
+### SOLO (no link)
+
+```
+I like the sleeve more than the visor.  If they really record force, muscle, and intent from a person who already knows the job, that is a cleaner data story than another teleop farm.
+```
+
+### SOFT-LINK variant
+
+```
+I like the sleeve more than the visor.  If they really record force, muscle, and intent from a person who already knows the job, that is a cleaner data story than another teleop farm.
+
+https://mechafeed.com/blog/revel-genesis-neural-gambit/
+```
 
 ---
 
