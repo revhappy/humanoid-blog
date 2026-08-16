@@ -14,8 +14,176 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-15T21:12:46.533Z
-Posts: 246
+Generated: 2026-08-16T16:17:07.930Z
+Posts: 254
+
+---
+
+## Addverb's Trakr Drops In From an EndureAir Drone
+
+- **Slug:** `addverb-trakr-endureair-drone`
+- **Date:** 2026-08-16
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/addverb-trakr-endureair-drone/
+- **Chars:** 245/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Addverb's%20Trakr%20Drops%20In%20From%20an%20EndureAir%20Drone%0A%0ANoida%E2%80%99s%20Addverb%20and%20EndureAir%20show%20a%20Sabal-20%20airlift%20of%20the%20Trakr%20quadruped.%20Product%20specs%20are%20on%20Addverb%E2%80%99s%20site.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Faddverb-trakr-endureair-drone%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Addverb's Trakr Drops In From an EndureAir Drone
+
+Noida’s Addverb and EndureAir show a Sabal-20 airlift of the Trakr quadruped. Product specs are on Addverb’s site.
+
+https://mechafeed.com/blog/addverb-trakr-endureair-drone/
+
+#Robotics #Humanoids
+```
+
+---
+
+## ASPIRE-VINS Puts Extra Knots Where the Robot Actually Turns
+
+- **Slug:** `aspire-vins-adaptive-spline`
+- **Date:** 2026-08-16
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/aspire-vins-adaptive-spline/
+- **Chars:** 264/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ASPIRE-VINS%20Puts%20Extra%20Knots%20Where%20the%20Robot%20Actually%20Turns%0A%0AA%20KAIST%20RA-L%20paper%20makes%20continuous-time%20VIO%20spend%20spline%20knots%20on%20fast%20motion.%20Mean%20RMSE%20is%200.212%20m%20on%20a%20UAV-style%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Faspire-vins-adaptive-spline%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+ASPIRE-VINS Puts Extra Knots Where the Robot Actually Turns
+
+A KAIST RA-L paper makes continuous-time VIO spend spline knots on fast motion. Mean RMSE is 0.212 m on a UAV-style…
+
+https://mechafeed.com/blog/aspire-vins-adaptive-spline/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## ContactIPM Pushes the Box Without Being Told When to Touch It
+
+- **Slug:** `contactipm-push-box-solver`
+- **Date:** 2026-08-16
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/contactipm-push-box-solver/
+- **Chars:** 269/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ContactIPM%20Pushes%20the%20Box%20Without%20Being%20Told%20When%20to%20Touch%20It%0A%0AA%20new%20solver%20treats%20contact%20as%20complementarity%20and%20still%20uses%20a%20Riccati%20recursion.%20Closed-loop%20Push%20Box%20hits%2050%2F50%20with%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcontactipm-push-box-solver%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+ContactIPM Pushes the Box Without Being Told When to Touch It
+
+A new solver treats contact as complementarity and still uses a Riccati recursion. Closed-loop Push Box hits 50/50 with…
+
+https://mechafeed.com/blog/contactipm-push-box-solver/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## D3D-GEN Builds Hospital Wards a Social Robot Can Actually Walk
+
+- **Slug:** `d3d-gen-social-robot-worlds`
+- **Date:** 2026-08-16
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/d3d-gen-social-robot-worlds/
+- **Chars:** 268/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=D3D-GEN%20Builds%20Hospital%20Wards%20a%20Social%20Robot%20Can%20Actually%20Walk%0A%0AAn%20IROS%202026%20paper%20generates%20Isaac%20Sim%20and%20Gazebo%20worlds%20from%20domain%20rules%2C%20including%20robot%20charging%20zones.%20The%20team%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fd3d-gen-social-robot-worlds%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+D3D-GEN Builds Hospital Wards a Social Robot Can Actually Walk
+
+An IROS 2026 paper generates Isaac Sim and Gazebo worlds from domain rules, including robot charging zones. The team…
+
+https://mechafeed.com/blog/d3d-gen-social-robot-worlds/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## DaViNCi Makes Street Navigation Continuous — and the Cars Move
+
+- **Slug:** `davinci-outdoor-vln`
+- **Date:** 2026-08-16
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/davinci-outdoor-vln/
+- **Chars:** 248/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=DaViNCi%20Makes%20Street%20Navigation%20Continuous%20%E2%80%94%20and%20the%20Cars%20Move%0A%0ASJTU%E2%80%99s%20CARLA%20dataset%20has%206%2C933%20outdoor%20routes%20with%20live%20traffic.%20Success%20drops%20more%20than%2010%20points%20versus%20older%20static%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdavinci-outdoor-vln%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+DaViNCi Makes Street Navigation Continuous — and the Cars Move
+
+SJTU’s CARLA dataset has 6,933 outdoor routes with live traffic. Success drops more than 10 points versus older static…
+
+https://mechafeed.com/blog/davinci-outdoor-vln/
+
+#AI #Humanoids
+```
+
+---
+
+## Molex MiniMix Puts Power and Ethernet Through a 5.65 mm Joint
+
+- **Slug:** `molex-minimix-humanoid-connectors`
+- **Date:** 2026-08-16
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/molex-minimix-humanoid-connectors/
+- **Chars:** 259/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Molex%20MiniMix%20Puts%20Power%20and%20Ethernet%20Through%20a%205.65%20mm%20Joint%0A%0AMolex%20samples%20a%20hybrid%20connector%20that%20combines%2015%20A%20and%201%20Gbps%20Ethernet%20for%20humanoid%20wrists%2C%20knees%2C%20and%20necks.%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmolex-minimix-humanoid-connectors%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Molex MiniMix Puts Power and Ethernet Through a 5.65 mm Joint
+
+Molex samples a hybrid connector that combines 15 A and 1 Gbps Ethernet for humanoid wrists, knees, and necks.…
+
+https://mechafeed.com/blog/molex-minimix-humanoid-connectors/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Monumental's Brick Robots Laid a Semi-Detached Home
+
+- **Slug:** `monumental-bricklaying-robots`
+- **Date:** 2026-08-16
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/monumental-bricklaying-robots/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Monumental's%20Brick%20Robots%20Laid%20a%20Semi-Detached%20Home%0A%0AIEEE%20Spectrum%20flags%20Monumental%20robots%20laying%20about%2020%2C000%20bricks%20on%20a%20house.%20The%20Amsterdam%20fleet%20already%20has%20walls%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmonumental-bricklaying-robots%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Monumental's Brick Robots Laid a Semi-Detached Home
+
+IEEE Spectrum flags Monumental robots laying about 20,000 bricks on a house. The Amsterdam fleet already has walls on…
+
+https://mechafeed.com/blog/monumental-bricklaying-robots/
+
+#Robotics #Humanoids
+```
+
+---
+
+## A Radiance Field That Knows Which Blob Is the Apple
+
+- **Slug:** `semantic-radiance-fields-orchard`
+- **Date:** 2026-08-16
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/semantic-radiance-fields-orchard/
+- **Chars:** 262/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20Radiance%20Field%20That%20Knows%20Which%20Blob%20Is%20the%20Apple%0A%0ALeipzig%20and%20Polish%20Academy%20researchers%20lift%20SAM%203%20labels%20into%20a%20NeRF%20so%20a%20robot%20can%20query%20apples%2C%20branches%2C%20and%20free%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsemantic-radiance-fields-orchard%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+A Radiance Field That Knows Which Blob Is the Apple
+
+Leipzig and Polish Academy researchers lift SAM 3 labels into a NeRF so a robot can query apples, branches, and free…
+
+https://mechafeed.com/blog/semantic-radiance-fields-orchard/
+
+#RoboticsResearch #Humanoids
+```
 
 ---
 

@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-15T21:12:47.098Z
+Generated: 2026-08-16T16:17:28.424Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Addverb's Trakr Drops In From an EndureAir Drone
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/addverb-trakr-endureair-drone/
+
+### SOLO (no link)
+
+```
+Air-dropping a 18-kilogram dog is a fun logistics trick.  I care whether Trakr can stand up after the sling lets go, keep LiDAR lock, and walk a patrol without a joystick.
+```
+
+### SOFT-LINK variant
+
+```
+Air-dropping a 18-kilogram dog is a fun logistics trick.  I care whether Trakr can stand up after the sling lets go, keep LiDAR lock, and walk a patrol without a joystick.
+
+https://mechafeed.com/blog/addverb-trakr-endureair-drone/
+```
+
+---
+
+## ASPIRE-VINS Puts Extra Knots Where the Robot Actually Turns
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/aspire-vins-adaptive-spline/
+
+### SOLO (no link)
+
+```
+Uniform knots are lazy.  If you are going to pay for a continuous-time backend, make it spend degrees of freedom on the landing, not the hallway.
+```
+
+### SOFT-LINK variant
+
+```
+Uniform knots are lazy.  If you are going to pay for a continuous-time backend, make it spend degrees of freedom on the landing, not the hallway.
+
+https://mechafeed.com/blog/aspire-vins-adaptive-spline/
+```
+
+---
+
+## ContactIPM Pushes the Box Without Being Told When to Touch It
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/contactipm-push-box-solver/
+
+### SOLO (no link)
+
+```
+A solver that “succeeds” by never touching the box is a museum piece.  Gating on the physical product is the adult move.
+```
+
+### SOFT-LINK variant
+
+```
+A solver that “succeeds” by never touching the box is a museum piece.  Gating on the physical product is the adult move.
+
+https://mechafeed.com/blog/contactipm-push-box-solver/
+```
+
+---
+
+## D3D-GEN Builds Hospital Wards a Social Robot Can Actually Walk
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/d3d-gen-social-robot-worlds/
+
+### SOLO (no link)
+
+```
+I smiled at the brown charging rooms.  If you train a hospital robot in a ProcTHOR rectangle, of course it gets stuck at the meds trolley.
+```
+
+### SOFT-LINK variant
+
+```
+I smiled at the brown charging rooms.  If you train a hospital robot in a ProcTHOR rectangle, of course it gets stuck at the meds trolley.
+
+https://mechafeed.com/blog/d3d-gen-social-robot-worlds/
+```
+
+---
+
+## DaViNCi Makes Street Navigation Continuous — and the Cars Move
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/davinci-outdoor-vln/
+
+### SOLO (no link)
+
+```
+If your outdoor navigator only works on a frozen graph, you do not have a driver.  You have a slideshow.
+```
+
+### SOFT-LINK variant
+
+```
+If your outdoor navigator only works on a frozen graph, you do not have a driver.  You have a slideshow.
+
+https://mechafeed.com/blog/davinci-outdoor-vln/
+```
+
+---
+
+## Molex MiniMix Puts Power and Ethernet Through a 5.65 mm Joint
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/molex-minimix-humanoid-connectors/
+
+### SOLO (no link)
+
+```
+If your humanoid still needs a tech to solder a wrist harness, you do not have a factory.  You have a prototype line.
+```
+
+### SOFT-LINK variant
+
+```
+If your humanoid still needs a tech to solder a wrist harness, you do not have a factory.  You have a prototype line.
+
+https://mechafeed.com/blog/molex-minimix-humanoid-connectors/
+```
+
+---
+
+## Monumental's Brick Robots Laid a Semi-Detached Home
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/monumental-bricklaying-robots/
+
+### SOLO (no link)
+
+```
+I’m here for the 20,000-brick house, not the fundraising slide.  If Atrium really places mortar on an occupied site and the wall still looks like a mason did it, this is one of the few construction robots I would argue about over coffee.
+```
+
+### SOFT-LINK variant
+
+```
+I’m here for the 20,000-brick house, not the fundraising slide.  If Atrium really places mortar on an occupied site and the wall still looks like a mason did it, this is one of the few construction ro…
+
+https://mechafeed.com/blog/monumental-bricklaying-robots/
+```
+
+---
+
+## A Radiance Field That Knows Which Blob Is the Apple
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/semantic-radiance-fields-orchard/
+
+### SOLO (no link)
+
+```
+Training a picker in a fake orchard is easy.  Training it in a field you scanned last Tuesday is the trick.
+```
+
+### SOFT-LINK variant
+
+```
+Training a picker in a fake orchard is easy.  Training it in a field you scanned last Tuesday is the trick.
+
+https://mechafeed.com/blog/semantic-radiance-fields-orchard/
+```
 
 ---
 

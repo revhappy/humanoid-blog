@@ -2514,4 +2514,78 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Failures:** none; solid candidates 6 of target 6
 - **X list accessible?** N (disclosed)
 
+## 2026-08-16 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-16
+- git pull --rebase origin main: already up to date
+- Prior day (8/15): morning 8 + afternoon 6 — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE** (browse_page disabled for X.com). Disclosed. Proceeded with public X semantic/keyword + web + leftover Thu/Fri arXiv.
+
+### X List Scan
+- Curated list feed not accessible without login
+- Addverb + EndureAir drone-deployed Trakr (X clips 16 Aug) — **CANDIDATE**
+- Auki QR-code robot onboarding demo — **SKIP: older real-world-web demo, not a new primary this week**
+- ReactiveBFM humanoid reaching (Xiao Chen, 14 Aug clip) — **SKIP: June 2026 paper**
+- Unitree R1 / T800 flip recirculation — **SKIP: old product**
+- Tesla / Figure / Atlas / Nori recirculation — **SKIP: already covered / no new primary**
+- Spam / non-robot filtered
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Molex MiniMix hybrid connectors for humanoid joints — PR Newswire 5 Aug + Electronics Weekly 6 Aug — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Monumental bricklaying robots (20k bricks / 100+ homes) — monumental.co + IEEE Spectrum VF 14 Aug + Construction Digital 5 Aug — lane: **build**
+3. **[CANDIDATE/WRITTEN]** Addverb Trakr + EndureAir Sabal-20 air drop — addverb.ai/trakr + Indian Defence News 16 Aug + YouTube — lane: **build**
+4. **[CANDIDATE/WRITTEN]** D3D-GEN domain-grounded 3D worlds for social robots — arXiv:2608.11876 + HTML — lane: **build**
+5. **[CANDIDATE/WRITTEN]** ASPIRE-VINS adaptive spline VIO — arXiv:2608.12840 (RA-L) — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Semantic Radiance Fields as orchard simulators — arXiv:2608.13095 (IJCAI STRL) — lane: **build**
+7. **[CANDIDATE/WRITTEN]** DaViNCi outdoor continuous/dynamic VLN — arXiv:2608.11901 + project page — lane: **build**
+8. **[CANDIDATE/WRITTEN]** ContactIPM contact-implicit solver — arXiv:2608.11731 + PDF figures — lane: **build**
+9. **[SKIP: already covered 8/15]** REVEL, capstan, DreamX-Phi, EgoPHI, MiDAS, PARRY, Mind the Context, Hand2Bot, Arkshel, STEMbot, KIT, SAP-Nav, FUSE, Attune
+10. **[SKIP: already covered 8/14]** BioflexBot, HumanoidVLN, NestDex, ContactGuard, H2R-Bench, Temporal GRPO, Seeker, VLA progress, LG/NVIDIA, WHRG, HumanTracker, S2-HWM, FAM-DQ, RoboSynChallenge
+11. **[SKIP: official pages 404]** DEEP Robotics DR02 stair clip (Spectrum VF + YouTube + humanoid.guide only)
+12. **[SKIP: no HTML figures]** Proxemic VLM risk (2608.12515)
+13. **[SKIP: business / mix]** Unitree STAR priced IPO (still parked)
+14. **[SKIP: leftover / driving / UAV / old]** FIRE-VLA, BrainWAM, Deliberate Practice, airtight SPA, Genetic Fuzzy 2021, ReactiveBFM June paper
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | addverb-trakr-endureair-drone | Shar Hendrix | Robotics | build |
+| 2 | monumental-bricklaying-robots | Shar Hendrix | Robotics | build |
+| 3 | molex-minimix-humanoid-connectors | Robb Harlan | Robotics | build |
+| 4 | d3d-gen-social-robot-worlds | Shar Hendrix | Research | build |
+| 5 | semantic-radiance-fields-orchard | Shar Hendrix | Research | build |
+| 6 | aspire-vins-adaptive-spline | Robb Harlan | Research | build |
+| 7 | davinci-outdoor-vln | Robb Harlan | AI | build |
+| 8 | contactipm-push-box-solver | Robb Harlan | Research | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary depth + usable stills: **8** | Writing: **8**
+- Soft floor 3 met; hit target (Sunday; no new arXiv dump; unused Thu papers + product pages + today's Addverb/EndureAir lead)
+
+### Notes for Future Agents
+- DEEP Robotics official English product URLs 404 this session; do not write DR02 until deeprobotics.cn pages load
+- Unitree STAR priced IPO still unused (business lane)
+- Nori real demo still “next week”
+- Do not rehash this morning eight
+- Leftover untracked Aug-6 drafts still unpublished — do not ship as today’s news
+
+### Run summary
+- **Articles published (8):** addverb-trakr-endureair-drone, monumental-bricklaying-robots, molex-minimix-humanoid-connectors, d3d-gen-social-robot-worlds, semantic-radiance-fields-orchard, aspire-vins-adaptive-spline, davinci-outdoor-vln, contactipm-push-box-solver
+- **Skipped candidates:** DEEP Robotics DR02 (official 404), Proxemic VLM (no figures), Unitree STAR IPO (business), Auki/ReactiveBFM/Nori/old recirculation, leftover Aug-6 drafts
+- **X list accessible?** N (disclosed)
+
+#### Morning finalize (2026-08-16)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** PASS — addverb (Trakr product render + Sabal-20 drop still + EndureAir UAV), monumental (brick arm on wall + video still), molex (EW connector photo + PR graphic), d3d-gen (pipeline + baseline floorplans with charging rooms), semantic-radiance (orchard RGB/semantic + quadruped sim + tree render), aspire-vins (3D-MSR diagram + handheld rig + stair trajectories), davinci (continuous-vs-static figure + dataset overview + project comparison), contactipm (Push Box closed-loop plots)
+- **Social:** tweets 254 drafts; robb-x refreshed
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Push:** pending
+- **Failures:** none; solid candidates 8 of target 8
+- **X list accessible?** N (disclosed)
+
 
