@@ -2584,7 +2584,7 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Vision gate:** PASS — addverb (Trakr product render + Sabal-20 drop still + EndureAir UAV), monumental (brick arm on wall + video still), molex (EW connector photo + PR graphic), d3d-gen (pipeline + baseline floorplans with charging rooms), semantic-radiance (orchard RGB/semantic + quadruped sim + tree render), aspire-vins (3D-MSR diagram + handheld rig + stair trajectories), davinci (continuous-vs-static figure + dataset overview + project comparison), contactipm (Push Box closed-loop plots)
 - **Social:** tweets 254 drafts; robb-x refreshed
 - **Build:** skipped this slot (frontmatter matches schema; media gate clean)
-- **Push:** pending
+- **Push:** SUCCESS (`0ed9dbd` → origin/main)
 - **Failures:** none; solid candidates 8 of target 8
 - **X list accessible?** N (disclosed)
 
