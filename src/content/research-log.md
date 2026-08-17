@@ -2653,11 +2653,17 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - Afternoon leftovers from Monday dump: BICPO-VLA, Graph-MambaNav, OccPlanner (Go2), PRM-as-a-Judge 1.5, OpenBelief-Nav
 
 ### Run summary
-- **Articles published (pending verify/push):** listed above
+- **Articles published (8):** unitree-superman-humanoid, advdex-human-demo-hands, textile-yarn-robotic-skin, reflexvla-reaction-critical, hint2-ltl-world-models, flatlab-flat-object-manipulation, art-vla-tool-use, thrive-therapeutic-humanoid
+- **Skipped candidates:** Unitree STAR IPO (business/mix), Nori sneak peek, DEEP Robotics DR02 (404), leftover Friday papers without HTML, leftover Aug-6 drafts
 - **X list accessible?** N (disclosed)
-- **Media verify:** pending
-- **Vision gate:** pending
-- **Social:** pending
-- **Push:** pending
+
+#### Morning finalize (2026-08-17)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** PASS — unitree-superman (warehouse crouch + mid-air jump + night sprint frames from official X MP4), advdex (teaser domains + JAAS mapping + OmniShare overview), textile-yarn (twisted yarns/grids + 4×4 heatmap + Franka evasion/touch/safety demos), reflexvla (six-task overview + architecture + Piper real rollouts), hint2 (toy-squares safety paths + UR5e Cheez-Its bowls + CALVIN base policy), flatlab (Isaac scene collage + sim grasp rollouts + Baxter real flats), art-vla (tool-vs-baseline comparison + LoRA architecture + low-light/lemon rollouts), thrive (two yellow therapist robots + desktop embodiments + yellow robot + popping-game monitor)
+- **Social:** tweets 262 drafts; robb-x refreshed
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Push:** SUCCESS (`a4661e6` → origin/main)
+- **Failures:** none; solid candidates 8 of target 8
+- **X list accessible?** N (disclosed)
 
 
