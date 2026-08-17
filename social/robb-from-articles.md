@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-17T16:12:45.319Z
+Generated: 2026-08-17T21:09:41.796Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -53,6 +53,50 @@ https://mechafeed.com/blog/art-vla-tool-use/
 
 ---
 
+## ATMOS Docked From Seoul While the Robot Sat in Stockholm
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/atmos-space-robot-teleop/
+
+### SOLO (no link)
+
+```
+I like a docking run that has to survive the public internet more than another frictionless-table hover clip.  One successful Seoul-to-Stockholm dock is not on-orbit ops.
+```
+
+### SOFT-LINK variant
+
+```
+I like a docking run that has to survive the public internet more than another frictionless-table hover clip.  One successful Seoul-to-Stockholm dock is not on-orbit ops.
+
+https://mechafeed.com/blog/atmos-space-robot-teleop/
+```
+
+---
+
+## BICPO-VLA Smooths the Handoff When the Next Chunk Is Late
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/bicpo-vla-async-control/
+
+### SOLO (no link)
+
+```
+Chunked VLAs fail in a very specific way: the next clip does not start where the last clip ended.  Ranking two legal continuations is a nicer fix than telling the policy to move less.
+```
+
+### SOFT-LINK variant
+
+```
+Chunked VLAs fail in a very specific way: the next clip does not start where the last clip ended.  Ranking two legal continuations is a nicer fix than telling the policy to move less.
+
+https://mechafeed.com/blog/bicpo-vla-async-control/
+```
+
+---
+
 ## FlatLab Teaches Arms to Pick Up Things That Have No Handle
 
 - Author on blog: Shar Hendrix
@@ -71,6 +115,28 @@ Picking a magazine off a table is the unglamorous cousin of humanoid laundry dem
 Picking a magazine off a table is the unglamorous cousin of humanoid laundry demos, and I am glad someone made a 100-object bench for it.  Strategy first, primitives second is how you avoid teaching a…
 
 https://mechafeed.com/blog/flatlab-flat-object-manipulation/
+```
+
+---
+
+## Graph-MambaNav Puts the Coffee Machine Last in Line
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/graph-mambanav-object-goal/
+
+### SOLO (no link)
+
+```
+Ordering the graph by “what usually sits near a remote” is a trick I would actually ship on a home robot.  It will also walk you into the wrong chair when the house does not match ChatGPT’s kitchen.
+```
+
+### SOFT-LINK variant
+
+```
+Ordering the graph by “what usually sits near a remote” is a trick I would actually ship on a home robot.  It will also walk you into the wrong chair when the house does not match ChatGPT’s kitchen.
+
+https://mechafeed.com/blog/graph-mambanav-object-goal/
 ```
 
 ---
@@ -97,6 +163,50 @@ https://mechafeed.com/blog/hint2-ltl-world-models/
 
 ---
 
+## OccPlanner Turns a Pixel Tap Into a 3D Path on a Go2
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/occplanner-pixel-goal-nav/
+
+### SOLO (no link)
+
+```
+Tapping a pixel on the floor is how I already drive a robot when I do not have a map.  The 70-point clutter jump is the part I will remember.
+```
+
+### SOFT-LINK variant
+
+```
+Tapping a pixel on the floor is how I already drive a robot when I do not have a map.  The 70-point clutter jump is the part I will remember.
+
+https://mechafeed.com/blog/occplanner-pixel-goal-nav/
+```
+
+---
+
+## PRM-as-a-Judge 1.5 Scores the Path, Not Just the Finish
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/prm-as-a-judge-15/
+
+### SOLO (no link)
+
+```
+Pass/fail is a terrible factory metric.  I want to know whether the arm almost finished the insert or never found the hole.
+```
+
+### SOFT-LINK variant
+
+```
+Pass/fail is a terrible factory metric.  I want to know whether the arm almost finished the insert or never found the hole.
+
+https://mechafeed.com/blog/prm-as-a-judge-15/
+```
+
+---
+
 ## ReflexVLA Chases Moving Cubes Instead of Frozen Scenes
 
 - Author on blog: Shar Hendrix
@@ -115,6 +225,28 @@ I have wanted a VLA scoreboard that punishes thinking time.  This is that board.
 I have wanted a VLA scoreboard that punishes thinking time.  This is that board.
 
 https://mechafeed.com/blog/reflexvla-reaction-critical/
+```
+
+---
+
+## Samsung Held a Closed Humanoid Demo. The Photos Are Still Bot Handy.
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/samsung-rx-humanoid-internal-demo/
+
+### SOLO (no link)
+
+```
+A camera shutter is a better receipt than another org-chart announcement.  I want the next photo to be the August 10 machine, not Bot Handy in a living room.
+```
+
+### SOFT-LINK variant
+
+```
+A camera shutter is a better receipt than another org-chart announcement.  I want the next photo to be the August 10 machine, not Bot Handy in a living room.
+
+https://mechafeed.com/blog/samsung-rx-humanoid-internal-demo/
 ```
 
 ---

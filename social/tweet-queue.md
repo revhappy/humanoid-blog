@@ -14,8 +14,8 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-17T16:12:34.487Z
-Posts: 262
+Generated: 2026-08-17T21:09:40.686Z
+Posts: 268
 
 ---
 
@@ -61,6 +61,48 @@ https://mechafeed.com/blog/art-vla-tool-use/
 
 ---
 
+## ATMOS Docked From Seoul While the Robot Sat in Stockholm
+
+- **Slug:** `atmos-space-robot-teleop`
+- **Date:** 2026-08-17
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/atmos-space-robot-teleop/
+- **Chars:** 245/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ATMOS%20Docked%20From%20Seoul%20While%20the%20Robot%20Sat%20in%20Stockholm%0A%0ASNU%20and%20KTH%20flew%20a%20planar%20space-analog%20robot%20over%207%2C450%20km%20of%20internet%20delay%20and%20still%20completed%20a%20docking%20run.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fatmos-space-robot-teleop%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+ATMOS Docked From Seoul While the Robot Sat in Stockholm
+
+SNU and KTH flew a planar space-analog robot over 7,450 km of internet delay and still completed a docking run.
+
+https://mechafeed.com/blog/atmos-space-robot-teleop/
+
+#Robotics #Humanoids
+```
+
+---
+
+## BICPO-VLA Smooths the Handoff When the Next Chunk Is Late
+
+- **Slug:** `bicpo-vla-async-control`
+- **Date:** 2026-08-17
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/bicpo-vla-async-control/
+- **Chars:** 241/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=BICPO-VLA%20Smooths%20the%20Handoff%20When%20the%20Next%20Chunk%20Is%20Late%0A%0AA%20Haar-split%20VLA%20ranks%20same-behavior%20action%20chunks%20so%20the%20robot%20does%20not%20jump%20when%20inference%20finishes%20mid-motion.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fbicpo-vla-async-control%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+BICPO-VLA Smooths the Handoff When the Next Chunk Is Late
+
+A Haar-split VLA ranks same-behavior action chunks so the robot does not jump when inference finishes mid-motion.
+
+https://mechafeed.com/blog/bicpo-vla-async-control/
+
+#AI #Humanoids
+```
+
+---
+
 ## FlatLab Teaches Arms to Pick Up Things That Have No Handle
 
 - **Slug:** `flatlab-flat-object-manipulation`
@@ -78,6 +120,27 @@ Jilin’s Isaac Sim benchmark covers 100+ flat objects and three grasp strategie
 https://mechafeed.com/blog/flatlab-flat-object-manipulation/
 
 #Robotics #Humanoids
+```
+
+---
+
+## Graph-MambaNav Puts the Coffee Machine Last in Line
+
+- **Slug:** `graph-mambanav-object-goal`
+- **Date:** 2026-08-17
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/graph-mambanav-object-goal/
+- **Chars:** 255/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Graph-MambaNav%20Puts%20the%20Coffee%20Machine%20Last%20in%20Line%0A%0AA%20RA-L%20ObjectNav%20stack%20orders%20household%20objects%20by%20LLM%20affinity%2C%20then%20scans%20them%20with%20Mamba.%20It%20hits%2083%25%20success%20in%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgraph-mambanav-object-goal%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+Graph-MambaNav Puts the Coffee Machine Last in Line
+
+A RA-L ObjectNav stack orders household objects by LLM affinity, then scans them with Mamba. It hits 83% success in…
+
+https://mechafeed.com/blog/graph-mambanav-object-goal/
+
+#RoboticsResearch #Humanoids
 ```
 
 ---
@@ -103,6 +166,48 @@ https://mechafeed.com/blog/hint2-ltl-world-models/
 
 ---
 
+## OccPlanner Turns a Pixel Tap Into a 3D Path on a Go2
+
+- **Slug:** `occplanner-pixel-goal-nav`
+- **Date:** 2026-08-17
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/occplanner-pixel-goal-nav/
+- **Chars:** 259/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=OccPlanner%20Turns%20a%20Pixel%20Tap%20Into%20a%203D%20Path%20on%20a%20Go2%0A%0AA%20diffusion%20planner%20grounds%20image-space%20goals%20in%20local%20occupancy%20and%20lifts%205%E2%80%938%20m%20sim%20success%20from%2021%25%20to%2072%25%20over%20NavDP.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Foccplanner-pixel-goal-nav%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+OccPlanner Turns a Pixel Tap Into a 3D Path on a Go2
+
+A diffusion planner grounds image-space goals in local occupancy and lifts 5–8 m sim success from 21% to 72% over NavDP.
+
+https://mechafeed.com/blog/occplanner-pixel-goal-nav/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## PRM-as-a-Judge 1.5 Scores the Path, Not Just the Finish
+
+- **Slug:** `prm-as-a-judge-15`
+- **Date:** 2026-08-17
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/prm-as-a-judge-15/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=PRM-as-a-Judge%201.5%20Scores%20the%20Path%2C%20Not%20Just%20the%20Finish%0A%0AA%20new%20toolkit%20turns%20robot%20rollout%20videos%20into%20progress%20curves%2C%20then%20grades%20near-misses%2C%20recoveries%2C%20and%20messy%20successes.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fprm-as-a-judge-15%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+PRM-as-a-Judge 1.5 Scores the Path, Not Just the Finish
+
+A new toolkit turns robot rollout videos into progress curves, then grades near-misses, recoveries, and messy successes.
+
+https://mechafeed.com/blog/prm-as-a-judge-15/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
 ## ReflexVLA Chases Moving Cubes Instead of Frozen Scenes
 
 - **Slug:** `reflexvla-reaction-critical`
@@ -120,6 +225,27 @@ SJTU’s 1B ReflexVLA hits 50.4% on a new six-task latency benchmark and 16/20 o
 https://mechafeed.com/blog/reflexvla-reaction-critical/
 
 #AI #Humanoids
+```
+
+---
+
+## Samsung Held a Closed Humanoid Demo. The Photos Are Still Bot Handy.
+
+- **Slug:** `samsung-rx-humanoid-internal-demo`
+- **Date:** 2026-08-17
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/samsung-rx-humanoid-internal-demo/
+- **Chars:** 279/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Samsung%20Held%20a%20Closed%20Humanoid%20Demo.%20The%20Photos%20Are%20Still%20Bot%20Handy.%0A%0AIndustry%20sources%20say%20RX%20ran%20an%20Aug.%2010%20prototype%20demo%20at%20Umyeon%2C%20including%20camera%20work.%20Public%20stills%20remain%20the%202022%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsamsung-rx-humanoid-internal-demo%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Samsung Held a Closed Humanoid Demo. The Photos Are Still Bot Handy.
+
+Industry sources say RX ran an Aug. 10 prototype demo at Umyeon, including camera work. Public stills remain the 2022…
+
+https://mechafeed.com/blog/samsung-rx-humanoid-internal-demo/
+
+#HumanoidRobots #Humanoids
 ```
 
 ---

@@ -2667,3 +2667,78 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **X list accessible?** N (disclosed)
 
 
+## 2026-08-17 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-17
+- git pull --rebase origin main: already up to date
+- Morning already published 8 posts (unitree-superman, advdex, textile-yarn, reflexvla, hint2, flatlab, art-vla, thrive) — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE / NOISY** (list: operator returned unrelated replies, not the curated feed). Disclosed. Proceeded with public X keyword/semantic + web + leftover Monday cs.RO dump.
+
+### X List Scan
+- Curated list feed not reliably accessible without login
+- Unitree Superman recirculation — **SKIP: already covered morning**
+- Xynova Prima1 22-DoF hand teaser (CyberRobo 16 Aug) — **SKIP: CGI preview; official site still Flex 2; physical hand promised at WRC Beijing**
+- Samsung internal humanoid demo chatter — **CANDIDATE** (SEDAILY 11 Aug + TrendForce/TechTimes)
+- Nori sneak peek — **SKIP: already covered**; demo still “next week”
+- CosmicBrain teleop journal — **SKIP: founder blog, no primary product page fetched**
+- Tesla / Figure / Atlas / WHRG recirculation — **SKIP: already covered**
+- Spam / girlfriend-robot / street clips — **SKIP**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Samsung RX closed humanoid demo (Aug 10 Umyeon) — SEDAILY + TrendForce + TechTimes — lane: **build**
+2. **[CANDIDATE/WRITTEN]** ATMOS Seoul–Stockholm space-robot teleop dock — arXiv:2608.14031 + ATMOS design 2501.16973 — lane: **build**
+3. **[CANDIDATE/WRITTEN]** PRM-as-a-Judge 1.5 toolkit — arXiv:2608.14284 + project blog 16 Aug — lane: **build**
+4. **[CANDIDATE/WRITTEN]** OccPlanner pixel-goal occupancy planner + Go2 — arXiv:2608.14160 — lane: **build**
+5. **[CANDIDATE/WRITTEN]** BICPO-VLA async chunk handoff — arXiv:2608.13924 — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Graph-MambaNav ObjectNav RA-L — arXiv:2608.13723 — lane: **build**
+7. **[SKIP: already covered morning]** Unitree Superman, AdvDex, textile yarn, ReflexVLA, hint², FlatLab, ART, THRIVE
+8. **[SKIP: leftover Monday / unused]** OpenBelief-Nav (2608.13923), ontology world models (2608.13901), vibration payload (2608.14244), Active Perception (2608.13605)
+9. **[SKIP: business / mix]** Unitree STAR priced IPO / oversub; Gravis $200M construction (TRR 17 Aug)
+10. **[SKIP: thin]** Xynova Prima1 CGI; WHRG Robot Home (already have WHRG 2026 roster); Generalist UMI feature (already have generalist-gen1)
+11. **[SKIP: leftover Aug-6 drafts]** still unpublished — do not ship as today’s news
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | samsung-rx-humanoid-internal-demo | Robb Harlan | Humanoids | build |
+| 2 | atmos-space-robot-teleop | Shar Hendrix | Robotics | build |
+| 3 | prm-as-a-judge-15 | Robb Harlan | Research | build |
+| 4 | occplanner-pixel-goal-nav | Shar Hendrix | Research | build |
+| 5 | bicpo-vla-async-control | Shar Hendrix | AI | build |
+| 6 | graph-mambanav-object-goal | Robb Harlan | Research | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary depth + usable stills: **6** | Writing: **6**
+- Soft floor 2 met; hit target (Samsung prototype demo + ATMOS hardware + four leftover Monday papers morning parked)
+
+### Notes for Future Agents
+- Unitree STAR priced IPO + oversub still unused as a standalone business post
+- Nori real demo still “next week”
+- Xynova Prima1: wait for WRC physical hand, not CGI
+- OpenBelief-Nav, ontology world models, flexible-payload vibration (2608.14244) remain unused
+- Do not rehash this afternoon six
+
+### Run summary
+- **Articles published (pending verify/push):** listed above
+- **Skipped candidates:** Unitree STAR IPO (business), Xynova Prima1 (CGI), OpenBelief-Nav, leftover Aug-6 drafts
+- **X list accessible?** N (disclosed)
+- **Media verify:** pending
+- **Vision gate:** pending
+- **Social:** pending
+- **Push:** pending
+
+
+#### Afternoon finalize (2026-08-17)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 today posts incl. morning 8 + afternoon 6)
+- **Vision gate:** PASS — samsung-rx (Bot Handy dusting/product + RX infographic + Samsung campus), atmos (labeled ATMOS+dock + top-down docking path + Gazebo), prm-as-a-judge-15 (1.0→1.5 teaser + pipeline + RoboDojo radars), occplanner (L3ROcc/planner teaser + sim occupancy paths + Go2 office zero-shot vs fine-tune), bicpo-vla (fiber diagram + real milk/paper-ball bars + sim cabinet/button), graph-mambanav (kitchen ObjectNav teaser + THOR maps + real book hunt)
+- **Social:** tweets 268 drafts; robb-x refreshed; organic queue appended
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Push:** pending
+- **Failures:** none; solid candidates 6 of target 6
+- **X list accessible?** N (disclosed)
+

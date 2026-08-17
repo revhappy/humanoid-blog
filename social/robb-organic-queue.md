@@ -246,3 +246,18 @@ Agree a lot of it is theater. Disagree that “theater” is the whole category 
 - List `1805786050763087967` login-walled this session — used public X + Reuters
 - Hottest live beat: FCC measures on new Chinese humanoid/quadruped imports (Reuters)
 - Also live: July funding tables, Agility CFO hire, GENE.01 US show, Tau $30/hr, 200Hz control-loop nuance
+
+### 2026-08-17 Afternoon — pipeline seeds
+- X list 1805786050763087967 still inaccessible this slot
+- Six build posts: Samsung RX closed demo, ATMOS Seoul–Stockholm dock, PRM-as-a-Judge 1.5, OccPlanner/Go2, BICPO-VLA, Graph-MambaNav
+
+**SOLO (Samsung):**
+A closed-door humanoid demo where the published photos are still Bot Handy is not a product drop. Show the August 10 machine, or it stays a hiring rumor with a camera-shutter anecdote.
+
+**SOLO (ATMOS):**
+Docking a planar space robot from Seoul while it sits in Stockholm is the right kind of delay test. Public internet, 1-second dropouts, a few centimeters of connector. That’s more useful than another frictionless hover clip.
+
+**SOFT-LINK (PRM 1.5):**
+Pass/fail is a terrible factory metric. 1.5 grades near-misses and recoveries. The sim-to-real heatmap is the part I’d pin on a lab wall.
+https://mechafeed.com/blog/prm-as-a-judge-15/
+
