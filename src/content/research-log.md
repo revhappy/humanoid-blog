@@ -2742,3 +2742,6 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Failures:** none; solid candidates 6 of target 6
 - **X list accessible?** N (disclosed)
 
+
+- **Push:** SUCCESS (`f50b6c4` → origin/main)
+
