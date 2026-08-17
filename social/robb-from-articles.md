@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-16T16:17:28.424Z
+Generated: 2026-08-17T16:12:45.319Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## AdvDex Maps Human Hand Demos Onto Robot Fingers
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/advdex-human-demo-hands/
+
+### SOLO (no link)
+
+```
+I like a shared 15-joint vocabulary more than another “we teleoped our own hand. ” If JAAS really lets a gripper demo teach a DexH13, that is a useful plumbing trick.
+```
+
+### SOFT-LINK variant
+
+```
+I like a shared 15-joint vocabulary more than another “we teleoped our own hand. ” If JAAS really lets a gripper demo teach a DexH13, that is a useful plumbing trick.
+
+https://mechafeed.com/blog/advdex-human-demo-hands/
+```
+
+---
+
+## ART Lets a VLA Call Night-Vision Instead of Retraining
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/art-vla-tool-use/
+
+### SOLO (no link)
+
+```
+Calling a denoise module is less romantic than a 70B VLA, and that is why I like it.  Keep the action head you already paid to train.
+```
+
+### SOFT-LINK variant
+
+```
+Calling a denoise module is less romantic than a 70B VLA, and that is why I like it.  Keep the action head you already paid to train.
+
+https://mechafeed.com/blog/art-vla-tool-use/
+```
+
+---
+
+## FlatLab Teaches Arms to Pick Up Things That Have No Handle
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/flatlab-flat-object-manipulation/
+
+### SOLO (no link)
+
+```
+Picking a magazine off a table is the unglamorous cousin of humanoid laundry demos, and I am glad someone made a 100-object bench for it.  Strategy first, primitives second is how you avoid teaching a diffusion policy to memorize one particular book.
+```
+
+### SOFT-LINK variant
+
+```
+Picking a magazine off a table is the unglamorous cousin of humanoid laundry demos, and I am glad someone made a 100-object bench for it.  Strategy first, primitives second is how you avoid teaching a…
+
+https://mechafeed.com/blog/flatlab-flat-object-manipulation/
+```
+
+---
+
+## hint² Steers a Short-Horizon Policy With Two World Models
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/hint2-ltl-world-models/
+
+### SOLO (no link)
+
+```
+This is the right split.  Use the automaton for “what comes next” and the short dynamics model for “don’t dump the crackers.
+```
+
+### SOFT-LINK variant
+
+```
+This is the right split.  Use the automaton for “what comes next” and the short dynamics model for “don’t dump the crackers.
+
+https://mechafeed.com/blog/hint2-ltl-world-models/
+```
+
+---
+
+## ReflexVLA Chases Moving Cubes Instead of Frozen Scenes
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/reflexvla-reaction-critical/
+
+### SOLO (no link)
+
+```
+I have wanted a VLA scoreboard that punishes thinking time.  This is that board.
+```
+
+### SOFT-LINK variant
+
+```
+I have wanted a VLA scoreboard that punishes thinking time.  This is that board.
+
+https://mechafeed.com/blog/reflexvla-reaction-critical/
+```
+
+---
+
+## Twisted Yarns Become Pressure-and-Proximity Robot Skin
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/textile-yarn-robotic-skin/
+
+### SOLO (no link)
+
+```
+403 milliseconds is not a reflex.  It is still fast enough to prove the skin is not just a sweater with a data sheet.
+```
+
+### SOFT-LINK variant
+
+```
+403 milliseconds is not a reflex.  It is still fast enough to prove the skin is not just a sweater with a data sheet.
+
+https://mechafeed.com/blog/textile-yarn-robotic-skin/
+```
+
+---
+
+## THRIVE Is a 50-Centimeter Therapist You Can Also Render
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/thrive-therapeutic-humanoid/
+
+### SOLO (no link)
+
+```
+I like that they treated the robot as a coach you can swap, not as the therapy.  A 270-gram 7-DoF print is the right size for a kid’s desk.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they treated the robot as a coach you can swap, not as the therapy.  A 270-gram 7-DoF print is the right size for a kid’s desk.
+
+https://mechafeed.com/blog/thrive-therapeutic-humanoid/
+```
+
+---
+
+## Unitree Previews “Superman,” a Humanoid It Says Jumps 2 Meters
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/unitree-superman-humanoid/
+
+### SOLO (no link)
+
+```
+A 2-meter standstill jump next to a painted ruler is the kind of receipt I actually want from a humanoid lab.  I’m here for the footage.
+```
+
+### SOFT-LINK variant
+
+```
+A 2-meter standstill jump next to a painted ruler is the kind of receipt I actually want from a humanoid lab.  I’m here for the footage.
+
+https://mechafeed.com/blog/unitree-superman-humanoid/
+```
 
 ---
 

@@ -2588,4 +2588,76 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Failures:** none; solid candidates 8 of target 8
 - **X list accessible?** N (disclosed)
 
+## 2026-08-17 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-17
+- git pull --rebase origin main: already up to date
+- Prior day (8/16): morning 8 only (addverb-trakr through contactipm); no afternoon posts published — **do not rehash**
+- Prior 8/15: morning 8 + afternoon 6 — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE** (privacy-extension / tool wall). Disclosed. Proceeded with public X keyword/semantic + web + Monday 17 Aug arXiv cs.RO dump (32 new).
+
+### X List Scan
+- Curated list feed not accessible without login
+- **@UnitreeRobotics** (17 Aug 06:38 UTC): official “Superman” preview — 2 m standing jump, 12.66 m/s, 0.85 m legs, ~3 months development — **CANDIDATE**
+- 44-DoF wheeled humanoid flag-hoist clip — thin, unnamed team — **SKIP: not substantial**
+- Dynamixel-Q “end of month” launch chatter — **SKIP: not shipping yet**
+- DOBOT LUMO / Zeals D1 / UBTECH / Omakase recirculation — **SKIP: already covered**
+- Handroid reconfigurable hand-or-humanoid — **SKIP: already have handroid-reconfigurable-hand-humanoid**
+- Psi0 open-source loco-manipulation repo recirculation — **SKIP: already have psi0-open-humanoid-loco-manipulation**
+- Tesla / Figure / Atlas / Nori recirculation — **SKIP: already covered / no new primary**
+- Spam / girlfriend-robot / street-begging humanoid clips — **SKIP**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Unitree Superman jump/sprint preview — official X + BigGo 17 Aug — lane: **build**
+2. **[CANDIDATE/WRITTEN]** AdvDex / OmniShare human-to-robot hands — arXiv:2608.14028 + HTML — lane: **build**
+3. **[CANDIDATE/WRITTEN]** Twisted-yarn textile capacitive robot skin — arXiv:2608.14406 + HTML — lane: **build**
+4. **[CANDIDATE/WRITTEN]** ReflexVLA + ReflexBench — arXiv:2608.14379 + reflexvla.github.io — lane: **build**
+5. **[CANDIDATE/WRITTEN]** hint² LTL hierarchical world models — arXiv:2608.13678 + project page — lane: **build**
+6. **[CANDIDATE/WRITTEN]** FlatLab flat-object sim + Baxter transfer — arXiv:2608.14049 + flatlab-web.github.io — lane: **build**
+7. **[CANDIDATE/WRITTEN]** ART tool-use VLA / Astribot S1 — arXiv:2608.14047 + HTML — lane: **build**
+8. **[CANDIDATE/WRITTEN]** THRIVE therapeutic humanoid + VR games — arXiv:2608.14462 PDF + Hello Robotics site — lane: **build**
+9. **[SKIP: already covered 8/16]** Addverb Trakr, Monumental, Molex MiniMix, D3D-GEN, Semantic Radiance, ASPIRE-VINS, DaViNCi, ContactIPM
+10. **[SKIP: already covered 8/15]** REVEL, capstan, DreamX-Phi, EgoPHI, MiDAS, PARRY, Mind the Context, Hand2Bot, Arkshel, STEMbot, KIT, SAP-Nav, FUSE, Attune
+11. **[SKIP: already covered]** Figure 03 BotQ 55/week (April 2026 post), 1X Hayward factory, CASBOT hands, BYD Di Space, DOBOT LUMO, LG/NVIDIA 2027
+12. **[SKIP: business / mix]** Unitree STAR priced IPO / 8,000x oversub (still parked; Superman is the capability story)
+13. **[SKIP: thin / leftover]** Robotera HK IPO rumor, Deliberate Practice (no HTML), FIRE-VLA driving, DEEP Robotics DR02 (official 404 last session)
+14. **[SKIP: leftover Aug-6 drafts]** still unpublished — do not ship as today’s news
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | unitree-superman-humanoid | Shar Hendrix | Humanoids | build |
+| 2 | advdex-human-demo-hands | Shar Hendrix | Robotics | build |
+| 3 | textile-yarn-robotic-skin | Robb Harlan | Robotics | build |
+| 4 | reflexvla-reaction-critical | Shar Hendrix | AI | build |
+| 5 | hint2-ltl-world-models | Robb Harlan | Research | build |
+| 6 | flatlab-flat-object-manipulation | Shar Hendrix | Robotics | build |
+| 7 | art-vla-tool-use | Robb Harlan | AI | build |
+| 8 | thrive-therapeutic-humanoid | Shar Hendrix | Humanoids | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary depth + usable stills: **8** | Writing: **8**
+- Soft floor 3 met; hit target (Unitree same-day official clip + Monday cs.RO dump)
+
+### Notes for Future Agents
+- Unitree STAR priced IPO + oversub still unused as a standalone business post (Superman used the capability angle)
+- Nori real demo still “next week”
+- DEEP Robotics official English product URLs 404 last check
+- Do not rehash this morning eight
+- Leftover untracked Aug-6 drafts still unpublished — do not ship as today’s news
+- Afternoon leftovers from Monday dump: BICPO-VLA, Graph-MambaNav, OccPlanner (Go2), PRM-as-a-Judge 1.5, OpenBelief-Nav
+
+### Run summary
+- **Articles published (pending verify/push):** listed above
+- **X list accessible?** N (disclosed)
+- **Media verify:** pending
+- **Vision gate:** pending
+- **Social:** pending
+- **Push:** pending
+
 

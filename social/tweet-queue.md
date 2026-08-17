@@ -14,8 +14,176 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-16T16:17:07.930Z
-Posts: 254
+Generated: 2026-08-17T16:12:34.487Z
+Posts: 262
+
+---
+
+## AdvDex Maps Human Hand Demos Onto Robot Fingers
+
+- **Slug:** `advdex-human-demo-hands`
+- **Date:** 2026-08-17
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/advdex-human-demo-hands/
+- **Chars:** 239/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=AdvDex%20Maps%20Human%20Hand%20Demos%20Onto%20Robot%20Fingers%0A%0AA%20new%20VLA%20paper%20pairs%20a%20100k-trajectory%20OmniShare%20dataset%20with%20a%2015-joint%20action%20space%20for%20human-to-robot%20transfer.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fadvdex-human-demo-hands%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+AdvDex Maps Human Hand Demos Onto Robot Fingers
+
+A new VLA paper pairs a 100k-trajectory OmniShare dataset with a 15-joint action space for human-to-robot transfer.
+
+https://mechafeed.com/blog/advdex-human-demo-hands/
+
+#Robotics #Humanoids
+```
+
+---
+
+## ART Lets a VLA Call Night-Vision Instead of Retraining
+
+- **Slug:** `art-vla-tool-use`
+- **Date:** 2026-08-17
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/art-vla-tool-use/
+- **Chars:** 230/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ART%20Lets%20a%20VLA%20Call%20Night-Vision%20Instead%20of%20Retraining%0A%0AAstribot%E2%80%99s%20ART%20fine-tunes%20%CF%80-FAST%20with%20LoRA%20so%20the%20policy%20can%20invoke%20vision%20and%20camera%20tools%20on%2030k%20trajectories.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fart-vla-tool-use%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+ART Lets a VLA Call Night-Vision Instead of Retraining
+
+Astribot’s ART fine-tunes π-FAST with LoRA so the policy can invoke vision and camera tools on 30k trajectories.
+
+https://mechafeed.com/blog/art-vla-tool-use/
+
+#AI #Humanoids
+```
+
+---
+
+## FlatLab Teaches Arms to Pick Up Things That Have No Handle
+
+- **Slug:** `flatlab-flat-object-manipulation`
+- **Date:** 2026-08-17
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/flatlab-flat-object-manipulation/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FlatLab%20Teaches%20Arms%20to%20Pick%20Up%20Things%20That%20Have%20No%20Handle%0A%0AJilin%E2%80%99s%20Isaac%20Sim%20benchmark%20covers%20100%2B%20flat%20objects%20and%20three%20grasp%20strategies%2C%20then%20transfers%20to%20a%20Baxter.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fflatlab-flat-object-manipulation%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+FlatLab Teaches Arms to Pick Up Things That Have No Handle
+
+Jilin’s Isaac Sim benchmark covers 100+ flat objects and three grasp strategies, then transfers to a Baxter.
+
+https://mechafeed.com/blog/flatlab-flat-object-manipulation/
+
+#Robotics #Humanoids
+```
+
+---
+
+## hint² Steers a Short-Horizon Policy With Two World Models
+
+- **Slug:** `hint2-ltl-world-models`
+- **Date:** 2026-08-17
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/hint2-ltl-world-models/
+- **Chars:** 235/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=hint%C2%B2%20Steers%20a%20Short-Horizon%20Policy%20With%20Two%20World%20Models%0A%0APurdue%E2%80%99s%20hint%C2%B2%20uses%20high-%20and%20low-level%20world%20models%20to%20satisfy%20LTL%20on%20CALVIN%20and%20a%20real%20UR5e.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhint2-ltl-world-models%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+hint² Steers a Short-Horizon Policy With Two World Models
+
+Purdue’s hint² uses high- and low-level world models to satisfy LTL on CALVIN and a real UR5e.
+
+https://mechafeed.com/blog/hint2-ltl-world-models/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## ReflexVLA Chases Moving Cubes Instead of Frozen Scenes
+
+- **Slug:** `reflexvla-reaction-critical`
+- **Date:** 2026-08-17
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/reflexvla-reaction-critical/
+- **Chars:** 225/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ReflexVLA%20Chases%20Moving%20Cubes%20Instead%20of%20Frozen%20Scenes%0A%0ASJTU%E2%80%99s%201B%20ReflexVLA%20hits%2050.4%25%20on%20a%20new%20six-task%20latency%20benchmark%20and%2016%2F20%20on%20a%20real%20conveyor.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Freflexvla-reaction-critical%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+ReflexVLA Chases Moving Cubes Instead of Frozen Scenes
+
+SJTU’s 1B ReflexVLA hits 50.4% on a new six-task latency benchmark and 16/20 on a real conveyor.
+
+https://mechafeed.com/blog/reflexvla-reaction-critical/
+
+#AI #Humanoids
+```
+
+---
+
+## Twisted Yarns Become Pressure-and-Proximity Robot Skin
+
+- **Slug:** `textile-yarn-robotic-skin`
+- **Date:** 2026-08-17
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/textile-yarn-robotic-skin/
+- **Chars:** 240/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Twisted%20Yarns%20Become%20Pressure-and-Proximity%20Robot%20Skin%0A%0AV-Trion%20and%20ZHAW%20coat%20silver%20yarn%20in%20PDMS%20and%20show%20a%204%C3%974%20textile%20skin%20on%20a%20Franka%20arm%20with%20403%20ms%20reaction.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftextile-yarn-robotic-skin%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Twisted Yarns Become Pressure-and-Proximity Robot Skin
+
+V-Trion and ZHAW coat silver yarn in PDMS and show a 4×4 textile skin on a Franka arm with 403 ms reaction.
+
+https://mechafeed.com/blog/textile-yarn-robotic-skin/
+
+#Robotics #Humanoids
+```
+
+---
+
+## THRIVE Is a 50-Centimeter Therapist You Can Also Render
+
+- **Slug:** `thrive-therapeutic-humanoid`
+- **Date:** 2026-08-17
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/thrive-therapeutic-humanoid/
+- **Chars:** 255/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=THRIVE%20Is%20a%2050-Centimeter%20Therapist%20You%20Can%20Also%20Render%0A%0AOhio%20State%2C%20Georgia%20Tech%2C%20and%20Georgia%20State%20pair%20VR%20rehab%20games%20with%20a%20270%20g%2C%207-DoF%20robot%20coach%20for%20kids%20with%20CP.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fthrive-therapeutic-humanoid%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+THRIVE Is a 50-Centimeter Therapist You Can Also Render
+
+Ohio State, Georgia Tech, and Georgia State pair VR rehab games with a 270 g, 7-DoF robot coach for kids with CP.
+
+https://mechafeed.com/blog/thrive-therapeutic-humanoid/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Unitree Previews “Superman,” a Humanoid It Says Jumps 2 Meters
+
+- **Slug:** `unitree-superman-humanoid`
+- **Date:** 2026-08-17
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/unitree-superman-humanoid/
+- **Chars:** 264/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Unitree%20Previews%20%E2%80%9CSuperman%2C%E2%80%9D%20a%20Humanoid%20It%20Says%20Jumps%202%20Meters%0A%0AUnitree%E2%80%99s%20official%20clip%20claims%20a%202%20m%20standing%20jump%20and%2012.66%20m%2Fs%20sprint%20from%20a%20prototype%20built%20in%20about%20three%20months.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Funitree-superman-humanoid%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Unitree Previews “Superman,” a Humanoid It Says Jumps 2 Meters
+
+Unitree’s official clip claims a 2 m standing jump and 12.66 m/s sprint from a prototype built in about three months.
+
+https://mechafeed.com/blog/unitree-superman-humanoid/
+
+#HumanoidRobots #Humanoids
+```
 
 ---
 
