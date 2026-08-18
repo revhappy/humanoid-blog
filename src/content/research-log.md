@@ -2806,4 +2806,18 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - Do not rehash this morning eight
 - Leftover untracked Aug-6 drafts still unpublished — do not ship as today’s news
 
+### Run summary
+- **Articles published (8):** diligent-moxi-2-rollout, g1-football-spiral-throw, haf-humanoid-vla, tac4loco-plantar-pressure, h-pac-hand-tendon, mistac-surgical-tactile, detachable-wire-drive, flexworm-suction-planner
+- **Skipped candidates:** Unichem/Loomia M&A (business), Unitree STAR IPO (business), Superman recirculation (already covered), OpenBelief-Nav / RoboStriker / ViHaTeleop leftovers, Science Robotics ZEST (no fetched HTML), leftover Aug-6 drafts
+- **X list accessible?** N (disclosed)
+
+#### Morning finalize (2026-08-18)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** PASS — moxi (hospital elevator robot + crop), g1-football (throw vs tumble + WBC diagram + torque pies), haf (seven-task overview + 3-stage VLA + chair/start-shift), tac4loco (G1 insoles/foam + pipeline + ramps/gravel), h-pac (hand vs human DOFs + gesture/grasp grid + tendon routing), mistac (8 mm tip vs coin + modular schematic + liver-cut trial), detachable-wire (motor base/arms/grippers + attach/detach sequence + gripper swaps), flexworm (sim+hw cover + table/wall hardware + sim trajectories)
+- **Social:** tweets 276 drafts; robb-x refreshed
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Push:** SUCCESS (`35dc062` → origin/main)
+- **Failures:** none; solid candidates 8 of target 8
+- **X list accessible?** N (disclosed)
+
 
