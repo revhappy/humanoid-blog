@@ -2879,4 +2879,18 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - Leftover untracked Aug-6 drafts still unpublished — do not ship as today’s news
 - Do not rehash this afternoon six
 
+### Run summary
+- **Articles published (6):** zest-humanoid-athletic-control, robostriker-humanoid-boxing, vihateleop-550-haptic, reforce-force-retargeting, vitar-tactile-vla, core-vla-recovery
+- **Skipped candidates:** Unichem/Loomia M&A (business), Unitree STAR IPO (business), OpenBelief-Nav / StructRL / SparkVLA leftovers, leftover Aug-6 drafts
+- **X list accessible?** N (disclosed)
+
+#### Afternoon finalize (2026-08-18)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 today posts incl. morning 8 + afternoon 6)
+- **Vision gate:** PASS — zest (Atlas/G1/Spot skill collage + MoCap/video/animation pipeline), robostriker (two G1s in red gloves + latent NFSP diagram + MuJoCo AMP ablation), vihateleop (wearable + LEAP mapping + Vive/LRA hardware + egg/chip/sim tasks), reforce (XHand tongs/cup teaser + Manus/xArm setup + cup contact comparison), vitar (UniVTAC teaser + insert/wipe sequences + EGM/RAM overview), core (real xArm6 pick/push/place + virtual-planning diagram + LangSwitch families)
+- **Social:** tweets 282 drafts; robb-x refreshed; organic queue appended
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Push:** SUCCESS (`7de03d7` → origin/main)
+- **Failures:** none; solid candidates 6 of target 6
+- **X list accessible?** N (disclosed)
+
 
