@@ -2745,3 +2745,65 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 
 - **Push:** SUCCESS (`f50b6c4` → origin/main)
 
+## 2026-08-18 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-18
+- git pull --rebase origin main: already up to date
+- Prior day (8/17): morning 8 + afternoon 6 — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE** (privacy-extension / tool wall: “Some privacy related extensions may cause issues on x.com”). Disclosed. Proceeded with public X keyword/semantic + web + Tuesday 18 Aug arXiv cs.RO dump (~104 new).
+
+### X List Scan
+- Curated list feed not accessible without login
+- Unitree Superman recirculation (18 Aug clips) — **SKIP: already covered 8/17 morning**
+- 44-DoF wheeled humanoid flag-hoist clip — **SKIP: thin / unnamed**
+- Humanoid go-kart / snow-shovel viral clips — **SKIP: no primary this session**
+- Tesla / Figure / Atlas recirculation — **SKIP: already covered / no new primary**
+- Spam / girlfriend-robot / street clips — **SKIP**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Diligent Robotics begins rolling out Moxi 2.0 to U.S. hospitals (17 Aug) — GlobeNewswire + Diligent blog — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Unitree G1 throws a measured tight-spiral football — arXiv:2608.16642 + HTML — lane: **build**
+3. **[CANDIDATE/WRITTEN]** HAF adapts generalist VLAs to humanoid whole-body loco-manipulation — arXiv:2608.16837 + project page — lane: **build**
+4. **[CANDIDATE/WRITTEN]** Tac4Loco plantar-pressure locomotion on Unitree G1 — arXiv:2608.15766 + HTML — lane: **build**
+5. **[CANDIDATE/WRITTEN]** H-PAC 6-actuator / 15-DoF tendon hand — arXiv:2608.16712 + HTML — lane: **build**
+6. **[CANDIDATE/WRITTEN]** MISTac 8 mm surgical tactile sensor, open-source — arXiv:2608.14772 + GitHub — lane: **build**
+7. **[CANDIDATE/WRITTEN]** Detachable Wire Drive shared-actuator limbs (IROS 2026) — arXiv:2608.15461 + project page — lane: **build**
+8. **[CANDIDATE/WRITTEN]** FlexWorm suction multi-segment planner (RA-L) — arXiv:2608.16853 + YouTube — lane: **build**
+9. **[SKIP: already covered 8/17]** Unitree Superman, AdvDex, textile yarn, ReflexVLA, hint², FlatLab, ART, THRIVE, Samsung RX, ATMOS, PRM-as-a-Judge 1.5, OccPlanner, BICPO-VLA, Graph-MambaNav
+10. **[SKIP: already covered 8/16]** Addverb Trakr, Monumental, Molex MiniMix, D3D-GEN, Semantic Radiance, ASPIRE-VINS, DaViNCi, ContactIPM
+11. **[SKIP: business / mix]** Unichem acquires Loomia (TRR 18 Aug, humanoid skin M&A); Unitree STAR priced IPO / oversub (still parked)
+12. **[SKIP: leftover / unused]** OpenBelief-Nav, ontology world models, vibration payload (2608.14244), RoboStriker boxing, ViHaTeleop, GigaBrain-0.7, ReForce, Science Robotics ZEST (paywalled cover, no fetched paper HTML)
+13. **[SKIP: thin]** Xynova Prima1 CGI; Nori still “next week”; DEEP Robotics DR02 official 404 last check
+14. **[SKIP: leftover Aug-6 drafts]** still unpublished — do not ship as today’s news
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | diligent-moxi-2-rollout | Shar Hendrix | Robotics | build |
+| 2 | g1-football-spiral-throw | Shar Hendrix | Humanoids | build |
+| 3 | haf-humanoid-vla | Robb Harlan | AI | build |
+| 4 | tac4loco-plantar-pressure | Robb Harlan | Humanoids | build |
+| 5 | h-pac-hand-tendon | Shar Hendrix | Robotics | build |
+| 6 | mistac-surgical-tactile | Shar Hendrix | Robotics | build |
+| 7 | detachable-wire-drive | Robb Harlan | Robotics | build |
+| 8 | flexworm-suction-planner | Robb Harlan | Robotics | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary depth + usable stills: **8** | Writing: **8**
+- Soft floor 3 met; hit target (Moxi same-week hospital rollout + Tuesday cs.RO dump)
+
+### Notes for Future Agents
+- Unitree STAR priced IPO + oversub still unused as a standalone business post
+- Unichem/Loomia skin M&A (18 Aug TRR) parked under 25% business cap
+- Nori real demo still “next week”
+- Xynova Prima1: wait for WRC physical hand, not CGI
+- Science Robotics Aug 2026 humanoid special / ZEST backflips: need a fetchable paper page + stills
+- Do not rehash this morning eight
+- Leftover untracked Aug-6 drafts still unpublished — do not ship as today’s news
+
+

@@ -14,8 +14,176 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-17T21:09:40.686Z
-Posts: 268
+Generated: 2026-08-18T16:14:50.857Z
+Posts: 276
+
+---
+
+## Tokyo Lab Built Arms That Unplug From Their Motors
+
+- **Slug:** `detachable-wire-drive`
+- **Date:** 2026-08-18
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/detachable-wire-drive/
+- **Chars:** 244/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Tokyo%20Lab%20Built%20Arms%20That%20Unplug%20From%20Their%20Motors%0A%0AJSK%E2%80%99s%20IROS%202026%20Detachable%20Wire%20Drive%20parks%20the%20motors%20in%20one%20base%20and%20lets%20arms%20and%20grippers%20click%20on%20through%20Vectran%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdetachable-wire-drive%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Tokyo Lab Built Arms That Unplug From Their Motors
+
+JSK’s IROS 2026 Detachable Wire Drive parks the motors in one base and lets arms and grippers click on through Vectran…
+
+https://mechafeed.com/blog/detachable-wire-drive/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Diligent Starts Rolling Out Moxi 2.0 to U.S. Hospitals
+
+- **Slug:** `diligent-moxi-2-rollout`
+- **Date:** 2026-08-18
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/diligent-moxi-2-rollout/
+- **Chars:** 238/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Diligent%20Starts%20Rolling%20Out%20Moxi%202.0%20to%20U.S.%20Hospitals%0A%0AMoxi%202.0%20is%20shipping%20to%20named%20U.S.%20hospitals%20with%20a%20new%20world%20model%2C%209-hour%20runtime%2C%20and%20faster%20perception.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdiligent-moxi-2-rollout%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Diligent Starts Rolling Out Moxi 2.0 to U.S. Hospitals
+
+Moxi 2.0 is shipping to named U.S. hospitals with a new world model, 9-hour runtime, and faster perception.
+
+https://mechafeed.com/blog/diligent-moxi-2-rollout/
+
+#Robotics #Humanoids
+```
+
+---
+
+## FlexWorm Plans Suction Steps Instead of Handing You a Gait
+
+- **Slug:** `flexworm-suction-planner`
+- **Date:** 2026-08-18
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/flexworm-suction-planner/
+- **Chars:** 255/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FlexWorm%20Plans%20Suction%20Steps%20Instead%20of%20Handing%20You%20a%20Gait%0A%0APeking%20University%E2%80%99s%20RA-L%20planner%20walks%20a%20pneumatic%20suction%20worm%20over%203D%20surfaces%2012%C3%97%20faster%20by%20reusing%20short%20validated%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fflexworm-suction-planner%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+FlexWorm Plans Suction Steps Instead of Handing You a Gait
+
+Peking University’s RA-L planner walks a pneumatic suction worm over 3D surfaces 12× faster by reusing short validated…
+
+https://mechafeed.com/blog/flexworm-suction-planner/
+
+#Robotics #Humanoids
+```
+
+---
+
+## A Unitree G1 Just Threw a Measured Tight Spiral
+
+- **Slug:** `g1-football-spiral-throw`
+- **Date:** 2026-08-18
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/g1-football-spiral-throw/
+- **Chars:** 243/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20Unitree%20G1%20Just%20Threw%20a%20Measured%20Tight%20Spiral%0A%0AIowa%20State%20researchers%20put%20a%20G1%20and%20Dex3-1%20on%20a%20football%20and%20report%2093.6%25%20spin%20efficiency%20with%20a%20follow-through%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fg1-football-spiral-throw%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+A Unitree G1 Just Threw a Measured Tight Spiral
+
+Iowa State researchers put a G1 and Dex3-1 on a football and report 93.6% spin efficiency with a follow-through…
+
+https://mechafeed.com/blog/g1-football-spiral-throw/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## H-PAC Is a 15-DoF Tendon Hand That Models Stretch Instead of Adding Sensors
+
+- **Slug:** `h-pac-hand-tendon`
+- **Date:** 2026-08-18
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/h-pac-hand-tendon/
+- **Chars:** 263/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=H-PAC%20Is%20a%2015-DoF%20Tendon%20Hand%20That%20Models%20Stretch%20Instead%20of%20Adding%20Sensors%0A%0AHKUST-GZ%E2%80%99s%20underactuated%20hand%20uses%20six%20servos%20and%20a%20spring-stretch%20model%20to%20get%20sub-degree%20joint%20predictions%20without%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fh-pac-hand-tendon%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+H-PAC Is a 15-DoF Tendon Hand That Models Stretch Instead of Adding Sensors
+
+HKUST-GZ’s underactuated hand uses six servos and a spring-stretch model to get sub-degree joint predictions without…
+
+https://mechafeed.com/blog/h-pac-hand-tendon/
+
+#Robotics #Humanoids
+```
+
+---
+
+## HAF Splits a Generalist VLA So a Humanoid Can Walk and Work
+
+- **Slug:** `haf-humanoid-vla`
+- **Date:** 2026-08-18
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/haf-humanoid-vla/
+- **Chars:** 240/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=HAF%20Splits%20a%20Generalist%20VLA%20So%20a%20Humanoid%20Can%20Walk%20and%20Work%0A%0APeking%20University%20and%20Beijing%20Innovation%20Center%20adapt%20frozen%20VLAs%20to%20whole-body%20loco-manipulation%20with%20a%20three-stage%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhaf-humanoid-vla%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+HAF Splits a Generalist VLA So a Humanoid Can Walk and Work
+
+Peking University and Beijing Innovation Center adapt frozen VLAs to whole-body loco-manipulation with a three-stage…
+
+https://mechafeed.com/blog/haf-humanoid-vla/
+
+#AI #Humanoids
+```
+
+---
+
+## MISTac Is an 8 mm Tactile Finger Built to Fit a Surgical Trocar
+
+- **Slug:** `mistac-surgical-tactile`
+- **Date:** 2026-08-18
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/mistac-surgical-tactile/
+- **Chars:** 255/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=MISTac%20Is%20an%208%20mm%20Tactile%20Finger%20Built%20to%20Fit%20a%20Surgical%20Trocar%0A%0ATU%20Dresden%20and%20Stanford%20open-source%20a%20vision-based%20tactile%20probe%20that%20classified%20tissue%20at%20about%2084%25%20in%20an%20in-vivo%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmistac-surgical-tactile%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+MISTac Is an 8 mm Tactile Finger Built to Fit a Surgical Trocar
+
+TU Dresden and Stanford open-source a vision-based tactile probe that classified tissue at about 84% in an in-vivo…
+
+https://mechafeed.com/blog/mistac-surgical-tactile/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Tac4Loco Lets a G1 Feel the Floor Under Its Feet
+
+- **Slug:** `tac4loco-plantar-pressure`
+- **Date:** 2026-08-18
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/tac4loco-plantar-pressure/
+- **Chars:** 250/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Tac4Loco%20Lets%20a%20G1%20Feel%20the%20Floor%20Under%20Its%20Feet%0A%0AHKUST%20researchers%20put%2060-taxel%20pressure%20insoles%20on%20a%20Unitree%20G1%20and%20walk%20foam%20and%20gravel%20the%20proprioception%20baseline%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftac4loco-plantar-pressure%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Tac4Loco Lets a G1 Feel the Floor Under Its Feet
+
+HKUST researchers put 60-taxel pressure insoles on a Unitree G1 and walk foam and gravel the proprioception baseline…
+
+https://mechafeed.com/blog/tac4loco-plantar-pressure/
+
+#HumanoidRobots #Humanoids
+```
 
 ---
 

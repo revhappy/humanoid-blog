@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-17T21:09:41.796Z
+Generated: 2026-08-18T16:14:51.755Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Tokyo Lab Built Arms That Unplug From Their Motors
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/detachable-wire-drive/
+
+### SOLO (no link)
+
+```
+Sharing motors is an old factory idea.  Doing it with tendons you can unplug is the part that made me look twice.
+```
+
+### SOFT-LINK variant
+
+```
+Sharing motors is an old factory idea.  Doing it with tendons you can unplug is the part that made me look twice.
+
+https://mechafeed.com/blog/detachable-wire-drive/
+```
+
+---
+
+## Diligent Starts Rolling Out Moxi 2.0 to U.S. Hospitals
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/diligent-moxi-2-rollout/
+
+### SOLO (no link)
+
+```
+A hospital hallway is a better test than a booth demo.  Crowded elevators, carts, and people who do not yield are the job.
+```
+
+### SOFT-LINK variant
+
+```
+A hospital hallway is a better test than a booth demo.  Crowded elevators, carts, and people who do not yield are the job.
+
+https://mechafeed.com/blog/diligent-moxi-2-rollout/
+```
+
+---
+
+## FlexWorm Plans Suction Steps Instead of Handing You a Gait
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/flexworm-suction-planner/
+
+### SOLO (no link)
+
+```
+A suction robot without a planner is a party trick you retune every time the wall changes.  This paper treats the interesting part as the hybrid decision: which pad sticks, then how the body bends.
+```
+
+### SOFT-LINK variant
+
+```
+A suction robot without a planner is a party trick you retune every time the wall changes.  This paper treats the interesting part as the hybrid decision: which pad sticks, then how the body bends.
+
+https://mechafeed.com/blog/flexworm-suction-planner/
+```
+
+---
+
+## A Unitree G1 Just Threw a Measured Tight Spiral
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/g1-football-spiral-throw/
+
+### SOLO (no link)
+
+```
+This is the kind of paper I want more of.  A G1, a real ball, a definition you can argue with, and an ablation that shows the last 80 milliseconds are the whole trick.
+```
+
+### SOFT-LINK variant
+
+```
+This is the kind of paper I want more of.  A G1, a real ball, a definition you can argue with, and an ablation that shows the last 80 milliseconds are the whole trick.
+
+https://mechafeed.com/blog/g1-football-spiral-throw/
+```
+
+---
+
+## H-PAC Is a 15-DoF Tendon Hand That Models Stretch Instead of Adding Sensors
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/h-pac-hand-tendon/
+
+### SOLO (no link)
+
+```
+I like a hand that admits the cable is a spring.  Most underactuated designs either live with sloppy fingertips or bolt on another encoder.
+```
+
+### SOFT-LINK variant
+
+```
+I like a hand that admits the cable is a spring.  Most underactuated designs either live with sloppy fingertips or bolt on another encoder.
+
+https://mechafeed.com/blog/h-pac-hand-tendon/
+```
+
+---
+
+## HAF Splits a Generalist VLA So a Humanoid Can Walk and Work
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/haf-humanoid-vla/
+
+### SOLO (no link)
+
+```
+Whole-body VLA papers keep trying to emit legs, waist, and hands as one pretty trajectory.  That is a bad habit.
+```
+
+### SOFT-LINK variant
+
+```
+Whole-body VLA papers keep trying to emit legs, waist, and hands as one pretty trajectory.  That is a bad habit.
+
+https://mechafeed.com/blog/haf-humanoid-vla/
+```
+
+---
+
+## MISTac Is an 8 mm Tactile Finger Built to Fit a Surgical Trocar
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/mistac-surgical-tactile/
+
+### SOLO (no link)
+
+```
+An 8 mm, swappable, open-source tactile finger is the kind of hardware I want more labs to copy.  The in-vivo clip matters more than another phantom nodule paper.
+```
+
+### SOFT-LINK variant
+
+```
+An 8 mm, swappable, open-source tactile finger is the kind of hardware I want more labs to copy.  The in-vivo clip matters more than another phantom nodule paper.
+
+https://mechafeed.com/blog/mistac-surgical-tactile/
+```
+
+---
+
+## Tac4Loco Lets a G1 Feel the Floor Under Its Feet
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/tac4loco-plantar-pressure/
+
+### SOLO (no link)
+
+```
+Cameras can preview a ramp.  They cannot tell you the foot landed on an edge.
+```
+
+### SOFT-LINK variant
+
+```
+Cameras can preview a ramp.  They cannot tell you the foot landed on an edge.
+
+https://mechafeed.com/blog/tac4loco-plantar-pressure/
+```
 
 ---
 
