@@ -14,8 +14,29 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-18T16:14:50.857Z
-Posts: 276
+Generated: 2026-08-18T21:09:26.397Z
+Posts: 282
+
+---
+
+## CoRe Recovers a Frozen VLA by Imagining the Next Move
+
+- **Slug:** `core-vla-recovery`
+- **Date:** 2026-08-18
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/core-vla-recovery/
+- **Chars:** 236/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=CoRe%20Recovers%20a%20Frozen%20VLA%20by%20Imagining%20the%20Next%20Move%0A%0AA%20training-free%20recovery%20loop%20plans%20on%20synthesized%20cameras%2C%20then%20moves%20only%20the%20objects%20it%20has%20to.%20Real%20xArm6%20success%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcore-vla-recovery%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+CoRe Recovers a Frozen VLA by Imagining the Next Move
+
+A training-free recovery loop plans on synthesized cameras, then moves only the objects it has to. Real xArm6 success…
+
+https://mechafeed.com/blog/core-vla-recovery/
+
+#AI #Humanoids
+```
 
 ---
 
@@ -166,6 +187,48 @@ https://mechafeed.com/blog/mistac-surgical-tactile/
 
 ---
 
+## ReForce Makes Dexterous Retargeting Care About Newtons
+
+- **Slug:** `reforce-force-retargeting`
+- **Date:** 2026-08-18
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/reforce-force-retargeting/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ReForce%20Makes%20Dexterous%20Retargeting%20Care%20About%20Newtons%0A%0AUC%20San%20Diego%20trains%20a%20residual%20force%20tracker%20so%20an%20XHand%20can%20copy%20a%20human%20grasp%20without%20crushing%20a%20paper%20cup%20or%20missing%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Freforce-force-retargeting%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+ReForce Makes Dexterous Retargeting Care About Newtons
+
+UC San Diego trains a residual force tracker so an XHand can copy a human grasp without crushing a paper cup or missing…
+
+https://mechafeed.com/blog/reforce-force-retargeting/
+
+#Robotics #Humanoids
+```
+
+---
+
+## RoboStriker Teaches Two G1s to Box Without Falling Over
+
+- **Slug:** `robostriker-humanoid-boxing`
+- **Date:** 2026-08-18
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/robostriker-humanoid-boxing/
+- **Chars:** 255/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=RoboStriker%20Teaches%20Two%20G1s%20to%20Box%20Without%20Falling%20Over%0A%0ASJTU%20and%20Shanghai%20AI%20Lab%20box%20in%20a%2032-D%20latent%20space%2C%20then%20put%20the%20policy%20on%20two%20real%20Unitree%20G1s%20with%20red%20gloves.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frobostriker-humanoid-boxing%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+RoboStriker Teaches Two G1s to Box Without Falling Over
+
+SJTU and Shanghai AI Lab box in a 32-D latent space, then put the policy on two real Unitree G1s with red gloves.
+
+https://mechafeed.com/blog/robostriker-humanoid-boxing/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
 ## Tac4Loco Lets a G1 Feel the Floor Under Its Feet
 
 - **Slug:** `tac4loco-plantar-pressure`
@@ -181,6 +244,69 @@ Tac4Loco Lets a G1 Feel the Floor Under Its Feet
 HKUST researchers put 60-taxel pressure insoles on a Unitree G1 and walk foam and gravel the proprioception baseline…
 
 https://mechafeed.com/blog/tac4loco-plantar-pressure/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## A $550 Wrist Rig That Lets You Feel a LEAP Hand Grab
+
+- **Slug:** `vihateleop-550-haptic`
+- **Date:** 2026-08-18
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/vihateleop-550-haptic/
+- **Chars:** 243/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20%24550%20Wrist%20Rig%20That%20Lets%20You%20Feel%20a%20LEAP%20Hand%20Grab%0A%0ATohoku%E2%80%99s%20ViHaTeleop%20is%200.7%20kg%20of%20SLAM%2C%20a%20fisheye%2C%20and%20three%20LRA%20rings.%20Haptics%20raised%20success%20on%20every%20contact%20task%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fvihateleop-550-haptic%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+A $550 Wrist Rig That Lets You Feel a LEAP Hand Grab
+
+Tohoku’s ViHaTeleop is 0.7 kg of SLAM, a fisheye, and three LRA rings. Haptics raised success on every contact task…
+
+https://mechafeed.com/blog/vihateleop-550-haptic/
+
+#Robotics #Humanoids
+```
+
+---
+
+## ViTaR Lets a Frozen VLA Feel Contact Without Rewriting It
+
+- **Slug:** `vitar-tactile-vla`
+- **Date:** 2026-08-18
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/vitar-tactile-vla/
+- **Chars:** 242/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ViTaR%20Lets%20a%20Frozen%20VLA%20Feel%20Contact%20Without%20Rewriting%20It%0A%0AA%20residual%20layer%20on%20OpenVLA-OFT%20uses%20touch%20only%20to%20pick%20and%20scale%20a%20small%20correction.%20UniVTAC%20success%20jumps%2030.6%20points.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fvitar-tactile-vla%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+ViTaR Lets a Frozen VLA Feel Contact Without Rewriting It
+
+A residual layer on OpenVLA-OFT uses touch only to pick and scale a small correction. UniVTAC success jumps 30.6 points.
+
+https://mechafeed.com/blog/vitar-tactile-vla/
+
+#AI #Humanoids
+```
+
+---
+
+## ZEST Puts Army Crawls and Breakdances on Atlas, Zero-Shot
+
+- **Slug:** `zest-humanoid-athletic-control`
+- **Date:** 2026-08-18
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/zest-humanoid-athletic-control/
+- **Chars:** 265/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ZEST%20Puts%20Army%20Crawls%20and%20Breakdances%20on%20Atlas%2C%20Zero-Shot%0A%0ARAI%20Institute%20and%20Boston%20Dynamics%20train%20one%20motion-imitation%20recipe%20from%20MoCap%2C%20video%2C%20and%20animation%2C%20then%20drop%20it%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fzest-humanoid-athletic-control%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+ZEST Puts Army Crawls and Breakdances on Atlas, Zero-Shot
+
+RAI Institute and Boston Dynamics train one motion-imitation recipe from MoCap, video, and animation, then drop it on…
+
+https://mechafeed.com/blog/zest-humanoid-athletic-control/
 
 #HumanoidRobots #Humanoids
 ```

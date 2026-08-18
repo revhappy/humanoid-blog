@@ -2821,3 +2821,62 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **X list accessible?** N (disclosed)
 
 
+## 2026-08-18 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-18
+- git pull --rebase origin main: already up to date
+- Morning already published 8 posts (diligent-moxi-2, g1-football, haf, tac4loco, h-pac, mistac, detachable-wire, flexworm) — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE** (privacy-extension / tool wall). Disclosed. Proceeded with public X keyword/semantic + web + leftover Tuesday cs.RO dump.
+
+### X List Scan
+- Curated list feed not accessible without login
+- Unitree Superman recirculation — **SKIP: already covered 8/17**
+- 44-DoF wheeled flag-hoist clip — **SKIP: thin / unnamed**
+- WHRG tournament recap clips — **SKIP: already have WHRG 2026 roster**
+- Tesla / Figure / Atlas recirculation — **SKIP: already covered / no new primary**
+- Spam / girlfriend-robot / street clips — **SKIP**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** ZEST Science Robotics cover (Atlas army crawl / breakdance / G1 box climb / Spot backflip) — arXiv:2602.00401 HTML + Interesting Engineering 12 Aug / Science Mag 17 Aug — lane: **build**
+2. **[CANDIDATE/WRITTEN]** RoboStriker latent-space G1 boxing — arXiv:2608.16195 (17 Aug) + HTML + project page — lane: **build**
+3. **[CANDIDATE/WRITTEN]** ViHaTeleop $550 / 0.7 kg haptic teleop (IROS 2026) — arXiv:2608.16572 + project page + GitHub — lane: **build**
+4. **[CANDIDATE/WRITTEN]** ReForce force-aware retargeting (UCSD) — arXiv:2608.15560 + project page — lane: **build**
+5. **[CANDIDATE/WRITTEN]** ViTaR tactile residual on frozen VLA — arXiv:2608.15816 + HTML — lane: **build**
+6. **[CANDIDATE/WRITTEN]** CoRe training-free VLA recovery — arXiv:2608.14822 + HTML — lane: **build**
+7. **[SKIP: already covered morning]** Moxi 2.0, G1 football, HAF, Tac4Loco, H-PAC, MISTac, Detachable Wire Drive, FlexWorm
+8. **[SKIP: already covered 8/17]** Unitree Superman, AdvDex, textile yarn, ReflexVLA, hint², FlatLab, ART, THRIVE, Samsung RX, ATMOS, PRM-as-a-Judge 1.5, OccPlanner, BICPO-VLA, Graph-MambaNav
+9. **[SKIP: business / mix]** Unichem/Loomia skin M&A (TRR 18 Aug); Unitree STAR priced IPO / oversub (still parked)
+10. **[SKIP: leftover / unused]** OpenBelief-Nav, ontology world models, vibration payload, GigaBrain-0.7 (tease only), StructRL, SparkVLA, ForceU-VLA, τ0-VLA
+11. **[SKIP: already covered]** Generalist UMI feature (TRR 17 Aug) overlaps generalist-gen1
+12. **[SKIP: leftover Aug-6 drafts]** still unpublished untracked files (dreamwam, mind-vla, safecast, unix-panther, zeals-d1, explicit-language-memory) — do not ship as today’s news
+13. **[SKIP: thin / event]** Actuate 2026 talks today (Cosmos 3 session) — no new primary paper/press fetched this slot
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | zest-humanoid-athletic-control | Robb Harlan | Humanoids | build |
+| 2 | robostriker-humanoid-boxing | Shar Hendrix | Humanoids | build |
+| 3 | vihateleop-550-haptic | Shar Hendrix | Robotics | build |
+| 4 | reforce-force-retargeting | Robb Harlan | Robotics | build |
+| 5 | vitar-tactile-vla | Shar Hendrix | AI | build |
+| 6 | core-vla-recovery | Robb Harlan | AI | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary depth + usable stills: **6** | Writing: **6**
+- Soft floor 2 met; hit target (ZEST Science Robotics cover + five leftover Tuesday papers morning parked)
+
+### Notes for Future Agents
+- Unitree STAR priced IPO + oversub still unused as a standalone business post
+- Unichem/Loomia skin M&A still parked under 25% business cap
+- Nori real demo still “next week”
+- Xynova Prima1: wait for WRC physical hand, not CGI
+- OpenBelief-Nav, StructRL, SparkVLA, ForceU-VLA, τ0-VLA remain unused
+- Leftover untracked Aug-6 drafts still unpublished — do not ship as today’s news
+- Do not rehash this afternoon six
+
+

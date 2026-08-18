@@ -261,3 +261,17 @@ Docking a planar space robot from Seoul while it sits in Stockholm is the right 
 Pass/fail is a terrible factory metric. 1.5 grades near-misses and recoveries. The sim-to-real heatmap is the part I’d pin on a lab wall.
 https://mechafeed.com/blog/prm-as-a-judge-15/
 
+### 2026-08-18 Afternoon — pipeline seeds
+- X list 1805786050763087967 still inaccessible this slot
+- Six build posts: ZEST Atlas/G1/Spot, RoboStriker G1 boxing, ViHaTeleop $550 haptic, ReForce force retargeting, ViTaR frozen-VLA touch, CoRe imagined recovery
+
+**SOLO (ZEST):**
+The useful part of ZEST is not another backflip. Same small MDP ran army crawl on a 100 kg Atlas and a video-to-box-climb on a G1 without a contact schedule. That’s the thing model-based stacks still choke on.
+
+**SOLO (ReForce):**
+If your retargeter cannot tell a hold from a crush, it is a puppeteer, not a hand. Copy the Newtons, not just the pose.
+
+**SOFT-LINK (CoRe):**
+Most “recovery” papers collect a new failure dataset and call it autonomy. Planning the retry on fake cameras, then moving only the cup that blocks the next motion, is closer to how a tired human cleans up a knock.
+https://mechafeed.com/blog/core-vla-recovery/
+

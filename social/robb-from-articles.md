@@ -3,9 +3,31 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-18T16:14:51.755Z
+Generated: 2026-08-18T21:09:27.011Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## CoRe Recovers a Frozen VLA by Imagining the Next Move
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/core-vla-recovery/
+
+### SOLO (no link)
+
+```
+I have watched too many “recovery” papers collect a new failure dataset and call it autonomy.  Planning the retry on fake cameras, then moving only the cup that actually blocks the next motion, is closer to how a tired human cleans up a knock.
+```
+
+### SOFT-LINK variant
+
+```
+I have watched too many “recovery” papers collect a new failure dataset and call it autonomy.  Planning the retry on fake cameras, then moving only the cup that actually blocks the next motion, is clo…
+
+https://mechafeed.com/blog/core-vla-recovery/
+```
 
 ---
 
@@ -163,6 +185,50 @@ https://mechafeed.com/blog/mistac-surgical-tactile/
 
 ---
 
+## ReForce Makes Dexterous Retargeting Care About Newtons
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/reforce-force-retargeting/
+
+### SOLO (no link)
+
+```
+If your retargeter cannot tell a hold from a crush, it is a puppeteer, not a hand.  ReForce is the first paper this week that treated Newtons as the thing to copy.
+```
+
+### SOFT-LINK variant
+
+```
+If your retargeter cannot tell a hold from a crush, it is a puppeteer, not a hand.  ReForce is the first paper this week that treated Newtons as the thing to copy.
+
+https://mechafeed.com/blog/reforce-force-retargeting/
+```
+
+---
+
+## RoboStriker Teaches Two G1s to Box Without Falling Over
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/robostriker-humanoid-boxing/
+
+### SOLO (no link)
+
+```
+I will watch two G1s square up all day.  The useful claim is narrower: strategy has to live somewhere the robot cannot fall out of.
+```
+
+### SOFT-LINK variant
+
+```
+I will watch two G1s square up all day.  The useful claim is narrower: strategy has to live somewhere the robot cannot fall out of.
+
+https://mechafeed.com/blog/robostriker-humanoid-boxing/
+```
+
+---
+
 ## Tac4Loco Lets a G1 Feel the Floor Under Its Feet
 
 - Author on blog: Robb Harlan
@@ -181,6 +247,72 @@ Cameras can preview a ramp.  They cannot tell you the foot landed on an edge.
 Cameras can preview a ramp.  They cannot tell you the foot landed on an edge.
 
 https://mechafeed.com/blog/tac4loco-plantar-pressure/
+```
+
+---
+
+## A $550 Wrist Rig That Lets You Feel a LEAP Hand Grab
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/vihateleop-550-haptic/
+
+### SOLO (no link)
+
+```
+A price and a weight I can argue about over coffee.  That is the right shape.
+```
+
+### SOFT-LINK variant
+
+```
+A price and a weight I can argue about over coffee.  That is the right shape.
+
+https://mechafeed.com/blog/vihateleop-550-haptic/
+```
+
+---
+
+## ViTaR Lets a Frozen VLA Feel Contact Without Rewriting It
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/vitar-tactile-vla/
+
+### SOLO (no link)
+
+```
+I like the constraint.  Touch is allowed to say “a little more” or “not that,” not “forget the language and invent a new reach.
+```
+
+### SOFT-LINK variant
+
+```
+I like the constraint.  Touch is allowed to say “a little more” or “not that,” not “forget the language and invent a new reach.
+
+https://mechafeed.com/blog/vitar-tactile-vla/
+```
+
+---
+
+## ZEST Puts Army Crawls and Breakdances on Atlas, Zero-Shot
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/zest-humanoid-athletic-control/
+
+### SOLO (no link)
+
+```
+The interesting part is not another backflip clip.  It is that the same small MDP ran army crawl on a 100 kg Atlas and a video-to-box-climb on a G1 without a contact schedule.
+```
+
+### SOFT-LINK variant
+
+```
+The interesting part is not another backflip clip.  It is that the same small MDP ran army crawl on a 100 kg Atlas and a video-to-box-climb on a G1 without a contact schedule.
+
+https://mechafeed.com/blog/zest-humanoid-athletic-control/
 ```
 
 ---
