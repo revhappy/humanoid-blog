@@ -3,9 +3,31 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-19T16:11:17.403Z
+Generated: 2026-08-19T21:12:08.008Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## EATR-Stereo Lets a Head-Cam Humanoid Keep the Other Eye
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/eatr-stereo-humanoid-vla/
+
+### SOLO (no link)
+
+```
+Stereo on a biped is mostly a self-occlusion problem.  Hands, torso, and gait keep eating the primary frame.
+```
+
+### SOFT-LINK variant
+
+```
+Stereo on a biped is mostly a self-occlusion problem.  Hands, torso, and gait keep eating the primary frame.
+
+https://mechafeed.com/blog/eatr-stereo-humanoid-vla/
+```
 
 ---
 
@@ -75,6 +97,72 @@ https://mechafeed.com/blog/hydra-0-action-flow/
 
 ---
 
+## Lambda-Hold Learns a Human-Like Sprint From Velocity Alone
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/lambda-hold-musculoskeletal/
+
+### SOLO (no link)
+
+```
+I like controllers that steal a spinal reflex instead of another reward term.  If the skeleton couples the muscle lengths, you should not have to invent synergies by hand.
+```
+
+### SOFT-LINK variant
+
+```
+I like controllers that steal a spinal reflex instead of another reward term.  If the skeleton couples the muscle lengths, you should not have to invent synergies by hand.
+
+https://mechafeed.com/blog/lambda-hold-musculoskeletal/
+```
+
+---
+
+## ManiGuard: Finishing the Task Is Not the Same as Doing It Safely
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/maniguard-manipulation-safety/
+
+### SOLO (no link)
+
+```
+Success rate as a single number has been lying to this field.  If two policies tie on task success and differ by six points on violations, the leaderboard was scoring the wrong thing.
+```
+
+### SOFT-LINK variant
+
+```
+Success rate as a single number has been lying to this field.  If two policies tie on task success and differ by six points on violations, the leaderboard was scoring the wrong thing.
+
+https://mechafeed.com/blog/maniguard-manipulation-safety/
+```
+
+---
+
+## NineRay Unveils RayNex G3 in Hong Kong With a Live Barbell Walk
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/nineray-raynex-g3/
+
+### SOLO (no link)
+
+```
+A barbell walk is a payload demo, not a shift.  I like the sticker numbers because they are checkable: 173 cm, 32 DoF, a live 60 kg carry.
+```
+
+### SOFT-LINK variant
+
+```
+A barbell walk is a payload demo, not a shift.  I like the sticker numbers because they are checkable: 173 cm, 32 DoF, a live 60 kg carry.
+
+https://mechafeed.com/blog/nineray-raynex-g3/
+```
+
+---
+
 ## Noitom Drops 617.5 Hours of High-Precision Human Motion for Humanoids
 
 - Author on blog: Shar Hendrix
@@ -93,6 +181,50 @@ I like a company that publishes the thing it usually hoards.  617 hours of optic
 I like a company that publishes the thing it usually hoards.  617 hours of optical MoCap with object meshes is a gift to anyone training whole-body policies, and the G1 clips (run, crawl, carry, suitc…
 
 https://mechafeed.com/blog/noitom-hiphi-motion-dataset/
+```
+
+---
+
+## PRISM Puts Force and Tactile Into 5,000 Industrial Robot Trajectories
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/prism-industrial-skill-dataset/
+
+### SOLO (no link)
+
+```
+I am glad someone is logging wrench and tactile on factory-shaped tasks instead of another kitchen pick.  The result I will remember is the teleop gap: same task, VR demos train a worse policy than an exoskeleton.
+```
+
+### SOFT-LINK variant
+
+```
+I am glad someone is logging wrench and tactile on factory-shaped tasks instead of another kitchen pick.  The result I will remember is the teleop gap: same task, VR demos train a worse policy than an exoskeleton.
+
+https://mechafeed.com/blog/prism-industrial-skill-dataset/
+```
+
+---
+
+## τ0-VLA Thinks About the Next Subtask Before It Commits
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/tau0-vla-test-time/
+
+### SOLO (no link)
+
+```
+Searching in subtask language instead of joint space is the right grain for a 10-minute kitchen job.  Salt that does not change the image is exactly the kind of step a memory has to own.
+```
+
+### SOFT-LINK variant
+
+```
+Searching in subtask language instead of joint space is the right grain for a 10-minute kitchen job.  Salt that does not change the image is exactly the kind of step a memory has to own.
+
+https://mechafeed.com/blog/tau0-vla-test-time/
 ```
 
 ---

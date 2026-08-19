@@ -14,8 +14,29 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-19T16:11:17.387Z
-Posts: 290
+Generated: 2026-08-19T21:11:45.582Z
+Posts: 296
+
+---
+
+## EATR-Stereo Lets a Head-Cam Humanoid Keep the Other Eye
+
+- **Slug:** `eatr-stereo-humanoid-vla`
+- **Date:** 2026-08-19
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/eatr-stereo-humanoid-vla/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=EATR-Stereo%20Lets%20a%20Head-Cam%20Humanoid%20Keep%20the%20Other%20Eye%0A%0AHIT%20and%20Honor%20route%20paired%20stereo%20into%20a%20frozen%20VLA%20on%20a%2033-DoF%20humanoid%2C%20hitting%2060%25%20full-task%20and%20100%25%20grasp%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Featr-stereo-humanoid-vla%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+EATR-Stereo Lets a Head-Cam Humanoid Keep the Other Eye
+
+HIT and Honor route paired stereo into a frozen VLA on a 33-DoF humanoid, hitting 60% full-task and 100% grasp on…
+
+https://mechafeed.com/blog/eatr-stereo-humanoid-vla/
+
+#HumanoidRobots #Humanoids
+```
 
 ---
 
@@ -82,6 +103,69 @@ https://mechafeed.com/blog/hydra-0-action-flow/
 
 ---
 
+## Lambda-Hold Learns a Human-Like Sprint From Velocity Alone
+
+- **Slug:** `lambda-hold-musculoskeletal`
+- **Date:** 2026-08-19
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/lambda-hold-musculoskeletal/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Lambda-Hold%20Learns%20a%20Human-Like%20Sprint%20From%20Velocity%20Alone%0A%0ASeoul%20National%20University%E2%80%99s%20%CE%BB-hold%20controller%20trains%20a%2090-muscle%20model%20to%20sprint%20in%20about%20an%20hour%20using%20a%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flambda-hold-musculoskeletal%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+Lambda-Hold Learns a Human-Like Sprint From Velocity Alone
+
+Seoul National University’s λ-hold controller trains a 90-muscle model to sprint in about an hour using a…
+
+https://mechafeed.com/blog/lambda-hold-musculoskeletal/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## ManiGuard: Finishing the Task Is Not the Same as Doing It Safely
+
+- **Slug:** `maniguard-manipulation-safety`
+- **Date:** 2026-08-19
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/maniguard-manipulation-safety/
+- **Chars:** 272/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ManiGuard%3A%20Finishing%20the%20Task%20Is%20Not%20the%20Same%20as%20Doing%20It%20Safely%0A%0ANorthwestern%E2%80%99s%20ManiGuard-Bench%20finds%206%E2%80%9321%25%20of%20successful%20VLA%20rollouts%20still%20violate%20a%20formal%20safety%20spec%2C%20then%20ships%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmaniguard-manipulation-safety%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+ManiGuard: Finishing the Task Is Not the Same as Doing It Safely
+
+Northwestern’s ManiGuard-Bench finds 6–21% of successful VLA rollouts still violate a formal safety spec, then ships…
+
+https://mechafeed.com/blog/maniguard-manipulation-safety/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## NineRay Unveils RayNex G3 in Hong Kong With a Live Barbell Walk
+
+- **Slug:** `nineray-raynex-g3`
+- **Date:** 2026-08-19
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/nineray-raynex-g3/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=NineRay%20Unveils%20RayNex%20G3%20in%20Hong%20Kong%20With%20a%20Live%20Barbell%20Walk%0A%0ANineRay%20Technology%20launches%20the%20173%20cm%20RayNex%20G3%20at%20Hong%20Kong%20Science%20Park%2C%20with%2032%20DoF%20and%20a%2060%20kg%20stage%20carry.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnineray-raynex-g3%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+NineRay Unveils RayNex G3 in Hong Kong With a Live Barbell Walk
+
+NineRay Technology launches the 173 cm RayNex G3 at Hong Kong Science Park, with 32 DoF and a 60 kg stage carry.
+
+https://mechafeed.com/blog/nineray-raynex-g3/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
 ## Noitom Drops 617.5 Hours of High-Precision Human Motion for Humanoids
 
 - **Slug:** `noitom-hiphi-motion-dataset`
@@ -99,6 +183,48 @@ HiPHI is public on Hugging Face: 132 performers, 90 Hz optical MoCap, and G1 pol
 https://mechafeed.com/blog/noitom-hiphi-motion-dataset/
 
 #RoboticsResearch #Humanoids
+```
+
+---
+
+## PRISM Puts Force and Tactile Into 5,000 Industrial Robot Trajectories
+
+- **Slug:** `prism-industrial-skill-dataset`
+- **Date:** 2026-08-19
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/prism-industrial-skill-dataset/
+- **Chars:** 270/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=PRISM%20Puts%20Force%20and%20Tactile%20Into%205%2C000%20Industrial%20Robot%20Trajectories%0A%0APeking%20University%E2%80%99s%20open%20PRISM%20dataset%20logs%2045%20hours%20of%20contact-rich%20factory%20skills%20across%20Franka%2C%20Realman%2C%20and%20LEJU%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fprism-industrial-skill-dataset%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+PRISM Puts Force and Tactile Into 5,000 Industrial Robot Trajectories
+
+Peking University’s open PRISM dataset logs 45 hours of contact-rich factory skills across Franka, Realman, and LEJU…
+
+https://mechafeed.com/blog/prism-industrial-skill-dataset/
+
+#Robotics #Humanoids
+```
+
+---
+
+## τ0-VLA Thinks About the Next Subtask Before It Commits
+
+- **Slug:** `tau0-vla-test-time`
+- **Date:** 2026-08-19
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/tau0-vla-test-time/
+- **Chars:** 238/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=%CF%840-VLA%20Thinks%20About%20the%20Next%20Subtask%20Before%20It%20Commits%0A%0AAgibot%20Finch%E2%80%99s%20hierarchical%20VLA%20searches%20subtasks%20with%20a%20world%20model%2C%20trained%20on%2040%2C115%20hours%2C%20and%20lifts%20long-horizon%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftau0-vla-test-time%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+τ0-VLA Thinks About the Next Subtask Before It Commits
+
+Agibot Finch’s hierarchical VLA searches subtasks with a world model, trained on 40,115 hours, and lifts long-horizon…
+
+https://mechafeed.com/blog/tau0-vla-test-time/
+
+#AI #Humanoids
 ```
 
 ---

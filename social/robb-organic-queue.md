@@ -292,3 +292,17 @@ More synthetic demos stopped helping at 67%. A sparse RL pass on the walk-to-gra
 If your world model still eats joint vectors, it is tied to one robot. Hydra-0 conditions on where the metal actually goes in the picture.
 https://mechafeed.com/blog/hydra-0-action-flow/
 
+### 2026-08-19 Afternoon — pipeline seeds
+- X list 1805786050763087967 still inaccessible this slot
+- Six build posts: NineRay RayNex G3 HK launch, EATR-Stereo Omega VLA, PRISM industrial dataset, τ0-VLA test-time, lambda-hold sprint, ManiGuard safety bench
+
+**SOLO (NineRay):**
+A live 60 kg barbell walk is a payload demo. Repeat the 100–200 kg deadlift on a scale, then keep the robot upright for an hour of totes.
+
+**SOLO (ManiGuard):**
+If two policies tie on task success and differ by six points on spills, the leaderboard was scoring the wrong thing. Finishing the mug is not the same as not knocking the glass.
+
+**SOFT-LINK (τ0-VLA):**
+Salt that does not change the image is why a kitchen robot needs memory, not a longer action chunk. Search the next subtask before you commit the arms.
+https://mechafeed.com/blog/tau0-vla-test-time/
+

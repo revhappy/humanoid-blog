@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-08-19T16:11:17.387Z",
+  "generatedAt": "2026-08-19T21:11:45.582Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "eatr-stereo-humanoid-vla",
+      "title": "EATR-Stereo Lets a Head-Cam Humanoid Keep the Other Eye",
+      "pubDate": "2026-08-19",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/eatr-stereo-humanoid-vla/",
+      "tweet": "EATR-Stereo Lets a Head-Cam Humanoid Keep the Other Eye\n\nHIT and Honor route paired stereo into a frozen VLA on a 33-DoF humanoid, hitting 60% full-task and 100% grasp on…\n\nhttps://mechafeed.com/blog/eatr-stereo-humanoid-vla/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=EATR-Stereo%20Lets%20a%20Head-Cam%20Humanoid%20Keep%20the%20Other%20Eye%0A%0AHIT%20and%20Honor%20route%20paired%20stereo%20into%20a%20frozen%20VLA%20on%20a%2033-DoF%20humanoid%2C%20hitting%2060%25%20full-task%20and%20100%25%20grasp%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Featr-stereo-humanoid-vla%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 253
+    },
     {
       "id": "fetchman-g1-sim2real",
       "title": "FetchMan Walks a G1 to a Bowl With Zero Real Training Data",
@@ -33,6 +43,36 @@
       "chars": 227
     },
     {
+      "id": "lambda-hold-musculoskeletal",
+      "title": "Lambda-Hold Learns a Human-Like Sprint From Velocity Alone",
+      "pubDate": "2026-08-19",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/lambda-hold-musculoskeletal/",
+      "tweet": "Lambda-Hold Learns a Human-Like Sprint From Velocity Alone\n\nSeoul National University’s λ-hold controller trains a 90-muscle model to sprint in about an hour using a…\n\nhttps://mechafeed.com/blog/lambda-hold-musculoskeletal/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Lambda-Hold%20Learns%20a%20Human-Like%20Sprint%20From%20Velocity%20Alone%0A%0ASeoul%20National%20University%E2%80%99s%20%CE%BB-hold%20controller%20trains%20a%2090-muscle%20model%20to%20sprint%20in%20about%20an%20hour%20using%20a%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flambda-hold-musculoskeletal%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 253
+    },
+    {
+      "id": "maniguard-manipulation-safety",
+      "title": "ManiGuard: Finishing the Task Is Not the Same as Doing It Safely",
+      "pubDate": "2026-08-19",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/maniguard-manipulation-safety/",
+      "tweet": "ManiGuard: Finishing the Task Is Not the Same as Doing It Safely\n\nNorthwestern’s ManiGuard-Bench finds 6–21% of successful VLA rollouts still violate a formal safety spec, then ships…\n\nhttps://mechafeed.com/blog/maniguard-manipulation-safety/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=ManiGuard%3A%20Finishing%20the%20Task%20Is%20Not%20the%20Same%20as%20Doing%20It%20Safely%0A%0ANorthwestern%E2%80%99s%20ManiGuard-Bench%20finds%206%E2%80%9321%25%20of%20successful%20VLA%20rollouts%20still%20violate%20a%20formal%20safety%20spec%2C%20then%20ships%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmaniguard-manipulation-safety%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 272
+    },
+    {
+      "id": "nineray-raynex-g3",
+      "title": "NineRay Unveils RayNex G3 in Hong Kong With a Live Barbell Walk",
+      "pubDate": "2026-08-19",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/nineray-raynex-g3/",
+      "tweet": "NineRay Unveils RayNex G3 in Hong Kong With a Live Barbell Walk\n\nNineRay Technology launches the 173 cm RayNex G3 at Hong Kong Science Park, with 32 DoF and a 60 kg stage carry.\n\nhttps://mechafeed.com/blog/nineray-raynex-g3/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=NineRay%20Unveils%20RayNex%20G3%20in%20Hong%20Kong%20With%20a%20Live%20Barbell%20Walk%0A%0ANineRay%20Technology%20launches%20the%20173%20cm%20RayNex%20G3%20at%20Hong%20Kong%20Science%20Park%2C%20with%2032%20DoF%20and%20a%2060%20kg%20stage%20carry.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnineray-raynex-g3%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 252
+    },
+    {
       "id": "noitom-hiphi-motion-dataset",
       "title": "Noitom Drops 617.5 Hours of High-Precision Human Motion for Humanoids",
       "pubDate": "2026-08-19",
@@ -41,6 +81,26 @@
       "tweet": "Noitom Drops 617.5 Hours of High-Precision Human Motion for Humanoids\n\nHiPHI is public on Hugging Face: 132 performers, 90 Hz optical MoCap, and G1 policies that run, crawl, carry, and pull…\n\nhttps://mechafeed.com/blog/noitom-hiphi-motion-dataset/\n\n#RoboticsResearch #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=Noitom%20Drops%20617.5%20Hours%20of%20High-Precision%20Human%20Motion%20for%20Humanoids%0A%0AHiPHI%20is%20public%20on%20Hugging%20Face%3A%20132%20performers%2C%2090%20Hz%20optical%20MoCap%2C%20and%20G1%20policies%20that%20run%2C%20crawl%2C%20carry%2C%20and%20pull%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnoitom-hiphi-motion-dataset%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
       "chars": 277
+    },
+    {
+      "id": "prism-industrial-skill-dataset",
+      "title": "PRISM Puts Force and Tactile Into 5,000 Industrial Robot Trajectories",
+      "pubDate": "2026-08-19",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/prism-industrial-skill-dataset/",
+      "tweet": "PRISM Puts Force and Tactile Into 5,000 Industrial Robot Trajectories\n\nPeking University’s open PRISM dataset logs 45 hours of contact-rich factory skills across Franka, Realman, and LEJU…\n\nhttps://mechafeed.com/blog/prism-industrial-skill-dataset/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=PRISM%20Puts%20Force%20and%20Tactile%20Into%205%2C000%20Industrial%20Robot%20Trajectories%0A%0APeking%20University%E2%80%99s%20open%20PRISM%20dataset%20logs%2045%20hours%20of%20contact-rich%20factory%20skills%20across%20Franka%2C%20Realman%2C%20and%20LEJU%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fprism-industrial-skill-dataset%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 270
+    },
+    {
+      "id": "tau0-vla-test-time",
+      "title": "τ0-VLA Thinks About the Next Subtask Before It Commits",
+      "pubDate": "2026-08-19",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/tau0-vla-test-time/",
+      "tweet": "τ0-VLA Thinks About the Next Subtask Before It Commits\n\nAgibot Finch’s hierarchical VLA searches subtasks with a world model, trained on 40,115 hours, and lifts long-horizon…\n\nhttps://mechafeed.com/blog/tau0-vla-test-time/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=%CF%840-VLA%20Thinks%20About%20the%20Next%20Subtask%20Before%20It%20Commits%0A%0AAgibot%20Finch%E2%80%99s%20hierarchical%20VLA%20searches%20subtasks%20with%20a%20world%20model%2C%20trained%20on%2040%2C115%20hours%2C%20and%20lifts%20long-horizon%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftau0-vla-test-time%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 238
     },
     {
       "id": "unireflex-force-control",

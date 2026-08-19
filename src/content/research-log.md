@@ -2967,4 +2967,59 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Failures:** none; solid candidates 8 of target 8
 - **X list accessible?** N (disclosed)
 
+## 2026-08-19 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-19
+- git pull --rebase origin main: already up to date
+- Morning already published 8 posts (wrc-2026-beijing, noitom-hiphi-motion-dataset, hydra-0-action-flow, hodagent-on-demand-humanoid, fetchman-g1-sim2real, unireflex-force-control, wgrl-brachiation, unitree-star-debut) — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE** (login/privacy wall; keyword/semantic search noisy). Disclosed. Proceeded with public X keyword/semantic + web + leftover Wednesday cs.RO dump.
+
+### X List Scan
+- Curated list feed not accessible without login
+- @binghao_huang (19 Aug): Nori classroom-to-product visit — **SKIP: already covered** (`nori-l3-1688-home-robot`, `nori-robotics-us-hardware-under-2k-fcc`); Forbes A3/L3 launch is the same SKU
+- China Daily HK NineRay / RayNex G3 launch clip recirculation — **CANDIDATE**
+- Unitree Superman / STAR debut recirculation — **SKIP: already covered this morning**
+- 44-DoF wheeled flag-hoist clip — **SKIP: thin / unnamed**
+- Spam / girlfriend-robot / street clips — **SKIP**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** NineRay RayNex G3 unveiled at Hong Kong Science Park (17 Aug) — China Daily HK + HKSTP directory — lane: **build**
+2. **[CANDIDATE/WRITTEN]** EATR-Stereo embodiment-aware stereo routing on 33-DoF HONOR Omega — arXiv:2608.17453 — lane: **build**
+3. **[CANDIDATE/WRITTEN]** PRISM industrial contact-rich dataset (5k traj / 45h) — arXiv:2608.17962 + project page — lane: **build**
+4. **[CANDIDATE/WRITTEN]** τ0-VLA hierarchical world-model test-time compute, 40,115 hours — arXiv:2608.16885 + project page — lane: **build**
+5. **[CANDIDATE/WRITTEN]** Lambda-hold musculoskeletal sprint from velocity reward — arXiv:2608.17030 + project page — lane: **build**
+6. **[CANDIDATE/WRITTEN]** ManiGuard spec-grounded manipulation safety bench — arXiv:2608.17386 + project page + GitHub — lane: **build**
+7. **[SKIP: already covered morning]** WRC opening, HiPHI, Hydra-0, HODAgent, FetchMan, UniReflex, WGRL brachiation, Unitree STAR debut
+8. **[SKIP: already covered]** Nori L3/A3 $1,688 (Forbes 19 Aug is the same product)
+9. **[SKIP: business / mix]** FORT Robotics SPAC (TRR 18 Aug); Unichem/Loomia M&A; morning already used the one business slot
+10. **[SKIP: leftover / unused]** CompCPZ, Don't Drop the BATON, tactile-only in-hand particle filter, Teach and Grow, leftover Aug-6 drafts
+11. **[SKIP: old]** Unitree H2 Plus / NVIDIA GR00T reference (June 2026)
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | nineray-raynex-g3 | Shar Hendrix | Humanoids | build |
+| 2 | eatr-stereo-humanoid-vla | Robb Harlan | Humanoids | build |
+| 3 | prism-industrial-skill-dataset | Shar Hendrix | Robotics | build |
+| 4 | tau0-vla-test-time | Robb Harlan | AI | build |
+| 5 | lambda-hold-musculoskeletal | Shar Hendrix | Research | build |
+| 6 | maniguard-manipulation-safety | Robb Harlan | Research | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+- Morning already used 1/8 business (Unitree STAR debut); afternoon stays 100% build
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary depth + usable stills: **6** | Writing: **6**
+- Soft floor 2 met; hit target (HK Science Park launch + five unused Wednesday/Tuesday papers morning parked)
+
+### Notes for Future Agents
+- WRC 2026 still running through the weekend; watch for *named* product launches with primary pages, not booth color
+- CompCPZ (Go2 “or” instructions), BATON long-horizon agent, tactile-only SE(3) particle filter remain unused
+- FORT SPAC and Unichem/Loomia still parked under 25% business cap
+- Leftover untracked Aug-6 drafts still unpublished — do not ship as today’s news
+- Do not rehash this afternoon six
+
 
