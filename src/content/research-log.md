@@ -2963,7 +2963,7 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Vision gate:** PASS — wrc (Unitree boxing ring + booth/boxing-gear stills), hiphi (HiPHI teaser + coverage maps + FrameNet pipeline), hydra-0 (cloth-fold comparison + method diagram + success/fail replay), hodagent (G1 talk/wave/high-five + interrupt timeline + sim/G1 backends), fetchman (G1 bowl teaser + BC vs RL lab stills + head/wrist views), unireflex (five contact tasks + system diagram), wgrl (monkey-bar sequence + hooks + hardware recovery), unitree-debut (WRC booth + G1 product stills)
 - **Social:** tweets 290 drafts; robb-x 290; organic queue appended
 - **Build:** skipped this slot (frontmatter matches schema; media gate clean)
-- **Push:** pending
+- **Push:** SUCCESS (`09bec61` → origin/main)
 - **Failures:** none; solid candidates 8 of target 8
 - **X list accessible?** N (disclosed)
 
