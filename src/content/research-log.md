@@ -3022,4 +3022,18 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - Leftover untracked Aug-6 drafts still unpublished — do not ship as today’s news
 - Do not rehash this afternoon six
 
+### Run summary
+- **Articles published (6):** nineray-raynex-g3, eatr-stereo-humanoid-vla, prism-industrial-skill-dataset, tau0-vla-test-time, lambda-hold-musculoskeletal, maniguard-manipulation-safety
+- **Skipped candidates:** Nori A3/Forbes (already covered), FORT SPAC, Unichem/Loomia, CompCPZ, BATON, tactile particle filter, leftover Aug-6 drafts
+- **X list accessible?** N (disclosed)
+
+#### Afternoon finalize (2026-08-19)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 today posts incl. morning 8 + afternoon 6)
+- **Vision gate:** PASS — nineray (G3 barbell walk + founder/payload slide), eatr (Omega 33-DoF task + stereo gap + architecture), prism (dataset overview + teleop platforms + Realman cell), tau0 (teaser search + task photo grid + high/low-level diagram), lambda-hold (musculoskeletal sprint loop + human kinematics + learning curves), maniguard (six-family pipeline + OOD grid + 60-task collage)
+- **Social:** tweets 296 drafts; robb-x 296; organic queue appended
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Push:** SUCCESS (`a132619` → origin/main)
+- **Failures:** none; solid candidates 6 of target 6
+- **X list accessible?** N (disclosed)
+
 
