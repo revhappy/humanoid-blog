@@ -14,8 +14,174 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-18T21:09:26.397Z
-Posts: 282
+Generated: 2026-08-19T16:11:17.387Z
+Posts: 290
+
+---
+
+## FetchMan Walks a G1 to a Bowl With Zero Real Training Data
+
+- **Slug:** `fetchman-g1-sim2real`
+- **Date:** 2026-08-19
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/fetchman-g1-sim2real/
+- **Chars:** 257/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FetchMan%20Walks%20a%20G1%20to%20a%20Bowl%20With%20Zero%20Real%20Training%20Data%0A%0AUCLA%20trains%20visual%20loco-manipulation%20in%20150k%20simulated%20scenes%2C%20then%20deploys%20zero-shot%20on%20a%20Unitree%20G1%20at%2073.3%25%20success.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffetchman-g1-sim2real%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+FetchMan Walks a G1 to a Bowl With Zero Real Training Data
+
+UCLA trains visual loco-manipulation in 150k simulated scenes, then deploys zero-shot on a Unitree G1 at 73.3% success.
+
+https://mechafeed.com/blog/fetchman-g1-sim2real/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## HODAgent Lets a G1 Take a New Order Mid-Stride
+
+- **Slug:** `hodagent-on-demand-humanoid`
+- **Date:** 2026-08-19
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/hodagent-on-demand-humanoid/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=HODAgent%20Lets%20a%20G1%20Take%20a%20New%20Order%20Mid-Stride%0A%0AA%20System-2%20service%20agent%20on%20Unitree%20G1%20hits%2092%25%20on%20atomic%20skills%20and%2063.3%25%20on%20full%20tasks%2C%20and%20beats%20ReAct%20by%20up%20to%2018.9%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhodagent-on-demand-humanoid%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+HODAgent Lets a G1 Take a New Order Mid-Stride
+
+A System-2 service agent on Unitree G1 hits 92% on atomic skills and 63.3% on full tasks, and beats ReAct by up to 18.9…
+
+https://mechafeed.com/blog/hodagent-on-demand-humanoid/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Hydra-0 Treats Robot Actions as Pixel Motion
+
+- **Slug:** `hydra-0-action-flow`
+- **Date:** 2026-08-19
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/hydra-0-action-flow/
+- **Chars:** 227/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Hydra-0%20Treats%20Robot%20Actions%20as%20Pixel%20Motion%0A%0ANVIDIA%20researchers%20condition%20a%20world%20model%20on%20camera-plane%20trajectories%2C%20cutting%20motion%20error%20and%20replaying%20RoboLab%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhydra-0-action-flow%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Hydra-0 Treats Robot Actions as Pixel Motion
+
+NVIDIA researchers condition a world model on camera-plane trajectories, cutting motion error and replaying RoboLab…
+
+https://mechafeed.com/blog/hydra-0-action-flow/
+
+#AI #Humanoids
+```
+
+---
+
+## Noitom Drops 617.5 Hours of High-Precision Human Motion for Humanoids
+
+- **Slug:** `noitom-hiphi-motion-dataset`
+- **Date:** 2026-08-19
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/noitom-hiphi-motion-dataset/
+- **Chars:** 277/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Noitom%20Drops%20617.5%20Hours%20of%20High-Precision%20Human%20Motion%20for%20Humanoids%0A%0AHiPHI%20is%20public%20on%20Hugging%20Face%3A%20132%20performers%2C%2090%20Hz%20optical%20MoCap%2C%20and%20G1%20policies%20that%20run%2C%20crawl%2C%20carry%2C%20and%20pull%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnoitom-hiphi-motion-dataset%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+Noitom Drops 617.5 Hours of High-Precision Human Motion for Humanoids
+
+HiPHI is public on Hugging Face: 132 performers, 90 Hz optical MoCap, and G1 policies that run, crawl, carry, and pull…
+
+https://mechafeed.com/blog/noitom-hiphi-motion-dataset/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## UniReflex Adds Force Control to Frozen Robot Policies
+
+- **Slug:** `unireflex-force-control`
+- **Date:** 2026-08-19
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/unireflex-force-control/
+- **Chars:** 245/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=UniReflex%20Adds%20Force%20Control%20to%20Frozen%20Robot%20Policies%0A%0ATsinghua%20and%20NTU%20bolt%20a%20fast%20impedance%20reflex%20onto%20DP%2C%20%CF%800%2C%20and%20DreamZero.%20Contact-stage%20success%20jumps%2020%E2%80%9360%20points%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Funireflex-force-control%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+UniReflex Adds Force Control to Frozen Robot Policies
+
+Tsinghua and NTU bolt a fast impedance reflex onto DP, π0, and DreamZero. Contact-stage success jumps 20–60 points…
+
+https://mechafeed.com/blog/unireflex-force-control/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Unitree Shares Soar as Much as 629% on Shanghai Debut
+
+- **Slug:** `unitree-star-debut`
+- **Date:** 2026-08-19
+- **Category:** Industry
+- **Article:** https://mechafeed.com/blog/unitree-star-debut/
+- **Chars:** 251/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Unitree%20Shares%20Soar%20as%20Much%20as%20629%25%20on%20Shanghai%20Debut%0A%0AAP%3A%20the%20Hangzhou%20humanoid%20maker%20raises%206.1%20billion%20yuan%2C%20prices%20at%20150.80%20yuan%2C%20and%20is%20still%20up%20nearly%20500%25%20by%20midday.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Funitree-star-debut%2F%0A%0A%23RoboticsIndustry%20%23Humanoids)
+
+```
+Unitree Shares Soar as Much as 629% on Shanghai Debut
+
+AP: the Hangzhou humanoid maker raises 6.1 billion yuan, prices at 150.80 yuan, and is still up nearly 500% by midday.
+
+https://mechafeed.com/blog/unitree-star-debut/
+
+#RoboticsIndustry #Humanoids
+```
+
+---
+
+## A Life-Sized Dual-Arm Robot Brachiates Across Monkey Bars
+
+- **Slug:** `wgrl-brachiation`
+- **Date:** 2026-08-19
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/wgrl-brachiation/
+- **Chars:** 247/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20Life-Sized%20Dual-Arm%20Robot%20Brachiates%20Across%20Monkey%20Bars%0A%0AUniversity%20of%20Tokyo%20researchers%20train%20waypoint-guided%20RL%20on%20hook%20hands%2C%20then%20zero-shot%20a%2019.6%20kg%20upper%20body%20across%20four%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fwgrl-brachiation%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+A Life-Sized Dual-Arm Robot Brachiates Across Monkey Bars
+
+University of Tokyo researchers train waypoint-guided RL on hook hands, then zero-shot a 19.6 kg upper body across four…
+
+https://mechafeed.com/blog/wgrl-brachiation/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Beijing’s World Robot Conference Opens With Boxing, Ping Pong, and a Shirt That Won’t Fold
+
+- **Slug:** `wrc-2026-beijing`
+- **Date:** 2026-08-19
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/wrc-2026-beijing/
+- **Chars:** 153/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Beijing%E2%80%99s%20World%20Robot%20Conference%20Opens%20With%20Boxing%2C%20Ping%20Pong%2C%20and%20a%20Shirt%20That%20Won%E2%80%99t%20Fold%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fwrc-2026-beijing%2F%0A%0A%23HumanoidRobots)
+
+```
+Beijing’s World Robot Conference Opens With Boxing, Ping Pong, and a Shirt That Won’t Fold
+
+https://mechafeed.com/blog/wrc-2026-beijing/
+
+#HumanoidRobots
+```
 
 ---
 

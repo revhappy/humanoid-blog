@@ -2893,4 +2893,78 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Failures:** none; solid candidates 6 of target 6
 - **X list accessible?** N (disclosed)
 
+## 2026-08-19 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-19
+- git pull --rebase origin main: already up to date
+- Prior day (8/18): morning 8 + afternoon 6 — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE** (browse tool disabled for x.com; list requires login). Disclosed. Proceeded with public X keyword/semantic search + web + Wednesday 19 Aug arXiv cs.RO dump (43 new).
+
+### X List Scan
+- Curated list feed not accessible without login
+- @agilityrobotics (19 Aug): Digit deployment-process explainer — **SKIP: company post dated Aug 4, not a new product**
+- @BostonDynamics (19 Aug): Spot fleet integration talking points — **SKIP: not a new Atlas/humanoid capability**
+- Unitree Superman recirculation — **SKIP: already covered 8/17**
+- 1X NEO $20k / 10,000 sold-out rumor clips — **SKIP: already covered / unverified recirculation**
+- Dobot LUMO, Droidup Moya recirculation — **SKIP: already covered**
+- Spam / girlfriend-robot / street clips — **SKIP**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** World Robot Conference 2026 opens in Beijing (Unitree boxing/ping pong; UBTECH emotional-care humanoid at 168,000 yuan; shirt-fold fail) — AP via WSLS 19 Aug — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Unitree STAR Market debut: as much as 629% open, 6.1B yuan raise, still ~500% midday (AP); Nikkei updated 460% first day — lane: **business**
+3. **[CANDIDATE/WRITTEN]** Noitom Robotics HiPHI 617.5h high-precision MoCap dataset, G1 transfer — GlobeNewswire 19 Aug + project page + arXiv:2608.16222 — lane: **build**
+4. **[CANDIDATE/WRITTEN]** Hydra-0 action-flow world model (NVIDIA et al.) — arXiv:2608.18077 + project page — lane: **build**
+5. **[CANDIDATE/WRITTEN]** HODAgent on-demand humanoid service agent, physical G1 — arXiv:2608.17584 — lane: **build**
+6. **[CANDIDATE/WRITTEN]** FetchMan sim-to-real G1 loco-manipulation, 73.3% — arXiv:2608.17027 + orayyan.com/fetchman — lane: **build**
+7. **[CANDIDATE/WRITTEN]** UniReflex plug-and-play force control on frozen generative policies — arXiv:2608.17432 + project page — lane: **build**
+8. **[CANDIDATE/WRITTEN]** Life-sized dual-arm brachiation via WGRL (U Tokyo, IROS 2026) — arXiv:2608.17320 — lane: **build**
+9. **[SKIP: already covered 8/18]** Moxi 2.0, G1 football, HAF, Tac4Loco, H-PAC, MISTac, Detachable Wire, FlexWorm, ZEST, RoboStriker, ViHaTeleop, ReForce, ViTaR, CoRe
+10. **[SKIP: already covered 8/17]** Unitree Superman, AdvDex, Samsung RX, ATMOS, etc.
+11. **[SKIP: already covered]** unitree-star-market-ipo-csrc.md is CSRC registration (July), not today’s debut
+12. **[SKIP: business / mix]** FORT Robotics SPAC (TRR 18 Aug); Unichem/Loomia M&A (already parked)
+13. **[SKIP: leftover / unused]** EATR-Stereo, PRISM industrial dataset, CompCPZ, τ0-VLA, OpenBelief-Nav, leftover Aug-6 drafts
+14. **[SKIP: thin]** Agility CAP explainer (Aug 4); Agility CFO IPO-prep interview (business)
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | wrc-2026-beijing | Shar Hendrix | Humanoids | build |
+| 2 | noitom-hiphi-motion-dataset | Shar Hendrix | Research | build |
+| 3 | hydra-0-action-flow | Robb Harlan | AI | build |
+| 4 | hodagent-on-demand-humanoid | Shar Hendrix | Humanoids | build |
+| 5 | fetchman-g1-sim2real | Robb Harlan | Humanoids | build |
+| 6 | unireflex-force-control | Shar Hendrix | Robotics | build |
+| 7 | wgrl-brachiation | Robb Harlan | Robotics | build |
+| 8 | unitree-star-debut | Robb Harlan | Industry | business |
+
+### Mix check
+- Build/innovate: 7 | Business/industry: 1 | Business share: 12.5% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary depth + usable stills: **8** | Writing: **8**
+- Soft floor 3 met; hit target (WRC floor + HiPHI release + five Wednesday papers + Unitree debut as the one business slot)
+
+### Notes for Future Agents
+- WRC 2026 runs through the weekend; watch for specific product launches (not just booth color)
+- Unitree Superman already covered; do not rehash jump-height clips as today’s news
+- EATR-Stereo, PRISM, CompCPZ, τ0-VLA remain unused from this dump
+- Leftover untracked Aug-6 drafts still unpublished — do not ship as today’s news
+- Do not rehash this morning eight in the afternoon slot
+
+### Run summary
+- **Articles published (8):** wrc-2026-beijing, noitom-hiphi-motion-dataset, hydra-0-action-flow, hodagent-on-demand-humanoid, fetchman-g1-sim2real, unireflex-force-control, wgrl-brachiation, unitree-star-debut
+- **Skipped candidates:** FORT SPAC, Unichem/Loomia, EATR-Stereo, leftover drafts, Superman recirculation
+- **X list accessible?** N (disclosed)
+
+#### Morning finalize (2026-08-19)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** PASS — wrc (Unitree boxing ring + booth/boxing-gear stills), hiphi (HiPHI teaser + coverage maps + FrameNet pipeline), hydra-0 (cloth-fold comparison + method diagram + success/fail replay), hodagent (G1 talk/wave/high-five + interrupt timeline + sim/G1 backends), fetchman (G1 bowl teaser + BC vs RL lab stills + head/wrist views), unireflex (five contact tasks + system diagram), wgrl (monkey-bar sequence + hooks + hardware recovery), unitree-debut (WRC booth + G1 product stills)
+- **Social:** tweets 290 drafts; robb-x 290; organic queue appended
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Push:** pending
+- **Failures:** none; solid candidates 8 of target 8
+- **X list accessible?** N (disclosed)
+
 

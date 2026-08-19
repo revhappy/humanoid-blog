@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-18T21:09:27.011Z
+Generated: 2026-08-19T16:11:17.403Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## FetchMan Walks a G1 to a Bowl With Zero Real Training Data
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/fetchman-g1-sim2real/
+
+### SOLO (no link)
+
+```
+This is the locomotion recipe applied to “walk over and pick that up,” and the ablation is the story: more synthetic demos stop helping, a sparse RL pass on the handoff does help, and the wrong vision encoder zeros the real robot.  73% on a G1 with no real data is a…
+```
+
+### SOFT-LINK variant
+
+```
+This is the locomotion recipe applied to “walk over and pick that up,” and the ablation is the story: more synthetic demos stop helping, a sparse RL pass on the handoff does help, and the wrong vision…
+
+https://mechafeed.com/blog/fetchman-g1-sim2real/
+```
+
+---
+
+## HODAgent Lets a G1 Take a New Order Mid-Stride
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/hodagent-on-demand-humanoid/
+
+### SOLO (no link)
+
+```
+The useful idea is temporal: keep listening while the legs are busy, and do not declare victory from a tool return.  The G1 numbers falling from 92% to 63% as the task gets longer is the honest slope.
+```
+
+### SOFT-LINK variant
+
+```
+The useful idea is temporal: keep listening while the legs are busy, and do not declare victory from a tool return.  The G1 numbers falling from 92% to 63% as the task gets longer is the honest slope.
+
+https://mechafeed.com/blog/hodagent-on-demand-humanoid/
+```
+
+---
+
+## Hydra-0 Treats Robot Actions as Pixel Motion
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/hydra-0-action-flow/
+
+### SOLO (no link)
+
+```
+Conditioning a video model on “where the metal actually goes in the picture” is the kind of interface I can inspect.  The Cosmos ablation is the useful bit: swap 6D actions for pixel tracks on the same backbone and the error drops.
+```
+
+### SOFT-LINK variant
+
+```
+Conditioning a video model on “where the metal actually goes in the picture” is the kind of interface I can inspect.  The Cosmos ablation is the useful bit: swap 6D actions for pixel tracks on the same backbone and the error drops.
+
+https://mechafeed.com/blog/hydra-0-action-flow/
+```
+
+---
+
+## Noitom Drops 617.5 Hours of High-Precision Human Motion for Humanoids
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/noitom-hiphi-motion-dataset/
+
+### SOLO (no link)
+
+```
+I like a company that publishes the thing it usually hoards.  617 hours of optical MoCap with object meshes is a gift to anyone training whole-body policies, and the G1 clips (run, crawl, carry, suitcase) are the receipt that matters.
+```
+
+### SOFT-LINK variant
+
+```
+I like a company that publishes the thing it usually hoards.  617 hours of optical MoCap with object meshes is a gift to anyone training whole-body policies, and the G1 clips (run, crawl, carry, suitc…
+
+https://mechafeed.com/blog/noitom-hiphi-motion-dataset/
+```
+
+---
+
+## UniReflex Adds Force Control to Frozen Robot Policies
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/unireflex-force-control/
+
+### SOLO (no link)
+
+```
+Leaving a giant VLA frozen and teaching a small network when to go squishy is the practical move.  The peel and wipe jumps are the evidence.
+```
+
+### SOFT-LINK variant
+
+```
+Leaving a giant VLA frozen and teaching a small network when to go squishy is the practical move.  The peel and wipe jumps are the evidence.
+
+https://mechafeed.com/blog/unireflex-force-control/
+```
+
+---
+
+## Unitree Shares Soar as Much as 629% on Shanghai Debut
+
+- Author on blog: Robb Harlan
+- Category: Industry
+- Article: https://mechafeed.com/blog/unitree-star-debut/
+
+### SOLO (no link)
+
+```
+A 629% open is a crowd, not a factory.  Midday still near 500%, Nikkei’s 460% first-day figure, and a $904 million raise tell you the tape wanted a humanoid name.
+```
+
+### SOFT-LINK variant
+
+```
+A 629% open is a crowd, not a factory.  Midday still near 500%, Nikkei’s 460% first-day figure, and a $904 million raise tell you the tape wanted a humanoid name.
+
+https://mechafeed.com/blog/unitree-star-debut/
+```
+
+---
+
+## A Life-Sized Dual-Arm Robot Brachiates Across Monkey Bars
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/wgrl-brachiation/
+
+### SOLO (no link)
+
+```
+Monkey bars are a mean test.  No feet, discontinuous contacts, and a fall ends the episode.
+```
+
+### SOFT-LINK variant
+
+```
+Monkey bars are a mean test.  No feet, discontinuous contacts, and a fall ends the episode.
+
+https://mechafeed.com/blog/wgrl-brachiation/
+```
+
+---
+
+## Beijing’s World Robot Conference Opens With Boxing, Ping Pong, and a Shirt That Won’t Fold
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/wrc-2026-beijing/
+
+### SOLO (no link)
+
+```
+I am here for the ping-pong rally more than the IPO ticker.  A humanoid that can box in a ring and still lose to a T-shirt is the honest 2026 snapshot.
+```
+
+### SOFT-LINK variant
+
+```
+I am here for the ping-pong rally more than the IPO ticker.  A humanoid that can box in a ring and still lose to a T-shirt is the honest 2026 snapshot.
+
+https://mechafeed.com/blog/wrc-2026-beijing/
+```
 
 ---
 

@@ -275,3 +275,20 @@ If your retargeter cannot tell a hold from a crush, it is a puppeteer, not a han
 Most “recovery” papers collect a new failure dataset and call it autonomy. Planning the retry on fake cameras, then moving only the cup that blocks the next motion, is closer to how a tired human cleans up a knock.
 https://mechafeed.com/blog/core-vla-recovery/
 
+### 2026-08-19 Morning — pipeline seeds
+- X list 1805786050763087967 still inaccessible this slot
+- Eight posts: WRC Beijing floor, HiPHI MoCap drop, Hydra-0 action flow, HODAgent G1 service loop, FetchMan sim2real, UniReflex force plug-in, UTokyo brachiation, Unitree STAR debut (business 1/8)
+
+**SOLO (WRC):**
+A humanoid that can box in a ring and still lose to a T-shirt is the honest conference snapshot. Ping pong draws the crowd. Folding is the test.
+
+**SOLO (FetchMan):**
+More synthetic demos stopped helping at 67%. A sparse RL pass on the walk-to-grasp handoff is what moved a real G1. The wrong vision encoder went to zero.
+
+**SOLO (Unitree tape):**
+629% is a crowd, not a factory. Omdia’s 5,000-plus units only matter if they survive hour six after the lockup.
+
+**SOFT-LINK (Hydra-0):**
+If your world model still eats joint vectors, it is tied to one robot. Hydra-0 conditions on where the metal actually goes in the picture.
+https://mechafeed.com/blog/hydra-0-action-flow/
+
