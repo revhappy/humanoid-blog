@@ -306,3 +306,20 @@ If two policies tie on task success and differ by six points on spills, the lead
 Salt that does not change the image is why a kitchen robot needs memory, not a longer action chunk. Search the next subtask before you commit the arms.
 https://mechafeed.com/blog/tau0-vla-test-time/
 
+### 2026-08-20 Morning — pipeline seeds
+- X list 1805786050763087967 still inaccessible this slot
+- Eight build posts: Vbot ATOM WRC, NORINCO Fuxi teleop, GigaBrain-WBC-0.5, LabDex chem hands, RoboEdit 14M, SoftVTBench DSR, Push-T agentic, HarvestPoint-ACT
+
+**SOLO (ATOM):**
+160 cm, fabric, a face screen, quiet shoes. That is a living-room spec sheet. Reservations at a conference are still not a shipping date.
+
+**SOLO (GigaBrain):**
+99.3% get-up versus a handful of percent is the number. Same policy that sits on a box also stands back up. Flat-floor trackers do not.
+
+**SOLO (Push-T):**
+A coding agent wrote a pusher that beat the 200-demo diffusion policy and then did A through Z. Geometry still works. Gym is not a workcell.
+
+**SOFT-LINK (SoftVTBench):**
+Finishing the pick while crushing the pastry is a success on most leaderboards. DSR fails those rollouts on purpose.
+https://mechafeed.com/blog/softvtbench-deformation-touch/
+

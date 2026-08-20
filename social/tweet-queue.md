@@ -14,8 +14,176 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-19T21:11:45.582Z
-Posts: 296
+Generated: 2026-08-20T16:12:38.741Z
+Posts: 304
+
+---
+
+## GigaBrain-WBC-0.5 Sits, Climbs, and Gets Back Up on a G1
+
+- **Slug:** `gigabrain-wbc-05`
+- **Date:** 2026-08-20
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/gigabrain-wbc-05/
+- **Chars:** 249/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=GigaBrain-WBC-0.5%20Sits%2C%20Climbs%2C%20and%20Gets%20Back%20Up%20on%20a%20G1%0A%0ATsinghua%20and%20GigaAI%20train%20a%20humanoid%20tracker%20as%20a%20world%20model.%2081.3%25%20terrain%20success%2C%2099.3%25%20fall%20recovery%2C%20G1-to-L01%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgigabrain-wbc-05%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+GigaBrain-WBC-0.5 Sits, Climbs, and Gets Back Up on a G1
+
+Tsinghua and GigaAI train a humanoid tracker as a world model. 81.3% terrain success, 99.3% fall recovery, G1-to-L01…
+
+https://mechafeed.com/blog/gigabrain-wbc-05/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## HarvestPoint-ACT Picks the Orange You Pointed At
+
+- **Slug:** `harvestpoint-act-fruit`
+- **Date:** 2026-08-20
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/harvestpoint-act-fruit/
+- **Chars:** 241/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=HarvestPoint-ACT%20Picks%20the%20Orange%20You%20Pointed%20At%0A%0AA%20Fujian%E2%80%93Osaka%20team%20conditions%20ACT%20on%20a%20metric%20grasp%20point.%2088%25%20success%20on%20a%20citrus%20mock-up%3B%20RGB-only%20ACT%2C%20Diffusion%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fharvestpoint-act-fruit%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+HarvestPoint-ACT Picks the Orange You Pointed At
+
+A Fujian–Osaka team conditions ACT on a metric grasp point. 88% success on a citrus mock-up; RGB-only ACT, Diffusion…
+
+https://mechafeed.com/blog/harvestpoint-act-fruit/
+
+#Robotics #Humanoids
+```
+
+---
+
+## LabDex Puts an XHand in a Real Chemistry Lab and Grades the Hierarchy
+
+- **Slug:** `labdex-chemistry-hands`
+- **Date:** 2026-08-20
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/labdex-chemistry-hands/
+- **Chars:** 260/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=LabDex%20Puts%20an%20XHand%20in%20a%20Real%20Chemistry%20Lab%20and%20Grades%20the%20Hierarchy%0A%0AUSTC%E2%80%99s%20LabDex%20benchmark%20trains%20Franka%20%2B%20XHand%20on%20pour%2C%20insert%2C%20and%20stir.%20%CF%800.5%20hits%200.57%20on%20atomic%20skills%3B%20no%20model%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flabdex-chemistry-hands%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+LabDex Puts an XHand in a Real Chemistry Lab and Grades the Hierarchy
+
+USTC’s LabDex benchmark trains Franka + XHand on pour, insert, and stir. π0.5 hits 0.57 on atomic skills; no model…
+
+https://mechafeed.com/blog/labdex-chemistry-hands/
+
+#Robotics #Humanoids
+```
+
+---
+
+## NORINCO’s Fuxi Humanoid Copies an Operator at About 90 kg
+
+- **Slug:** `norinco-fuxi-humanoid-teleop`
+- **Date:** 2026-08-20
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/norinco-fuxi-humanoid-teleop/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=NORINCO%E2%80%99s%20Fuxi%20Humanoid%20Copies%20an%20Operator%20at%20About%2090%20kg%0A%0AChina%E2%80%99s%20NORINCO%20debuts%20Fuxi%20at%20WRC%202026%2C%20a%20full-size%20teleoperated%20humanoid%20with%20an%20%E2%80%9Cexternal%20avatar%E2%80%9D%20stack.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnorinco-fuxi-humanoid-teleop%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+NORINCO’s Fuxi Humanoid Copies an Operator at About 90 kg
+
+China’s NORINCO debuts Fuxi at WRC 2026, a full-size teleoperated humanoid with an “external avatar” stack.
+
+https://mechafeed.com/blog/norinco-fuxi-humanoid-teleop/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## A Coding Agent Beats Diffusion Policy at Push-T, Then Does A–Z
+
+- **Slug:** `pusht-agentic-goldberg`
+- **Date:** 2026-08-20
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/pusht-agentic-goldberg/
+- **Chars:** 263/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20Coding%20Agent%20Beats%20Diffusion%20Policy%20at%20Push-T%2C%20Then%20Does%20A%E2%80%93Z%0A%0ABerkeley%E2%80%99s%20Goldberg%20lab%20lets%20Claude%20Code%20solve%20Push-T%20with%20no%20demos%3A%20100%25%20success%2C%2046%25%20fewer%20steps%2C%20then%2099.4%25%20on%2026%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpusht-agentic-goldberg%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+A Coding Agent Beats Diffusion Policy at Push-T, Then Does A–Z
+
+Berkeley’s Goldberg lab lets Claude Code solve Push-T with no demos: 100% success, 46% fewer steps, then 99.4% on 26…
+
+https://mechafeed.com/blog/pusht-agentic-goldberg/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## RoboEdit Turns Human Hand Videos Into 14 Million Robot Frames
+
+- **Slug:** `roboedit-human-to-robot-video`
+- **Date:** 2026-08-20
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/roboedit-human-to-robot-video/
+- **Chars:** 258/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=RoboEdit%20Turns%20Human%20Hand%20Videos%20Into%2014%20Million%20Robot%20Frames%0A%0AA%20UCLA-linked%20team%20edits%20human%20manipulation%20clips%20into%20seven%20robot%20hands%2C%20then%20drives%20a%20real%20Franka%20from%20the%20decoded%203D%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Froboedit-human-to-robot-video%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+RoboEdit Turns Human Hand Videos Into 14 Million Robot Frames
+
+A UCLA-linked team edits human manipulation clips into seven robot hands, then drives a real Franka from the decoded 3D…
+
+https://mechafeed.com/blog/roboedit-human-to-robot-video/
+
+#AI #Humanoids
+```
+
+---
+
+## SoftVTBench Fails Your Policy If It Crushes the Pastry
+
+- **Slug:** `softvtbench-deformation-touch`
+- **Date:** 2026-08-20
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/softvtbench-deformation-touch/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=SoftVTBench%20Fails%20Your%20Policy%20If%20It%20Crushes%20the%20Pastry%0A%0AA%204%2C000-demo%20visuo-tactile%20suite%20scores%20pick-and-place%20only%20if%20deformation%20stays%20in%20a%20pre-calibrated%20window.%20Touch%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsoftvtbench-deformation-touch%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+SoftVTBench Fails Your Policy If It Crushes the Pastry
+
+A 4,000-demo visuo-tactile suite scores pick-and-place only if deformation stays in a pre-calibrated window. Touch…
+
+https://mechafeed.com/blog/softvtbench-deformation-touch/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Vbot Puts a 160 cm Home-Scale Humanoid on the WRC Floor
+
+- **Slug:** `vbot-atom-humanoid-wrc`
+- **Date:** 2026-08-20
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/vbot-atom-humanoid-wrc/
+- **Chars:** 249/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Vbot%20Puts%20a%20160%20cm%20Home-Scale%20Humanoid%20on%20the%20WRC%20Floor%0A%0AVita%20Power%E2%80%99s%20ATOM%20debuts%20at%20WRC%202026%20at%20160%20cm%20and%2031%20DoF%2C%20with%20fabric%2C%20a%20face%20screen%2C%20and%20on-site%20reservations.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fvbot-atom-humanoid-wrc%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Vbot Puts a 160 cm Home-Scale Humanoid on the WRC Floor
+
+Vita Power’s ATOM debuts at WRC 2026 at 160 cm and 31 DoF, with fabric, a face screen, and on-site reservations.
+
+https://mechafeed.com/blog/vbot-atom-humanoid-wrc/
+
+#HumanoidRobots #Humanoids
+```
 
 ---
 

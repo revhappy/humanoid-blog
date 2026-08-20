@@ -3036,4 +3036,67 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Failures:** none; solid candidates 6 of target 6
 - **X list accessible?** N (disclosed)
 
+## 2026-08-20 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-20
+- git pull --rebase origin main: already up to date
+- Prior day (8/19): morning 8 + afternoon 6 — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE** (login/privacy wall; keyword/semantic search noisy). Disclosed. Proceeded with public X keyword/semantic + web + Thursday 20 Aug arXiv cs.RO dump (28 new submissions).
+
+### X List Scan
+- Curated list feed not accessible without login
+- Unitree Superman / STAR debut recirculation — **SKIP: already covered 8/17 and 8/19 morning**
+- CNBC Unitree CEO “ChatGPT moment 10 years” (20 Aug) — **SKIP: business follow-up to STAR debut**
+- 44-DoF wheeled flag-hoist clip — **SKIP: thin / unnamed**
+- Robot wedding in Moscow — **SKIP: not substantial**
+- Spam / street-malfunction clips — **SKIP**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Vbot ATOM 160 cm / 31-DoF living-space humanoid, WRC reservations — 36Kr 20 Aug + Sina Finance 19 Aug — lane: **build**
+2. **[CANDIDATE/WRITTEN]** NORINCO Fuxi ~90 kg teleoperated humanoid, “external avatar” — Global Times 18 Aug + People’s Daily + Interesting Engineering — lane: **build**
+3. **[CANDIDATE/WRITTEN]** GigaBrain-WBC-0.5 humanoid behavior world model, G1 hardware — arXiv:2608.18234 + project page — lane: **build**
+4. **[CANDIDATE/WRITTEN]** LabDex chemistry dexterous-hand benchmark, Franka+XHand — arXiv:2608.18618 + project page — lane: **build**
+5. **[CANDIDATE/WRITTEN]** RoboEdit human-to-robot video suite, 14.1M frames / 7 hands — arXiv:2608.18948 — lane: **build**
+6. **[CANDIDATE/WRITTEN]** SoftVTBench deformation-aware visuo-tactile DSR — arXiv:2608.18701 + project page — lane: **build**
+7. **[CANDIDATE/WRITTEN]** Agentic Push-T (Claude Code / Fable 5), Goldberg lab — arXiv:2608.18227 — lane: **build**
+8. **[CANDIDATE/WRITTEN]** HarvestPoint-ACT fruit harvesting, 88% vs 0% baselines — arXiv:2608.18446 — lane: **build**
+9. **[SKIP: already covered 8/19]** WRC opening recap, HiPHI, Hydra-0, HODAgent, FetchMan, UniReflex, WGRL, Unitree STAR debut, NineRay G3, EATR-Stereo, PRISM, τ0-VLA, Lambda-hold, ManiGuard
+10. **[SKIP: already covered 8/18]** Moxi 2.0, ZEST, RoboStriker, ViHaTeleop, etc.
+11. **[SKIP: business / mix]** CNBC Unitree CEO interview; STAR second-day drop; FORT SPAC; Unichem/Loomia M&A
+12. **[SKIP: single-source / thin]** Galbot “Gal · Starzai” (36Kr only, ET1 tease is CGI); Qianfan T800 cage fight; Starbot Era L7/M7 (no independent primary page fetched)
+13. **[SKIP: leftover Aug-6 drafts]** still unpublished untracked files — do not ship as today’s news
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | vbot-atom-humanoid-wrc | Shar Hendrix | Humanoids | build |
+| 2 | norinco-fuxi-humanoid-teleop | Robb Harlan | Humanoids | build |
+| 3 | gigabrain-wbc-05 | Robb Harlan | Humanoids | build |
+| 4 | labdex-chemistry-hands | Shar Hendrix | Robotics | build |
+| 5 | roboedit-human-to-robot-video | Shar Hendrix | AI | build |
+| 6 | softvtbench-deformation-touch | Robb Harlan | Robotics | build |
+| 7 | pusht-agentic-goldberg | Shar Hendrix | Research | build |
+| 8 | harvestpoint-act-fruit | Robb Harlan | Robotics | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary depth + usable stills: **8** | Writing: **8**
+- Soft floor 3 met; hit target (WRC named product + NORINCO teleop + Thursday cs.RO dump)
+
+### Notes for Future Agents
+- WRC 2026 still running through Sunday 8/23; watch for *named* launches with company pages (Galbot Starzai/ET1 still needs a Galbot URL)
+- Unitree Superman + STAR debut already covered; do not rehash jump-height or second-day tape
+- CompCPZ, BATON, tactile particle filter remain unused from Wednesday dump
+- Leftover untracked Aug-6 drafts still unpublished — do not ship as today’s news
+- Do not rehash this morning eight in the afternoon slot
+
+### Run summary
+- **Articles published (pending verify/push):** vbot-atom-humanoid-wrc, norinco-fuxi-humanoid-teleop, gigabrain-wbc-05, labdex-chemistry-hands, roboedit-human-to-robot-video, softvtbench-deformation-touch, pusht-agentic-goldberg, harvestpoint-act-fruit
+- **Skipped candidates:** Unitree CEO CNBC (business), Galbot Starzai (single 36Kr), FORT SPAC, leftover drafts
+- **X list accessible?** N (disclosed)
+
 

@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-19T21:12:08.008Z
+Generated: 2026-08-20T16:12:40.320Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## GigaBrain-WBC-0.5 Sits, Climbs, and Gets Back Up on a G1
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/gigabrain-wbc-05/
+
+### SOLO (no link)
+
+```
+Teaching a tracker to predict what it can do next, then using that prediction as a safety filter, is the kind of systems idea I want more of.  The fall-recovery gap is the number I would take into a lab first: 99.
+```
+
+### SOFT-LINK variant
+
+```
+Teaching a tracker to predict what it can do next, then using that prediction as a safety filter, is the kind of systems idea I want more of.  The fall-recovery gap is the number I would take into a lab first: 99.
+
+https://mechafeed.com/blog/gigabrain-wbc-05/
+```
+
+---
+
+## HarvestPoint-ACT Picks the Orange You Pointed At
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/harvestpoint-act-fruit/
+
+### SOLO (no link)
+
+```
+Giving ACT a metric target instead of hoping it infers depth from a wrist JPEG is the kind of boring fix that actually moves the needle.  88 versus 0 on the same 100 demos is not a subtle ablation.
+```
+
+### SOFT-LINK variant
+
+```
+Giving ACT a metric target instead of hoping it infers depth from a wrist JPEG is the kind of boring fix that actually moves the needle.  88 versus 0 on the same 100 demos is not a subtle ablation.
+
+https://mechafeed.com/blog/harvestpoint-act-fruit/
+```
+
+---
+
+## LabDex Puts an XHand in a Real Chemistry Lab and Grades the Hierarchy
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/labdex-chemistry-hands/
+
+### SOLO (no link)
+
+```
+I am glad someone finally graded lab work as a stack instead of one “did the experiment succeed” bit.  The message is blunt: foundation models can place a beaker and still cannot seat a funnel.
+```
+
+### SOFT-LINK variant
+
+```
+I am glad someone finally graded lab work as a stack instead of one “did the experiment succeed” bit.  The message is blunt: foundation models can place a beaker and still cannot seat a funnel.
+
+https://mechafeed.com/blog/labdex-chemistry-hands/
+```
+
+---
+
+## NORINCO’s Fuxi Humanoid Copies an Operator at About 90 kg
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/norinco-fuxi-humanoid-teleop/
+
+### SOLO (no link)
+
+```
+A 90 kg humanoid with a named teleop stack is a serious piece of metal.  It is also still a press description plus a formation clip.
+```
+
+### SOFT-LINK variant
+
+```
+A 90 kg humanoid with a named teleop stack is a serious piece of metal.  It is also still a press description plus a formation clip.
+
+https://mechafeed.com/blog/norinco-fuxi-humanoid-teleop/
+```
+
+---
+
+## A Coding Agent Beats Diffusion Policy at Push-T, Then Does A–Z
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/pusht-agentic-goldberg/
+
+### SOLO (no link)
+
+```
+I will never get tired of a 2D T-block if the punchline is “the coding agent wrote a better pusher than the demo policy. ” Geometry still works.
+```
+
+### SOFT-LINK variant
+
+```
+I will never get tired of a 2D T-block if the punchline is “the coding agent wrote a better pusher than the demo policy. ” Geometry still works.
+
+https://mechafeed.com/blog/pusht-agentic-goldberg/
+```
+
+---
+
+## RoboEdit Turns Human Hand Videos Into 14 Million Robot Frames
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/roboedit-human-to-robot-video/
+
+### SOLO (no link)
+
+```
+Editing the human out and the robot in is a cleaner idea than hoping a VLA “just understands” YouTube.  Fourteen million paired frames across seven hands is a serious pile of supervision.
+```
+
+### SOFT-LINK variant
+
+```
+Editing the human out and the robot in is a cleaner idea than hoping a VLA “just understands” YouTube.  Fourteen million paired frames across seven hands is a serious pile of supervision.
+
+https://mechafeed.com/blog/roboedit-human-to-robot-video/
+```
+
+---
+
+## SoftVTBench Fails Your Policy If It Crushes the Pastry
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/softvtbench-deformation-touch/
+
+### SOLO (no link)
+
+```
+Scoring the squeeze separately from the place is overdue.  The FastWAM numbers prove you can hit the target without leaving the safety window, so the gap is a policy problem, not a law of soft objects.
+```
+
+### SOFT-LINK variant
+
+```
+Scoring the squeeze separately from the place is overdue.  The FastWAM numbers prove you can hit the target without leaving the safety window, so the gap is a policy problem, not a law of soft objects.
+
+https://mechafeed.com/blog/softvtbench-deformation-touch/
+```
+
+---
+
+## Vbot Puts a 160 cm Home-Scale Humanoid on the WRC Floor
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/vbot-atom-humanoid-wrc/
+
+### SOLO (no link)
+
+```
+I like that they started from “will this fit under a cabinet” instead of “can it run a 100-meter. ” Reservations at a trade show are not a shipping date, and 31 DoF in fabric is still a demo until someone keeps one at home for a month.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they started from “will this fit under a cabinet” instead of “can it run a 100-meter. ” Reservations at a trade show are not a shipping date, and 31 DoF in fabric is still a demo until som…
+
+https://mechafeed.com/blog/vbot-atom-humanoid-wrc/
+```
 
 ---
 
