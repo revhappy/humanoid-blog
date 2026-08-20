@@ -3162,4 +3162,18 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - BATON leftover remains unused
 - Do not rehash this afternoon six
 
+### Run summary
+- **Articles published (6):** lta-olly-little-india, pudu-mp2000-pallet-handling, adept-nvidia-dexterity, tienkung-3-inspection-wrc, avic-fengxing-001-wrc, compcpz-go2-or-instructions
+- **Skipped candidates:** Galbot ET1 (no official page), Tiangong Omni (no matching CGTN still), X Square WALL-B (no PR stills), Serve/Grubhub (business + Moxi overlap), BATON leftover, Unitree CEO/STAR recirculation
+- **X list accessible?** N (disclosed)
+
+#### Afternoon finalize (2026-08-20)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 today posts incl. morning 8 + afternoon 6)
+- **Vision gate:** PASS — olly (MRT concourse + stairs), pudu (warehouse pallet robots), adept (dish-rack/peg teaser + dual-arm lab + pipeline), tienkung (cabinet inspection + CGTN heavy humanoid), fengxing (AVIC humanoid + CETC dog), compcpz (Go2 on-mode + gap fail)
+- **Social:** tweets 310 drafts; robb-x 310; organic queue appended
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Push:** SUCCESS (`930cdfc` → origin/main)
+- **Failures:** none; solid candidates 6 of target 6
+- **X list accessible?** N (disclosed)
+
 
