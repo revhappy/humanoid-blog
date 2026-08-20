@@ -3108,4 +3108,58 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Failures:** none; solid candidates 8 of target 8
 - **X list accessible?** N (disclosed)
 
+## 2026-08-20 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-20
+- git pull --rebase origin main: already up to date
+- Morning already published 8 posts (vbot-atom-humanoid-wrc, norinco-fuxi-humanoid-teleop, gigabrain-wbc-05, labdex-chemistry-hands, roboedit-human-to-robot-video, softvtbench-deformation-touch, pusht-agentic-goldberg, harvestpoint-act-fruit) — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE** (login/privacy wall; keyword search returned general posts, not the curated list feed). Disclosed. Proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed not accessible without login
+- @TheHumanoidHub (20 Aug): Galbot ET1 WRC unveil — **SKIP: morning parked for CGI/single-source; still no Galbot official page fetched**
+- @XSquareRobot (20 Aug): WALL-B 4-hour sorting live numbers — **SKIP: no usable stills on cited PR pages; prior post already covers the WALL stack**
+- Unitree Superman / STAR / CEO CNBC — **SKIP: already covered**
+- Mitsubishi factory 1,000/month — **SKIP: already covered** (`mitsubishi-highlanders-humanoid-mass-production.md`)
+- Spam / street clips — **SKIP**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** LTA Olly humanoid trial at Little India MRT (31 Aug–11 Sep, weekdays 10am–noon) — AsiaOne + Mothership 20 Aug — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Pudu MP2000 2,000 kg pallet robot, 20 s fork-in — Pudu product/launch + Industrial Briefs/TRR — lane: **build**
+3. **[CANDIDATE/WRITTEN]** ADEPT NVIDIA/Michigan sim-to-real dexterous RL, Kuka-Allegro + Flexiv-Sharpa — arXiv:2608.19182 + project page — lane: **build**
+4. **[CANDIDATE/WRITTEN]** Tien Kung 3.0 energy-cabinet inspection at WRC + LingLong L2.0 firefighting demo — Global Times 20 Aug + CGTN — lane: **build**
+5. **[CANDIDATE/WRITTEN]** AVIC Fengxing-001 1.8 m electro-hydraulic humanoid at WRC — Global Times 20 Aug + CGTN WRC wrap — lane: **build**
+6. **[CANDIDATE/WRITTEN]** CompCPZ TUM “or” instructions, Go2 mocap 12/12 — arXiv:2608.17717 leftover from Wednesday dump — lane: **build**
+7. **[SKIP: already covered morning]** Vbot ATOM, NORINCO Fuxi, GigaBrain-WBC-0.5, LabDex, RoboEdit, SoftVTBench, Push-T, HarvestPoint
+8. **[SKIP: already covered 8/19]** WRC opening recap, Unitree STAR, NineRay G3, EATR, PRISM, τ0-VLA, etc.
+9. **[SKIP: business / mix]** China 40k H1 shipments (used only as report context, not the lede); Unitree CEO CNBC; Serve/Grubhub 8-K (partnership + Uber volume drop + Moxi 2.0 already covered)
+10. **[SKIP: thin / media]** Tiangong Omni CGTN debut (1.35 m / 39 kg) — only one matching still on RobotHub, CGTN inline photos were a different giant and a venue sign
+11. **[SKIP: leftover]** BATON (sim-only, no second URL); Galbot ET1 (no official page); X Square WALL-B PR (no stills on fetched pages)
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | lta-olly-little-india | Shar Hendrix | Humanoids | build |
+| 2 | pudu-mp2000-pallet-handling | Shar Hendrix | Robotics | build |
+| 3 | adept-nvidia-dexterity | Robb Harlan | Robotics | build |
+| 4 | tienkung-3-inspection-wrc | Robb Harlan | Humanoids | build |
+| 5 | avic-fengxing-001-wrc | Robb Harlan | Humanoids | build |
+| 6 | compcpz-go2-or-instructions | Shar Hendrix | Robotics | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+- Morning already 0/8 business; afternoon stays 100% build
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary depth + usable stills: **6** | Writing: **6**
+- Soft floor 2 met; hit target (LTA service trial + Pudu product + ADEPT hardware paper + two named WRC machines + leftover Go2 “or” paper)
+
+### Notes for Future Agents
+- WRC 2026 still running through Sunday 8/23; Galbot ET1 still needs a Galbot URL; Tiangong Omni still needs a matching CGTN still
+- Serve/Grubhub sidewalk partnership is a real story but Moxi 2.0 already covered and the 8-K is revenue-guidance heavy — park unless framed as sidewalk-robot capability with IR + TRR body
+- BATON leftover remains unused
+- Do not rehash this afternoon six
+
 

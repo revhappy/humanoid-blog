@@ -323,3 +323,17 @@ A coding agent wrote a pusher that beat the 200-demo diffusion policy and then d
 Finishing the pick while crushing the pastry is a success on most leaderboards. DSR fails those rollouts on purpose.
 https://mechafeed.com/blog/softvtbench-deformation-touch/
 
+### 2026-08-20 Afternoon — pipeline seeds
+- X list 1805786050763087967 still inaccessible this slot
+- Six build posts: LTA Olly MRT trial, Pudu MP2000, ADEPT dexterity, Tien Kung 3.0 inspection, AVIC Fengxing-001, CompCPZ Go2 "or"
+
+**SOLO (Olly):**
+Two hours, weekdays, with a human next to it. That is the right size for a station robot. Keep it after Sept 11 or it was a photo op.
+
+**SOLO (ADEPT):**
+Vision-only 3/10 on the hard peg. Same hand with fingertip cameras: 8/10. If you cannot feel the grasp, you will keep opening the fingers.
+
+**SOFT-LINK (CompCPZ):**
+"Red plate or blue plate" is not the midpoint. A convex goal parks in the gap and calls it success.
+https://mechafeed.com/blog/compcpz-go2-or-instructions/
+

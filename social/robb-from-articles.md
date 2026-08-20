@@ -3,9 +3,75 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-20T16:12:40.320Z
+Generated: 2026-08-20T21:12:53.936Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## ADEPT Learns Dexterity Once, Then Inserts Pegs From Cameras
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/adept-nvidia-dexterity/
+
+### SOLO (no link)
+
+```
+Pretrain on cubes, then insert a two-legged peg from pixels, with no motion-capture crutch.  That is the right research shape.
+```
+
+### SOFT-LINK variant
+
+```
+Pretrain on cubes, then insert a two-legged peg from pixels, with no motion-capture crutch.  That is the right research shape.
+
+https://mechafeed.com/blog/adept-nvidia-dexterity/
+```
+
+---
+
+## AVIC’s Fengxing-001 Walks 20 kg Onto the WRC Floor
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/avic-fengxing-001-wrc/
+
+### SOLO (no link)
+
+```
+A 3 km/h jog and a 20 kg carry are not circus numbers.  They are closer to a person walking a tool bag.
+```
+
+### SOFT-LINK variant
+
+```
+A 3 km/h jog and a 20 kg carry are not circus numbers.  They are closer to a person walking a tool bag.
+
+https://mechafeed.com/blog/avic-fengxing-001-wrc/
+```
+
+---
+
+## CompCPZ Stops Robots From Parking Between ‘This or That’
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/compcpz-go2-or-instructions/
+
+### SOLO (no link)
+
+```
+“Or” is a child’s word and a planner’s trap.  I like a paper that treats the gap between two plates as a failure, not a compromise.
+```
+
+### SOFT-LINK variant
+
+```
+“Or” is a child’s word and a planner’s trap.  I like a paper that treats the gap between two plates as a failure, not a compromise.
+
+https://mechafeed.com/blog/compcpz-go2-or-instructions/
+```
 
 ---
 
@@ -75,6 +141,28 @@ https://mechafeed.com/blog/labdex-chemistry-hands/
 
 ---
 
+## Singapore Puts Olly, a Station Guide Humanoid, on Trial at Little India
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/lta-olly-little-india/
+
+### SOLO (no link)
+
+```
+I’m here for a robot that has to share a concourse with luggage, school groups, and people who do not want to talk to a machine.  A supervised two-hour window is not a deployment.
+```
+
+### SOFT-LINK variant
+
+```
+I’m here for a robot that has to share a concourse with luggage, school groups, and people who do not want to talk to a machine.  A supervised two-hour window is not a deployment.
+
+https://mechafeed.com/blog/lta-olly-little-india/
+```
+
+---
+
 ## NORINCO’s Fuxi Humanoid Copies an Operator at About 90 kg
 
 - Author on blog: Robb Harlan
@@ -93,6 +181,28 @@ A 90 kg humanoid with a named teleop stack is a serious piece of metal.  It is a
 A 90 kg humanoid with a named teleop stack is a serious piece of metal.  It is also still a press description plus a formation clip.
 
 https://mechafeed.com/blog/norinco-fuxi-humanoid-teleop/
+```
+
+---
+
+## Pudu’s MP2000 Forks 2,000 kg Pallets in 20 Seconds
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/pudu-mp2000-pallet-handling/
+
+### SOLO (no link)
+
+```
+A 2-tonne pallet jack that maps itself and takes a 15 cm miss is the kind of warehouse machine I actually want to watch for a shift.  The face on the mast is optional.
+```
+
+### SOFT-LINK variant
+
+```
+A 2-tonne pallet jack that maps itself and takes a 15 cm miss is the kind of warehouse machine I actually want to watch for a shift.  The face on the mast is optional.
+
+https://mechafeed.com/blog/pudu-mp2000-pallet-handling/
 ```
 
 ---
@@ -159,6 +269,28 @@ Scoring the squeeze separately from the place is overdue.  The FastWAM numbers p
 Scoring the squeeze separately from the place is overdue.  The FastWAM numbers prove you can hit the target without leaving the safety window, so the gap is a policy problem, not a law of soft objects.
 
 https://mechafeed.com/blog/softvtbench-deformation-touch/
+```
+
+---
+
+## Tien Kung 3.0 Reads a Work Ticket and Checks a Live Cabinet
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/tienkung-3-inspection-wrc/
+
+### SOLO (no link)
+
+```
+I will take a probe on a live cabinet over another kung-fu loop.  Reading a work ticket is the part that usually dies in a demo: the robot has to know *which* switch, not just how to stand.
+```
+
+### SOFT-LINK variant
+
+```
+I will take a probe on a live cabinet over another kung-fu loop.  Reading a work ticket is the part that usually dies in a demo: the robot has to know *which* switch, not just how to stand.
+
+https://mechafeed.com/blog/tienkung-3-inspection-wrc/
 ```
 
 ---

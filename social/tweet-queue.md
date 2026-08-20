@@ -14,8 +14,71 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-20T16:12:38.741Z
-Posts: 304
+Generated: 2026-08-20T21:12:53.030Z
+Posts: 310
+
+---
+
+## ADEPT Learns Dexterity Once, Then Inserts Pegs From Cameras
+
+- **Slug:** `adept-nvidia-dexterity`
+- **Date:** 2026-08-20
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/adept-nvidia-dexterity/
+- **Chars:** 248/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ADEPT%20Learns%20Dexterity%20Once%2C%20Then%20Inserts%20Pegs%20From%20Cameras%0A%0ANVIDIA%20and%20Michigan%E2%80%99s%20ADEPT%20pretrains%20dexterous%20RL%2C%20then%20zero-shots%20peg%20insert%20and%20dish-rack%20on%20Kuka-Allegro%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fadept-nvidia-dexterity%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+ADEPT Learns Dexterity Once, Then Inserts Pegs From Cameras
+
+NVIDIA and Michigan’s ADEPT pretrains dexterous RL, then zero-shots peg insert and dish-rack on Kuka-Allegro and…
+
+https://mechafeed.com/blog/adept-nvidia-dexterity/
+
+#Robotics #Humanoids
+```
+
+---
+
+## AVIC’s Fengxing-001 Walks 20 kg Onto the WRC Floor
+
+- **Slug:** `avic-fengxing-001-wrc`
+- **Date:** 2026-08-20
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/avic-fengxing-001-wrc/
+- **Chars:** 243/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=AVIC%E2%80%99s%20Fengxing-001%20Walks%2020%20kg%20Onto%20the%20WRC%20Floor%0A%0AAVIC%20showed%20Fengxing-001%20at%20WRC%3A%201.8%20m%2C%20electro-hydraulic%20joints%2C%2020%20kg%20carry%2C%20and%20staff%20say%20it%20is%20in%20simulated%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Favic-fengxing-001-wrc%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+AVIC’s Fengxing-001 Walks 20 kg Onto the WRC Floor
+
+AVIC showed Fengxing-001 at WRC: 1.8 m, electro-hydraulic joints, 20 kg carry, and staff say it is in simulated…
+
+https://mechafeed.com/blog/avic-fengxing-001-wrc/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## CompCPZ Stops Robots From Parking Between ‘This or That’
+
+- **Slug:** `compcpz-go2-or-instructions`
+- **Date:** 2026-08-20
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/compcpz-go2-or-instructions/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=CompCPZ%20Stops%20Robots%20From%20Parking%20Between%20%E2%80%98This%20or%20That%E2%80%99%0A%0ATUM%E2%80%99s%20CompCPZ%20keeps%20the%20%E2%80%98or%E2%80%99%20in%20robot%20commands%2C%20winning%201%2C900%2F1%2C918%20sim%20trials%20and%2012%2F12%20Go2%20runs%20where%20convex%20goals%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcompcpz-go2-or-instructions%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+CompCPZ Stops Robots From Parking Between ‘This or That’
+
+TUM’s CompCPZ keeps the ‘or’ in robot commands, winning 1,900/1,918 sim trials and 12/12 Go2 runs where convex goals…
+
+https://mechafeed.com/blog/compcpz-go2-or-instructions/
+
+#Robotics #Humanoids
+```
 
 ---
 
@@ -82,6 +145,27 @@ https://mechafeed.com/blog/labdex-chemistry-hands/
 
 ---
 
+## Singapore Puts Olly, a Station Guide Humanoid, on Trial at Little India
+
+- **Slug:** `lta-olly-little-india`
+- **Date:** 2026-08-20
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/lta-olly-little-india/
+- **Chars:** 268/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Singapore%20Puts%20Olly%2C%20a%20Station%20Guide%20Humanoid%2C%20on%20Trial%20at%20Little%20India%0A%0ALTA%20will%20trial%20Olly%20at%20Downtown%20Line%20Little%20India%20MRT%2C%20weekdays%2010am%E2%80%93noon%20from%20Aug%2031%20to%20Sep%2011%2C%20with%20staff%20on%20site.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flta-olly-little-india%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Singapore Puts Olly, a Station Guide Humanoid, on Trial at Little India
+
+LTA will trial Olly at Downtown Line Little India MRT, weekdays 10am–noon from Aug 31 to Sep 11, with staff on site.
+
+https://mechafeed.com/blog/lta-olly-little-india/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
 ## NORINCO’s Fuxi Humanoid Copies an Operator at About 90 kg
 
 - **Slug:** `norinco-fuxi-humanoid-teleop`
@@ -99,6 +183,27 @@ China’s NORINCO debuts Fuxi at WRC 2026, a full-size teleoperated humanoid wit
 https://mechafeed.com/blog/norinco-fuxi-humanoid-teleop/
 
 #HumanoidRobots #Humanoids
+```
+
+---
+
+## Pudu’s MP2000 Forks 2,000 kg Pallets in 20 Seconds
+
+- **Slug:** `pudu-mp2000-pallet-handling`
+- **Date:** 2026-08-20
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/pudu-mp2000-pallet-handling/
+- **Chars:** 242/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Pudu%E2%80%99s%20MP2000%20Forks%202%2C000%20kg%20Pallets%20in%2020%20Seconds%0A%0APudu%20launches%20the%20MP2000%20pallet%20robot%3A%202%2C000%20kg%20payload%2C%2020-second%20fork-in%2C%203D%20LiDAR-SLAM%2C%20and%20no%20site%20rebuild.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpudu-mp2000-pallet-handling%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Pudu’s MP2000 Forks 2,000 kg Pallets in 20 Seconds
+
+Pudu launches the MP2000 pallet robot: 2,000 kg payload, 20-second fork-in, 3D LiDAR-SLAM, and no site rebuild.
+
+https://mechafeed.com/blog/pudu-mp2000-pallet-handling/
+
+#Robotics #Humanoids
 ```
 
 ---
@@ -162,6 +267,27 @@ A 4,000-demo visuo-tactile suite scores pick-and-place only if deformation stays
 https://mechafeed.com/blog/softvtbench-deformation-touch/
 
 #Robotics #Humanoids
+```
+
+---
+
+## Tien Kung 3.0 Reads a Work Ticket and Checks a Live Cabinet
+
+- **Slug:** `tienkung-3-inspection-wrc`
+- **Date:** 2026-08-20
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/tienkung-3-inspection-wrc/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Tien%20Kung%203.0%20Reads%20a%20Work%20Ticket%20and%20Checks%20a%20Live%20Cabinet%0A%0AX-Humanoid%E2%80%99s%20Tien%20Kung%203.0%20inspects%20high-voltage%20cabinets%20at%20WRC%20with%20State%20Grid%E2%80%99s%20model%3B%20LingLong%20L2.0%20demos%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftienkung-3-inspection-wrc%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Tien Kung 3.0 Reads a Work Ticket and Checks a Live Cabinet
+
+X-Humanoid’s Tien Kung 3.0 inspects high-voltage cabinets at WRC with State Grid’s model; LingLong L2.0 demos…
+
+https://mechafeed.com/blog/tienkung-3-inspection-wrc/
+
+#HumanoidRobots #Humanoids
 ```
 
 ---

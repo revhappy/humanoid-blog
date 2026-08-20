@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-08-20T16:12:38.741Z",
+  "generatedAt": "2026-08-20T21:12:53.030Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "adept-nvidia-dexterity",
+      "title": "ADEPT Learns Dexterity Once, Then Inserts Pegs From Cameras",
+      "pubDate": "2026-08-20",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/adept-nvidia-dexterity/",
+      "tweet": "ADEPT Learns Dexterity Once, Then Inserts Pegs From Cameras\n\nNVIDIA and Michigan’s ADEPT pretrains dexterous RL, then zero-shots peg insert and dish-rack on Kuka-Allegro and…\n\nhttps://mechafeed.com/blog/adept-nvidia-dexterity/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=ADEPT%20Learns%20Dexterity%20Once%2C%20Then%20Inserts%20Pegs%20From%20Cameras%0A%0ANVIDIA%20and%20Michigan%E2%80%99s%20ADEPT%20pretrains%20dexterous%20RL%2C%20then%20zero-shots%20peg%20insert%20and%20dish-rack%20on%20Kuka-Allegro%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fadept-nvidia-dexterity%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 248
+    },
+    {
+      "id": "avic-fengxing-001-wrc",
+      "title": "AVIC’s Fengxing-001 Walks 20 kg Onto the WRC Floor",
+      "pubDate": "2026-08-20",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/avic-fengxing-001-wrc/",
+      "tweet": "AVIC’s Fengxing-001 Walks 20 kg Onto the WRC Floor\n\nAVIC showed Fengxing-001 at WRC: 1.8 m, electro-hydraulic joints, 20 kg carry, and staff say it is in simulated…\n\nhttps://mechafeed.com/blog/avic-fengxing-001-wrc/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=AVIC%E2%80%99s%20Fengxing-001%20Walks%2020%20kg%20Onto%20the%20WRC%20Floor%0A%0AAVIC%20showed%20Fengxing-001%20at%20WRC%3A%201.8%20m%2C%20electro-hydraulic%20joints%2C%2020%20kg%20carry%2C%20and%20staff%20say%20it%20is%20in%20simulated%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Favic-fengxing-001-wrc%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 243
+    },
+    {
+      "id": "compcpz-go2-or-instructions",
+      "title": "CompCPZ Stops Robots From Parking Between ‘This or That’",
+      "pubDate": "2026-08-20",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/compcpz-go2-or-instructions/",
+      "tweet": "CompCPZ Stops Robots From Parking Between ‘This or That’\n\nTUM’s CompCPZ keeps the ‘or’ in robot commands, winning 1,900/1,918 sim trials and 12/12 Go2 runs where convex goals…\n\nhttps://mechafeed.com/blog/compcpz-go2-or-instructions/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=CompCPZ%20Stops%20Robots%20From%20Parking%20Between%20%E2%80%98This%20or%20That%E2%80%99%0A%0ATUM%E2%80%99s%20CompCPZ%20keeps%20the%20%E2%80%98or%E2%80%99%20in%20robot%20commands%2C%20winning%201%2C900%2F1%2C918%20sim%20trials%20and%2012%2F12%20Go2%20runs%20where%20convex%20goals%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcompcpz-go2-or-instructions%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 254
+    },
     {
       "id": "gigabrain-wbc-05",
       "title": "GigaBrain-WBC-0.5 Sits, Climbs, and Gets Back Up on a G1",
@@ -33,6 +63,16 @@
       "chars": 260
     },
     {
+      "id": "lta-olly-little-india",
+      "title": "Singapore Puts Olly, a Station Guide Humanoid, on Trial at Little India",
+      "pubDate": "2026-08-20",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/lta-olly-little-india/",
+      "tweet": "Singapore Puts Olly, a Station Guide Humanoid, on Trial at Little India\n\nLTA will trial Olly at Downtown Line Little India MRT, weekdays 10am–noon from Aug 31 to Sep 11, with staff on site.\n\nhttps://mechafeed.com/blog/lta-olly-little-india/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Singapore%20Puts%20Olly%2C%20a%20Station%20Guide%20Humanoid%2C%20on%20Trial%20at%20Little%20India%0A%0ALTA%20will%20trial%20Olly%20at%20Downtown%20Line%20Little%20India%20MRT%2C%20weekdays%2010am%E2%80%93noon%20from%20Aug%2031%20to%20Sep%2011%2C%20with%20staff%20on%20site.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flta-olly-little-india%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 268
+    },
+    {
       "id": "norinco-fuxi-humanoid-teleop",
       "title": "NORINCO’s Fuxi Humanoid Copies an Operator at About 90 kg",
       "pubDate": "2026-08-20",
@@ -41,6 +81,16 @@
       "tweet": "NORINCO’s Fuxi Humanoid Copies an Operator at About 90 kg\n\nChina’s NORINCO debuts Fuxi at WRC 2026, a full-size teleoperated humanoid with an “external avatar” stack.\n\nhttps://mechafeed.com/blog/norinco-fuxi-humanoid-teleop/\n\n#HumanoidRobots #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=NORINCO%E2%80%99s%20Fuxi%20Humanoid%20Copies%20an%20Operator%20at%20About%2090%20kg%0A%0AChina%E2%80%99s%20NORINCO%20debuts%20Fuxi%20at%20WRC%202026%2C%20a%20full-size%20teleoperated%20humanoid%20with%20an%20%E2%80%9Cexternal%20avatar%E2%80%9D%20stack.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnorinco-fuxi-humanoid-teleop%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
       "chars": 252
+    },
+    {
+      "id": "pudu-mp2000-pallet-handling",
+      "title": "Pudu’s MP2000 Forks 2,000 kg Pallets in 20 Seconds",
+      "pubDate": "2026-08-20",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/pudu-mp2000-pallet-handling/",
+      "tweet": "Pudu’s MP2000 Forks 2,000 kg Pallets in 20 Seconds\n\nPudu launches the MP2000 pallet robot: 2,000 kg payload, 20-second fork-in, 3D LiDAR-SLAM, and no site rebuild.\n\nhttps://mechafeed.com/blog/pudu-mp2000-pallet-handling/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Pudu%E2%80%99s%20MP2000%20Forks%202%2C000%20kg%20Pallets%20in%2020%20Seconds%0A%0APudu%20launches%20the%20MP2000%20pallet%20robot%3A%202%2C000%20kg%20payload%2C%2020-second%20fork-in%2C%203D%20LiDAR-SLAM%2C%20and%20no%20site%20rebuild.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpudu-mp2000-pallet-handling%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 242
     },
     {
       "id": "pusht-agentic-goldberg",
@@ -71,6 +121,16 @@
       "tweet": "SoftVTBench Fails Your Policy If It Crushes the Pastry\n\nA 4,000-demo visuo-tactile suite scores pick-and-place only if deformation stays in a pre-calibrated window. Touch…\n\nhttps://mechafeed.com/blog/softvtbench-deformation-touch/\n\n#Robotics #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=SoftVTBench%20Fails%20Your%20Policy%20If%20It%20Crushes%20the%20Pastry%0A%0AA%204%2C000-demo%20visuo-tactile%20suite%20scores%20pick-and-place%20only%20if%20deformation%20stays%20in%20a%20pre-calibrated%20window.%20Touch%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsoftvtbench-deformation-touch%2F%0A%0A%23Robotics%20%23Humanoids",
       "chars": 252
+    },
+    {
+      "id": "tienkung-3-inspection-wrc",
+      "title": "Tien Kung 3.0 Reads a Work Ticket and Checks a Live Cabinet",
+      "pubDate": "2026-08-20",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/tienkung-3-inspection-wrc/",
+      "tweet": "Tien Kung 3.0 Reads a Work Ticket and Checks a Live Cabinet\n\nX-Humanoid’s Tien Kung 3.0 inspects high-voltage cabinets at WRC with State Grid’s model; LingLong L2.0 demos…\n\nhttps://mechafeed.com/blog/tienkung-3-inspection-wrc/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Tien%20Kung%203.0%20Reads%20a%20Work%20Ticket%20and%20Checks%20a%20Live%20Cabinet%0A%0AX-Humanoid%E2%80%99s%20Tien%20Kung%203.0%20inspects%20high-voltage%20cabinets%20at%20WRC%20with%20State%20Grid%E2%80%99s%20model%3B%20LingLong%20L2.0%20demos%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftienkung-3-inspection-wrc%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 254
     },
     {
       "id": "vbot-atom-humanoid-wrc",
