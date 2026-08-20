@@ -3095,8 +3095,17 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - Do not rehash this morning eight in the afternoon slot
 
 ### Run summary
-- **Articles published (pending verify/push):** vbot-atom-humanoid-wrc, norinco-fuxi-humanoid-teleop, gigabrain-wbc-05, labdex-chemistry-hands, roboedit-human-to-robot-video, softvtbench-deformation-touch, pusht-agentic-goldberg, harvestpoint-act-fruit
+- **Articles published (8):** vbot-atom-humanoid-wrc, norinco-fuxi-humanoid-teleop, gigabrain-wbc-05, labdex-chemistry-hands, roboedit-human-to-robot-video, softvtbench-deformation-touch, pusht-agentic-goldberg, harvestpoint-act-fruit
 - **Skipped candidates:** Unitree CEO CNBC (business), Galbot Starzai (single 36Kr), FORT SPAC, leftover drafts
+- **X list accessible?** N (disclosed)
+
+#### Morning finalize (2026-08-20)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** PASS — vbot (ATOM stage + couch fabric + launch slide), fuxi (three-robot formation + center crop), gigabrain (G1/L01 teaser + SONIC hardware grid + architecture), labdex (Franka/XHand overview + teleop pipeline), roboedit (14M grid + editor comparison + Franka YCB), softvt (pastry DSR teaser + pipeline + tactile RGB), pusht (A–Z grid + Franka/UR5e + curriculum), harvestpoint (citrus mock-up + which/where diagram + occlusion bins)
+- **Social:** tweets 304 drafts; robb-x 304; organic queue appended
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Push:** SUCCESS (`35d558a` → origin/main)
+- **Failures:** none; solid candidates 8 of target 8
 - **X list accessible?** N (disclosed)
 
 
