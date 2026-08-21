@@ -3232,4 +3232,18 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - GOAG / CoToGrasp / Video2DoorTraversal remain unused Friday papers
 - Do not rehash this morning eight in the afternoon slot
 
+### Run summary
+- **Articles published (8):** galbot-et1-wrc, unitree-r1-arm, adapt-humanoid-tennis, fs-mpc-humanoid, hitac-wam-tactile, missing-touch-tactile, mild-bipedal-deformable, whrg-2026-beijing
+- **Skipped candidates:** Xiaomi WRC (wrong stills), ACE Robotics CEO, FORT SPAC, Unichem/Loomia, GOAG leftover, Tiangong Omni, Niu Lai, Unitree STAR recirculation
+- **X list accessible?** N (disclosed)
+
+#### Morning finalize (2026-08-21)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** PASS — galbot (ET1 tennis + wheeled sibling), unitree (R1 arm cell + desktop), adapt (dressed tennis humanoid + court setup), fs-mpc (H1 walk/place teaser + MPPI compare), hitac (task overview + IMETA-Y1 table), missing-touch (2-DoF rig + button/peg figures), mild (SA01 foam/grass/sand + tile-to-foam), whrg (track runner + tug of war + dance)
+- **Social:** tweets 318 drafts; robb-x 318; organic queue appended
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Push:** SUCCESS (`c4912ae` → origin/main)
+- **Failures:** none; solid candidates 8 of target 8
+- **X list accessible?** N (disclosed)
+
 
