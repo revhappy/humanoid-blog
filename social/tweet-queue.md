@@ -14,8 +14,176 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-20T21:12:53.030Z
-Posts: 310
+Generated: 2026-08-21T16:14:54.857Z
+Posts: 318
+
+---
+
+## AdaPT Teaches G1 and Dobot Atom Pro Tennis Styles From Broadcast Tape
+
+- **Slug:** `adapt-humanoid-tennis`
+- **Date:** 2026-08-21
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/adapt-humanoid-tennis/
+- **Chars:** 268/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=AdaPT%20Teaches%20G1%20and%20Dobot%20Atom%20Pro%20Tennis%20Styles%20From%20Broadcast%20Tape%0A%0AA%20new%20paper%20trains%20humanoid%20tennis%20serve%20and%20rally%20styles%20from%20Nadal%2C%20Federer%2C%20and%20Djokovic%20video%2C%20then%20serves%20in%20the%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fadapt-humanoid-tennis%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+AdaPT Teaches G1 and Dobot Atom Pro Tennis Styles From Broadcast Tape
+
+A new paper trains humanoid tennis serve and rally styles from Nadal, Federer, and Djokovic video, then serves in the…
+
+https://mechafeed.com/blog/adapt-humanoid-tennis/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## FS-MPC: Sampled Control That Doesn’t Fall Over on a Unitree H1
+
+- **Slug:** `fs-mpc-humanoid`
+- **Date:** 2026-08-21
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/fs-mpc-humanoid/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FS-MPC%3A%20Sampled%20Control%20That%20Doesn%E2%80%99t%20Fall%20Over%20on%20a%20Unitree%20H1%0A%0ACMU%20and%20MIT%20post%20Feedback%20Sampling%20MPC%2C%20a%20hybrid%20sampler%20that%20keeps%20MPPI%20stable%20on%20contact-rich%20humanoid%20walk%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffs-mpc-humanoid%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+FS-MPC: Sampled Control That Doesn’t Fall Over on a Unitree H1
+
+CMU and MIT post Feedback Sampling MPC, a hybrid sampler that keeps MPPI stable on contact-rich humanoid walk and…
+
+https://mechafeed.com/blog/fs-mpc-humanoid/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## Galbot’s First Bipedal, ET1, Trains Tennis Ahead of the Humanoid Games
+
+- **Slug:** `galbot-et1-wrc`
+- **Date:** 2026-08-21
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/galbot-et1-wrc/
+- **Chars:** 263/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Galbot%E2%80%99s%20First%20Bipedal%2C%20ET1%2C%20Trains%20Tennis%20Ahead%20of%20the%20Humanoid%20Games%0A%0AGalbot%20unveils%20ET1%20at%20WRC%202026%2C%20a%20bipedal%20humanoid%20trained%20for%20tennis%20and%20scheduled%20for%20the%20World%20Humanoid%20Robot%20Games%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgalbot-et1-wrc%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Galbot’s First Bipedal, ET1, Trains Tennis Ahead of the Humanoid Games
+
+Galbot unveils ET1 at WRC 2026, a bipedal humanoid trained for tennis and scheduled for the World Humanoid Robot Games…
+
+https://mechafeed.com/blog/galbot-et1-wrc/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## HiTac-WAM Predicts Touch Before the Grasp, Then Checks It Live
+
+- **Slug:** `hitac-wam-tactile`
+- **Date:** 2026-08-21
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/hitac-wam-tactile/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=HiTac-WAM%20Predicts%20Touch%20Before%20the%20Grasp%2C%20Then%20Checks%20It%20Live%0A%0ACAS%20and%20ImprintX%20train%20a%20hierarchical%20tactile%20world%20model%20that%20lifts%20chip%2C%20eraser%2C%20and%20USB%20success%20from%2031%25%20to%2072%25%20on%20a%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhitac-wam-tactile%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+HiTac-WAM Predicts Touch Before the Grasp, Then Checks It Live
+
+CAS and ImprintX train a hierarchical tactile world model that lifts chip, eraser, and USB success from 31% to 72% on a…
+
+https://mechafeed.com/blog/hitac-wam-tactile/
+
+#Robotics #Humanoids
+```
+
+---
+
+## MILD Walks an EngineAI Biped Across Foam, Grass, and Sand
+
+- **Slug:** `mild-bipedal-deformable`
+- **Date:** 2026-08-21
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/mild-bipedal-deformable/
+- **Chars:** 260/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=MILD%20Walks%20an%20EngineAI%20Biped%20Across%20Foam%2C%20Grass%2C%20and%20Sand%0A%0AHKU%2C%20BIT%2C%20and%20Tokyo%20model%20foot-by-foot%20granular%20contact%20and%20train%20a%20biped%20that%20identifies%20stiffness%20online%2C%20including%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmild-bipedal-deformable%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+MILD Walks an EngineAI Biped Across Foam, Grass, and Sand
+
+HKU, BIT, and Tokyo model foot-by-foot granular contact and train a biped that identifies stiffness online, including…
+
+https://mechafeed.com/blog/mild-bipedal-deformable/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## Northwestern Maps Robot Fingertip Deformation Onto a 32-DoF Finger Pad
+
+- **Slug:** `missing-touch-tactile`
+- **Date:** 2026-08-21
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/missing-touch-tactile/
+- **Chars:** 259/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Northwestern%20Maps%20Robot%20Fingertip%20Deformation%20Onto%20a%2032-DoF%20Finger%20Pad%0A%0AA%20GelSight%20Mini%20plus%20a%20Fluid%20Reality%20display%20cuts%20teleop-to-human%20trajectory%20gap%2029%E2%80%9379%25%20when%20operators%20feel%20where%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmissing-touch-tactile%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Northwestern Maps Robot Fingertip Deformation Onto a 32-DoF Finger Pad
+
+A GelSight Mini plus a Fluid Reality display cuts teleop-to-human trajectory gap 29–79% when operators feel where…
+
+https://mechafeed.com/blog/missing-touch-tactile/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Unitree’s R1 Arm: 7 Axes, 5.5 kg, From $1,650
+
+- **Slug:** `unitree-r1-arm`
+- **Date:** 2026-08-21
+- **Category:** Deals
+- **Article:** https://mechafeed.com/blog/unitree-r1-arm/
+- **Chars:** 232/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Unitree%E2%80%99s%20R1%20Arm%3A%207%20Axes%2C%205.5%20kg%2C%20From%20%241%2C650%0A%0AUnitree%20lists%20a%20desktop%207-axis%20R1%20arm%20at%20%241%2C650%20%2F%209%2C900%20yuan%2C%202%20kg%20payload%2C%20650%20mm%20reach%2C%20with%20force%20feedback%20and%20open%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Funitree-r1-arm%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Unitree’s R1 Arm: 7 Axes, 5.5 kg, From $1,650
+
+Unitree lists a desktop 7-axis R1 arm at $1,650 / 9,900 yuan, 2 kg payload, 650 mm reach, with force feedback and open…
+
+https://mechafeed.com/blog/unitree-r1-arm/
+
+#Robotics #Humanoids
+```
+
+---
+
+## 2,056 Humanoids, 666 Teams: Beijing’s Robot Games Open Saturday
+
+- **Slug:** `whrg-2026-beijing`
+- **Date:** 2026-08-21
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/whrg-2026-beijing/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=2%2C056%20Humanoids%2C%20666%20Teams%3A%20Beijing%E2%80%99s%20Robot%20Games%20Open%20Saturday%0A%0AThe%20second%20World%20Humanoid%20Robot%20Games%20draw%202%2C056%20robots%20from%2016%20countries%2C%20with%20new%20tug-of-war%2C%20table%20tennis%2C%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fwhrg-2026-beijing%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+2,056 Humanoids, 666 Teams: Beijing’s Robot Games Open Saturday
+
+The second World Humanoid Robot Games draw 2,056 robots from 16 countries, with new tug-of-war, table tennis, and…
+
+https://mechafeed.com/blog/whrg-2026-beijing/
+
+#HumanoidRobots #Humanoids
+```
 
 ---
 

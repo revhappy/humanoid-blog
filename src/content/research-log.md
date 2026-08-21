@@ -3176,4 +3176,60 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Failures:** none; solid candidates 6 of target 6
 - **X list accessible?** N (disclosed)
 
+## 2026-08-21 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-21
+- git pull --rebase origin main: already up to date
+- Prior day (8/20): morning 8 + afternoon 6 — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE** (browse tool disabled for X.com; keyword/semantic search returned general posts, not the curated list feed). Disclosed. Proceeded with public X keyword search + web + Friday 21 Aug arXiv cs.RO dump (27 new submissions).
+
+### X List Scan
+- Curated list feed not accessible without login
+- @ManusMeta / @LimX_Dynamics (21 Aug): WRC teleop gloves demo — **SKIP: LimX COSA already covered; booth clip thin**
+- @NewsX (21 Aug): Figurobot Niu Lai 60 cm calf-head robot — **SKIP: novelty / thin specs**
+- Foundation Future Industries Eye on A.I. recap — **SKIP: not a new product drop**
+- Unitree Superman / STAR / CEO CNBC recirculation — **SKIP: already covered**
+- Spam / crash clips — **SKIP** (crash footage used only as Mashable-sourced context in WHRG piece)
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Galbot ET1 first bipedal + tennis at WRC / WHRG — China Daily 21 Aug + Mashable — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Unitree R1 7-axis arm $1,650 / ¥9,900 — unitree.com + IT Home 20 Aug — lane: **build**
+3. **[CANDIDATE/WRITTEN]** AdaPT professional tennis styles on G1 + Dobot Atom 1.7 m — arXiv:2608.20087 + project page — lane: **build**
+4. **[CANDIDATE/WRITTEN]** FS-MPC hybrid sampling MPC on Unitree H1 — arXiv:2608.19443 — lane: **build**
+5. **[CANDIDATE/WRITTEN]** HiTac-WAM hierarchical tactile world model, 72.2% vs 31.1% — arXiv:2608.19574 — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Missing Touch 32-DoF fingertip display, 29–79% DTW — arXiv:2608.19372 — lane: **build**
+7. **[CANDIDATE/WRITTEN]** MILD biped on deformable foam/grass/sand, EngineAI SA01 — arXiv:2608.19955 — lane: **build**
+8. **[CANDIDATE/WRITTEN]** World Humanoid Robot Games 2,056 robots / 666 teams, new events + teleop penalty — People’s Daily + Mashable — lane: **build**
+9. **[SKIP: vision fail]** Xiaomi 1.7 m WRC debut — Gizmochina stills were CyberOne 2022 flower promo + an unrelated warehouse torso; no matching WRC product photo fetched
+10. **[SKIP: already covered]** Unitree STAR/Superman, HiPHI, Vbot ATOM, NORINCO Fuxi, Tien Kung 3, Fengxing-001, NineRay G3, Nori, Pudu MP2000, LTA Olly
+11. **[SKIP: business / mix]** ACE Robotics CEO “ChatGPT moment” (Reuters 21 Aug); Unitree IPO follow-ups; FORT SPAC; Unichem/Loomia; China H1 shipment roundups
+12. **[SKIP: leftover / unused]** GOAG dexterous grasp (arxiv+project ready, parked for volume); CoToGrasp; Video2DoorTraversal; self-demonstrated VLA; Tiangong Omni (still-matching still thin); BATON leftover; Figurobot Niu Lai
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | galbot-et1-wrc | Shar Hendrix | Humanoids | build |
+| 2 | unitree-r1-arm | Shar Hendrix | Deals | build |
+| 3 | adapt-humanoid-tennis | Shar Hendrix | Humanoids | build |
+| 4 | fs-mpc-humanoid | Robb Harlan | Research | build |
+| 5 | hitac-wam-tactile | Robb Harlan | Robotics | build |
+| 6 | missing-touch-tactile | Shar Hendrix | Robotics | build |
+| 7 | mild-bipedal-deformable | Robb Harlan | Research | build |
+| 8 | whrg-2026-beijing | Robb Harlan | Humanoids | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary depth + usable stills: **8** | Writing: **8**
+- Soft floor 3 met; hit target (named WRC biped + priced arm + Games field + Friday cs.RO dump)
+
+### Notes for Future Agents
+- WRC 2026 through Sunday 8/23; WHRG 8/22–26 — watch *named* results and Galbot ET1 opening performance, not booth color
+- Xiaomi full-size WRC robot still needs a real WRC still (not CyberOne 2022 art)
+- GOAG / CoToGrasp / Video2DoorTraversal remain unused Friday papers
+- Do not rehash this morning eight in the afternoon slot
+
 

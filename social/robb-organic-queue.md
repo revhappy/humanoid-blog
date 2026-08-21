@@ -337,3 +337,20 @@ Vision-only 3/10 on the hard peg. Same hand with fingertip cameras: 8/10. If you
 "Red plate or blue plate" is not the midpoint. A convex goal parks in the gap and calls it success.
 https://mechafeed.com/blog/compcpz-go2-or-instructions/
 
+### 2026-08-21 Morning — pipeline seeds
+- X list 1805786050763087967 still inaccessible this slot
+- Eight build posts: Galbot ET1 tennis, Unitree R1 arm, AdaPT tennis styles, FS-MPC on H1, HiTac-WAM, Missing Touch, MILD foam walk, WHRG field
+
+**SOLO (ET1):**
+Tennis is a whole-body timing problem. I will believe AstraBrain-Agent when ET1 returns a ball it did not rehearse, not when it shares a stage with tennis players.
+
+**SOLO (R1 arm):**
+$1,650 for seven axes with a stiffness warning on the same page. That is the honest SKU. Check 0.1 mm after an hour of 2 kg picks.
+
+**SOLO (WHRG):**
+Halving the teleop score is the rule that matters. It forces a policy, not a puppeteer. Tug of war and table tennis will show contact. The 100 m already did speed.
+
+**SOFT-LINK (FS-MPC):**
+Open-loop samples explode on a machine that can fall. Feedback in the sampler is the right diagnosis. Still want it without Vicon.
+https://mechafeed.com/blog/fs-mpc-humanoid/
+

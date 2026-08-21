@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-20T21:12:53.936Z
+Generated: 2026-08-21T16:14:54.875Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## AdaPT Teaches G1 and Dobot Atom Pro Tennis Styles From Broadcast Tape
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/adapt-humanoid-tennis/
+
+### SOLO (no link)
+
+```
+Copying Federer’s swing is catnip.  The useful bit is the speed adapter: the planner has to know how late the body is.
+```
+
+### SOFT-LINK variant
+
+```
+Copying Federer’s swing is catnip.  The useful bit is the speed adapter: the planner has to know how late the body is.
+
+https://mechafeed.com/blog/adapt-humanoid-tennis/
+```
+
+---
+
+## FS-MPC: Sampled Control That Doesn’t Fall Over on a Unitree H1
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/fs-mpc-humanoid/
+
+### SOLO (no link)
+
+```
+I have watched too many “sampling MPC on a humanoid” clips that work until the horizon gets honest.  Feedback in the sampler is the right diagnosis.
+```
+
+### SOFT-LINK variant
+
+```
+I have watched too many “sampling MPC on a humanoid” clips that work until the horizon gets honest.  Feedback in the sampler is the right diagnosis.
+
+https://mechafeed.com/blog/fs-mpc-humanoid/
+```
+
+---
+
+## Galbot’s First Bipedal, ET1, Trains Tennis Ahead of the Humanoid Games
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/galbot-et1-wrc/
+
+### SOLO (no link)
+
+```
+I’m here for a humanoid that has to time a moving ball with its whole body.  That is a harder receipt than a canned dance.
+```
+
+### SOFT-LINK variant
+
+```
+I’m here for a humanoid that has to time a moving ball with its whole body.  That is a harder receipt than a canned dance.
+
+https://mechafeed.com/blog/galbot-et1-wrc/
+```
+
+---
+
+## HiTac-WAM Predicts Touch Before the Grasp, Then Checks It Live
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/hitac-wam-tactile/
+
+### SOLO (no link)
+
+```
+Predicting slip *before* you commit the chunk is the right argument.  The USB number tells you the method is not magic: a connector still jams.
+```
+
+### SOFT-LINK variant
+
+```
+Predicting slip *before* you commit the chunk is the right argument.  The USB number tells you the method is not magic: a connector still jams.
+
+https://mechafeed.com/blog/hitac-wam-tactile/
+```
+
+---
+
+## MILD Walks an EngineAI Biped Across Foam, Grass, and Sand
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/mild-bipedal-deformable/
+
+### SOLO (no link)
+
+```
+Labeled foam densities are the right kind of test.  “It walked on sand” is a vibe; 28d versus 60d is a knob.
+```
+
+### SOFT-LINK variant
+
+```
+Labeled foam densities are the right kind of test.  “It walked on sand” is a vibe; 28d versus 60d is a knob.
+
+https://mechafeed.com/blog/mild-bipedal-deformable/
+```
+
+---
+
+## Northwestern Maps Robot Fingertip Deformation Onto a 32-DoF Finger Pad
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/missing-touch-tactile/
+
+### SOLO (no link)
+
+```
+Force feedback without a contact map is anesthesia with a motor.  I like that they measured naturalness, not just stopwatch time, and that 1D was a dud on the peg because it duplicated what the arm already told the hand.
+```
+
+### SOFT-LINK variant
+
+```
+Force feedback without a contact map is anesthesia with a motor.  I like that they measured naturalness, not just stopwatch time, and that 1D was a dud on the peg because it duplicated what the arm already told the hand.
+
+https://mechafeed.com/blog/missing-touch-tactile/
+```
+
+---
+
+## Unitree’s R1 Arm: 7 Axes, 5.5 kg, From $1,650
+
+- Author on blog: Shar Hendrix
+- Category: Deals
+- Article: https://mechafeed.com/blog/unitree-r1-arm/
+
+### SOLO (no link)
+
+```
+A seven-axis arm under two thousand dollars with force control and an open-interface promise is the kind of SKU labs actually buy.  The interesting line on the page is the stiffness warning.
+```
+
+### SOFT-LINK variant
+
+```
+A seven-axis arm under two thousand dollars with force control and an open-interface promise is the kind of SKU labs actually buy.  The interesting line on the page is the stiffness warning.
+
+https://mechafeed.com/blog/unitree-r1-arm/
+```
+
+---
+
+## 2,056 Humanoids, 666 Teams: Beijing’s Robot Games Open Saturday
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/whrg-2026-beijing/
+
+### SOLO (no link)
+
+```
+Halving the teleop score is the most interesting rule in the building.  It forces teams to ship a policy, not a puppeteer.
+```
+
+### SOFT-LINK variant
+
+```
+Halving the teleop score is the most interesting rule in the building.  It forces teams to ship a policy, not a puppeteer.
+
+https://mechafeed.com/blog/whrg-2026-beijing/
+```
 
 ---
 
