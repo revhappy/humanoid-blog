@@ -3307,4 +3307,13 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Skipped candidates:** CoToGrasp, ROBOTIS open hands, Schaeffler gearboxes, Dexmal/Veeda funding, Tiangong Omni, Unitree IPO recirculation, leftover Aug-6 drafts
 - **X list accessible?** N (disclosed)
 
+#### Afternoon finalize (2026-08-21)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 today posts incl. morning 8 + afternoon 6)
+- **Vision gate:** PASS — booster T1 (field title card + RoboCup pitch), video2door (door sequence + handle/velocity plots), goag (contact teaser + Allegro YCB + setup table), robotera L7 (product profile + WRC teleop), xiaomi (new gray CyberOne florist + chest close-up), dexforce (factory cell + warehouse carton)
+- **Social:** tweets 324 drafts; robb-x 324; organic queue appended
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Push:** SUCCESS (`203dfe4` → origin/main)
+- **Failures:** none; solid candidates 6 of target 6
+- **X list accessible?** N (disclosed)
+
 
