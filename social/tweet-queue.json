@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T16:14:54.857Z",
+  "generatedAt": "2026-08-22T04:52:06.999Z",
   "site": "https://mechafeed.com/",
   "posts": [
     {
@@ -11,6 +11,26 @@
       "tweet": "AdaPT Teaches G1 and Dobot Atom Pro Tennis Styles From Broadcast Tape\n\nA new paper trains humanoid tennis serve and rally styles from Nadal, Federer, and Djokovic video, then serves in the…\n\nhttps://mechafeed.com/blog/adapt-humanoid-tennis/\n\n#HumanoidRobots #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=AdaPT%20Teaches%20G1%20and%20Dobot%20Atom%20Pro%20Tennis%20Styles%20From%20Broadcast%20Tape%0A%0AA%20new%20paper%20trains%20humanoid%20tennis%20serve%20and%20rally%20styles%20from%20Nadal%2C%20Federer%2C%20and%20Djokovic%20video%2C%20then%20serves%20in%20the%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fadapt-humanoid-tennis%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
       "chars": 268
+    },
+    {
+      "id": "booster-t1-soccer-science-robotics",
+      "title": "A Booster T1 Learns to Hunt the Ball With Its Eyes, Then Kick",
+      "pubDate": "2026-08-21",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/booster-t1-soccer-science-robotics/",
+      "tweet": "A Booster T1 Learns to Hunt the Ball With Its Eyes, Then Kick\n\nScience Robotics cover work on a 1.2 m Booster T1 ties onboard vision to locomotion, with ~90% frontfield kicks and…\n\nhttps://mechafeed.com/blog/booster-t1-soccer-science-robotics/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=A%20Booster%20T1%20Learns%20to%20Hunt%20the%20Ball%20With%20Its%20Eyes%2C%20Then%20Kick%0A%0AScience%20Robotics%20cover%20work%20on%20a%201.2%20m%20Booster%20T1%20ties%20onboard%20vision%20to%20locomotion%2C%20with%20~90%25%20frontfield%20kicks%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fbooster-t1-soccer-science-robotics%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 271
+    },
+    {
+      "id": "dexforce-w1-phone-packing",
+      "title": "DexForce’s W1 Pro Is Already Boxing Phones at Lens Technology",
+      "pubDate": "2026-08-21",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/dexforce-w1-phone-packing/",
+      "tweet": "DexForce’s W1 Pro Is Already Boxing Phones at Lens Technology\n\nAt WRC 2026 DexForce showed wheeled W1 Pros packing phones; Reuters says the same robots have run at a Lens Technology…\n\nhttps://mechafeed.com/blog/dexforce-w1-phone-packing/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=DexForce%E2%80%99s%20W1%20Pro%20Is%20Already%20Boxing%20Phones%20at%20Lens%20Technology%0A%0AAt%20WRC%202026%20DexForce%20showed%20wheeled%20W1%20Pros%20packing%20phones%3B%20Reuters%20says%20the%20same%20robots%20have%20run%20at%20a%20Lens%20Technology%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdexforce-w1-phone-packing%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 265
     },
     {
       "id": "fs-mpc-humanoid",
@@ -31,6 +51,16 @@
       "tweet": "Galbot’s First Bipedal, ET1, Trains Tennis Ahead of the Humanoid Games\n\nGalbot unveils ET1 at WRC 2026, a bipedal humanoid trained for tennis and scheduled for the World Humanoid Robot Games…\n\nhttps://mechafeed.com/blog/galbot-et1-wrc/\n\n#HumanoidRobots #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=Galbot%E2%80%99s%20First%20Bipedal%2C%20ET1%2C%20Trains%20Tennis%20Ahead%20of%20the%20Humanoid%20Games%0A%0AGalbot%20unveils%20ET1%20at%20WRC%202026%2C%20a%20bipedal%20humanoid%20trained%20for%20tennis%20and%20scheduled%20for%20the%20World%20Humanoid%20Robot%20Games%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgalbot-et1-wrc%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
       "chars": 263
+    },
+    {
+      "id": "goag-dexterous-grasp",
+      "title": "GOAG Learns the Hand First, Then Looks at the Object",
+      "pubDate": "2026-08-21",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/goag-dexterous-grasp/",
+      "tweet": "GOAG Learns the Hand First, Then Looks at the Object\n\nCEA-List’s IROS 2026 grasp planner trains only on gripper geometry, then hits 86.93% on MultiDex and 11 real YCB…\n\nhttps://mechafeed.com/blog/goag-dexterous-grasp/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=GOAG%20Learns%20the%20Hand%20First%2C%20Then%20Looks%20at%20the%20Object%0A%0ACEA-List%E2%80%99s%20IROS%202026%20grasp%20planner%20trains%20only%20on%20gripper%20geometry%2C%20then%20hits%2086.93%25%20on%20MultiDex%20and%2011%20real%20YCB%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgoag-dexterous-grasp%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 239
     },
     {
       "id": "hitac-wam-tactile",
@@ -63,6 +93,16 @@
       "chars": 259
     },
     {
+      "id": "robotera-l7-wrc",
+      "title": "ROBOTERA’s L7 Shows Full-Body Teleop, Then Talks Logistics ROI",
+      "pubDate": "2026-08-21",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/robotera-l7-wrc/",
+      "tweet": "ROBOTERA’s L7 Shows Full-Body Teleop, Then Talks Logistics ROI\n\nAt WRC 2026 the 1.71 m L7 (55 DoF, 4 m/s) shares the floor with XHAND and a logistics stack ROBOTERA says already runs…\n\nhttps://mechafeed.com/blog/robotera-l7-wrc/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=ROBOTERA%E2%80%99s%20L7%20Shows%20Full-Body%20Teleop%2C%20Then%20Talks%20Logistics%20ROI%0A%0AAt%20WRC%202026%20the%201.71%20m%20L7%20(55%20DoF%2C%204%20m%2Fs)%20shares%20the%20floor%20with%20XHAND%20and%20a%20logistics%20stack%20ROBOTERA%20says%20already%20runs%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frobotera-l7-wrc%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 256
+    },
+    {
       "id": "unitree-r1-arm",
       "title": "Unitree’s R1 Arm: 7 Axes, 5.5 kg, From $1,650",
       "pubDate": "2026-08-21",
@@ -73,6 +113,16 @@
       "chars": 232
     },
     {
+      "id": "video2door-traversal",
+      "title": "One Phone Video, Then a Wheel-Legged Robot Walks Through the Door",
+      "pubDate": "2026-08-21",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/video2door-traversal/",
+      "tweet": "One Phone Video, Then a Wheel-Legged Robot Walks Through the Door\n\nSJTU’s Video2DoorTraversal rebuilds a door from one RGB clip and hits 96.57% real-world traversal in about 13 seconds.\n\nhttps://mechafeed.com/blog/video2door-traversal/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=One%20Phone%20Video%2C%20Then%20a%20Wheel-Legged%20Robot%20Walks%20Through%20the%20Door%0A%0ASJTU%E2%80%99s%20Video2DoorTraversal%20rebuilds%20a%20door%20from%20one%20RGB%20clip%20and%20hits%2096.57%25%20real-world%20traversal%20in%20about%2013%20seconds.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fvideo2door-traversal%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 257
+    },
+    {
       "id": "whrg-2026-beijing",
       "title": "2,056 Humanoids, 666 Teams: Beijing’s Robot Games Open Saturday",
       "pubDate": "2026-08-21",
@@ -81,6 +131,16 @@
       "tweet": "2,056 Humanoids, 666 Teams: Beijing’s Robot Games Open Saturday\n\nThe second World Humanoid Robot Games draw 2,056 robots from 16 countries, with new tug-of-war, table tennis, and…\n\nhttps://mechafeed.com/blog/whrg-2026-beijing/\n\n#HumanoidRobots #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=2%2C056%20Humanoids%2C%20666%20Teams%3A%20Beijing%E2%80%99s%20Robot%20Games%20Open%20Saturday%0A%0AThe%20second%20World%20Humanoid%20Robot%20Games%20draw%202%2C056%20robots%20from%2016%20countries%2C%20with%20new%20tug-of-war%2C%20table%20tennis%2C%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fwhrg-2026-beijing%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
       "chars": 254
+    },
+    {
+      "id": "xiaomi-cyberone-factory-wrc",
+      "title": "Xiaomi’s New CyberOne Spent Four Months in the Car Plant First",
+      "pubDate": "2026-08-21",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/xiaomi-cyberone-factory-wrc/",
+      "tweet": "Xiaomi’s New CyberOne Spent Four Months in the Car Plant First\n\nAt WRC 2026 Xiaomi showed a 1.70 m, 66-DoF CyberOne after factory internships: 98% on nut loading, 90% on covers and…\n\nhttps://mechafeed.com/blog/xiaomi-cyberone-factory-wrc/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Xiaomi%E2%80%99s%20New%20CyberOne%20Spent%20Four%20Months%20in%20the%20Car%20Plant%20First%0A%0AAt%20WRC%202026%20Xiaomi%20showed%20a%201.70%20m%2C%2066-DoF%20CyberOne%20after%20factory%20internships%3A%2098%25%20on%20nut%20loading%2C%2090%25%20on%20covers%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fxiaomi-cyberone-factory-wrc%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 266
     },
     {
       "id": "adept-nvidia-dexterity",

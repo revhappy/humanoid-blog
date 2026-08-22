@@ -354,3 +354,20 @@ Halving the teleop score is the rule that matters. It forces a policy, not a pup
 Open-loop samples explode on a machine that can fall. Feedback in the sampler is the right diagnosis. Still want it without Vicon.
 https://mechafeed.com/blog/fs-mpc-humanoid/
 
+### 2026-08-21 Afternoon — pipeline seeds
+- X list 1805786050763087967 still inaccessible this slot
+- Six build posts: Booster T1 Science Robotics soccer, Video2DoorTraversal, GOAG grasps, ROBOTERA L7 WRC, Xiaomi CyberOne factory intern, DexForce Lens packing
+
+**SOLO (T1 soccer):**
+90% frontfield kicks with the camera in the loop is the number. 76-11 at RoboCup is a receipt. Still not a pass.
+
+**SOLO (DoorTwin):**
+One phone video of the actual door, then 169 of 175 walk-throughs. Thirteen seconds. Pull doors are the next test.
+
+**SOLO (Lens):**
+A named phone-pack line since early 2026 beats another booth dance. I still want hours and a unit count from Lens, not millimetre as a slogan.
+
+**SOFT-LINK (Xiaomi intern):**
+Four months on a 76-second nut station is the story. 98% is not 10,000 in a row. Keep it on the line after the model year changes.
+https://mechafeed.com/blog/xiaomi-cyberone-factory-wrc/
+

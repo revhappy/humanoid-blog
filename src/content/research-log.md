@@ -3246,4 +3246,65 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Failures:** none; solid candidates 8 of target 8
 - **X list accessible?** N (disclosed)
 
+## 2026-08-21 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-21
+- git pull --rebase origin main: already up to date
+- Morning already published 8 posts (galbot-et1-wrc, unitree-r1-arm, adapt-humanoid-tennis, fs-mpc-humanoid, hitac-wam-tactile, missing-touch-tactile, mild-bipedal-deformable, whrg-2026-beijing) — **do not rehash**
+- Leftover untracked Aug-6 drafts still unpublished — do not ship as today’s news
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE** (privacy/login wall). Disclosed. Proceeded with public X keyword/semantic + web + Friday cs.RO dump.
+
+### X List Scan
+- Curated list feed not accessible without login
+- @TheHumanoidHub (21 Aug): Galbot ET1 tennis clip — **SKIP: morning already covered**
+- @boosterobotics / @SciRobotics (20–21 Aug): Science Robotics soccer cover on Booster T1 — **CANDIDATE**
+- @LimX_Dynamics / @ManusMeta (21 Aug): WRC teleop gloves — **SKIP: morning parked as thin booth clip**
+- Unitree Superman / STAR / CEO CNBC recirculation — **SKIP: already covered**
+- UBTech U1 $146k companion — **SKIP: June/July launch, not a new afternoon story**
+- Qianfan T800 / URKL cage fight recirculation — **SKIP: thin / already parked**
+- Spam / street clips — **SKIP**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Science Robotics cover: vision-driven soccer on Booster T1 — journal + arXiv:2511.03996 + project page + dpa/SZ — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Video2DoorTraversal, one RGB video → 96.57% real door traversal, ~13 s — arXiv:2608.20251 + project page — lane: **build**
+3. **[CANDIDATE/WRITTEN]** GOAG object-agnostic grasp planner, 86.93% MultiDex, 11 YCB objects — arXiv:2608.19759 + CEA-List project page — lane: **build**
+4. **[CANDIDATE/WRITTEN]** ROBOTERA L7 + XHAND at WRC, logistics PMF claim with SF/China Post — company pages + DoNews + 36Kr + Reuters/IE — lane: **build**
+5. **[CANDIDATE/WRITTEN]** Xiaomi new CyberOne after 4-month auto-plant internship, WRC florist + factory takt numbers — Jiemian + 36Kr (new stills match this generation) — lane: **build**
+6. **[CANDIDATE/WRITTEN]** DexForce W1 Pro packing phones; Lens Technology deployment since early 2026 — DexForce product page + Reuters/IE — lane: **build**
+7. **[SKIP: already covered morning]** Galbot ET1, Unitree R1 arm, AdaPT tennis, FS-MPC, HiTac-WAM, Missing Touch, MILD, WHRG field
+8. **[SKIP: already covered 8/20]** LTA Olly, Pudu MP2000, ADEPT, Tien Kung 3, Fengxing-001, CompCPZ
+9. **[SKIP: business / mix]** Unitree IPO follow-ups; ACE Robotics CEO; Schaeffler gearbox 2027 (component capex, TRR 404 on fetch); Dexmal $3B valuation; Veeda AI $90M seed; China H1 40k shipments
+10. **[SKIP: leftover / unused]** CoToGrasp (same lab as GOAG); ROBOTIS modular open hands (X-only, no company page fetched); Tiangong Omni still-matching still thin; BATON leftover; Figurobot Niu Lai; Aug-6 untracked drafts
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | booster-t1-soccer-science-robotics | Shar Hendrix | Humanoids | build |
+| 2 | video2door-traversal | Robb Harlan | Robotics | build |
+| 3 | goag-dexterous-grasp | Shar Hendrix | Robotics | build |
+| 4 | robotera-l7-wrc | Shar Hendrix | Humanoids | build |
+| 5 | xiaomi-cyberone-factory-wrc | Robb Harlan | Humanoids | build |
+| 6 | dexforce-w1-phone-packing | Robb Harlan | Humanoids | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+- Morning already 0/8 business; afternoon stays 100% build
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary depth + usable stills: **6** | Writing: **6**
+- Soft floor 2 met; hit target (Science Robotics cover + door traversal + leftover GOAG + named WRC machines + Xiaomi with matching stills + DexForce factory)
+
+### Notes for Future Agents
+- WRC 2026 through Sunday 8/23; WHRG 8/22–26 — watch *named* results, not booth color
+- CoToGrasp remains unused (same CEA-List lab as GOAG)
+- ROBOTIS open-source modular Dynamixel hands still need an official product URL
+- Do not rehash this afternoon six
+
+### Run summary
+- **Articles published (6):** booster-t1-soccer-science-robotics, video2door-traversal, goag-dexterous-grasp, robotera-l7-wrc, xiaomi-cyberone-factory-wrc, dexforce-w1-phone-packing
+- **Skipped candidates:** CoToGrasp, ROBOTIS open hands, Schaeffler gearboxes, Dexmal/Veeda funding, Tiangong Omni, Unitree IPO recirculation, leftover Aug-6 drafts
+- **X list accessible?** N (disclosed)
+
 

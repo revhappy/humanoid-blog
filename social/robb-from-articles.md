@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-21T16:14:54.875Z
+Generated: 2026-08-22T04:52:11.910Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -27,6 +27,50 @@ Copying Federer’s swing is catnip.  The useful bit is the speed adapter: the p
 Copying Federer’s swing is catnip.  The useful bit is the speed adapter: the planner has to know how late the body is.
 
 https://mechafeed.com/blog/adapt-humanoid-tennis/
+```
+
+---
+
+## A Booster T1 Learns to Hunt the Ball With Its Eyes, Then Kick
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/booster-t1-soccer-science-robotics/
+
+### SOLO (no link)
+
+```
+I like a kick that has to survive motion blur and a missing detection, not a kick that only works when the lab lights are perfect.  The RoboCup scoreline is a receipt.
+```
+
+### SOFT-LINK variant
+
+```
+I like a kick that has to survive motion blur and a missing detection, not a kick that only works when the lab lights are perfect.  The RoboCup scoreline is a receipt.
+
+https://mechafeed.com/blog/booster-t1-soccer-science-robotics/
+```
+
+---
+
+## DexForce’s W1 Pro Is Already Boxing Phones at Lens Technology
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/dexforce-w1-phone-packing/
+
+### SOLO (no link)
+
+```
+A named contract manufacturer boxing phones since early 2026 is the kind of sentence I want more of.  I still want the boring numbers: how many robots, how many hours, how often a human still has to straighten the phone.
+```
+
+### SOFT-LINK variant
+
+```
+A named contract manufacturer boxing phones since early 2026 is the kind of sentence I want more of.  I still want the boring numbers: how many robots, how many hours, how often a human still has to straighten the phone.
+
+https://mechafeed.com/blog/dexforce-w1-phone-packing/
 ```
 
 ---
@@ -71,6 +115,28 @@ I’m here for a humanoid that has to time a moving ball with its whole body.  T
 I’m here for a humanoid that has to time a moving ball with its whole body.  That is a harder receipt than a canned dance.
 
 https://mechafeed.com/blog/galbot-et1-wrc/
+```
+
+---
+
+## GOAG Learns the Hand First, Then Looks at the Object
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/goag-dexterous-grasp/
+
+### SOLO (no link)
+
+```
+I am here for a planner that does not need a new object dataset every time you change the SKU.  The Allegro photos are the receipt.
+```
+
+### SOFT-LINK variant
+
+```
+I am here for a planner that does not need a new object dataset every time you change the SKU.  The Allegro photos are the receipt.
+
+https://mechafeed.com/blog/goag-dexterous-grasp/
 ```
 
 ---
@@ -141,6 +207,28 @@ https://mechafeed.com/blog/missing-touch-tactile/
 
 ---
 
+## ROBOTERA’s L7 Shows Full-Body Teleop, Then Talks Logistics ROI
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/robotera-l7-wrc/
+
+### SOLO (no link)
+
+```
+The L7 spec sheet is a real machine: 4 m/s, 55 DoF, a 25 kg palm-up lift on the hand.  The interesting claim is the logistics clock, not the rotation jump.
+```
+
+### SOFT-LINK variant
+
+```
+The L7 spec sheet is a real machine: 4 m/s, 55 DoF, a 25 kg palm-up lift on the hand.  The interesting claim is the logistics clock, not the rotation jump.
+
+https://mechafeed.com/blog/robotera-l7-wrc/
+```
+
+---
+
 ## Unitree’s R1 Arm: 7 Axes, 5.5 kg, From $1,650
 
 - Author on blog: Shar Hendrix
@@ -163,6 +251,28 @@ https://mechafeed.com/blog/unitree-r1-arm/
 
 ---
 
+## One Phone Video, Then a Wheel-Legged Robot Walks Through the Door
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/video2door-traversal/
+
+### SOLO (no link)
+
+```
+Filming the actual door instead of hoping a generic asset is close enough is the part I would steal.  Thirteen seconds through a doorway is a useful clip.
+```
+
+### SOFT-LINK variant
+
+```
+Filming the actual door instead of hoping a generic asset is close enough is the part I would steal.  Thirteen seconds through a doorway is a useful clip.
+
+https://mechafeed.com/blog/video2door-traversal/
+```
+
+---
+
 ## 2,056 Humanoids, 666 Teams: Beijing’s Robot Games Open Saturday
 
 - Author on blog: Robb Harlan
@@ -181,6 +291,28 @@ Halving the teleop score is the most interesting rule in the building.  It force
 Halving the teleop score is the most interesting rule in the building.  It forces teams to ship a policy, not a puppeteer.
 
 https://mechafeed.com/blog/whrg-2026-beijing/
+```
+
+---
+
+## Xiaomi’s New CyberOne Spent Four Months in the Car Plant First
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/xiaomi-cyberone-factory-wrc/
+
+### SOLO (no link)
+
+```
+Four months on a nut station with a published takt is a better story than a bouquet.  98% is not 10,000-in-a-row, and Xiaomi says so.
+```
+
+### SOFT-LINK variant
+
+```
+Four months on a nut station with a published takt is a better story than a bouquet.  98% is not 10,000-in-a-row, and Xiaomi says so.
+
+https://mechafeed.com/blog/xiaomi-cyberone-factory-wrc/
 ```
 
 ---
