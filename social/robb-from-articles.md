@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-22T04:52:11.910Z
+Generated: 2026-08-23T16:15:19.456Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## CasiaHand Livestreams a Dexterous Grip at 1,000 Grasps an Hour
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/casiahand-wrc/
+
+### SOLO (no link)
+
+```
+A thousand grasps an hour on mixed packaging, live, is a better demo than a polished six-second clip.  Temperature staying near 30°C is the unglamorous detail that tells you they are thinking about a shift.
+```
+
+### SOFT-LINK variant
+
+```
+A thousand grasps an hour on mixed packaging, live, is a better demo than a polished six-second clip.  Temperature staying near 30°C is the unglamorous detail that tells you they are thinking about a shift.
+
+https://mechafeed.com/blog/casiahand-wrc/
+```
+
+---
+
+## CoToGrasp Makes Dexterous Grasps Match a Chosen Hand Pose
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/cotograsp-contact-topology/
+
+### SOLO (no link)
+
+```
+I like a grasp paper that treats “how” as a first-class input.  A power wrap on a drill and a pinch on a marker are not the same skill with a different mesh.
+```
+
+### SOFT-LINK variant
+
+```
+I like a grasp paper that treats “how” as a first-class input.  A power wrap on a drill and a pinch on a marker are not the same skill with a different mesh.
+
+https://mechafeed.com/blog/cotograsp-contact-topology/
+```
+
+---
+
+## DaxAI’s Qiji X1 Is a Robot Horse You Can Sit On
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/daxai-qiji-x1/
+
+### SOLO (no link)
+
+```
+I am not shopping for a 660-pound robot horse.  I am watching whether a quadruped that can take a seated load stays upright when the rider shifts.
+```
+
+### SOFT-LINK variant
+
+```
+I am not shopping for a 660-pound robot horse.  I am watching whether a quadruped that can take a seated load stays upright when the rider shifts.
+
+https://mechafeed.com/blog/daxai-qiji-x1/
+```
+
+---
+
+## GoMate Mini Debuts a Triple-Fold at WRC, Fresh Off Factory Patrol
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/gac-gomate-mini/
+
+### SOLO (no link)
+
+```
+A robot that folds into a cart is the kind of dumb-smart hardware I like.  The 12-month run and the 63,000 km are the part I will keep asking about.
+```
+
+### SOFT-LINK variant
+
+```
+A robot that folds into a cart is the kind of dumb-smart hardware I like.  The 12-month run and the 63,000 km are the part I will keep asking about.
+
+https://mechafeed.com/blog/gac-gomate-mini/
+```
+
+---
+
+## GEN-1.5 Learns a New Robot Task From a 3-to-12-Second Demo
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/generalist-gen15/
+
+### SOLO (no link)
+
+```
+I’m so here for a robot you can teach with a ten-second clip instead of a week of teleop.  Fifty-nine percent on short tasks is not a coworker.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for a robot you can teach with a ten-second clip instead of a week of teleop.  Fifty-nine percent on short tasks is not a coworker.
+
+https://mechafeed.com/blog/generalist-gen15/
+```
+
+---
+
+## RoboScience’s REX G1 Fits a 0.75-Meter Aisle and Swaps Batteries in 5 Seconds
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/roboscience-rex-g1/
+
+### SOLO (no link)
+
+```
+Five-second battery swaps and a 540 mm width are the numbers I can argue about on a plant tour.  Conducting with a baton is not.
+```
+
+### SOFT-LINK variant
+
+```
+Five-second battery swaps and a 540 mm width are the numbers I can argue about on a plant tour.  Conducting with a baton is not.
+
+https://mechafeed.com/blog/roboscience-rex-g1/
+```
+
+---
+
+## Illinois Fine-Tunes π0.5 With the Robot’s Own Failed Rollouts
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/self-demo-vla/
+
+### SOLO (no link)
+
+```
+Training on failures sounds sloppy until you remember the alternative is re-collecting every pretrained skill on your specific cameras.  Fourteen minutes of teleop plus the robot’s own bad habits is a practical recipe.
+```
+
+### SOFT-LINK variant
+
+```
+Training on failures sounds sloppy until you remember the alternative is re-collecting every pretrained skill on your specific cameras.  Fourteen minutes of teleop plus the robot’s own bad habits is a practical recipe.
+
+https://mechafeed.com/blog/self-demo-vla/
+```
+
+---
+
+## Tiangong Ultra Runs 100m in 9.39 Seconds at the Humanoid Games
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/tiangong-ultra-100m/
+
+### SOLO (no link)
+
+```
+Nine-point-three-nine is a locomotion number, not a factory number.  The clip that will stick with me is the foam and the hoist.
+```
+
+### SOFT-LINK variant
+
+```
+Nine-point-three-nine is a locomotion number, not a factory number.  The clip that will stick with me is the foam and the hoist.
+
+https://mechafeed.com/blog/tiangong-ultra-100m/
+```
 
 ---
 

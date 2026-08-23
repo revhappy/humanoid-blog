@@ -3316,4 +3316,65 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Failures:** none; solid candidates 6 of target 6
 - **X list accessible?** N (disclosed)
 
+## 2026-08-23 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-23
+- git pull --rebase origin main: already up to date
+- Last published: 2026-08-21 morning 8 + afternoon 6 — **do not rehash**. No 8/22 slot ran.
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE** (privacy/login wall). Disclosed. Proceeded with public X keyword search + web + leftover Friday papers.
+
+### X List Scan
+- Curated list feed not accessible without login
+- @TheHumanoidHub (22–23 Aug): Symbiosis Robotics go-kart one-take; Figure outdoor walks; WHRG crash/sacrifice clips — **SKIP kart** (TMTPost fetch failed); **SKIP Figure** (X-only, no company URL)
+- Reuters / CGTN / SCMP 100m 9.39s — **CANDIDATE**
+- Spam / Bolt-record remixes — used as leads only
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Tiangong Ultra 9.39s 100m + Lightning 9.47s + 2.88m high jump + 400m 39.7s — Reuters, SCMP, Guardian, AP, CGTN — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Generalist GEN-1.5 one-shot physical prompting — company blog 19 Aug + IEEE Spectrum VF 21 Aug + Humanoids Daily — lane: **build**
+3. **[CANDIDATE/WRITTEN]** Huilun / GAC GoMate Mini triple-fold at WRC — Gasgoo + NetEase Songguo — lane: **build**
+4. **[CANDIDATE/WRITTEN]** RoboScience REX G1 wheeled humanoid — Gasgoo + Interesting Engineering — lane: **build**
+5. **[CANDIDATE/WRITTEN]** CoToGrasp leftover Friday paper — arXiv:2608.19776 + CEA-List project — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Self-demonstrated VLA leftover — arXiv:2608.19490 + project page — lane: **build**
+7. **[CANDIDATE/WRITTEN]** CasiaHand 24h M6 livestream + Fulai sensors — two Gasgoo URLs — lane: **build**
+8. **[CANDIDATE/WRITTEN]** DaxAI Qiji X1 rideable robot horse — Interesting Engineering + TechEBlog — lane: **build**
+9. **[SKIP: wrong stills]** SIASUN Songyi / OneHub — Bastille inline photos were industrial welding arms on a car body, not Songyi
+10. **[SKIP: already covered]** Galbot ET1, Unitree STAR/Superman/R1, Xiaomi CyberOne, WHRG field preview, Tien Kung 3 inspection
+11. **[SKIP: business / mix]** Economist China training piece; UBTECH chip/Nvidia visit/share price; Unitree IPO recirc; Schaeffler gearboxes
+12. **[SKIP: thin / source]** Symbiosis kart (no primary page fetched); Honor Lightning as a split post (same 100m heat as Tiangong)
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | tiangong-ultra-100m | Robb Harlan | Humanoids | build |
+| 2 | generalist-gen15 | Shar Hendrix | AI | build |
+| 3 | gac-gomate-mini | Shar Hendrix | Robotics | build |
+| 4 | roboscience-rex-g1 | Robb Harlan | Robotics | build |
+| 5 | cotograsp-contact-topology | Shar Hendrix | Robotics | build |
+| 6 | self-demo-vla | Robb Harlan | AI | build |
+| 7 | casiahand-wrc | Shar Hendrix | Robotics | build |
+| 8 | daxai-qiji-x1 | Robb Harlan | Robotics | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary depth + usable stills: **8** | Writing: **8**
+- Soft floor 3 met; hit target (WHRG 100m result + GEN-1.5 + two WRC products + leftover papers + CasiaHand livestream + rideable quadruped)
+
+### Notes for Future Agents
+- WHRG 2026 through 8/26 — watch *named* finals (400m already 39.7s in Reuters; CCTV later 38.15s not used, numbers disagreed)
+- Do not split Honor Lightning 9.32 test into a second 100m post
+- SIASUN Songyi still needs a photo of Songyi itself, not SIASUN industrial arms
+- Symbiosis Robotics kart still needs an official/company URL
+- Do not rehash this morning eight in the afternoon slot
+
+### Run summary
+- **Articles published (8):** tiangong-ultra-100m, generalist-gen15, gac-gomate-mini, roboscience-rex-g1, cotograsp-contact-topology, self-demo-vla, casiahand-wrc, daxai-qiji-x1
+- **Skipped candidates:** SIASUN Songyi (wrong stills), Symbiosis kart (no primary), Honor split, UBTECH/Unitree capital recirc
+- **X list accessible?** N (disclosed)
+
+
 

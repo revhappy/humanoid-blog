@@ -14,8 +14,176 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-22T04:52:06.999Z
-Posts: 324
+Generated: 2026-08-23T16:15:18.476Z
+Posts: 332
+
+---
+
+## CasiaHand Livestreams a Dexterous Grip at 1,000 Grasps an Hour
+
+- **Slug:** `casiahand-wrc`
+- **Date:** 2026-08-23
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/casiahand-wrc/
+- **Chars:** 243/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=CasiaHand%20Livestreams%20a%20Dexterous%20Grip%20at%201%2C000%20Grasps%20an%20Hour%0A%0ACAS%20Institute%20of%20Automation%20spinout%20CasiaHand%20shows%20six%20hands%20at%20WRC%2C%20including%20an%20M6%20cell%20running%20a%2024-hour%20pick%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcasiahand-wrc%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+CasiaHand Livestreams a Dexterous Grip at 1,000 Grasps an Hour
+
+CAS Institute of Automation spinout CasiaHand shows six hands at WRC, including an M6 cell running a 24-hour pick…
+
+https://mechafeed.com/blog/casiahand-wrc/
+
+#Robotics #Humanoids
+```
+
+---
+
+## CoToGrasp Makes Dexterous Grasps Match a Chosen Hand Pose
+
+- **Slug:** `cotograsp-contact-topology`
+- **Date:** 2026-08-23
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/cotograsp-contact-topology/
+- **Chars:** 249/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=CoToGrasp%20Makes%20Dexterous%20Grasps%20Match%20a%20Chosen%20Hand%20Pose%0A%0ACEA-List%E2%80%99s%20CoToGrasp%2C%20headed%20to%20ECCV%202026%2C%20synthesizes%20Allegro%20grasps%20conditioned%20on%20contact%20topologies%20without%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcotograsp-contact-topology%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+CoToGrasp Makes Dexterous Grasps Match a Chosen Hand Pose
+
+CEA-List’s CoToGrasp, headed to ECCV 2026, synthesizes Allegro grasps conditioned on contact topologies without…
+
+https://mechafeed.com/blog/cotograsp-contact-topology/
+
+#Robotics #Humanoids
+```
+
+---
+
+## DaxAI’s Qiji X1 Is a Robot Horse You Can Sit On
+
+- **Slug:** `daxai-qiji-x1`
+- **Date:** 2026-08-23
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/daxai-qiji-x1/
+- **Chars:** 234/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=DaxAI%E2%80%99s%20Qiji%20X1%20Is%20a%20Robot%20Horse%20You%20Can%20Sit%20On%0A%0ABeijing%E2%80%99s%20DaxAI%20showed%20the%20rideable%20Qiji%20X1%20quadruped%20at%20WRC%2C%20a%20saddle-and-handlebars%20machine%20rated%20to%20carry%20660%20pounds.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdaxai-qiji-x1%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+DaxAI’s Qiji X1 Is a Robot Horse You Can Sit On
+
+Beijing’s DaxAI showed the rideable Qiji X1 quadruped at WRC, a saddle-and-handlebars machine rated to carry 660 pounds.
+
+https://mechafeed.com/blog/daxai-qiji-x1/
+
+#Robotics #Humanoids
+```
+
+---
+
+## GoMate Mini Debuts a Triple-Fold at WRC, Fresh Off Factory Patrol
+
+- **Slug:** `gac-gomate-mini`
+- **Date:** 2026-08-23
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/gac-gomate-mini/
+- **Chars:** 250/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=GoMate%20Mini%20Debuts%20a%20Triple-Fold%20at%20WRC%2C%20Fresh%20Off%20Factory%20Patrol%0A%0AGAC%E2%80%99s%20Huilun%20shows%20fourth-gen%20wheel-legged%20GoMate%20Mini%20at%20WRC%202026%2C%20with%20~50%20units%20already%20on%20patrol%20in%20four%20cities.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgac-gomate-mini%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+GoMate Mini Debuts a Triple-Fold at WRC, Fresh Off Factory Patrol
+
+GAC’s Huilun shows fourth-gen wheel-legged GoMate Mini at WRC 2026, with ~50 units already on patrol in four cities.
+
+https://mechafeed.com/blog/gac-gomate-mini/
+
+#Robotics #Humanoids
+```
+
+---
+
+## GEN-1.5 Learns a New Robot Task From a 3-to-12-Second Demo
+
+- **Slug:** `generalist-gen15`
+- **Date:** 2026-08-23
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/generalist-gen15/
+- **Chars:** 241/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=GEN-1.5%20Learns%20a%20New%20Robot%20Task%20From%20a%203-to-12-Second%20Demo%0A%0AGeneralist%E2%80%99s%20GEN-1.5%20hits%2059%25%20one-shot%20success%20across%2010%20short%20tasks%20with%20no%20gradient%20updates%2C%20then%2083%25%20after%2010%20steps.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgeneralist-gen15%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+GEN-1.5 Learns a New Robot Task From a 3-to-12-Second Demo
+
+Generalist’s GEN-1.5 hits 59% one-shot success across 10 short tasks with no gradient updates, then 83% after 10 steps.
+
+https://mechafeed.com/blog/generalist-gen15/
+
+#AI #Humanoids
+```
+
+---
+
+## RoboScience’s REX G1 Fits a 0.75-Meter Aisle and Swaps Batteries in 5 Seconds
+
+- **Slug:** `roboscience-rex-g1`
+- **Date:** 2026-08-23
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/roboscience-rex-g1/
+- **Chars:** 265/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=RoboScience%E2%80%99s%20REX%20G1%20Fits%20a%200.75-Meter%20Aisle%20and%20Swaps%20Batteries%20in%205%20Seconds%0A%0ABeijing%E2%80%99s%20RoboScience%20debuts%20the%20wheeled%20REX%20G1%20at%20WRC%3A%2022%20DoF%2C%2010%20kg%20dual-arm%20load%2C%202%2C070%20TFLOPS%2C%20hot-swap%20in%20five%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Froboscience-rex-g1%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+RoboScience’s REX G1 Fits a 0.75-Meter Aisle and Swaps Batteries in 5 Seconds
+
+Beijing’s RoboScience debuts the wheeled REX G1 at WRC: 22 DoF, 10 kg dual-arm load, 2,070 TFLOPS, hot-swap in five…
+
+https://mechafeed.com/blog/roboscience-rex-g1/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Illinois Fine-Tunes π0.5 With the Robot’s Own Failed Rollouts
+
+- **Slug:** `self-demo-vla`
+- **Date:** 2026-08-23
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/self-demo-vla/
+- **Chars:** 237/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Illinois%20Fine-Tunes%20%CF%800.5%20With%20the%20Robot%E2%80%99s%20Own%20Failed%20Rollouts%0A%0AUIUC%E2%80%99s%20self-demonstrated%20VLA%20method%20keeps%20instruction%20following%20on%20ALOHA%3A%2090%25%20cube%20pick%20success%20with%2014%20minutes%20of%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fself-demo-vla%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Illinois Fine-Tunes π0.5 With the Robot’s Own Failed Rollouts
+
+UIUC’s self-demonstrated VLA method keeps instruction following on ALOHA: 90% cube pick success with 14 minutes of…
+
+https://mechafeed.com/blog/self-demo-vla/
+
+#AI #Humanoids
+```
+
+---
+
+## Tiangong Ultra Runs 100m in 9.39 Seconds at the Humanoid Games
+
+- **Slug:** `tiangong-ultra-100m`
+- **Date:** 2026-08-23
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/tiangong-ultra-100m/
+- **Chars:** 260/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Tiangong%20Ultra%20Runs%20100m%20in%209.39%20Seconds%20at%20the%20Humanoid%20Games%0A%0AX-Humanoid%E2%80%99s%20Tiangong%20Ultra%20clocks%209.39s%20in%20a%20WHRG%20heat%2C%20faster%20than%20Usain%20Bolt%E2%80%99s%209.58%2C%20with%20Honor%E2%80%99s%20Lightning%20at%209.47.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftiangong-ultra-100m%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Tiangong Ultra Runs 100m in 9.39 Seconds at the Humanoid Games
+
+X-Humanoid’s Tiangong Ultra clocks 9.39s in a WHRG heat, faster than Usain Bolt’s 9.58, with Honor’s Lightning at 9.47.
+
+https://mechafeed.com/blog/tiangong-ultra-100m/
+
+#HumanoidRobots #Humanoids
+```
 
 ---
 

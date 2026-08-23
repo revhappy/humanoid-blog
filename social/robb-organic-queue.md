@@ -371,3 +371,21 @@ A named phone-pack line since early 2026 beats another booth dance. I still want
 Four months on a 76-second nut station is the story. 98% is not 10,000 in a row. Keep it on the line after the model year changes.
 https://mechafeed.com/blog/xiaomi-cyberone-factory-wrc/
 
+### 2026-08-23 Morning — pipeline seeds
+- X list 1805786050763087967 still inaccessible this slot
+- Eight build posts: Tiangong Ultra 9.39s, GEN-1.5 one-shot, GoMate Mini fold, REX G1 aisle, CoToGrasp, self-demo VLA, CasiaHand livestream, Qiji X1 horse
+
+**SOLO (9.39s):**
+9.39 is a locomotion number. The hoist and the foam mat are the factory number. If you cannot stop, you do not work next to people.
+
+**SOLO (GEN-1.5):**
+Ten seconds in context, no gradient step, 59% on short table tasks. Not a coworker. The dustpan scoop is the receipt I wanted.
+
+**SOLO (CasiaHand):**
+A thousand grasps an hour on mixed packaging, live, beating another six-second clip. Temperature near 30°C is the shift detail.
+
+**SOFT-LINK (REX G1):**
+540 mm wide, 0.75 m aisle, five-second battery swap. That is a warehouse argument. Conducting with a baton is not.
+https://mechafeed.com/blog/roboscience-rex-g1/
+
+
