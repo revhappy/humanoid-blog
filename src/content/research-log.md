@@ -3376,5 +3376,14 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Skipped candidates:** SIASUN Songyi (wrong stills), Symbiosis kart (no primary), Honor split, UBTECH/Unitree capital recirc
 - **X list accessible?** N (disclosed)
 
+#### Morning finalize (2026-08-23)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** PASS — tiangong (CGTN 100m race + crash hoist + Booster formation), gen15 (dustpan/bowl arms), gomate (WRC plaza + folded pose), rex g1 (product side + four-scene grid), cotograsp (teaser + Allegro YCB grid + method), self-demo (ALOHA table comparison + method), casiahand (hand wall + grasping cell), qiji (rider on quadruped)
+- **Social:** tweets 332 drafts; robb-x 332; organic queue appended
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Push:** SUCCESS (`73c05c3` → origin/main)
+- **Failures:** none; solid candidates 8 of target 8
+- **X list accessible?** N (disclosed)
+
 
 
