@@ -3441,10 +3441,12 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - Do not rehash this afternoon six
 
 ### Run summary
-- **Articles published (6):** pending push — symbiosis-robotics-kart, x-square-wall-b-wrc, tiangong-omni-wrc, nvidia-sonic-science-robotics, decowam-legged-mobile-manip, partialbigrasp-hidden-geometry
+- **Articles published (6):** symbiosis-robotics-kart, x-square-wall-b-wrc, tiangong-omni-wrc, nvidia-sonic-science-robotics, decowam-legged-mobile-manip, partialbigrasp-hidden-geometry
 - **Skipped candidates:** OctoH-Hand (no matching still), 400m split, BYD Xiao Di recap, Economist/Unitree capital, Fuxi recirc
 - **X list accessible?** N (disclosed)
 - **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 today posts)
 - **Vision gate:** PASS — kart (G1-class biped + kart; overhead single-take drive), WALL-B (1816 livestream + 9989 WRC overlay + company humanoid), Omni (X-Humanoid 400m graphic + locker compact + Mercedes 3.0 captioned separately), SONIC (G1 collage + VLA strips + method), DECOWAM (quad-arm real robot + architecture), PartialBiGrasp (teaser + dual-arm setup + object table)
 - **Social:** tweets 338; robb-x 338; organic queue appended
+- **Push:** SUCCESS (`8bed1e4` → origin/main)
+- **Failures:** none; solid candidates 6 of target 6
 
