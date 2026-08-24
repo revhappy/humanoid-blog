@@ -14,8 +14,8 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-23T16:15:18.476Z
-Posts: 332
+Generated: 2026-08-24T02:35:34.380Z
+Posts: 338
 
 ---
 
@@ -82,6 +82,27 @@ https://mechafeed.com/blog/daxai-qiji-x1/
 
 ---
 
+## DECOWAM Splits Base, Arm, and Camera Motion on a Wheeled Quad
+
+- **Slug:** `decowam-legged-mobile-manip`
+- **Date:** 2026-08-23
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/decowam-legged-mobile-manip/
+- **Chars:** 264/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=DECOWAM%20Splits%20Base%2C%20Arm%2C%20and%20Camera%20Motion%20on%20a%20Wheeled%20Quad%0A%0ATsinghua%2C%20Shanghai%20AI%20Lab%2C%20and%20DEEP%20Robotics%20freeze%20a%20FastWAM%20backbone%2C%20cut%20action%20MSE%2021.7%25%2C%20and%20ship%20the%20ARMDOG%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdecowam-legged-mobile-manip%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+DECOWAM Splits Base, Arm, and Camera Motion on a Wheeled Quad
+
+Tsinghua, Shanghai AI Lab, and DEEP Robotics freeze a FastWAM backbone, cut action MSE 21.7%, and ship the ARMDOG…
+
+https://mechafeed.com/blog/decowam-legged-mobile-manip/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
 ## GoMate Mini Debuts a Triple-Fold at WRC, Fresh Off Factory Patrol
 
 - **Slug:** `gac-gomate-mini`
@@ -120,6 +141,48 @@ Generalist’s GEN-1.5 hits 59% one-shot success across 10 short tasks with no g
 https://mechafeed.com/blog/generalist-gen15/
 
 #AI #Humanoids
+```
+
+---
+
+## NVIDIA’s SONIC Turns Motion Tracking Into a Humanoid Foundation Model
+
+- **Slug:** `nvidia-sonic-science-robotics`
+- **Date:** 2026-08-23
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/nvidia-sonic-science-robotics/
+- **Chars:** 265/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=NVIDIA%E2%80%99s%20SONIC%20Turns%20Motion%20Tracking%20Into%20a%20Humanoid%20Foundation%20Model%0A%0AScience%20Robotics%20publishes%20SONIC%3A%2042M%20parameters%2C%20100M%2B%20mocap%20frames%2C%2021k%20GPU%20hours%2C%20one%20policy%20for%20VR%2C%20video%2C%20and%20VLA%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnvidia-sonic-science-robotics%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+NVIDIA’s SONIC Turns Motion Tracking Into a Humanoid Foundation Model
+
+Science Robotics publishes SONIC: 42M parameters, 100M+ mocap frames, 21k GPU hours, one policy for VR, video, and VLA…
+
+https://mechafeed.com/blog/nvidia-sonic-science-robotics/
+
+#AI #Humanoids
+```
+
+---
+
+## PartialBiGrasp Guesses the Hidden Side of the Object Before Two Arms Close
+
+- **Slug:** `partialbigrasp-hidden-geometry`
+- **Date:** 2026-08-23
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/partialbigrasp-hidden-geometry/
+- **Chars:** 264/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=PartialBiGrasp%20Guesses%20the%20Hidden%20Side%20of%20the%20Object%20Before%20Two%20Arms%20Close%0A%0APartialBiGrasp%20generates%20dual-arm%20grasps%20from%20partial%20point%20clouds%20instead%20of%20assuming%20a%20full%20object%20scan.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpartialbigrasp-hidden-geometry%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+PartialBiGrasp Guesses the Hidden Side of the Object Before Two Arms Close
+
+PartialBiGrasp generates dual-arm grasps from partial point clouds instead of assuming a full object scan.
+
+https://mechafeed.com/blog/partialbigrasp-hidden-geometry/
+
+#Robotics #Humanoids
 ```
 
 ---
@@ -166,6 +229,48 @@ https://mechafeed.com/blog/self-demo-vla/
 
 ---
 
+## A Month-Old Startup Puts a Biped in a Go-Kart, One Take
+
+- **Slug:** `symbiosis-robotics-kart`
+- **Date:** 2026-08-23
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/symbiosis-robotics-kart/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20Month-Old%20Startup%20Puts%20a%20Biped%20in%20a%20Go-Kart%2C%20One%20Take%0A%0ASymbiosis%20Robotics%E2%80%99%20Direct%20Perception%20Control%20demo%20has%20a%20Unitree-class%20humanoid%20climb%20in%2C%20steer%2C%20and%20throttle%20on%20a%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsymbiosis-robotics-kart%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+A Month-Old Startup Puts a Biped in a Go-Kart, One Take
+
+Symbiosis Robotics’ Direct Perception Control demo has a Unitree-class humanoid climb in, steer, and throttle on a…
+
+https://mechafeed.com/blog/symbiosis-robotics-kart/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## TianGong Omni Is the 1.35 m, 39 kg Member of the Family
+
+- **Slug:** `tiangong-omni-wrc`
+- **Date:** 2026-08-23
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/tiangong-omni-wrc/
+- **Chars:** 250/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=TianGong%20Omni%20Is%20the%201.35%20m%2C%2039%20kg%20Member%20of%20the%20Family%0A%0AX-Humanoid%20debuts%20a%20lightweight%20Omni%20at%20WRC%202026%2C%20plus%20Pelican-Unify%2C%20and%20parks%20TianGong%203.0%20at%20a%20Mercedes-Benz%20stand.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftiangong-omni-wrc%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+TianGong Omni Is the 1.35 m, 39 kg Member of the Family
+
+X-Humanoid debuts a lightweight Omni at WRC 2026, plus Pelican-Unify, and parks TianGong 3.0 at a Mercedes-Benz stand.
+
+https://mechafeed.com/blog/tiangong-omni-wrc/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
 ## Tiangong Ultra Runs 100m in 9.39 Seconds at the Humanoid Games
 
 - **Slug:** `tiangong-ultra-100m`
@@ -183,6 +288,27 @@ X-Humanoid’s Tiangong Ultra clocks 9.39s in a WHRG heat, faster than Usain Bol
 https://mechafeed.com/blog/tiangong-ultra-100m/
 
 #HumanoidRobots #Humanoids
+```
+
+---
+
+## WALL-B Sorts a Messy Parcel Pile at 1,816 an Hour
+
+- **Slug:** `x-square-wall-b-wrc`
+- **Date:** 2026-08-23
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/x-square-wall-b-wrc/
+- **Chars:** 239/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=WALL-B%20Sorts%20a%20Messy%20Parcel%20Pile%20at%201%2C816%20an%20Hour%0A%0AX%20Square%20Robot%E2%80%99s%20WALL-B%20model%20plus%20in-house%206-axis%20arms%20hit%201%2C816%20parcels%2Fhour%20at%20%3E98%25%20in%20a%20livestream%2C%20then%20ran%20the%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fx-square-wall-b-wrc%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+WALL-B Sorts a Messy Parcel Pile at 1,816 an Hour
+
+X Square Robot’s WALL-B model plus in-house 6-axis arms hit 1,816 parcels/hour at >98% in a livestream, then ran the…
+
+https://mechafeed.com/blog/x-square-wall-b-wrc/
+
+#Robotics #Humanoids
 ```
 
 ---

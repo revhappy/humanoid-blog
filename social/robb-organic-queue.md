@@ -388,4 +388,21 @@ A thousand grasps an hour on mixed packaging, live, beating another six-second c
 540 mm wide, 0.75 m aisle, five-second battery swap. That is a warehouse argument. Conducting with a baton is not.
 https://mechafeed.com/blog/roboscience-rex-g1/
 
+### 2026-08-23 Afternoon — pipeline seeds
+- X list 1805786050763087967 still inaccessible this slot
+- Six build posts: Symbiosis kart DPC, X Square WALL-B sorting, TianGong Omni, NVIDIA SONIC, DECOWAM, PartialBiGrasp
+
+**SOLO (WALL-B):**
+1,816 parcels an hour from a messy pile, then a WRC overlay still spinning past five hours. Arms, not a biped. That is the dock job.
+
+**SOLO (SONIC):**
+100 million mocap frames and one G1 policy. 123 of 124 motions on the real robot. Contacts and tight spaces are still the bill.
+
+**SOLO (kart):**
+Sitting down in the kart is the demo. The lap is the receipt. I still want 1× speed and a success rate.
+
+**SOFT-LINK (Omni):**
+1.35 m and 39 kg is a more honest home/rescue chassis than another 100 m sprinter. Price and payload still missing.
+https://mechafeed.com/blog/tiangong-omni-wrc/
+
 

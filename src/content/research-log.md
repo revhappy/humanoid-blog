@@ -3385,5 +3385,66 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Failures:** none; solid candidates 8 of target 8
 - **X list accessible?** N (disclosed)
 
+## 2026-08-23 — Daily Scheduled Pipeline (Afternoon)
 
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-23
+- git pull --rebase origin main: already up to date
+- Morning already published 8 posts (tiangong-ultra-100m, generalist-gen15, gac-gomate-mini, roboscience-rex-g1, cotograsp-contact-topology, self-demo-vla, casiahand-wrc, daxai-qiji-x1) — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE** (privacy/login wall). Disclosed. Proceeded with public X keyword search + web + leftover Friday papers.
+
+### X List Scan
+- Curated list feed not accessible without login
+- @TheHumanoidHub (23 Aug): Symbiosis Robotics go-kart one-take — **CANDIDATE** (company DPC page + TMTPOST + IT Home now fetched)
+- @TheHumanoidHub / @XSquareRobot: WALL-B WRC sorting — **CANDIDATE**
+- Figure outdoor walks — **SKIP: X-only, no company URL**
+- WHRG 100m / Bolt recirc — **SKIP: morning covered; do not split Honor Lightning**
+- Shenzhen patrol humanoid — **SKIP: May 2026 EngineAI T800, not new**
+- Spam / Bolt remixes — leads only
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Symbiosis Robotics DPC go-kart — company page + TMTPOST + IT Home + Qbitai — lane: **build**
+2. **[CANDIDATE/WRITTEN]** X Square WALL-B 1,816 parcels/hr + WRC booth livestream — two PR Newswire notes + x2robot.com — lane: **build**
+3. **[CANDIDATE/WRITTEN]** TianGong Omni 1.35 m / 39 kg + Pelican-Unify + Mercedes 3.0 — Gasgoo + X-Humanoid — lane: **build**
+4. **[CANDIDATE/WRITTEN]** NVIDIA SONIC in Science Robotics — journal + arXiv + GEAR-SONIC page + AI Business — lane: **build**
+5. **[CANDIDATE/WRITTEN]** DECOWAM + ARMDOG — arXiv:2608.20114 — lane: **build**
+6. **[CANDIDATE/WRITTEN]** PartialBiGrasp dual-arm from partial views — arXiv:2608.19188 — lane: **build**
+7. **[SKIP: already covered morning]** Tiangong Ultra 100m / Lightning split / 400m 39.7s recirc (morning used Reuters 39.7s; AFP 38.15s still disagrees — do not spin a second sprint post)
+8. **[SKIP: wrong / thin stills]** SynapX OctoH-Hand (Gasgoo still is a booth crowd, not the hand; 36Kr close-ups 403); SIASUN Songyi; TianGong Omni Pandaily still was an unrelated cartoon-faced mini
+9. **[SKIP: business / mix]** Economist China training; Unitree IPO recirc; Schaeffler gearboxes; Counterpoint shipment roundups
+10. **[SKIP: old / not new]** Booster T2 (July launch); BYD Xiao Di (July confirmation already on the blog; Les Numériques recap without a matching product still this session); Fuxi (already covered)
+11. **[SKIP: leftover]** 400m Omni gold post used as Omni still, not a second WHRG athletics article
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | symbiosis-robotics-kart | Shar Hendrix | Humanoids | build |
+| 2 | x-square-wall-b-wrc | Robb Harlan | Robotics | build |
+| 3 | tiangong-omni-wrc | Shar Hendrix | Humanoids | build |
+| 4 | nvidia-sonic-science-robotics | Robb Harlan | AI | build |
+| 5 | decowam-legged-mobile-manip | Robb Harlan | Research | build |
+| 6 | partialbigrasp-hidden-geometry | Shar Hendrix | Robotics | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+- Morning already 0/8 business; afternoon stays 100% build
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary depth + usable stills: **6** | Writing: **6**
+- Soft floor 2 met; hit target (kart DPC + WALL-B cell + Omni product + SONIC journal + two leftover papers with matching figures)
+
+### Notes for Future Agents
+- WHRG through 8/26 — named finals only; do not rewrite the 100m
+- OctoH-Hand still needs a photo of the hand, not the SynapX booth
+- SIASUN Songyi still needs a Songyi photo
+- Do not rehash this afternoon six
+
+### Run summary
+- **Articles published (6):** pending push — symbiosis-robotics-kart, x-square-wall-b-wrc, tiangong-omni-wrc, nvidia-sonic-science-robotics, decowam-legged-mobile-manip, partialbigrasp-hidden-geometry
+- **Skipped candidates:** OctoH-Hand (no matching still), 400m split, BYD Xiao Di recap, Economist/Unitree capital, Fuxi recirc
+- **X list accessible?** N (disclosed)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 today posts)
+- **Vision gate:** PASS — kart (G1-class biped + kart; overhead single-take drive), WALL-B (1816 livestream + 9989 WRC overlay + company humanoid), Omni (X-Humanoid 400m graphic + locker compact + Mercedes 3.0 captioned separately), SONIC (G1 collage + VLA strips + method), DECOWAM (quad-arm real robot + architecture), PartialBiGrasp (teaser + dual-arm setup + object table)
+- **Social:** tweets 338; robb-x 338; organic queue appended
 

@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-23T16:15:19.456Z
+Generated: 2026-08-24T02:35:39.674Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -75,6 +75,28 @@ https://mechafeed.com/blog/daxai-qiji-x1/
 
 ---
 
+## DECOWAM Splits Base, Arm, and Camera Motion on a Wheeled Quad
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/decowam-legged-mobile-manip/
+
+### SOLO (no link)
+
+```
+Splitting “where the base goes” from “what the arm does” is the kind of unglamorous systems work that actually ships.  26 million trainable parameters beating a 6-billion-parameter fine-tune is the headline for anyone paying a GPU bill.
+```
+
+### SOFT-LINK variant
+
+```
+Splitting “where the base goes” from “what the arm does” is the kind of unglamorous systems work that actually ships.  26 million trainable parameters beating a 6-billion-parameter fine-tune is the he…
+
+https://mechafeed.com/blog/decowam-legged-mobile-manip/
+```
+
+---
+
 ## GoMate Mini Debuts a Triple-Fold at WRC, Fresh Off Factory Patrol
 
 - Author on blog: Shar Hendrix
@@ -115,6 +137,50 @@ I’m so here for a robot you can teach with a ten-second clip instead of a week
 I’m so here for a robot you can teach with a ten-second clip instead of a week of teleop.  Fifty-nine percent on short tasks is not a coworker.
 
 https://mechafeed.com/blog/generalist-gen15/
+```
+
+---
+
+## NVIDIA’s SONIC Turns Motion Tracking Into a Humanoid Foundation Model
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/nvidia-sonic-science-robotics/
+
+### SOLO (no link)
+
+```
+Scaling motion tracking is the least glamorous way to get a humanoid to crawl, and that is why I like it.  Dense mocap supervision beats another hand-tuned reward for “look alive.
+```
+
+### SOFT-LINK variant
+
+```
+Scaling motion tracking is the least glamorous way to get a humanoid to crawl, and that is why I like it.  Dense mocap supervision beats another hand-tuned reward for “look alive.
+
+https://mechafeed.com/blog/nvidia-sonic-science-robotics/
+```
+
+---
+
+## PartialBiGrasp Guesses the Hidden Side of the Object Before Two Arms Close
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/partialbigrasp-hidden-geometry/
+
+### SOLO (no link)
+
+```
+I like a paper that admits the camera cannot see the back of the chair.  Completing a pretty mesh in simulation is a different sport from putting two grippers on a toolbox you only saw from one side.
+```
+
+### SOFT-LINK variant
+
+```
+I like a paper that admits the camera cannot see the back of the chair.  Completing a pretty mesh in simulation is a different sport from putting two grippers on a toolbox you only saw from one side.
+
+https://mechafeed.com/blog/partialbigrasp-hidden-geometry/
 ```
 
 ---
@@ -163,6 +229,50 @@ https://mechafeed.com/blog/self-demo-vla/
 
 ---
 
+## A Month-Old Startup Puts a Biped in a Go-Kart, One Take
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/symbiosis-robotics-kart/
+
+### SOLO (no link)
+
+```
+I’m so here for a first demo that is sit-down-and-drive instead of another hallway walk.  Climbing into a tight cockpit is the interesting part; the lap is the receipt.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for a first demo that is sit-down-and-drive instead of another hallway walk.  Climbing into a tight cockpit is the interesting part; the lap is the receipt.
+
+https://mechafeed.com/blog/symbiosis-robotics-kart/
+```
+
+---
+
+## TianGong Omni Is the 1.35 m, 39 kg Member of the Family
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/tiangong-omni-wrc/
+
+### SOLO (no link)
+
+```
+A 39-kilogram humanoid that can crawl a pile of stakes is a more interesting product bet than another 1. 7-meter sprinter.
+```
+
+### SOFT-LINK variant
+
+```
+A 39-kilogram humanoid that can crawl a pile of stakes is a more interesting product bet than another 1. 7-meter sprinter.
+
+https://mechafeed.com/blog/tiangong-omni-wrc/
+```
+
+---
+
 ## Tiangong Ultra Runs 100m in 9.39 Seconds at the Humanoid Games
 
 - Author on blog: Robb Harlan
@@ -181,6 +291,28 @@ Nine-point-three-nine is a locomotion number, not a factory number.  The clip th
 Nine-point-three-nine is a locomotion number, not a factory number.  The clip that will stick with me is the foam and the hoist.
 
 https://mechafeed.com/blog/tiangong-ultra-100m/
+```
+
+---
+
+## WALL-B Sorts a Messy Parcel Pile at 1,816 an Hour
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/x-square-wall-b-wrc/
+
+### SOLO (no link)
+
+```
+If I ran a dock, I would rather have 1,816 honest induction picks than a biped that can also dance.  The WRC overlay at five hours is the part I care about: the pile did not win.
+```
+
+### SOFT-LINK variant
+
+```
+If I ran a dock, I would rather have 1,816 honest induction picks than a biped that can also dance.  The WRC overlay at five hours is the part I care about: the pile did not win.
+
+https://mechafeed.com/blog/x-square-wall-b-wrc/
 ```
 
 ---
