@@ -14,8 +14,134 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-24T02:35:34.380Z
-Posts: 338
+Generated: 2026-08-25T02:42:04.055Z
+Posts: 344
+
+---
+
+## Honda’s Four-Finger Hand Goes After Factory Assembly
+
+- **Slug:** `honda-multi-fingered-hand`
+- **Date:** 2026-08-24
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/honda-multi-fingered-hand/
+- **Chars:** 250/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Honda%E2%80%99s%20Four-Finger%20Hand%20Goes%20After%20Factory%20Assembly%0A%0AHonda%E2%80%99s%2016-DoF%20multi-fingered%20hand%20holds%2050%20N%20at%20a%20fingertip%20and%20is%20entering%20a%20RIKEN%2FNEDO%20Physical%20AI%20project%20aimed%20at%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhonda-multi-fingered-hand%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Honda’s Four-Finger Hand Goes After Factory Assembly
+
+Honda’s 16-DoF multi-fingered hand holds 50 N at a fingertip and is entering a RIKEN/NEDO Physical AI project aimed at…
+
+https://mechafeed.com/blog/honda-multi-fingered-hand/
+
+#Robotics #Humanoids
+```
+
+---
+
+## RAI’s Koala Gripper: Dual-Thumb Hands for Humans and Robots
+
+- **Slug:** `koala-gripper-rai`
+- **Date:** 2026-08-24
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/koala-gripper-rai/
+- **Chars:** 247/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=RAI%E2%80%99s%20Koala%20Gripper%3A%20Dual-Thumb%20Hands%20for%20Humans%20and%20Robots%0A%0AThe%20Robotics%20and%20AI%20Institute%E2%80%99s%20Koala%20pair%20matches%20a%20handheld%20data%20gripper%20to%20a%20backdrivable%20robot%20hand%20for%20tool-use%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fkoala-gripper-rai%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+RAI’s Koala Gripper: Dual-Thumb Hands for Humans and Robots
+
+The Robotics and AI Institute’s Koala pair matches a handheld data gripper to a backdrivable robot hand for tool-use…
+
+https://mechafeed.com/blog/koala-gripper-rai/
+
+#Robotics #Humanoids
+```
+
+---
+
+## IIT Kanpur Teaches a G1 to Stand Up Without Demos
+
+- **Slug:** `sit-to-stand-g1-iit-kanpur`
+- **Date:** 2026-08-24
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/sit-to-stand-g1-iit-kanpur/
+- **Chars:** 257/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=IIT%20Kanpur%20Teaches%20a%20G1%20to%20Stand%20Up%20Without%20Demos%0A%0AA%20PPO%20sit-to-stand%20policy%20on%20a%20simulated%20Unitree%20G1%20hits%20over%2097%25%20success%20across%20eight%20chair%20heights%2C%20no%20motion%20capture%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsit-to-stand-g1-iit-kanpur%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+IIT Kanpur Teaches a G1 to Stand Up Without Demos
+
+A PPO sit-to-stand policy on a simulated Unitree G1 hits over 97% success across eight chair heights, no motion capture…
+
+https://mechafeed.com/blog/sit-to-stand-g1-iit-kanpur/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## Tiangong Ultra Wins WHRG 400m in 38.15 Seconds
+
+- **Slug:** `tiangong-ultra-400m`
+- **Date:** 2026-08-24
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/tiangong-ultra-400m/
+- **Chars:** 238/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Tiangong%20Ultra%20Wins%20WHRG%20400m%20in%2038.15%20Seconds%0A%0AX-Humanoid%E2%80%99s%20Tiangong%20Ultra%20took%20the%20Large%20Group%20400m%20final%20in%2038.15s%3B%20Omni%20won%20the%20small%20group%20in%2045.66s%20with%20a%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftiangong-ultra-400m%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Tiangong Ultra Wins WHRG 400m in 38.15 Seconds
+
+X-Humanoid’s Tiangong Ultra took the Large Group 400m final in 38.15s; Omni won the small group in 45.66s with a…
+
+https://mechafeed.com/blog/tiangong-ultra-400m/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## ViTacPhys Estimates Mass and Stiffness Before It Squeezes
+
+- **Slug:** `vitacphys-physical-property-grasp`
+- **Date:** 2026-08-24
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/vitacphys-physical-property-grasp/
+- **Chars:** 250/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ViTacPhys%20Estimates%20Mass%20and%20Stiffness%20Before%20It%20Squeezes%0A%0AA%20visuo-tactile%20model%20trained%20on%201%2C800%20human%20grasps%20of%2060%20objects%20hits%2095%25%20ID%20grasp%20success%20by%20predicting%20mass%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fvitacphys-physical-property-grasp%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+ViTacPhys Estimates Mass and Stiffness Before It Squeezes
+
+A visuo-tactile model trained on 1,800 human grasps of 60 objects hits 95% ID grasp success by predicting mass,…
+
+https://mechafeed.com/blog/vitacphys-physical-property-grasp/
+
+#AI #Humanoids
+```
+
+---
+
+## XPeng Robotics Raises $900M at $6.3B for Iron Mass Production
+
+- **Slug:** `xpeng-iron-900m-series-a`
+- **Date:** 2026-08-24
+- **Category:** Industry
+- **Article:** https://mechafeed.com/blog/xpeng-iron-900m-series-a/
+- **Chars:** 264/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=XPeng%20Robotics%20Raises%20%24900M%20at%20%246.3B%20for%20Iron%20Mass%20Production%0A%0AXPeng%E2%80%99s%20robotics%20unit%20closed%20a%20%24900M%2B%20first%20round%20at%20over%20%246.3B%2C%20led%20by%20IDG%2C%20with%20Iron%20aimed%20at%20late-2026%20production.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fxpeng-iron-900m-series-a%2F%0A%0A%23RoboticsIndustry%20%23Humanoids)
+
+```
+XPeng Robotics Raises $900M at $6.3B for Iron Mass Production
+
+XPeng’s robotics unit closed a $900M+ first round at over $6.3B, led by IDG, with Iron aimed at late-2026 production.
+
+https://mechafeed.com/blog/xpeng-iron-900m-series-a/
+
+#RoboticsIndustry #Humanoids
+```
 
 ---
 

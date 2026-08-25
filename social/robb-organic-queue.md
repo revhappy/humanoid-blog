@@ -405,4 +405,21 @@ Sitting down in the kart is the demo. The lap is the receipt. I still want 1× s
 1.35 m and 39 kg is a more honest home/rescue chassis than another 100 m sprinter. Price and payload still missing.
 https://mechafeed.com/blog/tiangong-omni-wrc/
 
+### 2026-08-24 Afternoon — pipeline seeds
+- X list 1805786050763087967 still inaccessible this slot
+- Six posts: XPeng $900M Iron round (business), Honda four-finger hand, Tiangong Ultra 38.15s 400m, RAI Koala gripper, ViTacPhys, IIT Kanpur G1 sit-to-stand
+
+**SOLO (400m):**
+38.15 on the 400 is the thermal number. Omni independently learned not to swing its arms because the shoulders would cook. Looks silly. Makes sense.
+
+**SOLO (Honda hand):**
+50 N at a fingertip for 150 seconds, 450,000 cycles, four fingers. Honda is not relaunching ASIMO. It is trying to kit parts and route a harness.
+
+**SOLO (XPeng round):**
+$900 million is not 1,000 Iron units a month. Store deployments first, deliveries 2027. The on-device “no teleop” line is the one I want on a clock, not a stage.
+
+**SOFT-LINK (Koala):**
+Same kinematics in a human handle and a robot wrist. If the cameras do not match, the policy is guessing.
+https://mechafeed.com/blog/koala-gripper-rai/
+
 

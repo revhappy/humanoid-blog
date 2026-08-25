@@ -3,9 +3,141 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-24T02:35:39.674Z
+Generated: 2026-08-25T02:42:14.127Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Honda’s Four-Finger Hand Goes After Factory Assembly
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/honda-multi-fingered-hand/
+
+### SOLO (no link)
+
+```
+I like that Honda is not pretending this is a full humanoid relaunch.  It is a forearm, four fingers, and a factory problem that still eats people: harnesses and kitting.
+```
+
+### SOFT-LINK variant
+
+```
+I like that Honda is not pretending this is a full humanoid relaunch.  It is a forearm, four fingers, and a factory problem that still eats people: harnesses and kitting.
+
+https://mechafeed.com/blog/honda-multi-fingered-hand/
+```
+
+---
+
+## RAI’s Koala Gripper: Dual-Thumb Hands for Humans and Robots
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/koala-gripper-rai/
+
+### SOLO (no link)
+
+```
+I am here for the boring matching problem.  If the camera on the human handle does not see what the robot camera will see, the policy is guessing.
+```
+
+### SOFT-LINK variant
+
+```
+I am here for the boring matching problem.  If the camera on the human handle does not see what the robot camera will see, the policy is guessing.
+
+https://mechafeed.com/blog/koala-gripper-rai/
+```
+
+---
+
+## IIT Kanpur Teaches a G1 to Stand Up Without Demos
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/sit-to-stand-g1-iit-kanpur/
+
+### SOLO (no link)
+
+```
+I like that they refused to cheat with a mocap clip.  Sit-to-stand is exactly the kind of contact-rich, one-off motion that imitation learning papers hide inside a skill library.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they refused to cheat with a mocap clip.  Sit-to-stand is exactly the kind of contact-rich, one-off motion that imitation learning papers hide inside a skill library.
+
+https://mechafeed.com/blog/sit-to-stand-g1-iit-kanpur/
+```
+
+---
+
+## Tiangong Ultra Wins WHRG 400m in 38.15 Seconds
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/tiangong-ultra-400m/
+
+### SOLO (no link)
+
+```
+Saturday was the 9. 39-second headline.
+```
+
+### SOFT-LINK variant
+
+```
+Saturday was the 9. 39-second headline.
+
+https://mechafeed.com/blog/tiangong-ultra-400m/
+```
+
+---
+
+## ViTacPhys Estimates Mass and Stiffness Before It Squeezes
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/vitacphys-physical-property-grasp/
+
+### SOLO (no link)
+
+```
+This is the right complaint about vision-only grasping.  A full bottle and an empty can can look similar until you close.
+```
+
+### SOFT-LINK variant
+
+```
+This is the right complaint about vision-only grasping.  A full bottle and an empty can can look similar until you close.
+
+https://mechafeed.com/blog/vitacphys-physical-property-grasp/
+```
+
+---
+
+## XPeng Robotics Raises $900M at $6.3B for Iron Mass Production
+
+- Author on blog: Robb Harlan
+- Category: Industry
+- Article: https://mechafeed.com/blog/xpeng-iron-900m-series-a/
+
+### SOLO (no link)
+
+```
+A valuation is not a factory takt time.  $900 million buys compute, a plant, and a longer runway.
+```
+
+### SOFT-LINK variant
+
+```
+A valuation is not a factory takt time.  $900 million buys compute, a plant, and a longer runway.
+
+https://mechafeed.com/blog/xpeng-iron-900m-series-a/
+```
 
 ---
 

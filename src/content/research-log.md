@@ -3450,3 +3450,71 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Push:** SUCCESS (`8bed1e4` → origin/main)
 - **Failures:** none; solid candidates 6 of target 6
 
+## 2026-08-24 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-24
+- git pull --rebase origin main: already up to date (last publish 2026-08-23 afternoon)
+- **No 2026-08-24 morning slot ran** (research log ends 8/23 afternoon; git log last content commit 8/23)
+- Do not rehash 8/23 morning 8 or afternoon 6
+- Leftover untracked Aug-6 drafts still unpublished — do not ship as today’s news
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE** (privacy/login wall; browse tool blocked). Disclosed. Proceeded with public X keyword/semantic + web + Monday cs.RO dump.
+
+### X List Scan
+- Curated list feed not accessible without login
+- WHRG 400m / high-arm Omni clips circulating 23–24 Aug — **CANDIDATE** (named final, not the 100m)
+- XPENG $900M / $6.3B robotics round — **CANDIDATE** (business lane)
+- Galbot tennis / Unitree boxing recirc — **SKIP: already covered**
+- Tesla Optimus $685M order rumor — **SKIP: unverified spam**
+- WHRG 100m / Bolt recirc — **SKIP: 8/23 morning covered; do not split Honor Lightning**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** XPeng robotics Series A >$900M at >$6.3B, Iron mass-production path — PR Newswire + Reuters + Electrek — lane: **business**
+2. **[CANDIDATE/WRITTEN]** Honda 16-DoF four-finger hand + RIKEN/NEDO Physical AI project — Honda R&D + Kyodo + RIKEN + Newswitch + ASSEMBLY — lane: **build**
+3. **[CANDIDATE/WRITTEN]** Tiangong Ultra Large Group 400m 38.15s; Omni small-group 45.66s learned high-arm gait — Global Times (two URLs) + China Daily + People’s Daily/Xinhua — lane: **build**
+4. **[CANDIDATE/WRITTEN]** RAI Institute Koala Gripper co-designed handheld + robot pair — arXiv:2608.20546 + project page + RAI blog + YouTube — lane: **build**
+5. **[CANDIDATE/WRITTEN]** ViTacPhys visuo-tactile mass/stiffness/friction grasping — arXiv:2608.21355 + project page — lane: **build**
+6. **[CANDIDATE/WRITTEN]** IIT Kanpur sit-to-stand on simulated G1, >97% across eight chairs — arXiv:2608.20823 + HTML — lane: **build**
+7. **[SKIP: already covered]** Vbot ATOM, Unitree Superman, XPeng Iron 1,000/month (July production story; today’s post is the new funding round), Nori L3 $1,688, Tiangong 100m 9.39, Galbot tennis, Booster soccer, NVIDIA SONIC, WALL-B, DexForce
+8. **[SKIP: business / mix]** Unitree IPO recirc; Economist China training; Schaeffler gearboxes; Counterpoint shipment roundups (one business slot used by XPeng)
+9. **[SKIP: sim-only extra / thin stills]** G1 standup on emulated deformable ground (same IIT Kanpur lab as STS); Leju Kuafu 5W (36Kr images 403; China Daily still 505px); 4-meter WRC giant (company unnamed in CGTN fetch)
+10. **[SKIP: leftover Aug-6 untracked drafts]** DreamWAM, UniX Panther pizza, ZEALS D1, etc.
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | xpeng-iron-900m-series-a | Robb Harlan | Industry | business |
+| 2 | honda-multi-fingered-hand | Shar Hendrix | Robotics | build |
+| 3 | tiangong-ultra-400m | Robb Harlan | Humanoids | build |
+| 4 | koala-gripper-rai | Shar Hendrix | Robotics | build |
+| 5 | vitacphys-physical-property-grasp | Robb Harlan | AI | build |
+| 6 | sit-to-stand-g1-iit-kanpur | Shar Hendrix | Research | build |
+
+### Mix check
+- Build/innovate: 5 | Business/industry: 1 | Business share: 1/6 ≈ 16.7% (≤25%)
+- XPeng is the only capital story; 400m is a named final (not a 100m rewrite)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary depth + usable stills: **6** | Writing: **6**
+- Soft floor 2 met; hit target
+
+### Notes for Future Agents
+- WHRG through 8/26 — named finals only; 100m and Large Group 400m Ultra are now covered; Omni 45.66 is in the 400m post, do not split
+- Honor Lightning 400m times (39.45 / 39.66 / 40.08) live in the Ultra 400m article
+- Leju Kuafu 5W still needs a downloadable factory still (36Kr 403)
+- Do not rehash this afternoon six
+
+### Run summary
+- **Articles published (6):** xpeng-iron-900m-series-a, honda-multi-fingered-hand, tiangong-ultra-400m, koala-gripper-rai, vitacphys-physical-property-grasp, sit-to-stand-g1-iit-kanpur
+- **Skipped candidates:** Leju Kuafu (stills), G1 deformable standup (same lab), 4-meter giant, Unitree IPO recirc, 100m split
+- **X list accessible?** N (disclosed)
+
+#### Afternoon finalize (2026-08-24)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 6 posts)
+- **Vision gate:** PASS — XPeng Iron (stage walk + cutaway leg triptych), Honda hand (lab fixture + Yoshiike + screw/workpiece close-up), Ultra 400m (bib 001 track + Unicom boards + Omni high-arm pack), Koala (drill pair + RD + CD), ViTacPhys (humanoid+Manus glove + grasp grid + visuo-tactile rig), STS (G1 chair sequence + IK pose diagram + COP plot)
+- **Social:** tweets 344; robb-x 344; organic queue appended
+- **Build:** skipped this slot (frontmatter matches schema; media gate clean)
+- **Failures:** none; solid candidates 6 of target 6
+- **X list accessible?** N (disclosed)
+
