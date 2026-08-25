@@ -422,4 +422,21 @@ $900 million is not 1,000 Iron units a month. Store deployments first, deliverie
 Same kinematics in a human handle and a robot wrist. If the cameras do not match, the policy is guessing.
 https://mechafeed.com/blog/koala-gripper-rai/
 
+### 2026-08-25 Morning — pipeline seeds
+- X list 1805786050763087967 still inaccessible this slot
+- Eight build posts: Tianjiao 7.97 m long jump + obstacle 400, AgiBot G2 fire/library, WHRG dexterous-hand track, table tennis on one 1.73 m platform, Musashi-W joint skin, DreamMimic, TONAV Go2-W, LD4WAM
+
+**SOLO (long jump):**
+7.97 m is a torque trick. 4:11 through tires is a perception trick. Getting up after the fall is the warehouse number.
+
+**SOLO (G2 fire):**
+They hooked a 5 kg extinguisher on the wrist and dumped it in a 20-degree bucket. Ugly. Correct. The library gold was a map and a spine label.
+
+**SOLO (ping pong):**
+Same 1.73 m body, 0.3 seconds to swing, no joystick. That rule is better than another padded-wall 100 m.
+
+**SOFT-LINK (LD4WAM):**
+5,000 hours of human video still dies on a new tablecloth if the action head reads a dreamed frame. Motion alignment helps. It does not delete appearance.
+https://mechafeed.com/blog/ld4wam-human-video/
+
 

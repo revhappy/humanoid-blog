@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-25T02:42:14.127Z
+Generated: 2026-08-25T16:26:54.566Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## AgiBot’s G2 Wins Fire and Library Gold With a Wrist Hook and a Map
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/agibot-spirit-g2-whrg/
+
+### SOLO (no link)
+
+```
+I like the wrist hook more than the medal count.  Five kilograms is a real extinguisher.
+```
+
+### SOFT-LINK variant
+
+```
+I like the wrist hook more than the medal count.  Five kilograms is a real extinguisher.
+
+https://mechafeed.com/blog/agibot-spirit-g2-whrg/
+```
+
+---
+
+## DreamMimic Distills Privileged Teachers Into a Vision Humanoid
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/dreammimic-world-model/
+
+### SOLO (no link)
+
+```
+92% in a tracking benchmark with perfect depth is not a factory robot.  It is a clean argument that world models might be better glue for distillation than another ResNet on the camera.
+```
+
+### SOFT-LINK variant
+
+```
+92% in a tracking benchmark with perfect depth is not a factory robot.  It is a clean argument that world models might be better glue for distillation than another ResNet on the camera.
+
+https://mechafeed.com/blog/dreammimic-world-model/
+```
+
+---
+
+## LD4WAM Learns Robot Actions From 5,000 Hours of Human Video
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/ld4wam-human-video/
+
+### SOLO (no link)
+
+```
+Five thousand hours is a serious pile of egocentric video.  The number I trust more is the background drop.
+```
+
+### SOFT-LINK variant
+
+```
+Five thousand hours is a serious pile of egocentric video.  The number I trust more is the background drop.
+
+https://mechafeed.com/blog/ld4wam-human-video/
+```
+
+---
+
+## Tokyo’s Musashi-W Gets a Joint Skin That Estimates Elbow Angle
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/musashi-joint-skin/
+
+### SOLO (no link)
+
+```
+I am glad someone is putting skin on the joint instead of another palm taxel array.  Three degrees from a floppy elbow sleeve is not factory spec, but the disturbance split is the trick I would steal: if the cover screams and the tendons do not, something hit the joint.
+```
+
+### SOFT-LINK variant
+
+```
+I am glad someone is putting skin on the joint instead of another palm taxel array.  Three degrees from a floppy elbow sleeve is not factory spec, but the disturbance split is the trick I would steal:…
+
+https://mechafeed.com/blog/musashi-joint-skin/
+```
+
+---
+
+## Tianjiao’s Humanoid Clears 7.97 Meters, Then Wins the Obstacle 400
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/tianjiao-long-jump-whrg/
+
+### SOLO (no link)
+
+```
+Jumping 7. 97 meters is a torque and timing problem.
+```
+
+### SOFT-LINK variant
+
+```
+Jumping 7. 97 meters is a torque and timing problem.
+
+https://mechafeed.com/blog/tianjiao-long-jump-whrg/
+```
+
+---
+
+## TONAV Walks a Go2-W to the Drawer, Then Closes It With Velocity
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/tonav-quadruped-manip/
+
+### SOLO (no link)
+
+```
+“Near the drawer” is how a lot of demos fail in kitchens.  Parking on purpose, then teaching the arm how fast to push, is the right split.
+```
+
+### SOFT-LINK variant
+
+```
+“Near the drawer” is how a lot of demos fail in kitchens.  Parking on purpose, then teaching the arm how fast to push, is the right split.
+
+https://mechafeed.com/blog/tonav-quadruped-manip/
+```
+
+---
+
+## WHRG’s New Hand Track: Tweezers, Powder, Blocks, and Seven AgiBot Golds
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/whrg-dexterous-hand/
+
+### SOLO (no link)
+
+```
+Tweezers-and-beans is a meme until you watch a hand do it without crushing the seed.  I am here for the powder tolerance: 20 grams, half a gram.
+```
+
+### SOFT-LINK variant
+
+```
+Tweezers-and-beans is a meme until you watch a hand do it without crushing the seed.  I am here for the powder tolerance: 20 grams, half a gram.
+
+https://mechafeed.com/blog/whrg-dexterous-hand/
+```
+
+---
+
+## WHRG Table Tennis Debuts on One 1.73-Meter Platform
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/whrg-table-tennis/
+
+### SOLO (no link)
+
+```
+Locking the hardware is the best rule this meet has written.  It stops the “our legs are 10 cm longer” argument and leaves you with a camera, a predictor, and a 0.
+```
+
+### SOFT-LINK variant
+
+```
+Locking the hardware is the best rule this meet has written.  It stops the “our legs are 10 cm longer” argument and leaves you with a camera, a predictor, and a 0.
+
+https://mechafeed.com/blog/whrg-table-tennis/
+```
 
 ---
 

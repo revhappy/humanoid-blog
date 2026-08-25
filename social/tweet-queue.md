@@ -14,8 +14,176 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-25T02:42:04.055Z
-Posts: 344
+Generated: 2026-08-25T16:26:52.550Z
+Posts: 352
+
+---
+
+## AgiBot’s G2 Wins Fire and Library Gold With a Wrist Hook and a Map
+
+- **Slug:** `agibot-spirit-g2-whrg`
+- **Date:** 2026-08-25
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/agibot-spirit-g2-whrg/
+- **Chars:** 267/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=AgiBot%E2%80%99s%20G2%20Wins%20Fire%20and%20Library%20Gold%20With%20a%20Wrist%20Hook%20and%20a%20Map%0A%0ASpirit%20G2%20took%20WHRG%20fire%20and%20library%20scenario%20golds.%20The%20extinguisher%20is%204.5%E2%80%935%20kg%3B%20AgiBot%20hung%20it%20from%20the%20wrist%20into%20a%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fagibot-spirit-g2-whrg%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+AgiBot’s G2 Wins Fire and Library Gold With a Wrist Hook and a Map
+
+Spirit G2 took WHRG fire and library scenario golds. The extinguisher is 4.5–5 kg; AgiBot hung it from the wrist into a…
+
+https://mechafeed.com/blog/agibot-spirit-g2-whrg/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## DreamMimic Distills Privileged Teachers Into a Vision Humanoid
+
+- **Slug:** `dreammimic-world-model`
+- **Date:** 2026-08-25
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/dreammimic-world-model/
+- **Chars:** 259/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=DreamMimic%20Distills%20Privileged%20Teachers%20Into%20a%20Vision%20Humanoid%0A%0AAn%20IROS%202026%20paper%20uses%20a%20world%20model%20to%20distill%20loco-manipulation%20into%20a%20vision%20student.%20On%20OMOMO%20it%20hits%2092.2%25%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdreammimic-world-model%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+DreamMimic Distills Privileged Teachers Into a Vision Humanoid
+
+An IROS 2026 paper uses a world model to distill loco-manipulation into a vision student. On OMOMO it hits 92.2%…
+
+https://mechafeed.com/blog/dreammimic-world-model/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## LD4WAM Learns Robot Actions From 5,000 Hours of Human Video
+
+- **Slug:** `ld4wam-human-video`
+- **Date:** 2026-08-25
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/ld4wam-human-video/
+- **Chars:** 242/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=LD4WAM%20Learns%20Robot%20Actions%20From%205%2C000%20Hours%20of%20Human%20Video%0A%0ALD4WAM%20pretrains%20on%205%2C086%20hours%20of%20human%20and%20robot%20video%2C%20then%20runs%20grippers%20and%20dexterous%20hands.%20Real-world%20average%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fld4wam-human-video%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+LD4WAM Learns Robot Actions From 5,000 Hours of Human Video
+
+LD4WAM pretrains on 5,086 hours of human and robot video, then runs grippers and dexterous hands. Real-world average…
+
+https://mechafeed.com/blog/ld4wam-human-video/
+
+#AI #Humanoids
+```
+
+---
+
+## Tokyo’s Musashi-W Gets a Joint Skin That Estimates Elbow Angle
+
+- **Slug:** `musashi-joint-skin`
+- **Date:** 2026-08-25
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/musashi-joint-skin/
+- **Chars:** 261/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Tokyo%E2%80%99s%20Musashi-W%20Gets%20a%20Joint%20Skin%20That%20Estimates%20Elbow%20Angle%0A%0AA%20University%20of%20Tokyo%20IROS%202026%20paper%20wraps%20Musashi-W%E2%80%99s%20elbow%20in%20layered%20silicone%20skin.%20Skin-only%20angle%20error%20is%20about%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmusashi-joint-skin%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+Tokyo’s Musashi-W Gets a Joint Skin That Estimates Elbow Angle
+
+A University of Tokyo IROS 2026 paper wraps Musashi-W’s elbow in layered silicone skin. Skin-only angle error is about…
+
+https://mechafeed.com/blog/musashi-joint-skin/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## Tianjiao’s Humanoid Clears 7.97 Meters, Then Wins the Obstacle 400
+
+- **Slug:** `tianjiao-long-jump-whrg`
+- **Date:** 2026-08-25
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/tianjiao-long-jump-whrg/
+- **Chars:** 261/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Tianjiao%E2%80%99s%20Humanoid%20Clears%207.97%20Meters%2C%20Then%20Wins%20the%20Obstacle%20400%0A%0AA%20Beijing%20Innovation%20Center%20robot%20won%20WHRG%20long%20jump%20at%207.97%20m%20and%20the%20400%20m%20obstacle%20in%204%3A11.44%2C%20a%20new%20test%20of%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftianjiao-long-jump-whrg%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Tianjiao’s Humanoid Clears 7.97 Meters, Then Wins the Obstacle 400
+
+A Beijing Innovation Center robot won WHRG long jump at 7.97 m and the 400 m obstacle in 4:11.44, a new test of…
+
+https://mechafeed.com/blog/tianjiao-long-jump-whrg/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## TONAV Walks a Go2-W to the Drawer, Then Closes It With Velocity
+
+- **Slug:** `tonav-quadruped-manip`
+- **Date:** 2026-08-25
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/tonav-quadruped-manip/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=TONAV%20Walks%20a%20Go2-W%20to%20the%20Drawer%2C%20Then%20Closes%20It%20With%20Velocity%0A%0AHunan%20University%E2%80%99s%20TONAV%20pairs%20last-meter%20navigation%20with%20action-velocity%20chunks%20on%20a%20Unitree%20Go2-W.%20Manipulation%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftonav-quadruped-manip%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+TONAV Walks a Go2-W to the Drawer, Then Closes It With Velocity
+
+Hunan University’s TONAV pairs last-meter navigation with action-velocity chunks on a Unitree Go2-W. Manipulation…
+
+https://mechafeed.com/blog/tonav-quadruped-manip/
+
+#Robotics #Humanoids
+```
+
+---
+
+## WHRG’s New Hand Track: Tweezers, Powder, Blocks, and Seven AgiBot Golds
+
+- **Slug:** `whrg-dexterous-hand`
+- **Date:** 2026-08-25
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/whrg-dexterous-hand/
+- **Chars:** 260/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=WHRG%E2%80%99s%20New%20Hand%20Track%3A%20Tweezers%2C%20Powder%2C%20Blocks%2C%20and%20Seven%20AgiBot%20Golds%0A%0ABeijing%20added%20eight%20dexterous-hand%20events.%20AgiBot%20said%20it%20reached%20every%20final%20and%20took%20seven%20golds%2C%20including%20beans%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fwhrg-dexterous-hand%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+WHRG’s New Hand Track: Tweezers, Powder, Blocks, and Seven AgiBot Golds
+
+Beijing added eight dexterous-hand events. AgiBot said it reached every final and took seven golds, including beans…
+
+https://mechafeed.com/blog/whrg-dexterous-hand/
+
+#Robotics #Humanoids
+```
+
+---
+
+## WHRG Table Tennis Debuts on One 1.73-Meter Platform
+
+- **Slug:** `whrg-table-tennis`
+- **Date:** 2026-08-25
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/whrg-table-tennis/
+- **Chars:** 246/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=WHRG%20Table%20Tennis%20Debuts%20on%20One%201.73-Meter%20Platform%0A%0ATwelve%20teams%20played%20autonomous%20table%20tennis%20on%20the%20same%201.73%20m%20humanoid.%20Organizers%20say%20the%20swing%20window%20is%20about%200.3%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fwhrg-table-tennis%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+WHRG Table Tennis Debuts on One 1.73-Meter Platform
+
+Twelve teams played autonomous table tennis on the same 1.73 m humanoid. Organizers say the swing window is about 0.3…
+
+https://mechafeed.com/blog/whrg-table-tennis/
+
+#HumanoidRobots #Humanoids
+```
 
 ---
 

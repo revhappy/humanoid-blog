@@ -3518,3 +3518,64 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Failures:** none; solid candidates 6 of target 6
 - **X list accessible?** N (disclosed)
 
+## 2026-08-25 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-25
+- git pull --rebase origin main: already up to date
+- Last published: 2026-08-24 afternoon 6 — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE** (privacy/login wall). Disclosed. Public X keyword search + web + Tuesday cs.RO dump.
+
+### X List Scan
+- Curated list feed not accessible without login
+- @AGIBOTofficial (25 Aug): 7 golds in dexterous-hand challenges; 8/5/6 medal tally as of Aug 24 — **CANDIDATE**
+- Yuequan Y-Hand 38 DoF recirc — **SKIP: July 2026 launch**
+- WHRG Bolt remixes — leads only; 100m and 400m already covered
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Tianjiao 7.97 m long jump + 400 m obstacle 4:11.44 — Atlantic, Global Times, CCTV, CGTN — lane: **build**
+2. **[CANDIDATE/WRITTEN]** AgiBot Spirit G2 fire + library golds — IT Home, STCN, Yicai, AgiBot X — lane: **build**
+3. **[CANDIDATE/WRITTEN]** WHRG dexterous-hand track + AgiBot 7 golds — Atlantic, AgiBot X, Embodied Global, RobotTesters — lane: **build**
+4. **[CANDIDATE/WRITTEN]** Table tennis debut on one 1.73 m platform, ~0.3 s — Global Times, Atlantic — lane: **build**
+5. **[CANDIDATE/WRITTEN]** Musashi-W biomimetic joint skin — arXiv:2608.23304 + YouTube — lane: **build**
+6. **[CANDIDATE/WRITTEN]** DreamMimic world-model distillation — arXiv:2608.22278 + project page — lane: **build**
+7. **[CANDIDATE/WRITTEN]** TONAV Go2-W drawer/lamp/lid — arXiv:2608.22296 + project page — lane: **build**
+8. **[CANDIDATE/WRITTEN]** LD4WAM 5,086 h video — arXiv:2608.22403 — lane: **build**
+9. **[SKIP: already covered]** Tiangong 100 m / 400 m Ultra, Omni 45.66, Honda hand, XPeng $900M, Koala, ViTacPhys, STS G1
+10. **[SKIP: old / recirc]** Yuequan Y-Hand; Unitree IPO; Schaeffler
+11. **[SKIP: thin stills]** Galaxea gymnastics (single GT backflip); tug-of-war (no named winner); TechTimes 15 kg weightlifting fail
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | tianjiao-long-jump-whrg | Robb Harlan | Humanoids | build |
+| 2 | agibot-spirit-g2-whrg | Shar Hendrix | Humanoids | build |
+| 3 | whrg-dexterous-hand | Shar Hendrix | Robotics | build |
+| 4 | whrg-table-tennis | Robb Harlan | Humanoids | build |
+| 5 | musashi-joint-skin | Shar Hendrix | Research | build |
+| 6 | dreammimic-world-model | Robb Harlan | Research | build |
+| 7 | tonav-quadruped-manip | Shar Hendrix | Robotics | build |
+| 8 | ld4wam-human-video | Robb Harlan | AI | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates: **8** | Writing: **8**
+
+### Notes for Future Agents
+- WHRG through 8/26 — 100m final, 5-a-side, fights still open; do not rewrite 100m/400m/long jump/G2 fire-library/hand track/table tennis
+- Honor Lightning 9.32 test still not a split post
+- Yuequan Y-Hand still needs a primary company page + matching still
+- Afternoon: do not rehash this morning eight
+
+### Run summary (pre-push)
+- **Articles written (8):** tianjiao-long-jump-whrg, agibot-spirit-g2-whrg, whrg-dexterous-hand, whrg-table-tennis, musashi-joint-skin, dreammimic-world-model, tonav-quadruped-manip, ld4wam-human-video
+- **Skipped candidates:** Yuequan Y-Hand (old), Galaxea gymnastics (one still), tug-of-war (no named winner), 15 kg weightlifting fail (thin), 100m/400m splits
+- **X list accessible?** N (disclosed)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** PASS — long jump (mid-air + tires + fallen feet), G2 (library/fire collage + indoor emergency/tweezers collage), hands (block pinch + block/powder/taichi recap), table tennis (orange-ball rally), Musashi (skin on elbow + fabrication + arm poses), DreamMimic (carry teaser + table/container vs baseline fall), TONAV (bedroom approach + velocity graphs + Go2-W setup), LD4WAM (teaser scores + real dual-arm rollouts + method)
+- **Social:** tweets 352; robb-x 352; organic queue appended
+- **Unused stills left on disk (not in posts):** whrg-table-tennis-2.jpg (gymnastics backflip, wrong sport), soccer still deleted
+
