@@ -14,8 +14,134 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-25T16:26:52.550Z
-Posts: 352
+Generated: 2026-08-26T12:51:53.690Z
+Posts: 358
+
+---
+
+## MIT’s New Tactile Fingertip Lasts Days Where GelSight Mini Lasts Minutes
+
+- **Slug:** `durable-gelsight-fingertip`
+- **Date:** 2026-08-26
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/durable-gelsight-fingertip/
+- **Chars:** 270/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=MIT%E2%80%99s%20New%20Tactile%20Fingertip%20Lasts%20Days%20Where%20GelSight%20Mini%20Lasts%20Minutes%0A%0AAdelson%E2%80%99s%20lab%20posts%20a%20snap-on%20vision-based%20fingertip%20whose%20TPU%20skin%20survives%20hours%20of%20sanding%20and%20days%20of%2039%20N%20probes.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdurable-gelsight-fingertip%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+MIT’s New Tactile Fingertip Lasts Days Where GelSight Mini Lasts Minutes
+
+Adelson’s lab posts a snap-on vision-based fingertip whose TPU skin survives hours of sanding and days of 39 N probes.
+
+https://mechafeed.com/blog/durable-gelsight-fingertip/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Meta’s Fiber-Optic Glove Tracks a Whole Hand at 60 Hz Without Cameras
+
+- **Slug:** `fiber-optic-sensing-glove`
+- **Date:** 2026-08-26
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/fiber-optic-sensing-glove/
+- **Chars:** 266/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Meta%E2%80%99s%20Fiber-Optic%20Glove%20Tracks%20a%20Whole%20Hand%20at%2060%20Hz%20Without%20Cameras%0A%0AA%20Meta%20and%20Northwestern%20glove%20uses%20multi-core%20shape-sensing%20fibers%20to%20reconstruct%20hand%20pose%20at%204.9%20mm%20fingertip%20error%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffiber-optic-sensing-glove%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Meta’s Fiber-Optic Glove Tracks a Whole Hand at 60 Hz Without Cameras
+
+A Meta and Northwestern glove uses multi-core shape-sensing fibers to reconstruct hand pose at 4.9 mm fingertip error…
+
+https://mechafeed.com/blog/fiber-optic-sensing-glove/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Figure Opens Index: 16 Million Human Videos for Helix
+
+- **Slug:** `figure-index-helix-data`
+- **Date:** 2026-08-26
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/figure-index-helix-data/
+- **Chars:** 243/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Figure%20Opens%20Index%3A%2016%20Million%20Human%20Videos%20for%20Helix%0A%0AFigure%20AI%20comes%20out%20of%20stealth%20with%20Index%2C%20a%20creator%20app%20that%20has%20taken%2016M%20videos%20and%20paid%20%2415M%20toward%20Helix%20training.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffigure-index-helix-data%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Figure Opens Index: 16 Million Human Videos for Helix
+
+Figure AI comes out of stealth with Index, a creator app that has taken 16M videos and paid $15M toward Helix training.
+
+https://mechafeed.com/blog/figure-index-helix-data/
+
+#AI #Humanoids
+```
+
+---
+
+## GVLA Stops Treating Every Gripper Like a Parallel Jaw
+
+- **Slug:** `gripper-aware-vla`
+- **Date:** 2026-08-26
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/gripper-aware-vla/
+- **Chars:** 227/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=GVLA%20Stops%20Treating%20Every%20Gripper%20Like%20a%20Parallel%20Jaw%0A%0AMiGA%20packs%20103%2C000%20demos%20across%20five%20gripper%20types.%20GVLA%20uses%20that%20to%20beat%20a%20%CF%800.5%20baseline%20by%207.62%20points%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgripper-aware-vla%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+GVLA Stops Treating Every Gripper Like a Parallel Jaw
+
+MiGA packs 103,000 demos across five gripper types. GVLA uses that to beat a π0.5 baseline by 7.62 points on…
+
+https://mechafeed.com/blog/gripper-aware-vla/
+
+#AI #Humanoids
+```
+
+---
+
+## Tianzhuo Runs 1,500 m in 2:21.63 at the Humanoid Games
+
+- **Slug:** `tianzhuo-1500m-whrg`
+- **Date:** 2026-08-26
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/tianzhuo-1500m-whrg/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Tianzhuo%20Runs%201%2C500%20m%20in%202%3A21.63%20at%20the%20Humanoid%20Games%0A%0ATeam%20Tianzhuo%20wins%20the%20WHRG%201%2C500-meter%20gold%20in%202%20minutes%2021.63%20seconds%2C%20with%20the%20top%20three%20all%20under%20the%20human%20record.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftianzhuo-1500m-whrg%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Tianzhuo Runs 1,500 m in 2:21.63 at the Humanoid Games
+
+Team Tianzhuo wins the WHRG 1,500-meter gold in 2 minutes 21.63 seconds, with the top three all under the human record.
+
+https://mechafeed.com/blog/tianzhuo-1500m-whrg/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## A Humanoid Presses 16 kg and Wins WHRG’s First Weightlifting Gold
+
+- **Slug:** `whrg-weightlifting-16kg`
+- **Date:** 2026-08-26
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/whrg-weightlifting-16kg/
+- **Chars:** 256/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20Humanoid%20Presses%2016%20kg%20and%20Wins%20WHRG%E2%80%99s%20First%20Weightlifting%20Gold%0A%0ABeijing%20Humanoid%E2%80%93HUST%E2%80%99s%20TianGong%20lifts%2016%20kg%20overhead%20at%20the%20World%20Humanoid%20Robot%20Games%20after%20a%2015%20kg%20start.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fwhrg-weightlifting-16kg%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+A Humanoid Presses 16 kg and Wins WHRG’s First Weightlifting Gold
+
+Beijing Humanoid–HUST’s TianGong lifts 16 kg overhead at the World Humanoid Robot Games after a 15 kg start.
+
+https://mechafeed.com/blog/whrg-weightlifting-16kg/
+
+#HumanoidRobots #Humanoids
+```
 
 ---
 

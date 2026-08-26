@@ -3579,3 +3579,56 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Social:** tweets 352; robb-x 352; organic queue appended
 - **Unused stills left on disk (not in posts):** whrg-table-tennis-2.jpg (gymnastics backflip, wrong sport), soccer still deleted
 
+
+
+## 2026-08-25 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-25
+- git pull --rebase origin main: already up to date
+- Morning already published 8 posts (tianjiao-long-jump-whrg, agibot-spirit-g2-whrg, whrg-dexterous-hand, whrg-table-tennis, musashi-joint-skin, dreammimic-world-model, tonav-quadruped-manip, ld4wam-human-video) — **do not rehash**
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE** (privacy/login wall). Disclosed. Public X keyword search + web + Wednesday cs.RO dump.
+
+### X List Scan
+- Curated list feed not accessible without login
+- Figure @Figure_robot / @adcock_brett (25 Aug): Index 16M videos, \ paid, \ data/compute — **CANDIDATE**
+- WHRG 1500m / weightlifting / tug-of-war / street dance circulating — 1500m and 16 kg gold **CANDIDATE**; tug-of-war still no named winner
+- WHRG 100m / 400m / long jump / table tennis / G2 fire-library recirc — **SKIP: morning or earlier covered**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Figure Index 16M videos / \ / \ — figure.ai + Humanoids Daily — lane: **build**
+2. **[CANDIDATE/WRITTEN]** WHRG weightlifting 16 kg gold, Beijing Humanoid–HUST TianGong — Bastille/CGTN + TechNode + TechTimes + GT video — lane: **build**
+3. **[CANDIDATE/WRITTEN]** Tianzhuo 1500m 2:21.63 — CCTV+ + China Daily + CGTN + RobotTesters — lane: **build**
+4. **[CANDIDATE/WRITTEN]** Durable vision-based tactile fingertip — arXiv:2608.24242 (Adelson lab) — lane: **build**
+5. **[CANDIDATE/WRITTEN]** Fiber-optic shape-sensing glove — arXiv:2608.24572 (Meta) — lane: **build**
+6. **[CANDIDATE/WRITTEN]** GVLA / MiGA 103k multi-gripper VLA — arXiv:2608.24603 + project page (ECCV 2026) — lane: **build**
+7. **[SKIP: already covered morning]** long jump, G2 fire/library, dexterous-hand track, table tennis, Musashi skin, DreamMimic, TONAV, LD4WAM; 100m/400m Ultra/Omni
+8. **[SKIP: business / mix]** Bosch Bühl 2027 series production (FAZ/heise/WELT); Figure 1,000-unit recirc; Unitree IPO recirc; Economist China training
+9. **[SKIP: thin stills / no named winner]** Galaxea gymnastics (morning leftover); tug-of-war; street dance finals
+10. **[SKIP: already on blog]** Figure 03 BMW sequencing; Figure ladder; Honda hand; XPeng \; BYD Xiao Di recap
+11. **[SKIP: unused still]** RobotTesters WHRG hero looked like a glossy composite, not used
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | figure-index-helix-data | Robb Harlan | AI | build |
+| 2 | whrg-weightlifting-16kg | Shar Hendrix | Humanoids | build |
+| 3 | tianzhuo-1500m-whrg | Robb Harlan | Humanoids | build |
+| 4 | durable-gelsight-fingertip | Shar Hendrix | Robotics | build |
+| 5 | fiber-optic-sensing-glove | Robb Harlan | Robotics | build |
+| 6 | gripper-aware-vla | Shar Hendrix | AI | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+- Morning already 0/8 business; afternoon stays 100% build
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary depth + usable stills: **6** | Writing: **6**
+- Soft floor 2 met; hit target
+
+### Notes for Future Agents
+- WHRG through 8/26 — 100m final, 5-a-side, fights, tug-of-war still open if a *named* winner + matching still appears
+- Do not rewrite 100m/400m/long jump/G2/hand track/table tennis/1500m/16 kg lift
+- Bosch Bühl 2027 is a leftover business candidate if a slot has mix room
+- OctoH-Hand / SIASUN Songyi still need matching product stills

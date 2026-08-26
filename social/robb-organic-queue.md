@@ -439,4 +439,21 @@ Same 1.73 m body, 0.3 seconds to swing, no joystick. That rule is better than an
 5,000 hours of human video still dies on a new tablecloth if the action head reads a dreamed frame. Motion alignment helps. It does not delete appearance.
 https://mechafeed.com/blog/ld4wam-human-video/
 
+### 2026-08-26 — afternoon slot spilled past midnight
+- X list 1805786050763087967 still inaccessible this slot
+- Six build posts: Figure Index 16M videos, WHRG 16 kg weightlifting gold, Tianzhuo 1,500 m 2:21.63, MIT durable tactile fingertip, Meta fiber-optic glove, GVLA/MiGA
+
+**SOLO (Index):**
+16 million chore videos and $15 million in creator payouts. That is a data factory. Show me Helix doing the same rooms without a minder before I treat it as a skill.
+
+**SOLO (16 kg):**
+A humanoid that holds 16 kg over its head for two seconds is closer to a tote on a shelf than another Bolt overlay. If someone was on the sticks, put that on the scoreboard.
+
+**SOLO (1,500 m):**
+Last year’s 1,500 was 6:34. This year’s gold is 2:21. The interesting part is joint heat and battery, not the human 3:26.
+
+**SOFT-LINK (fingertip):**
+GelSight Mini died in half a minute on their sander. The MIT cartridge lasted hours, then you pry it off. That is the hardware I want on a working hand.
+https://mechafeed.com/blog/durable-gelsight-fingertip/
+
 

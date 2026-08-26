@@ -3,9 +3,141 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-25T16:26:54.566Z
+Generated: 2026-08-26T12:51:54.790Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## MIT’s New Tactile Fingertip Lasts Days Where GelSight Mini Lasts Minutes
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/durable-gelsight-fingertip/
+
+### SOLO (no link)
+
+```
+A fingertip that lasts eight days under a 4 kgf stamp is the kind of boring hardware I want on a hand that actually works.  Swap-the-skin is the design I would copy even if the numbers shrink in a real cell.
+```
+
+### SOFT-LINK variant
+
+```
+A fingertip that lasts eight days under a 4 kgf stamp is the kind of boring hardware I want on a hand that actually works.  Swap-the-skin is the design I would copy even if the numbers shrink in a real cell.
+
+https://mechafeed.com/blog/durable-gelsight-fingertip/
+```
+
+---
+
+## Meta’s Fiber-Optic Glove Tracks a Whole Hand at 60 Hz Without Cameras
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/fiber-optic-sensing-glove/
+
+### SOLO (no link)
+
+```
+Sub-5 mm fingertips with the cameras blocked is the capture kit I would want for teaching a robot the last inch of a grasp.  Cart-and-cable is still a lab instrument, not a factory glove.
+```
+
+### SOFT-LINK variant
+
+```
+Sub-5 mm fingertips with the cameras blocked is the capture kit I would want for teaching a robot the last inch of a grasp.  Cart-and-cable is still a lab instrument, not a factory glove.
+
+https://mechafeed.com/blog/fiber-optic-sensing-glove/
+```
+
+---
+
+## Figure Opens Index: 16 Million Human Videos for Helix
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/figure-index-helix-data/
+
+### SOLO (no link)
+
+```
+Paying thousands of people to film making a bed is a serious bet that human video, not more teleop hours on Figure’s own floor, is the scarce input.  I want the follow-up they promised: does this footage actually move Helix on a shift, or is it a very expensive pile of chores?
+```
+
+### SOFT-LINK variant
+
+```
+Paying thousands of people to film making a bed is a serious bet that human video, not more teleop hours on Figure’s own floor, is the scarce input.  I want the follow-up they promised: does this foot…
+
+https://mechafeed.com/blog/figure-index-helix-data/
+```
+
+---
+
+## GVLA Stops Treating Every Gripper Like a Parallel Jaw
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/gripper-aware-vla/
+
+### SOLO (no link)
+
+```
+Telling the policy which gripper is on the wrist should have been table stakes.  103k demos that actually change strategy with the hardware is the useful part.
+```
+
+### SOFT-LINK variant
+
+```
+Telling the policy which gripper is on the wrist should have been table stakes.  103k demos that actually change strategy with the hardware is the useful part.
+
+https://mechafeed.com/blog/gripper-aware-vla/
+```
+
+---
+
+## Tianzhuo Runs 1,500 m in 2:21.63 at the Humanoid Games
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/tianzhuo-1500m-whrg/
+
+### SOLO (no link)
+
+```
+Halving a 6:34 to a 2:21 in one year is a real locomotion result.  I still care more about whether the same legs can stop, turn in a warehouse aisle, and work an hour without a thermal fold.
+```
+
+### SOFT-LINK variant
+
+```
+Halving a 6:34 to a 2:21 in one year is a real locomotion result.  I still care more about whether the same legs can stop, turn in a warehouse aisle, and work an hour without a thermal fold.
+
+https://mechafeed.com/blog/tianzhuo-1500m-whrg/
+```
+
+---
+
+## A Humanoid Presses 16 kg and Wins WHRG’s First Weightlifting Gold
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/whrg-weightlifting-16kg/
+
+### SOLO (no link)
+
+```
+I like this medal more than another 100-meter overlay.  Sixteen kilos over the head, two seconds, feet only: that is closer to putting a tote on a shelf than beating Bolt on a padded track.
+```
+
+### SOFT-LINK variant
+
+```
+I like this medal more than another 100-meter overlay.  Sixteen kilos over the head, two seconds, feet only: that is closer to putting a tote on a shelf than beating Bolt on a padded track.
+
+https://mechafeed.com/blog/whrg-weightlifting-16kg/
+```
 
 ---
 
