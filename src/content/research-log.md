@@ -3689,3 +3689,13 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - Bosch Bühl 2027 still needs an HMND/Gamma robot still from a cited page
 - Afternoon: do not rehash this morning six
 
+### Run summary
+- **Articles published (6):** tiangong-ultra-864-final, tianzhuo-high-jump-3-4m, tianzhuo-standing-long-jump, agibot-x2-whrg-medals, beyondmimic-science-robotics, gaoqing-little-milk-bottle
+- **Skipped candidates:** Huoshen 10-1 soccer (no soccer still), CBS stereo (Figure 03 warehouse still), Bosch Bühl (HQ building still), kickboxing/combat (no named winner), leftover Aug-6 drafts
+- **X list accessible?** N (disclosed)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 6 posts)
+- **Vision gate:** PASS — 8.64 (CGTN 016/017 + Lightning vs GT race stills), high jump (CGTN bar/airborne + GT jump), standing LJ (bib 023 airborne + board), X2 (black/white X2 on yellow ramps + A3 Tai Chi + OmniHand nails), BeyondMimic (G1 outdoor run + kick), Gaoqing (032 with kid + wushu + judges)
+- **Social:** tweets 364; robb-x 364
+- **Push:** SUCCESS (`5ddbb45` → origin/main)
+- **Failures:** none; solid candidates 6 of target 8 (quality floor, not padding)
+
