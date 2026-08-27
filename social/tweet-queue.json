@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-08-26T12:51:53.690Z",
+  "generatedAt": "2026-08-27T16:14:37.120Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "agibot-x2-whrg-medals",
+      "title": "AgiBot X2 Wins the 100m Obstacle Race on Mass-Production Hardware",
+      "pubDate": "2026-08-27",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/agibot-x2-whrg-medals/",
+      "tweet": "AgiBot X2 Wins the 100m Obstacle Race on Mass-Production Hardware\n\nAgiBot’s X2 takes WHRG 100m obstacle gold in stock config; the company finishes 18 gold and 46 medals, edging…\n\nhttps://mechafeed.com/blog/agibot-x2-whrg-medals/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=AgiBot%20X2%20Wins%20the%20100m%20Obstacle%20Race%20on%20Mass-Production%20Hardware%0A%0AAgiBot%E2%80%99s%20X2%20takes%20WHRG%20100m%20obstacle%20gold%20in%20stock%20config%3B%20the%20company%20finishes%2018%20gold%20and%2046%20medals%2C%20edging%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fagibot-x2-whrg-medals%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 256
+    },
+    {
+      "id": "beyondmimic-science-robotics",
+      "title": "BeyondMimic Puts Cartwheels and Kick Combos on a Real G1",
+      "pubDate": "2026-08-27",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/beyondmimic-science-robotics/",
+      "tweet": "BeyondMimic Puts Cartwheels and Kick Combos on a Real G1\n\nBerkeley and Stanford’s BeyondMimic, now in Science Robotics, tracks 2.5 hours of motion and deploys cartwheels and…\n\nhttps://mechafeed.com/blog/beyondmimic-science-robotics/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=BeyondMimic%20Puts%20Cartwheels%20and%20Kick%20Combos%20on%20a%20Real%20G1%0A%0ABerkeley%20and%20Stanford%E2%80%99s%20BeyondMimic%2C%20now%20in%20Science%20Robotics%2C%20tracks%202.5%20hours%20of%20motion%20and%20deploys%20cartwheels%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fbeyondmimic-science-robotics%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 262
+    },
+    {
+      "id": "gaoqing-little-milk-bottle",
+      "title": "The Smallest Humanoid at the Games Is 80 cm and Still Jumps",
+      "pubDate": "2026-08-27",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/gaoqing-little-milk-bottle/",
+      "tweet": "The Smallest Humanoid at the Games Is 80 cm and Still Jumps\n\nGaoqing Power’s 80 cm, 13 kg ‘Little Milk Bottle’ jumps ~19 cm and enters 100 m, 400 m, obstacles, and martial arts.\n\nhttps://mechafeed.com/blog/gaoqing-little-milk-bottle/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=The%20Smallest%20Humanoid%20at%20the%20Games%20Is%2080%20cm%20and%20Still%20Jumps%0A%0AGaoqing%20Power%E2%80%99s%2080%20cm%2C%2013%20kg%20%E2%80%98Little%20Milk%20Bottle%E2%80%99%20jumps%20~19%20cm%20and%20enters%20100%20m%2C%20400%20m%2C%20obstacles%2C%20and%20martial%20arts.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgaoqing-little-milk-bottle%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 261
+    },
+    {
+      "id": "tiangong-ultra-864-final",
+      "title": "Tiangong Ultra Runs 100m in 8.64 Seconds in the Games Final",
+      "pubDate": "2026-08-27",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/tiangong-ultra-864-final/",
+      "tweet": "Tiangong Ultra Runs 100m in 8.64 Seconds in the Games Final\n\nX-Humanoid’s Tiangong Ultra wins the large-size 100m final in 8.64s, after 9.39 and 8.86 earlier in the week.\n\nhttps://mechafeed.com/blog/tiangong-ultra-864-final/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Tiangong%20Ultra%20Runs%20100m%20in%208.64%20Seconds%20in%20the%20Games%20Final%0A%0AX-Humanoid%E2%80%99s%20Tiangong%20Ultra%20wins%20the%20large-size%20100m%20final%20in%208.64s%2C%20after%209.39%20and%208.86%20earlier%20in%20the%20week.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftiangong-ultra-864-final%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 252
+    },
+    {
+      "id": "tianzhuo-high-jump-3-4m",
+      "title": "Tiangong Clears 3.4 Meters in the Standing High Jump Final",
+      "pubDate": "2026-08-27",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/tianzhuo-high-jump-3-4m/",
+      "tweet": "Tiangong Clears 3.4 Meters in the Standing High Jump Final\n\nTeam Tiangong / Tianzhuo wins the WHRG standing high jump at 3.4 m, judged on height, landing, and a tag on the lowest…\n\nhttps://mechafeed.com/blog/tianzhuo-high-jump-3-4m/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Tiangong%20Clears%203.4%20Meters%20in%20the%20Standing%20High%20Jump%20Final%0A%0ATeam%20Tiangong%20%2F%20Tianzhuo%20wins%20the%20WHRG%20standing%20high%20jump%20at%203.4%20m%2C%20judged%20on%20height%2C%20landing%2C%20and%20a%20tag%20on%20the%20lowest%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftianzhuo-high-jump-3-4m%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 260
+    },
+    {
+      "id": "tianzhuo-standing-long-jump",
+      "title": "Tianzhuo’s Tiangong Ultra Wins Standing Long Jump at 4.83 Meters",
+      "pubDate": "2026-08-27",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/tianzhuo-standing-long-jump/",
+      "tweet": "Tianzhuo’s Tiangong Ultra Wins Standing Long Jump at 4.83 Meters\n\nBeijing’s Tianzhuo team takes the WHRG standing long jump final at 4.83 m, a separate event from the 7.97 m running…\n\nhttps://mechafeed.com/blog/tianzhuo-standing-long-jump/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Tianzhuo%E2%80%99s%20Tiangong%20Ultra%20Wins%20Standing%20Long%20Jump%20at%204.83%20Meters%0A%0ABeijing%E2%80%99s%20Tianzhuo%20team%20takes%20the%20WHRG%20standing%20long%20jump%20final%20at%204.83%20m%2C%20a%20separate%20event%20from%20the%207.97%20m%20running%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftianzhuo-standing-long-jump%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 267
+    },
     {
       "id": "durable-gelsight-fingertip",
       "title": "MIT’s New Tactile Fingertip Lasts Days Where GelSight Mini Lasts Minutes",

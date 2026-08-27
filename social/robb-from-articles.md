@@ -3,9 +3,141 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-26T12:51:54.790Z
+Generated: 2026-08-27T16:14:43.314Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## AgiBot X2 Wins the 100m Obstacle Race on Mass-Production Hardware
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/agibot-x2-whrg-medals/
+
+### SOLO (no link)
+
+```
+I care more that X2 ran the obstacles as a shipped config than that AgiBot won the medal table by one over Tiangong.  Medal tables mix tweezers, Tai Chi, and hotel rooms.
+```
+
+### SOFT-LINK variant
+
+```
+I care more that X2 ran the obstacles as a shipped config than that AgiBot won the medal table by one over Tiangong.  Medal tables mix tweezers, Tai Chi, and hotel rooms.
+
+https://mechafeed.com/blog/agibot-x2-whrg-medals/
+```
+
+---
+
+## BeyondMimic Puts Cartwheels and Kick Combos on a Real G1
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/beyondmimic-science-robotics/
+
+### SOLO (no link)
+
+```
+Cartwheels on leaves and dirt are a better flex than another indoor walk.  The 77-person preference study is also a real measurement, not a vibe.
+```
+
+### SOFT-LINK variant
+
+```
+Cartwheels on leaves and dirt are a better flex than another indoor walk.  The 77-person preference study is also a real measurement, not a vibe.
+
+https://mechafeed.com/blog/beyondmimic-science-robotics/
+```
+
+---
+
+## The Smallest Humanoid at the Games Is 80 cm and Still Jumps
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/gaoqing-little-milk-bottle/
+
+### SOLO (no link)
+
+```
+I’m so here for the short one.  An 80-centimeter, 13-kilogram biped that actually enters the 100 m and the obstacle course is a different engineering bet than a specialist sprinter.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for the short one.  An 80-centimeter, 13-kilogram biped that actually enters the 100 m and the obstacle course is a different engineering bet than a specialist sprinter.
+
+https://mechafeed.com/blog/gaoqing-little-milk-bottle/
+```
+
+---
+
+## Tiangong Ultra Runs 100m in 8.64 Seconds in the Games Final
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/tiangong-ultra-864-final/
+
+### SOLO (no link)
+
+```
+Eight-point-six-four is a locomotion number on a smooth oval, not a factory number.  I already cared more about the crash mat after 9.
+```
+
+### SOFT-LINK variant
+
+```
+Eight-point-six-four is a locomotion number on a smooth oval, not a factory number.  I already cared more about the crash mat after 9.
+
+https://mechafeed.com/blog/tiangong-ultra-864-final/
+```
+
+---
+
+## Tiangong Clears 3.4 Meters in the Standing High Jump Final
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/tianzhuo-high-jump-3-4m/
+
+### SOLO (no link)
+
+```
+I like the tag on the lowest body point.  Height is easy to hype.
+```
+
+### SOFT-LINK variant
+
+```
+I like the tag on the lowest body point.  Height is easy to hype.
+
+https://mechafeed.com/blog/tianzhuo-high-jump-3-4m/
+```
+
+---
+
+## Tianzhuo’s Tiangong Ultra Wins Standing Long Jump at 4.83 Meters
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/tianzhuo-standing-long-jump/
+
+### SOLO (no link)
+
+```
+I already wrote the 7. 97-meter running jump.
+```
+
+### SOFT-LINK variant
+
+```
+I already wrote the 7. 97-meter running jump.
+
+https://mechafeed.com/blog/tianzhuo-standing-long-jump/
+```
 
 ---
 

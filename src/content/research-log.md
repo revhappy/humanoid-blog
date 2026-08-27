@@ -3632,3 +3632,60 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - Do not rewrite 100m/400m/long jump/G2/hand track/table tennis/1500m/16 kg lift
 - Bosch Bühl 2027 is a leftover business candidate if a slot has mix room
 - OctoH-Hand / SIASUN Songyi still need matching product stills
+
+## 2026-08-27 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-27
+- git pull --rebase origin main: already up to date
+- Last published: 2026-08-25 afternoon 6 (pubDates 2026-08-26) — **do not rehash**
+- No 2026-08-26 pipeline ran (research log ended 8/25 afternoon)
+- X list: https://x.com/i/lists/1805786050763087967 — **INACCESSIBLE** (browse tool blocked for X.com). Disclosed. Proceeded with public X keyword search + web.
+
+### X List Scan
+- Curated list feed not accessible without login
+- Public X: WHRG close / 8.64s 100m / AgiBot 18 golds circulating 26–27 Aug — **CANDIDATE**
+- Public X: Tianzhuo 4.83 m standing long jump — **CANDIDATE** (named final, not the 7.97 running jump)
+- Tau Robotics SF cleaning recirc — **SKIP: already covered**
+- Tesla Optimus Gen 2 RobotWale copy — **SKIP: unverified / not a primary Tesla announcement**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Tiangong Ultra 8.64s large-size 100m **final** — CGTN, Global Times, Reuters/CNBC-TV18, IE — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Standing high jump 3.4 m Team Tiangong/Tianzhuo — CGTN, Global Times, YouTube — lane: **build**
+3. **[CANDIDATE/WRITTEN]** Standing long jump 4.83 m Tianzhuo/Tiangong Ultra — Humanoid Press, YouTube, GT gallery — lane: **build**
+4. **[CANDIDATE/WRITTEN]** AgiBot X2 100m obstacle gold (stock hardware) + 18 gold / 46 medals — Gizmochina, Humanoids Daily, YouTube — lane: **build**
+5. **[CANDIDATE/WRITTEN]** BeyondMimic Science Robotics 26 Aug — project page, arXiv, IE, Science TOC — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Gaoqing Power “Little Milk Bottle” 80 cm / 13 kg / ~19 cm jump — Global Times, ANTARA stills — lane: **build**
+7. **[SKIP: no matching still]** Tsinghua Huoshen 10-1 vs SPQR 5v5 — ANTARA text only; kickboxing/wushu stills are the wrong sport
+8. **[SKIP: Figure AI warehouse still]** York U CBS convergent binocular stereo — Science Robotics + IE; hero on IE is Figure 03, not the paper
+9. **[SKIP: HQ building, not a robot]** Bosch Bühl 2027 Humanoid Gamma contract manufacturing — heise, WELT, FAZ (leftover business)
+10. **[SKIP: already covered]** 9.39 heat, 400m Ultra, 1500m, 7.97 running long jump, G2 fire/library, OmniHand 7 golds mid-meet, Honda hand, XPeng $900M, Figure Index, 16 kg lift
+11. **[SKIP: leftover untracked Aug-6 drafts]** DreamWAM, UniX Panther, ZEALS D1, etc. — do not ship as today’s news
+12. **[SKIP: capital / mix]** CROB China humanoid ETF; Unitree IPO recirc
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | tiangong-ultra-864-final | Robb Harlan | Humanoids | build |
+| 2 | tianzhuo-high-jump-3-4m | Shar Hendrix | Humanoids | build |
+| 3 | tianzhuo-standing-long-jump | Robb Harlan | Humanoids | build |
+| 4 | agibot-x2-whrg-medals | Shar Hendrix | Humanoids | build |
+| 5 | beyondmimic-science-robotics | Robb Harlan | Research | build |
+| 6 | gaoqing-little-milk-bottle | Shar Hendrix | Humanoids | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary depth + matching stills: **6** | Writing: **6**
+- Soft floor 3 met. Missed target 8 because soccer had no matching still, CBS hero was the wrong robot, Bosch still was a building, combat had no named winner.
+
+### Notes for Future Agents
+- WHRG is **over** (closed 26 Aug). Do not rewrite 8.64 final, 3.4 m high jump, 4.83 standing LJ, X2 obstacle, G2 library/fire, OmniHand, 7.97 running LJ, 100m heat, 400m, 1500m, 16 kg
+- 5v5 Huoshen 10-1 vs SPQR Italy is still open if a **soccer** still (not kickboxing) appears
+- Freestyle combat / tug-of-war still need a **named winner** + matching still
+- CBS Science Robotics still needs paper figures, not Figure AI warehouse art
+- Bosch Bühl 2027 still needs an HMND/Gamma robot still from a cited page
+- Afternoon: do not rehash this morning six
+

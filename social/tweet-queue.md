@@ -14,8 +14,134 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-26T12:51:53.690Z
-Posts: 358
+Generated: 2026-08-27T16:14:37.120Z
+Posts: 364
+
+---
+
+## AgiBot X2 Wins the 100m Obstacle Race on Mass-Production Hardware
+
+- **Slug:** `agibot-x2-whrg-medals`
+- **Date:** 2026-08-27
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/agibot-x2-whrg-medals/
+- **Chars:** 256/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=AgiBot%20X2%20Wins%20the%20100m%20Obstacle%20Race%20on%20Mass-Production%20Hardware%0A%0AAgiBot%E2%80%99s%20X2%20takes%20WHRG%20100m%20obstacle%20gold%20in%20stock%20config%3B%20the%20company%20finishes%2018%20gold%20and%2046%20medals%2C%20edging%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fagibot-x2-whrg-medals%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+AgiBot X2 Wins the 100m Obstacle Race on Mass-Production Hardware
+
+AgiBot’s X2 takes WHRG 100m obstacle gold in stock config; the company finishes 18 gold and 46 medals, edging…
+
+https://mechafeed.com/blog/agibot-x2-whrg-medals/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## BeyondMimic Puts Cartwheels and Kick Combos on a Real G1
+
+- **Slug:** `beyondmimic-science-robotics`
+- **Date:** 2026-08-27
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/beyondmimic-science-robotics/
+- **Chars:** 262/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=BeyondMimic%20Puts%20Cartwheels%20and%20Kick%20Combos%20on%20a%20Real%20G1%0A%0ABerkeley%20and%20Stanford%E2%80%99s%20BeyondMimic%2C%20now%20in%20Science%20Robotics%2C%20tracks%202.5%20hours%20of%20motion%20and%20deploys%20cartwheels%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fbeyondmimic-science-robotics%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+BeyondMimic Puts Cartwheels and Kick Combos on a Real G1
+
+Berkeley and Stanford’s BeyondMimic, now in Science Robotics, tracks 2.5 hours of motion and deploys cartwheels and…
+
+https://mechafeed.com/blog/beyondmimic-science-robotics/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## The Smallest Humanoid at the Games Is 80 cm and Still Jumps
+
+- **Slug:** `gaoqing-little-milk-bottle`
+- **Date:** 2026-08-27
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/gaoqing-little-milk-bottle/
+- **Chars:** 261/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=The%20Smallest%20Humanoid%20at%20the%20Games%20Is%2080%20cm%20and%20Still%20Jumps%0A%0AGaoqing%20Power%E2%80%99s%2080%20cm%2C%2013%20kg%20%E2%80%98Little%20Milk%20Bottle%E2%80%99%20jumps%20~19%20cm%20and%20enters%20100%20m%2C%20400%20m%2C%20obstacles%2C%20and%20martial%20arts.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgaoqing-little-milk-bottle%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+The Smallest Humanoid at the Games Is 80 cm and Still Jumps
+
+Gaoqing Power’s 80 cm, 13 kg ‘Little Milk Bottle’ jumps ~19 cm and enters 100 m, 400 m, obstacles, and martial arts.
+
+https://mechafeed.com/blog/gaoqing-little-milk-bottle/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Tiangong Ultra Runs 100m in 8.64 Seconds in the Games Final
+
+- **Slug:** `tiangong-ultra-864-final`
+- **Date:** 2026-08-27
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/tiangong-ultra-864-final/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Tiangong%20Ultra%20Runs%20100m%20in%208.64%20Seconds%20in%20the%20Games%20Final%0A%0AX-Humanoid%E2%80%99s%20Tiangong%20Ultra%20wins%20the%20large-size%20100m%20final%20in%208.64s%2C%20after%209.39%20and%208.86%20earlier%20in%20the%20week.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftiangong-ultra-864-final%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Tiangong Ultra Runs 100m in 8.64 Seconds in the Games Final
+
+X-Humanoid’s Tiangong Ultra wins the large-size 100m final in 8.64s, after 9.39 and 8.86 earlier in the week.
+
+https://mechafeed.com/blog/tiangong-ultra-864-final/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Tiangong Clears 3.4 Meters in the Standing High Jump Final
+
+- **Slug:** `tianzhuo-high-jump-3-4m`
+- **Date:** 2026-08-27
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/tianzhuo-high-jump-3-4m/
+- **Chars:** 260/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Tiangong%20Clears%203.4%20Meters%20in%20the%20Standing%20High%20Jump%20Final%0A%0ATeam%20Tiangong%20%2F%20Tianzhuo%20wins%20the%20WHRG%20standing%20high%20jump%20at%203.4%20m%2C%20judged%20on%20height%2C%20landing%2C%20and%20a%20tag%20on%20the%20lowest%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftianzhuo-high-jump-3-4m%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Tiangong Clears 3.4 Meters in the Standing High Jump Final
+
+Team Tiangong / Tianzhuo wins the WHRG standing high jump at 3.4 m, judged on height, landing, and a tag on the lowest…
+
+https://mechafeed.com/blog/tianzhuo-high-jump-3-4m/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Tianzhuo’s Tiangong Ultra Wins Standing Long Jump at 4.83 Meters
+
+- **Slug:** `tianzhuo-standing-long-jump`
+- **Date:** 2026-08-27
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/tianzhuo-standing-long-jump/
+- **Chars:** 267/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Tianzhuo%E2%80%99s%20Tiangong%20Ultra%20Wins%20Standing%20Long%20Jump%20at%204.83%20Meters%0A%0ABeijing%E2%80%99s%20Tianzhuo%20team%20takes%20the%20WHRG%20standing%20long%20jump%20final%20at%204.83%20m%2C%20a%20separate%20event%20from%20the%207.97%20m%20running%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftianzhuo-standing-long-jump%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Tianzhuo’s Tiangong Ultra Wins Standing Long Jump at 4.83 Meters
+
+Beijing’s Tianzhuo team takes the WHRG standing long jump final at 4.83 m, a separate event from the 7.97 m running…
+
+https://mechafeed.com/blog/tianzhuo-standing-long-jump/
+
+#HumanoidRobots #Humanoids
+```
 
 ---
 
