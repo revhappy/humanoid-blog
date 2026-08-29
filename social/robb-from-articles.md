@@ -3,9 +3,163 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-27T16:14:43.314Z
+Generated: 2026-08-29T12:53:28.622Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Bremen’s B-Human Swept Two Humanoid Soccer Titles in Beijing
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/b-human-whrg-soccer/
+
+### SOLO (no link)
+
+```
+Beating HTWK 9–0 and then 13–3 on a bigger pitch is not a cute exhibition scoreline.  It is a software stack that found the ball and the goal for 15-minute halves.
+```
+
+### SOFT-LINK variant
+
+```
+Beating HTWK 9–0 and then 13–3 on a bigger pitch is not a cute exhibition scoreline.  It is a software stack that found the ball and the goal for 15-minute halves.
+
+https://mechafeed.com/blog/b-human-whrg-soccer/
+```
+
+---
+
+## UT Austin Leads a $30M NSF Center on Human-Robot Co-Adaptation
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/nsf-human-robot-co-adaptation/
+
+### SOLO (no link)
+
+```
+Thirty million dollars is not a robot.  It is a permission slip to keep machines in real homes and hospitals long enough to watch people change around them.
+```
+
+### SOFT-LINK variant
+
+```
+Thirty million dollars is not a robot.  It is a permission slip to keep machines in real homes and hospitals long enough to watch people change around them.
+
+https://mechafeed.com/blog/nsf-human-robot-co-adaptation/
+```
+
+---
+
+## Pollen’s $399 Microduck Is a Desk Biped You Can Retrain
+
+- Author on blog: Shar Hendrix
+- Category: Deals
+- Article: https://mechafeed.com/blog/pollen-microduck-399/
+
+### SOLO (no link)
+
+```
+Four hundred dollars for a walking policy loop you can actually brick-and-unbrick on a kitchen table is the part I care about.  The $2.
+```
+
+### SOFT-LINK variant
+
+```
+Four hundred dollars for a walking policy loop you can actually brick-and-unbrick on a kitchen table is the part I care about.  The $2.
+
+https://mechafeed.com/blog/pollen-microduck-399/
+```
+
+---
+
+## iCub in a Crib: Science Robotics Tests How Infants Learn Cause and Effect
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/robot-in-crib-science-robotics/
+
+### SOLO (no link)
+
+```
+I like this more than another parkour G1.  A robot that has to notice “this ankle moves the hanging thing” is closer to the problem of agency than a backflip is.
+```
+
+### SOFT-LINK variant
+
+```
+I like this more than another parkour G1.  A robot that has to notice “this ankle moves the hanging thing” is closer to the problem of agency than a backflip is.
+
+https://mechafeed.com/blog/robot-in-crib-science-robotics/
+```
+
+---
+
+## A Stick Insect’s Few Steps Taught a Hexapod to Walk
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/tohoku-stick-insect-hexapod/
+
+### SOLO (no link)
+
+```
+Stealing the insect’s *objective* instead of its joint tape is the clever bit.  The missing-leg test is the receipt I wanted: not a prettier walk on a flat floor, a re-coordination when the body is wrong.
+```
+
+### SOFT-LINK variant
+
+```
+Stealing the insect’s *objective* instead of its joint tape is the clever bit.  The missing-leg test is the receipt I wanted: not a prettier walk on a flat floor, a re-coordination when the body is wrong.
+
+https://mechafeed.com/blog/tohoku-stick-insect-hexapod/
+```
+
+---
+
+## Tsinghua Huoshen Beat Italy’s SPQR 10–1 in Large 5-a-Side
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/tsinghua-huoshen-5v5-soccer/
+
+### SOLO (no link)
+
+```
+A 10–1 final is a routing.  I want to know whether Huoshen’s finishing still holds up if you swap the ball, the lighting, or the opponent’s firmware.
+```
+
+### SOFT-LINK variant
+
+```
+A 10–1 final is a routing.  I want to know whether Huoshen’s finishing still holds up if you swap the ball, the lighting, or the opponent’s firmware.
+
+https://mechafeed.com/blog/tsinghua-huoshen-5v5-soccer/
+```
+
+---
+
+## UBTECH Sold 921 Full-Size Humanoids in H1, Revenue Still Unprofitable
+
+- Author on blog: Robb Harlan
+- Category: Industry
+- Article: https://mechafeed.com/blog/ubtech-h1-2026-humanoid-sales/
+
+### SOLO (no link)
+
+```
+Nine hundred and twenty-one full-size bodies in a half year is a factory number, which is rarer than another demo reel.  It is also still a money-losing factory.
+```
+
+### SOFT-LINK variant
+
+```
+Nine hundred and twenty-one full-size bodies in a half year is a factory number, which is rarer than another demo reel.  It is also still a money-losing factory.
+
+https://mechafeed.com/blog/ubtech-h1-2026-humanoid-sales/
+```
 
 ---
 

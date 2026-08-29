@@ -3699,3 +3699,70 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Push:** SUCCESS (`5ddbb45` → origin/main)
 - **Failures:** none; solid candidates 6 of target 8 (quality floor, not padding)
 
+## 2026-08-28 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-28
+- git pull --rebase origin main: already up to date
+- Last published: 2026-08-27 morning 6 — **do not rehash**
+- No 2026-08-27 afternoon slot in the log
+- X list: https://x.com/i/lists/1805786050763087967 — **ACCESSIBLE via X keyword search (Latest)** this session. Also could not load owner lists at x.com/robbs2k/lists as a browseable page; used public X keyword/semantic + web.
+
+### X List Scan
+- List posts visible (keyword search `list:1805786050763087967`, Latest)
+- @Joydeepb_robots / @PeterStone_TX: NSF Center for Human and Robot Co-Adaptation, ~$30M / 5yr, UT Austin lead — **CANDIDATE**
+- @Thom_Wolf / @RemiFabreRobot: Microduck first-24h orders $2.5–2.6M — **CANDIDATE** (launch 27 Aug)
+- Kamath Robotics studio account — skip (not a product story)
+- WHRG / BeyondMimic recirc — **SKIP: already covered**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Pollen/Hugging Face Microduck $399 open-source-software biped — pollen-robotics.com + TechCrunch + Hackster + store + YouTube — lane: **build**
+2. **[CANDIDATE/WRITTEN]** NSF / UT Austin Center for Human and Robot Co-Adaptation, $30M — UT News + NSF + award 2535195 + Robot Report + AI Insider — lane: **build** (research center, not company funding)
+3. **[CANDIDATE/WRITTEN]** UBTECH H1 2026: 921 full-size units, RMB 590.3M humanoid line, still unprofitable — HKEX PDF + MarketScreener + Quartr + Walker S2 page — lane: **business**
+4. **[CANDIDATE/WRITTEN]** B-Human DFKI/Bremen double soccer titles at WHRG — EuropaWire/DFKI + b-human.de — lane: **build**
+5. **[CANDIDATE/WRITTEN]** Tsinghua Huoshen 10–1 vs SPQR large 5v5 (leftover; soccer still now available) — ANTARA + CGTN/VCG — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Tohoku/VISTEC RedMirror hexapod from stick-insect AIRL — Tohoku press + IE + DOI — lane: **build**
+7. **[CANDIDATE/WRITTEN]** Science Robotics “Robot in a crib” iCub / Hoffmann — SR TOC + doi aed4106 + CTU FEE + SciRobotics X — lane: **build**
+8. **[SKIP: no matching stills / thin primary]** Peking University “full-hand tactile” CGTN 27 Aug — recirc of 2025 Nature MI F-TAC Hand
+9. **[SKIP: paywall / IPO slant]** Micbot Aramco explosion-proof quadrupeds (SCMP 28 Aug)
+10. **[SKIP: July news]** NEURA Gym RWTH Aachen
+11. **[SKIP: already covered]** WHRG 8.64 / 400m / 1500m / long jump / high jump / X2 medals / G2 / BeyondMimic / Figure Index / Honda hand / XPeng $900M / Tau $30/hr / Nori / Microduck-adjacent Reachy Mini
+12. **[SKIP: business mix]** Linkerbot $3B Forbes profile; Unitree IPO recirc; Bosch Bühl leftover (still a building)
+13. **[SKIP: leftover Aug-6 drafts]** Do not ship as today’s news
+
+### Selected for Writing (ranked) — 7 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | pollen-microduck-399 | Shar Hendrix | Deals | build |
+| 2 | nsf-human-robot-co-adaptation | Robb Harlan | Research | build |
+| 3 | ubtech-h1-2026-humanoid-sales | Robb Harlan | Industry | business |
+| 4 | b-human-whrg-soccer | Shar Hendrix | Humanoids | build |
+| 5 | tsinghua-huoshen-5v5-soccer | Robb Harlan | Humanoids | build |
+| 6 | tohoku-stick-insect-hexapod | Shar Hendrix | Robotics | build |
+| 7 | robot-in-crib-science-robotics | Robb Harlan | Research | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 1 | Business share: 1/7 ≈ 14.3% (≤25%)
+- NSF counted as **build/research** (academic STC, not a company round)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary + matching stills: **7** | Writing: **7**
+- Soft floor 3 met. Missed target 8: Micbot paywalled, F-TAC recirc, no 8th distinct story with stills. Quality floor, not padding.
+
+### Notes for Future Agents
+- Do not rewrite Microduck launch, NSF co-adaptation center, UBTECH H1 2026, B-Human WHRG soccer, Huoshen 10–1, RedMirror stick-insect, iCub crib paper
+- WHRG is over. Remaining leftovers: named combat/tug-of-war winner + matching still; CBS stereo still needs paper figures
+- Microduck store already slipped Christmas for *new* orders (4–6 months) — follow if Pollen posts a production number
+- Afternoon: do not rehash this morning seven
+
+### Run summary
+- **Articles published (7):** pollen-microduck-399, nsf-human-robot-co-adaptation, ubtech-h1-2026-humanoid-sales, b-human-whrg-soccer, tsinghua-huoshen-5v5-soccer, tohoku-stick-insect-hexapod, robot-in-crib-science-robotics
+- **pubDate:** 2026-08-29 (Pacific clock rolled past midnight after slot file dated 2026-08-28)
+- **Skipped candidates:** F-TAC recirc, Micbot (paywall), NEURA Gym (July), WHRG splits, Linkerbot $3B, leftover drafts
+- **X list accessible?** Y (keyword Latest on list id 1805786050763087967)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 7 posts)
+- **Vision gate:** PASS — Microduck (desk + kickabout + close-up), NSF (Biswas+Spot+CoBot, mug handoff, HSR apple), UBTECH (Walker S2 factory rows + battery cabinet), B-Human (match, trophy, jersey), Huoshen (large 5v5 dribble + Oval/infield), RedMirror (physical hexapod + gait grid + method figure), iCub crib (overhead + tether close-up)
+- **Social:** tweets 371; robb-x 371
+- **Failures:** none; solid candidates 7 of target 8
+

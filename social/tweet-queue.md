@@ -14,8 +14,153 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-27T16:14:37.120Z
-Posts: 364
+Generated: 2026-08-29T12:53:28.614Z
+Posts: 371
+
+---
+
+## Bremen’s B-Human Swept Two Humanoid Soccer Titles in Beijing
+
+- **Slug:** `b-human-whrg-soccer`
+- **Date:** 2026-08-29
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/b-human-whrg-soccer/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Bremen%E2%80%99s%20B-Human%20Swept%20Two%20Humanoid%20Soccer%20Titles%20in%20Beijing%0A%0ADFKI%20and%20the%20University%20of%20Bremen%E2%80%99s%20B-Human%20won%20the%20RCAP%20Masters%209%E2%80%930%20and%20the%20WHRG%20humanoid%20soccer%20final%2013%E2%80%933%2C%20both%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fb-human-whrg-soccer%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Bremen’s B-Human Swept Two Humanoid Soccer Titles in Beijing
+
+DFKI and the University of Bremen’s B-Human won the RCAP Masters 9–0 and the WHRG humanoid soccer final 13–3, both…
+
+https://mechafeed.com/blog/b-human-whrg-soccer/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## UT Austin Leads a $30M NSF Center on Human-Robot Co-Adaptation
+
+- **Slug:** `nsf-human-robot-co-adaptation`
+- **Date:** 2026-08-29
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/nsf-human-robot-co-adaptation/
+- **Chars:** 273/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=UT%20Austin%20Leads%20a%20%2430M%20NSF%20Center%20on%20Human-Robot%20Co-Adaptation%0A%0ANSF%20is%20putting%20nearly%20%2430%20million%20into%20a%20UT%20Austin-led%20Science%20and%20Technology%20Center%20on%20how%20people%20and%20assistive%20robots%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnsf-human-robot-co-adaptation%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+UT Austin Leads a $30M NSF Center on Human-Robot Co-Adaptation
+
+NSF is putting nearly $30 million into a UT Austin-led Science and Technology Center on how people and assistive robots…
+
+https://mechafeed.com/blog/nsf-human-robot-co-adaptation/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## Pollen’s $399 Microduck Is a Desk Biped You Can Retrain
+
+- **Slug:** `pollen-microduck-399`
+- **Date:** 2026-08-29
+- **Category:** Deals
+- **Article:** https://mechafeed.com/blog/pollen-microduck-399/
+- **Chars:** 249/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Pollen%E2%80%99s%20%24399%20Microduck%20Is%20a%20Desk%20Biped%20You%20Can%20Retrain%0A%0AHugging%20Face%E2%80%99s%20Pollen%20Robotics%20opened%20%24399%20Microduck%20pre-orders%3A%20a%2025%20cm%20open-source-software%20biped%20that%20walks%2C%20skates%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpollen-microduck-399%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Pollen’s $399 Microduck Is a Desk Biped You Can Retrain
+
+Hugging Face’s Pollen Robotics opened $399 Microduck pre-orders: a 25 cm open-source-software biped that walks, skates,…
+
+https://mechafeed.com/blog/pollen-microduck-399/
+
+#Robotics #Humanoids
+```
+
+---
+
+## iCub in a Crib: Science Robotics Tests How Infants Learn Cause and Effect
+
+- **Slug:** `robot-in-crib-science-robotics`
+- **Date:** 2026-08-29
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/robot-in-crib-science-robotics/
+- **Chars:** 152/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=iCub%20in%20a%20Crib%3A%20Science%20Robotics%20Tests%20How%20Infants%20Learn%20Cause%20and%20Effect%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frobot-in-crib-science-robotics%2F%0A%0A%23RoboticsResearch)
+
+```
+iCub in a Crib: Science Robotics Tests How Infants Learn Cause and Effect
+
+https://mechafeed.com/blog/robot-in-crib-science-robotics/
+
+#RoboticsResearch
+```
+
+---
+
+## A Stick Insect’s Few Steps Taught a Hexapod to Walk
+
+- **Slug:** `tohoku-stick-insect-hexapod`
+- **Date:** 2026-08-29
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/tohoku-stick-insect-hexapod/
+- **Chars:** 248/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20Stick%20Insect%E2%80%99s%20Few%20Steps%20Taught%20a%20Hexapod%20to%20Walk%0A%0ATohoku%20and%20VISTEC%20used%20inverse%20RL%20on%20a%20handful%20of%20stick-insect%20steps%20so%20VISTEC%E2%80%99s%20RedMirror%20hexapod%20learned%20walking%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftohoku-stick-insect-hexapod%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+A Stick Insect’s Few Steps Taught a Hexapod to Walk
+
+Tohoku and VISTEC used inverse RL on a handful of stick-insect steps so VISTEC’s RedMirror hexapod learned walking,…
+
+https://mechafeed.com/blog/tohoku-stick-insect-hexapod/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Tsinghua Huoshen Beat Italy’s SPQR 10–1 in Large 5-a-Side
+
+- **Slug:** `tsinghua-huoshen-5v5-soccer`
+- **Date:** 2026-08-29
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/tsinghua-huoshen-5v5-soccer/
+- **Chars:** 261/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Tsinghua%20Huoshen%20Beat%20Italy%E2%80%99s%20SPQR%2010%E2%80%931%20in%20Large%205-a-Side%0A%0AANTARA%3A%20Tsinghua%E2%80%99s%20Huoshen%20team%20won%20the%20WHRG%20large-robot%205v5%20soccer%20final%2010%E2%80%931%20over%20SPQR%20of%20Italy%20on%20the%20last%20day%20in%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftsinghua-huoshen-5v5-soccer%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Tsinghua Huoshen Beat Italy’s SPQR 10–1 in Large 5-a-Side
+
+ANTARA: Tsinghua’s Huoshen team won the WHRG large-robot 5v5 soccer final 10–1 over SPQR of Italy on the last day in…
+
+https://mechafeed.com/blog/tsinghua-huoshen-5v5-soccer/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## UBTECH Sold 921 Full-Size Humanoids in H1, Revenue Still Unprofitable
+
+- **Slug:** `ubtech-h1-2026-humanoid-sales`
+- **Date:** 2026-08-29
+- **Category:** Industry
+- **Article:** https://mechafeed.com/blog/ubtech-h1-2026-humanoid-sales/
+- **Chars:** 277/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=UBTECH%20Sold%20921%20Full-Size%20Humanoids%20in%20H1%2C%20Revenue%20Still%20Unprofitable%0A%0AHKEX%20filing%3A%20UBTECH%E2%80%99s%20H1%20humanoid%20line%20did%20RMB%20590%20million%20on%20921%20units%2C%20%2B1%2C445%25%2C%20while%20the%20group%20still%20lost%20RMB%20339%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fubtech-h1-2026-humanoid-sales%2F%0A%0A%23RoboticsIndustry%20%23Humanoids)
+
+```
+UBTECH Sold 921 Full-Size Humanoids in H1, Revenue Still Unprofitable
+
+HKEX filing: UBTECH’s H1 humanoid line did RMB 590 million on 921 units, +1,445%, while the group still lost RMB 339…
+
+https://mechafeed.com/blog/ubtech-h1-2026-humanoid-sales/
+
+#RoboticsIndustry #Humanoids
+```
 
 ---
 
