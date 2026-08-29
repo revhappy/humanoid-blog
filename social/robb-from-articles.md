@@ -3,9 +3,53 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-29T12:53:28.622Z
+Generated: 2026-08-29T16:14:36.218Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## A Belt-Thumb Gripper Pulls Books Off Desks and Shelves
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/active-surface-gripper-books/
+
+### SOLO (no link)
+
+```
+A library is a meaner manipulation bench than a cube.  Pages separate, spines bind, shelves leave no room for a fat palm.
+```
+
+### SOFT-LINK variant
+
+```
+A library is a meaner manipulation bench than a cube.  Pages separate, spines bind, shelves leave no room for a fat palm.
+
+https://mechafeed.com/blog/active-surface-gripper-books/
+```
+
+---
+
+## Anthropic’s Model Hardware Standard Lets Claude Drive Lab Robots
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/anthropic-model-hardware-standard/
+
+### SOLO (no link)
+
+```
+A standard driver for arms and liquid handlers is more interesting than another “AI in the lab” slide.  The QuEra relock numbers are the receipt: same laser, shorter recovery, higher hit rate.
+```
+
+### SOFT-LINK variant
+
+```
+A standard driver for arms and liquid handlers is more interesting than another “AI in the lab” slide.  The QuEra relock numbers are the receipt: same laser, shorter recovery, higher hit rate.
+
+https://mechafeed.com/blog/anthropic-model-hardware-standard/
+```
 
 ---
 
@@ -27,6 +71,50 @@ Beating HTWK 9–0 and then 13–3 on a bigger pitch is not a cute exhibition sc
 Beating HTWK 9–0 and then 13–3 on a bigger pitch is not a cute exhibition scoreline.  It is a software stack that found the ball and the goal for 15-minute halves.
 
 https://mechafeed.com/blog/b-human-whrg-soccer/
+```
+
+---
+
+## CLAP Trains Video World Models Across Robot Bodies, Including G1
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/clap-cross-embodiment-world-models/
+
+### SOLO (no link)
+
+```
+Training one video model on mixed bodies is the scaling story robot-video people have been circling.  The G1 grid is the part I can actually look at: same table, same plate, predicted frames that are in the neighborhood of the real hand.
+```
+
+### SOFT-LINK variant
+
+```
+Training one video model on mixed bodies is the scaling story robot-video people have been circling.  The G1 grid is the part I can actually look at: same table, same plate, predicted frames that are …
+
+https://mechafeed.com/blog/clap-cross-embodiment-world-models/
+```
+
+---
+
+## Meta Is Testing Cable-Swapping Arms in Its Data Centers
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/meta-data-center-robots/
+
+### SOLO (no link)
+
+```
+A Kinova arm stabbing a power button is not the humanoid future.  It is the version that might actually ship, because the aisle is a known geometry and the task is repetitive.
+```
+
+### SOFT-LINK variant
+
+```
+A Kinova arm stabbing a power button is not the humanoid future.  It is the version that might actually ship, because the aisle is a known geometry and the task is repetitive.
+
+https://mechafeed.com/blog/meta-data-center-robots/
 ```
 
 ---
@@ -75,6 +163,50 @@ https://mechafeed.com/blog/pollen-microduck-399/
 
 ---
 
+## Syracuse Gets Stock Poppy Walking Without Holding Its Hands
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/poppy-humanoid-lqr-walking/
+
+### SOLO (no link)
+
+```
+I like papers that pick the cheap robot everyone already has and make it walk without a babysitter.  Five hertz and no IMU is a miserable plant, which is why the result is interesting.
+```
+
+### SOFT-LINK variant
+
+```
+I like papers that pick the cheap robot everyone already has and make it walk without a babysitter.  Five hertz and no IMU is a miserable plant, which is why the result is interesting.
+
+https://mechafeed.com/blog/poppy-humanoid-lqr-walking/
+```
+
+---
+
+## RAI’s AthenaZero Learns Five Juggling Patterns in Minutes
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/rai-athena-robot-juggling/
+
+### SOLO (no link)
+
+```
+Five patterns in minutes is a control result, not a circus act.  The prior could not juggle at all, which is the honest baseline.
+```
+
+### SOFT-LINK variant
+
+```
+Five patterns in minutes is a control result, not a circus act.  The prior could not juggle at all, which is the honest baseline.
+
+https://mechafeed.com/blog/rai-athena-robot-juggling/
+```
+
+---
+
 ## iCub in a Crib: Science Robotics Tests How Infants Learn Cause and Effect
 
 - Author on blog: Robb Harlan
@@ -93,6 +225,50 @@ I like this more than another parkour G1.  A robot that has to notice “this an
 I like this more than another parkour G1.  A robot that has to notice “this ankle moves the hanging thing” is closer to the problem of agency than a backflip is.
 
 https://mechafeed.com/blog/robot-in-crib-science-robotics/
+```
+
+---
+
+## Sharpa North Starts Blizzard Shifts at a Shanghai Dairy Queen
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/sharpa-north-dq-shanghai/
+
+### SOLO (no link)
+
+```
+A 55-step ice-cream SOP on stock Dairy Queen gear is a better test than another warehouse tote clip.  Cups deform, mixers fight you, and the room is full of customers.
+```
+
+### SOFT-LINK variant
+
+```
+A 55-step ice-cream SOP on stock Dairy Queen gear is a better test than another warehouse tote clip.  Cups deform, mixers fight you, and the room is full of customers.
+
+https://mechafeed.com/blog/sharpa-north-dq-shanghai/
+```
+
+---
+
+## SOLO Walks a Humanoid 1.5 km on One Chest Camera
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/solo-humanoid-locomotion/
+
+### SOLO (no link)
+
+```
+A kilometer and a half with one noisy chest camera is the sentence that matters.  Obstacle-course medals are fun; compounding error on mixed ground is the actual job.
+```
+
+### SOFT-LINK variant
+
+```
+A kilometer and a half with one noisy chest camera is the sentence that matters.  Obstacle-course medals are fun; compounding error on mixed ground is the actual job.
+
+https://mechafeed.com/blog/solo-humanoid-locomotion/
 ```
 
 ---

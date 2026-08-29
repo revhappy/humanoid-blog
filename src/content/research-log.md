@@ -3766,3 +3766,79 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Social:** tweets 371; robb-x 371
 - **Failures:** none; solid candidates 7 of target 8
 
+
+
+## 2026-08-29 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-29 | startedAt 09:00 local
+- git pull --rebase origin main: already up to date
+- Last published: 2026-08-28 morning 7 with pubDate 2026-08-29 (Pacific clock rolled) — **do not rehash**
+- No 2026-08-28 afternoon slot in the log
+- X list: https://x.com/i/lists/1805786050763087967 — **ACCESSIBLE via X keyword search (Latest)** this session (list:1805786050763087967). Public X keyword/semantic + web.
+
+### X List Scan
+- List posts visible (keyword Latest on list id 1805786050763087967)
+- @clankrmedia / quoted: Sharpa  + Dairy Queen deployment — **CANDIDATE** (build slant: ice-cream shift)
+- MIT excavator mini-arm controller (OLogic recirc) — skip, not humanoid/primary
+- Handroid recirc — **SKIP: already covered**
+- Microduck recirc — **SKIP: already covered**
+- Musashi joint skin recirc — **SKIP: already covered**
+- BeyondMimic recirc — **SKIP: already covered**
+- LUCID intent-from-video (June paper recirc) — skip, not this week
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Sharpa North DQ Shanghai 29 Aug + 4.5B yuan cumulative funding — sharpa.com + STCN + TechFlow — lane: **build** (service/capability; funding is secondary)
+2. **[CANDIDATE/WRITTEN]** Anthropic Model Hardware Standard 27 Aug — anthropic.com + Digital Trends + Reuters + WIRED + Ars — lane: **build**
+3. **[CANDIDATE/WRITTEN]** SOLO perceptive humanoid locomotion, 1.5 km chest-camera — arXiv:2608.26583 + project page — lane: **build**
+4. **[CANDIDATE/WRITTEN]** RAI AthenaZero five juggling patterns in minutes — arXiv:2608.26800 + YouTube — lane: **build**
+5. **[CANDIDATE/WRITTEN]** Poppy Humanoid LQR walking on stock hardware — arXiv:2608.26505 + GitHub — lane: **build**
+6. **[CANDIDATE/WRITTEN]** CLAP cross-embodiment video world models incl. G1 — arXiv:2608.27406 + project + GitHub + HF — lane: **build**
+7. **[CANDIDATE/WRITTEN]** Active-surface reconfigurable gripper (RSS 2026) — arXiv:2608.26883 — lane: **build**
+8. **[CANDIDATE/WRITTEN]** Meta data-center robots (Watney/Kinova/ABB) — WIRED 28 Aug + Kinova Gen3 specs — lane: **build** (how the machines work)
+9. **[SKIP: already covered]** NSF  / UT Austin co-adaptation center (yesterday)
+10. **[SKIP: already covered]** Microduck, BeyondMimic, Musashi skin, Handroid, WHRG splits, Figure Index, Honda hand
+11. **[SKIP: May news / recirc]** Locus–Nexera acquisition (May 19; Robot Report 28 Aug recap)
+12. **[SKIP: leftover Aug-6 drafts]** DreamWAM, UniX Panther, ZEALS D1, etc.
+13. **[SKIP: business mix]** Renesas Beijing lab BOM 30→70% (lab stills were logos); Hyundai dealer robots; Sharpa-as-funding-only angle
+14. **[SKIP: people.cn fetch failed]** used SOLO project-hosted WRC still instead
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | sharpa-north-dq-shanghai | Shar Hendrix | Humanoids | build |
+| 2 | anthropic-model-hardware-standard | Robb Harlan | AI | build |
+| 3 | solo-humanoid-locomotion | Shar Hendrix | Research | build |
+| 4 | rai-athena-robot-juggling | Robb Harlan | Robotics | build |
+| 5 | poppy-humanoid-lqr-walking | Shar Hendrix | Research | build |
+| 6 | clap-cross-embodiment-world-models | Robb Harlan | AI | build |
+| 7 | active-surface-gripper-books | Shar Hendrix | Robotics | build |
+| 8 | meta-data-center-robots | Robb Harlan | Robotics | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+- Sharpa funding mentioned only as context under a service/capability lede
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary + matching stills: **8** | Writing: **8**
+- Soft floor 3 met. Hit target 8.
+
+### Notes for Future Agents
+- Do not rewrite Sharpa DQ Wujiang launch, Anthropic MHS preview, SOLO 1.5 km, AthenaZero juggling, Poppy LQR walk, CLAP G1 world model, ZJU belt gripper, Meta DC robot pilots
+- Afternoon: do not rehash this morning eight
+- Leftover: Renesas Beijing lab still needs a robot/lab still from a cited page (logo-only skipped)
+- People.cn WRC still is hosted on the SOLO project page; direct people.cn fetch failed this session
+
+
+### Run summary
+- **Articles published (8):** sharpa-north-dq-shanghai, anthropic-model-hardware-standard, solo-humanoid-locomotion, rai-athena-robot-juggling, poppy-humanoid-lqr-walking, clap-cross-embodiment-world-models, active-surface-gripper-books, meta-data-center-robots
+- **pubDate:** 2026-08-29
+- **Skipped candidates:** NSF recirc, Microduck/BeyondMimic/Musashi/Handroid recirc, Locus-Nexera May deal recap, leftover Aug-6 drafts, Renesas lab (logo still), Hyundai dealers (business)
+- **X list accessible?** Y (keyword Latest on list id 1805786050763087967)
+- **Media verify:** PASS (
+pm run verify-media:today — 0 errors, 0 warnings on 15 posts dated today including prior 7)
+- **Vision gate:** PASS — Sharpa (North with Blizzard + blender + topping lid), Anthropic (microscope + MHS loop diagram + lab-setup comparison), SOLO (Tiangong Omni stepping stones + height-map figure), Juggling (five-pattern strobes + system/hardware), Poppy (harness scaffold + lab), CLAP (teaser collage + G1 GT vs pred), Gripper (desk+shelf hero + sequence), Meta (Kinova Gen3 product arms + WIRED editorial art)
+- **Social:** tweets 379; robb-x 379; organic queue appended
+- **Build:** PASS (astro build exit 0)
+- **Failures:** none; hit target 8 of 8

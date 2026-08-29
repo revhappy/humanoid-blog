@@ -457,3 +457,26 @@ GelSight Mini died in half a minute on their sander. The MIT cartridge lasted ho
 https://mechafeed.com/blog/durable-gelsight-fingertip/
 
 
+
+
+## 2026-08-29 Morning pipeline (append)
+
+### SOLO (no link)
+`
+A 55-step Blizzard on stock Dairy Queen hardware is a better test than another tote clip. Cups deform. Mixers fight you. Customers are in the room.
+`
+
+`
+Anthropic’s lab-robot driver is interesting if Universal Robots and LeRobot actually ship it. Until the file is public, it’s a preview with friendly labs.
+`
+
+`
+A humanoid walking 1.5 km with one noisy chest camera is the sentence. Obstacle-course medals are atmosphere.
+`
+
+### SOFT-LINK
+`
+RAI’s bimanual robot learned five juggling patterns in minutes. The prior model couldn’t complete a cycle. That’s the baseline I wanted.
+
+https://mechafeed.com/blog/rai-athena-robot-juggling/
+`

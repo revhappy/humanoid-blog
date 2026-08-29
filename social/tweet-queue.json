@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-29T12:53:28.614Z",
+  "generatedAt": "2026-08-29T16:14:34.902Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "active-surface-gripper-books",
+      "title": "A Belt-Thumb Gripper Pulls Books Off Desks and Shelves",
+      "pubDate": "2026-08-29",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/active-surface-gripper-books/",
+      "tweet": "A Belt-Thumb Gripper Pulls Books Off Desks and Shelves\n\nZhejiang University’s RSS 2026 gripper uses an active belt and two underactuated fingers to grasp books, paper, and…\n\nhttps://mechafeed.com/blog/active-surface-gripper-books/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=A%20Belt-Thumb%20Gripper%20Pulls%20Books%20Off%20Desks%20and%20Shelves%0A%0AZhejiang%20University%E2%80%99s%20RSS%202026%20gripper%20uses%20an%20active%20belt%20and%20two%20underactuated%20fingers%20to%20grasp%20books%2C%20paper%2C%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Factive-surface-gripper-books%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 252
+    },
+    {
+      "id": "anthropic-model-hardware-standard",
+      "title": "Anthropic’s Model Hardware Standard Lets Claude Drive Lab Robots",
+      "pubDate": "2026-08-29",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/anthropic-model-hardware-standard/",
+      "tweet": "Anthropic’s Model Hardware Standard Lets Claude Drive Lab Robots\n\nAnthropic opened a research preview of MHS, a driver spec so AI agents can run robotic arms, liquid handlers, and other…\n\nhttps://mechafeed.com/blog/anthropic-model-hardware-standard/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Anthropic%E2%80%99s%20Model%20Hardware%20Standard%20Lets%20Claude%20Drive%20Lab%20Robots%0A%0AAnthropic%20opened%20a%20research%20preview%20of%20MHS%2C%20a%20driver%20spec%20so%20AI%20agents%20can%20run%20robotic%20arms%2C%20liquid%20handlers%2C%20and%20other%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fanthropic-model-hardware-standard%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 265
+    },
     {
       "id": "b-human-whrg-soccer",
       "title": "Bremen’s B-Human Swept Two Humanoid Soccer Titles in Beijing",
@@ -11,6 +31,26 @@
       "tweet": "Bremen’s B-Human Swept Two Humanoid Soccer Titles in Beijing\n\nDFKI and the University of Bremen’s B-Human won the RCAP Masters 9–0 and the WHRG humanoid soccer final 13–3, both…\n\nhttps://mechafeed.com/blog/b-human-whrg-soccer/\n\n#HumanoidRobots #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=Bremen%E2%80%99s%20B-Human%20Swept%20Two%20Humanoid%20Soccer%20Titles%20in%20Beijing%0A%0ADFKI%20and%20the%20University%20of%20Bremen%E2%80%99s%20B-Human%20won%20the%20RCAP%20Masters%209%E2%80%930%20and%20the%20WHRG%20humanoid%20soccer%20final%2013%E2%80%933%2C%20both%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fb-human-whrg-soccer%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
       "chars": 254
+    },
+    {
+      "id": "clap-cross-embodiment-world-models",
+      "title": "CLAP Trains Video World Models Across Robot Bodies, Including G1",
+      "pubDate": "2026-08-29",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/clap-cross-embodiment-world-models/",
+      "tweet": "CLAP Trains Video World Models Across Robot Bodies, Including G1\n\nCLAP learns action-conditioned video physics from mixed human and robot footage, then few-shot adapts to a Unitree G1…\n\nhttps://mechafeed.com/blog/clap-cross-embodiment-world-models/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=CLAP%20Trains%20Video%20World%20Models%20Across%20Robot%20Bodies%2C%20Including%20G1%0A%0ACLAP%20learns%20action-conditioned%20video%20physics%20from%20mixed%20human%20and%20robot%20footage%2C%20then%20few-shot%20adapts%20to%20a%20Unitree%20G1%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fclap-cross-embodiment-world-models%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 264
+    },
+    {
+      "id": "meta-data-center-robots",
+      "title": "Meta Is Testing Cable-Swapping Arms in Its Data Centers",
+      "pubDate": "2026-08-29",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/meta-data-center-robots/",
+      "tweet": "Meta Is Testing Cable-Swapping Arms in Its Data Centers\n\nWIRED reports Meta is piloting Watney, Kinova Gen3, and ABB robots for cabling, power cycling, and reseating inside…\n\nhttps://mechafeed.com/blog/meta-data-center-robots/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Meta%20Is%20Testing%20Cable-Swapping%20Arms%20in%20Its%20Data%20Centers%0A%0AWIRED%20reports%20Meta%20is%20piloting%20Watney%2C%20Kinova%20Gen3%2C%20and%20ABB%20robots%20for%20cabling%2C%20power%20cycling%2C%20and%20reseating%20inside%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmeta-data-center-robots%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 248
     },
     {
       "id": "nsf-human-robot-co-adaptation",
@@ -33,6 +73,26 @@
       "chars": 249
     },
     {
+      "id": "poppy-humanoid-lqr-walking",
+      "title": "Syracuse Gets Stock Poppy Walking Without Holding Its Hands",
+      "pubDate": "2026-08-29",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/poppy-humanoid-lqr-walking/",
+      "tweet": "Syracuse Gets Stock Poppy Walking Without Holding Its Hands\n\nA closed-loop LQR controller learned from open-loop falls lifts unassisted walking on the standard 3D-printed Poppy…\n\nhttps://mechafeed.com/blog/poppy-humanoid-lqr-walking/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Syracuse%20Gets%20Stock%20Poppy%20Walking%20Without%20Holding%20Its%20Hands%0A%0AA%20closed-loop%20LQR%20controller%20learned%20from%20open-loop%20falls%20lifts%20unassisted%20walking%20on%20the%20standard%203D-printed%20Poppy%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpoppy-humanoid-lqr-walking%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 263
+    },
+    {
+      "id": "rai-athena-robot-juggling",
+      "title": "RAI’s AthenaZero Learns Five Juggling Patterns in Minutes",
+      "pubDate": "2026-08-29",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/rai-athena-robot-juggling/",
+      "tweet": "RAI’s AthenaZero Learns Five Juggling Patterns in Minutes\n\nA bimanual robot with three-fingered hands learns cascade, tennis, half-shower, shower, and box juggling in under five…\n\nhttps://mechafeed.com/blog/rai-athena-robot-juggling/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=RAI%E2%80%99s%20AthenaZero%20Learns%20Five%20Juggling%20Patterns%20in%20Minutes%0A%0AA%20bimanual%20robot%20with%20three-fingered%20hands%20learns%20cascade%2C%20tennis%2C%20half-shower%2C%20shower%2C%20and%20box%20juggling%20in%20under%20five%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frai-athena-robot-juggling%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 255
+    },
+    {
       "id": "robot-in-crib-science-robotics",
       "title": "iCub in a Crib: Science Robotics Tests How Infants Learn Cause and Effect",
       "pubDate": "2026-08-29",
@@ -41,6 +101,26 @@
       "tweet": "iCub in a Crib: Science Robotics Tests How Infants Learn Cause and Effect\n\nhttps://mechafeed.com/blog/robot-in-crib-science-robotics/\n\n#RoboticsResearch",
       "intent": "https://twitter.com/intent/tweet?text=iCub%20in%20a%20Crib%3A%20Science%20Robotics%20Tests%20How%20Infants%20Learn%20Cause%20and%20Effect%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frobot-in-crib-science-robotics%2F%0A%0A%23RoboticsResearch",
       "chars": 152
+    },
+    {
+      "id": "sharpa-north-dq-shanghai",
+      "title": "Sharpa North Starts Blizzard Shifts at a Shanghai Dairy Queen",
+      "pubDate": "2026-08-29",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/sharpa-north-dq-shanghai/",
+      "tweet": "Sharpa North Starts Blizzard Shifts at a Shanghai Dairy Queen\n\nSharpa’s North humanoid opened at DQ’s Wujiang Road store on Aug 29, running a 55-step Blizzard on the shop’s existing…\n\nhttps://mechafeed.com/blog/sharpa-north-dq-shanghai/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Sharpa%20North%20Starts%20Blizzard%20Shifts%20at%20a%20Shanghai%20Dairy%20Queen%0A%0ASharpa%E2%80%99s%20North%20humanoid%20opened%20at%20DQ%E2%80%99s%20Wujiang%20Road%20store%20on%20Aug%2029%2C%20running%20a%2055-step%20Blizzard%20on%20the%20shop%E2%80%99s%20existing%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsharpa-north-dq-shanghai%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 264
+    },
+    {
+      "id": "solo-humanoid-locomotion",
+      "title": "SOLO Walks a Humanoid 1.5 km on One Chest Camera",
+      "pubDate": "2026-08-29",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/solo-humanoid-locomotion/",
+      "tweet": "SOLO Walks a Humanoid 1.5 km on One Chest Camera\n\nA new perceptive locomotion stack completes a 1.5 km outdoor route and mixed indoor terrain using only chest depth and…\n\nhttps://mechafeed.com/blog/solo-humanoid-locomotion/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=SOLO%20Walks%20a%20Humanoid%201.5%20km%20on%20One%20Chest%20Camera%0A%0AA%20new%20perceptive%20locomotion%20stack%20completes%20a%201.5%20km%20outdoor%20route%20and%20mixed%20indoor%20terrain%20using%20only%20chest%20depth%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsolo-humanoid-locomotion%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 253
     },
     {
       "id": "tohoku-stick-insect-hexapod",
