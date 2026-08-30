@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-29T16:14:36.218Z
+Generated: 2026-08-30T03:19:45.090Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -97,6 +97,28 @@ https://mechafeed.com/blog/clap-cross-embodiment-world-models/
 
 ---
 
+## Menlo’s Asimov 1 Walks Zero-Shot From Sim, Onboard
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/menlo-asimov-zero-shot-sim2real/
+
+### SOLO (no link)
+
+```
+Zero-shot on several copies of the same open biped is the receipt I want from a “developer humanoid. ” If the robot is a hyperparameter, researchers will actually train on it.
+```
+
+### SOFT-LINK variant
+
+```
+Zero-shot on several copies of the same open biped is the receipt I want from a “developer humanoid. ” If the robot is a hyperparameter, researchers will actually train on it.
+
+https://mechafeed.com/blog/menlo-asimov-zero-shot-sim2real/
+```
+
+---
+
 ## Meta Is Testing Cable-Swapping Arms in Its Data Centers
 
 - Author on blog: Robb Harlan
@@ -137,6 +159,50 @@ Thirty million dollars is not a robot.  It is a permission slip to keep machines
 Thirty million dollars is not a robot.  It is a permission slip to keep machines in real homes and hospitals long enough to watch people change around them.
 
 https://mechafeed.com/blog/nsf-human-robot-co-adaptation/
+```
+
+---
+
+## Jetson Orin Nano 2: 78 TOPS, Same Board, Ships 2027
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/nvidia-jetson-orin-nano-2/
+
+### SOLO (no link)
+
+```
+Doubling TOPS in the same envelope is the kind of boring spec I want on a robot that cannot carry a 300-watt brick.  I also want the kit in a cart, not a slide.
+```
+
+### SOFT-LINK variant
+
+```
+Doubling TOPS in the same envelope is the kind of boring spec I want on a robot that cannot carry a 300-watt brick.  I also want the kit in a cart, not a slide.
+
+https://mechafeed.com/blog/nvidia-jetson-orin-nano-2/
+```
+
+---
+
+## Persona AI Wants Humanoids Welding Ships, Not Sorting Totes
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/persona-ai-shipyard-welding/
+
+### SOLO (no link)
+
+```
+A humanoid that pays for itself on a job humans already struggle to staff is a better thesis than a general-purpose intern.  Teleop welding in a Houston shop is not a Hyundai hull.
+```
+
+### SOFT-LINK variant
+
+```
+A humanoid that pays for itself on a job humans already struggle to staff is a better thesis than a general-purpose intern.  Teleop welding in a Houston shop is not a Hyundai hull.
+
+https://mechafeed.com/blog/persona-ai-shipyard-welding/
 ```
 
 ---
@@ -273,6 +339,28 @@ https://mechafeed.com/blog/solo-humanoid-locomotion/
 
 ---
 
+## Tennibot Partner Lite: Same AI Drills, $1,495, No Legs
+
+- Author on blog: Shar Hendrix
+- Category: Deals
+- Article: https://mechafeed.com/blog/tennibot-partner-lite/
+
+### SOLO (no link)
+
+```
+A $1,495 machine you can carry in one hand is a better commercial story than another $20,000 court robot that needs a van.  Stripping the drive base and keeping the cameras is an honest SKU.
+```
+
+### SOFT-LINK variant
+
+```
+A $1,495 machine you can carry in one hand is a better commercial story than another $20,000 court robot that needs a van.  Stripping the drive base and keeping the cameras is an honest SKU.
+
+https://mechafeed.com/blog/tennibot-partner-lite/
+```
+
+---
+
 ## A Stick Insect’s Few Steps Taught a Hexapod to Walk
 
 - Author on blog: Shar Hendrix
@@ -335,6 +423,50 @@ Nine hundred and twenty-one full-size bodies in a half year is a factory number,
 Nine hundred and twenty-one full-size bodies in a half year is a factory number, which is rarer than another demo reel.  It is also still a money-losing factory.
 
 https://mechafeed.com/blog/ubtech-h1-2026-humanoid-sales/
+```
+
+---
+
+## Unitree G1 EDU: Root Over Bluetooth, Two CVE Chains
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/unitree-g1-unibled-rce/
+
+### SOLO (no link)
+
+```
+A humanoid that walks, sees, and speaks is a moving Linux box with motors.  If BLE setup plus a cloud decrypt-any-serial endpoint can get you root, the “nearby” threat is not theoretical in a lab full of G1 EDUs.
+```
+
+### SOFT-LINK variant
+
+```
+A humanoid that walks, sees, and speaks is a moving Linux box with motors.  If BLE setup plus a cloud decrypt-any-serial endpoint can get you root, the “nearby” threat is not theoretical in a lab full of G1 EDUs.
+
+https://mechafeed.com/blog/unitree-g1-unibled-rce/
+```
+
+---
+
+## Xianglu’s 3K Vision Watches the Wok Instead of the Clock
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/xianglu-3k-vision-cooking/
+
+### SOLO (no link)
+
+```
+I like a robot that notices you dumped water in the sauce more than one that recites a recipe.  Watching reduction is a real control loop.
+```
+
+### SOFT-LINK variant
+
+```
+I like a robot that notices you dumped water in the sauce more than one that recites a recipe.  Watching reduction is a real control loop.
+
+https://mechafeed.com/blog/xianglu-3k-vision-cooking/
 ```
 
 ---

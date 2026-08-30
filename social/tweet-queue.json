@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T16:14:34.902Z",
+  "generatedAt": "2026-08-30T03:19:44.457Z",
   "site": "https://mechafeed.com/",
   "posts": [
     {
@@ -43,6 +43,16 @@
       "chars": 264
     },
     {
+      "id": "menlo-asimov-zero-shot-sim2real",
+      "title": "Menlo’s Asimov 1 Walks Zero-Shot From Sim, Onboard",
+      "pubDate": "2026-08-29",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/menlo-asimov-zero-shot-sim2real/",
+      "tweet": "Menlo’s Asimov 1 Walks Zero-Shot From Sim, Onboard\n\nMenlo Research says Asimov 1 now transfers flat-ground walking from simulation with no per-robot tuning, running 50 Hz…\n\nhttps://mechafeed.com/blog/menlo-asimov-zero-shot-sim2real/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Menlo%E2%80%99s%20Asimov%201%20Walks%20Zero-Shot%20From%20Sim%2C%20Onboard%0A%0AMenlo%20Research%20says%20Asimov%201%20now%20transfers%20flat-ground%20walking%20from%20simulation%20with%20no%20per-robot%20tuning%2C%20running%2050%20Hz%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmenlo-asimov-zero-shot-sim2real%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 262
+    },
+    {
       "id": "meta-data-center-robots",
       "title": "Meta Is Testing Cable-Swapping Arms in Its Data Centers",
       "pubDate": "2026-08-29",
@@ -61,6 +71,26 @@
       "tweet": "UT Austin Leads a $30M NSF Center on Human-Robot Co-Adaptation\n\nNSF is putting nearly $30 million into a UT Austin-led Science and Technology Center on how people and assistive robots…\n\nhttps://mechafeed.com/blog/nsf-human-robot-co-adaptation/\n\n#RoboticsResearch #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=UT%20Austin%20Leads%20a%20%2430M%20NSF%20Center%20on%20Human-Robot%20Co-Adaptation%0A%0ANSF%20is%20putting%20nearly%20%2430%20million%20into%20a%20UT%20Austin-led%20Science%20and%20Technology%20Center%20on%20how%20people%20and%20assistive%20robots%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnsf-human-robot-co-adaptation%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
       "chars": 273
+    },
+    {
+      "id": "nvidia-jetson-orin-nano-2",
+      "title": "Jetson Orin Nano 2: 78 TOPS, Same Board, Ships 2027",
+      "pubDate": "2026-08-29",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/nvidia-jetson-orin-nano-2/",
+      "tweet": "Jetson Orin Nano 2: 78 TOPS, Same Board, Ships 2027\n\nNVIDIA’s Jetson Orin Nano 2 doubles entry-level edge inference to 78 TOPS and cuts 15 W power 40%. Module and kit are…\n\nhttps://mechafeed.com/blog/nvidia-jetson-orin-nano-2/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Jetson%20Orin%20Nano%202%3A%2078%20TOPS%2C%20Same%20Board%2C%20Ships%202027%0A%0ANVIDIA%E2%80%99s%20Jetson%20Orin%20Nano%202%20doubles%20entry-level%20edge%20inference%20to%2078%20TOPS%20and%20cuts%2015%20W%20power%2040%25.%20Module%20and%20kit%20are%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnvidia-jetson-orin-nano-2%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 242
+    },
+    {
+      "id": "persona-ai-shipyard-welding",
+      "title": "Persona AI Wants Humanoids Welding Ships, Not Sorting Totes",
+      "pubDate": "2026-08-29",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/persona-ai-shipyard-welding/",
+      "tweet": "Persona AI Wants Humanoids Welding Ships, Not Sorting Totes\n\nIEEE Spectrum’s Evan Ackerman talks with Persona AI about shipyard welding as a first job, with HD Hyundai and POSCO as…\n\nhttps://mechafeed.com/blog/persona-ai-shipyard-welding/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Persona%20AI%20Wants%20Humanoids%20Welding%20Ships%2C%20Not%20Sorting%20Totes%0A%0AIEEE%20Spectrum%E2%80%99s%20Evan%20Ackerman%20talks%20with%20Persona%20AI%20about%20shipyard%20welding%20as%20a%20first%20job%2C%20with%20HD%20Hyundai%20and%20POSCO%20as%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpersona-ai-shipyard-welding%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 266
     },
     {
       "id": "pollen-microduck-399",
@@ -123,6 +153,16 @@
       "chars": 253
     },
     {
+      "id": "tennibot-partner-lite",
+      "title": "Tennibot Partner Lite: Same AI Drills, $1,495, No Legs",
+      "pubDate": "2026-08-29",
+      "category": "Deals",
+      "url": "https://mechafeed.com/blog/tennibot-partner-lite/",
+      "tweet": "Tennibot Partner Lite: Same AI Drills, $1,495, No Legs\n\nTennibot opened Partner Lite orders at $1,495: a 25 lb stationary AI ball machine with V2’s app and drills. Intro…\n\nhttps://mechafeed.com/blog/tennibot-partner-lite/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Tennibot%20Partner%20Lite%3A%20Same%20AI%20Drills%2C%20%241%2C495%2C%20No%20Legs%0A%0ATennibot%20opened%20Partner%20Lite%20orders%20at%20%241%2C495%3A%20a%2025%20lb%20stationary%20AI%20ball%20machine%20with%20V2%E2%80%99s%20app%20and%20drills.%20Intro%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftennibot-partner-lite%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 243
+    },
+    {
       "id": "tohoku-stick-insect-hexapod",
       "title": "A Stick Insect’s Few Steps Taught a Hexapod to Walk",
       "pubDate": "2026-08-29",
@@ -151,6 +191,26 @@
       "tweet": "UBTECH Sold 921 Full-Size Humanoids in H1, Revenue Still Unprofitable\n\nHKEX filing: UBTECH’s H1 humanoid line did RMB 590 million on 921 units, +1,445%, while the group still lost RMB 339…\n\nhttps://mechafeed.com/blog/ubtech-h1-2026-humanoid-sales/\n\n#RoboticsIndustry #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=UBTECH%20Sold%20921%20Full-Size%20Humanoids%20in%20H1%2C%20Revenue%20Still%20Unprofitable%0A%0AHKEX%20filing%3A%20UBTECH%E2%80%99s%20H1%20humanoid%20line%20did%20RMB%20590%20million%20on%20921%20units%2C%20%2B1%2C445%25%2C%20while%20the%20group%20still%20lost%20RMB%20339%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fubtech-h1-2026-humanoid-sales%2F%0A%0A%23RoboticsIndustry%20%23Humanoids",
       "chars": 277
+    },
+    {
+      "id": "unitree-g1-unibled-rce",
+      "title": "Unitree G1 EDU: Root Over Bluetooth, Two CVE Chains",
+      "pubDate": "2026-08-29",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/unitree-g1-unibled-rce/",
+      "tweet": "Unitree G1 EDU: Root Over Bluetooth, Two CVE Chains\n\nOlivier Laflamme disclosed two root RCE chains on Unitree’s G1 EDU, including a BLE path. The cloud key-recovery check…\n\nhttps://mechafeed.com/blog/unitree-g1-unibled-rce/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Unitree%20G1%20EDU%3A%20Root%20Over%20Bluetooth%2C%20Two%20CVE%20Chains%0A%0AOlivier%20Laflamme%20disclosed%20two%20root%20RCE%20chains%20on%20Unitree%E2%80%99s%20G1%20EDU%2C%20including%20a%20BLE%20path.%20The%20cloud%20key-recovery%20check%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Funitree-g1-unibled-rce%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 252
+    },
+    {
+      "id": "xianglu-3k-vision-cooking",
+      "title": "Xianglu’s 3K Vision Watches the Wok Instead of the Clock",
+      "pubDate": "2026-08-29",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/xianglu-3k-vision-cooking/",
+      "tweet": "Xianglu’s 3K Vision Watches the Wok Instead of the Clock\n\nXianglu’s 3K Vision cooking robot uses three 40MP cameras and CookingMuse to retune heat, time, and stir when the dish…\n\nhttps://mechafeed.com/blog/xianglu-3k-vision-cooking/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Xianglu%E2%80%99s%203K%20Vision%20Watches%20the%20Wok%20Instead%20of%20the%20Clock%0A%0AXianglu%E2%80%99s%203K%20Vision%20cooking%20robot%20uses%20three%2040MP%20cameras%20and%20CookingMuse%20to%20retune%20heat%2C%20time%2C%20and%20stir%20when%20the%20dish%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fxianglu-3k-vision-cooking%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 254
     },
     {
       "id": "agibot-x2-whrg-medals",

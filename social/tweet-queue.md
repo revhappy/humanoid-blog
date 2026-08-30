@@ -14,8 +14,8 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-29T16:14:34.902Z
-Posts: 379
+Generated: 2026-08-30T03:19:44.457Z
+Posts: 385
 
 ---
 
@@ -103,6 +103,27 @@ https://mechafeed.com/blog/clap-cross-embodiment-world-models/
 
 ---
 
+## Menlo’s Asimov 1 Walks Zero-Shot From Sim, Onboard
+
+- **Slug:** `menlo-asimov-zero-shot-sim2real`
+- **Date:** 2026-08-29
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/menlo-asimov-zero-shot-sim2real/
+- **Chars:** 262/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Menlo%E2%80%99s%20Asimov%201%20Walks%20Zero-Shot%20From%20Sim%2C%20Onboard%0A%0AMenlo%20Research%20says%20Asimov%201%20now%20transfers%20flat-ground%20walking%20from%20simulation%20with%20no%20per-robot%20tuning%2C%20running%2050%20Hz%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmenlo-asimov-zero-shot-sim2real%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+Menlo’s Asimov 1 Walks Zero-Shot From Sim, Onboard
+
+Menlo Research says Asimov 1 now transfers flat-ground walking from simulation with no per-robot tuning, running 50 Hz…
+
+https://mechafeed.com/blog/menlo-asimov-zero-shot-sim2real/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
 ## Meta Is Testing Cable-Swapping Arms in Its Data Centers
 
 - **Slug:** `meta-data-center-robots`
@@ -141,6 +162,48 @@ NSF is putting nearly $30 million into a UT Austin-led Science and Technology Ce
 https://mechafeed.com/blog/nsf-human-robot-co-adaptation/
 
 #RoboticsResearch #Humanoids
+```
+
+---
+
+## Jetson Orin Nano 2: 78 TOPS, Same Board, Ships 2027
+
+- **Slug:** `nvidia-jetson-orin-nano-2`
+- **Date:** 2026-08-29
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/nvidia-jetson-orin-nano-2/
+- **Chars:** 242/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Jetson%20Orin%20Nano%202%3A%2078%20TOPS%2C%20Same%20Board%2C%20Ships%202027%0A%0ANVIDIA%E2%80%99s%20Jetson%20Orin%20Nano%202%20doubles%20entry-level%20edge%20inference%20to%2078%20TOPS%20and%20cuts%2015%20W%20power%2040%25.%20Module%20and%20kit%20are%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnvidia-jetson-orin-nano-2%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Jetson Orin Nano 2: 78 TOPS, Same Board, Ships 2027
+
+NVIDIA’s Jetson Orin Nano 2 doubles entry-level edge inference to 78 TOPS and cuts 15 W power 40%. Module and kit are…
+
+https://mechafeed.com/blog/nvidia-jetson-orin-nano-2/
+
+#AI #Humanoids
+```
+
+---
+
+## Persona AI Wants Humanoids Welding Ships, Not Sorting Totes
+
+- **Slug:** `persona-ai-shipyard-welding`
+- **Date:** 2026-08-29
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/persona-ai-shipyard-welding/
+- **Chars:** 266/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Persona%20AI%20Wants%20Humanoids%20Welding%20Ships%2C%20Not%20Sorting%20Totes%0A%0AIEEE%20Spectrum%E2%80%99s%20Evan%20Ackerman%20talks%20with%20Persona%20AI%20about%20shipyard%20welding%20as%20a%20first%20job%2C%20with%20HD%20Hyundai%20and%20POSCO%20as%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpersona-ai-shipyard-welding%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Persona AI Wants Humanoids Welding Ships, Not Sorting Totes
+
+IEEE Spectrum’s Evan Ackerman talks with Persona AI about shipyard welding as a first job, with HD Hyundai and POSCO as…
+
+https://mechafeed.com/blog/persona-ai-shipyard-welding/
+
+#HumanoidRobots #Humanoids
 ```
 
 ---
@@ -269,6 +332,27 @@ https://mechafeed.com/blog/solo-humanoid-locomotion/
 
 ---
 
+## Tennibot Partner Lite: Same AI Drills, $1,495, No Legs
+
+- **Slug:** `tennibot-partner-lite`
+- **Date:** 2026-08-29
+- **Category:** Deals
+- **Article:** https://mechafeed.com/blog/tennibot-partner-lite/
+- **Chars:** 243/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Tennibot%20Partner%20Lite%3A%20Same%20AI%20Drills%2C%20%241%2C495%2C%20No%20Legs%0A%0ATennibot%20opened%20Partner%20Lite%20orders%20at%20%241%2C495%3A%20a%2025%20lb%20stationary%20AI%20ball%20machine%20with%20V2%E2%80%99s%20app%20and%20drills.%20Intro%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftennibot-partner-lite%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Tennibot Partner Lite: Same AI Drills, $1,495, No Legs
+
+Tennibot opened Partner Lite orders at $1,495: a 25 lb stationary AI ball machine with V2’s app and drills. Intro…
+
+https://mechafeed.com/blog/tennibot-partner-lite/
+
+#Robotics #Humanoids
+```
+
+---
+
 ## A Stick Insect’s Few Steps Taught a Hexapod to Walk
 
 - **Slug:** `tohoku-stick-insect-hexapod`
@@ -328,6 +412,48 @@ HKEX filing: UBTECH’s H1 humanoid line did RMB 590 million on 921 units, +1,44
 https://mechafeed.com/blog/ubtech-h1-2026-humanoid-sales/
 
 #RoboticsIndustry #Humanoids
+```
+
+---
+
+## Unitree G1 EDU: Root Over Bluetooth, Two CVE Chains
+
+- **Slug:** `unitree-g1-unibled-rce`
+- **Date:** 2026-08-29
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/unitree-g1-unibled-rce/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Unitree%20G1%20EDU%3A%20Root%20Over%20Bluetooth%2C%20Two%20CVE%20Chains%0A%0AOlivier%20Laflamme%20disclosed%20two%20root%20RCE%20chains%20on%20Unitree%E2%80%99s%20G1%20EDU%2C%20including%20a%20BLE%20path.%20The%20cloud%20key-recovery%20check%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Funitree-g1-unibled-rce%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Unitree G1 EDU: Root Over Bluetooth, Two CVE Chains
+
+Olivier Laflamme disclosed two root RCE chains on Unitree’s G1 EDU, including a BLE path. The cloud key-recovery check…
+
+https://mechafeed.com/blog/unitree-g1-unibled-rce/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Xianglu’s 3K Vision Watches the Wok Instead of the Clock
+
+- **Slug:** `xianglu-3k-vision-cooking`
+- **Date:** 2026-08-29
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/xianglu-3k-vision-cooking/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Xianglu%E2%80%99s%203K%20Vision%20Watches%20the%20Wok%20Instead%20of%20the%20Clock%0A%0AXianglu%E2%80%99s%203K%20Vision%20cooking%20robot%20uses%20three%2040MP%20cameras%20and%20CookingMuse%20to%20retune%20heat%2C%20time%2C%20and%20stir%20when%20the%20dish%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fxianglu-3k-vision-cooking%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Xianglu’s 3K Vision Watches the Wok Instead of the Clock
+
+Xianglu’s 3K Vision cooking robot uses three 40MP cameras and CookingMuse to retune heat, time, and stir when the dish…
+
+https://mechafeed.com/blog/xianglu-3k-vision-cooking/
+
+#Robotics #Humanoids
 ```
 
 ---

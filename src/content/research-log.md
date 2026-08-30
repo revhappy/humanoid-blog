@@ -3842,3 +3842,70 @@ pm run verify-media:today — 0 errors, 0 warnings on 15 posts dated today inclu
 - **Social:** tweets 379; robb-x 379; organic queue appended
 - **Build:** PASS (astro build exit 0)
 - **Failures:** none; hit target 8 of 8
+
+## 2026-08-29 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json)
+- Date (Pacific): 2026-08-29 | startedAt 20:05 local
+- git pull --rebase origin main: already up to date
+- Morning this calendar day published **8** (Sharpa DQ, Anthropic MHS, SOLO, Athena juggling, Poppy LQR, CLAP, ZJU gripper, Meta DC robots) plus yesterday-morning 7 with pubDate 2026-08-29 — **do not rehash**
+- X list `https://x.com/i/lists/1805786050763087967`: **list: keyword search did not return a usable curated-list feed this session** (unrelated Latest noise). Owner lists at x.com/robbs2k/lists not loaded as a browseable page. Proceeded with public X keyword/semantic + web after that disclosure.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: HONOR Lightning photos/video from @aarai666 — **SKIP: WHRG recirc / 9.32 prep already in prior notes; 8.64 Ultra final already covered**
+- Public X: IEEE Spectrum Persona AI welding recirculation 29 Aug — **CANDIDATE** (uncovered on the blog)
+- Public X: SOLO 1.5 km recirc — **SKIP: morning**
+- Public X: Unitree G1 EDU security chatter — **CANDIDATE**
+- Clone Robotics Protoclone recirc — **SKIP: old**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** UniBLEed / Unitree G1 EDU CVE-2026-76639 + 76640 — boschko.ca 27 Aug + The Hacker News 28 Aug + Unitree G1 page — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Xianglu 3K Vision cooking robot — China Daily 24 Aug + CDHK 28 Aug + AP/Media OutReach — lane: **build**
+3. **[CANDIDATE/WRITTEN]** NVIDIA Jetson Orin Nano 2 — NVIDIA newsroom 25 Aug + AI Business 27 Aug + SiliconANGLE — lane: **build**
+4. **[CANDIDATE/WRITTEN]** Menlo Asimov 1 zero-shot sim2real — menlo.ai 27 Aug + Asimov 1 product page + Isaac Lab PR 7071 — lane: **build** (new development vs existing Asimov 1 kit article)
+5. **[CANDIDATE/WRITTEN]** Persona AI shipyard welding — IEEE Spectrum 17 Aug (X recirc 29 Aug) + Persona First Spark 8 Jul + YouTube — lane: **build** (uncovered)
+6. **[CANDIDATE/WRITTEN]** Tennibot Partner Lite $1,495 — tennibot.com Lite/specs/FAQ — lane: **build** (product + price)
+7. **[SKIP: already covered]** Morning eight; Microduck; NSF; UBTECH H1; WHRG splits; BeyondMimic; Sharpa DQ
+8. **[SKIP: leftover Aug-6 drafts]** DreamWAM, UniX Panther, ZEALS D1, etc.
+9. **[SKIP: business mix / recirc]** EXL–iMerit acquisition; Carbon LPM (Feb model + iMerit recap); Flagship 200 airport cleaners (units/scale); RobotWale Unitree-in-India (unverified aggregator)
+10. **[SKIP: still mismatch]** Hacker News UniBLEed art is a generic Bluetooth illustration, not a G1 — not used
+11. **[SKIP: V2 not Lite]** Tennibot astro still with drive base is Partner V2 — not used as Lite hero
+12. **[SKIP: sponsored / delayed]** OlloBot SS1 Kickstarter postpone
+13. **[SKIP: leftover]** CBS stereo (Figure warehouse still); Bosch Bühl building still
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | unitree-g1-unibled-rce | Robb Harlan | Humanoids | build |
+| 2 | xianglu-3k-vision-cooking | Shar Hendrix | Robotics | build |
+| 3 | nvidia-jetson-orin-nano-2 | Robb Harlan | AI | build |
+| 4 | menlo-asimov-zero-shot-sim2real | Shar Hendrix | Research | build |
+| 5 | persona-ai-shipyard-welding | Robb Harlan | Humanoids | build |
+| 6 | tennibot-partner-lite | Shar Hendrix | Deals | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary + matching stills: **6** | Writing: **6**
+- Soft floor 2 met. Hit target 6.
+
+### Notes for Future Agents
+- Do not rewrite UniBLEed/G1 EDU RCE, Xianglu 3K Vision, Jetson Orin Nano 2, Asimov zero-shot walking, Persona welding thesis, Partner Lite launch
+- Menlo Asimov **kit** article already exists; this post is the 27 Aug sim2real locomotion note only
+- Follow UniBLEed for a **named firmware** once Unitree publishes one
+- Orin Nano 2 does not ship until H1 2027
+- Persona welding is still teleop at ARC Specialties, not a Hyundai hull
+
+### Run summary
+- **Articles published (6):** unitree-g1-unibled-rce, xianglu-3k-vision-cooking, nvidia-jetson-orin-nano-2, menlo-asimov-zero-shot-sim2real, persona-ai-shipyard-welding, tennibot-partner-lite
+- **pubDate:** 2026-08-29
+- **Skipped candidates:** morning eight recirc, leftover Aug-6 drafts, EXL–iMerit, Carbon LPM recap, Flagship 200 units, OlloBot postpone, CBS/Bosch still mismatches, HONOR Lightning WHRG recirc, RobotWale India aggregator
+- **X list accessible?** N (list: Latest did not return a usable curated feed; disclosed, then public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 21 posts dated today)
+- **Vision gate:** PASS — G1 (official standing + squat stills; rejected THN Bluetooth illustration), Xianglu (3K wok station + WRC stage), Jetson (press desk kit + Orin module family), Asimov (omnidirectional walk grid + joint portraits + AMP diagram), Persona (IEEE teleop weld + YouTube torch close-up), Tennibot Lite (hopper tennis + stationary padel + hopper mechanism; rejected V2 wheeled still)
+- **Social:** tweets 385; robb-x 385
+- **Build:** PASS (astro build exit 0)
+- **Failures:** none; hit target 6 of 6
