@@ -4050,5 +4050,5 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Social:** tweets 399; robb-x 399
 - **Build:** PASS (astro build exit 0)
 - **Failures:** none; hit target 6 of 6
-- **Push:** pending
+- **Push:** SUCCESS (`9560bd1` → origin/main)
 
