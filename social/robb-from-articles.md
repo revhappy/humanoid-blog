@@ -3,9 +3,53 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-02T16:17:17.844Z
+Generated: 2026-09-02T21:16:26.696Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## AlphaBot 2 Pours Drinks in Lan Kwai Fong — Service Starts in Two Weeks
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/ai2-alphabot2-lan-kwai-fong/
+
+### SOLO (no link)
+
+```
+A robot that can pull a tap in Central is a better picture than another warehouse tote video.  I still want the two-week mark: does it take tablet tickets through a Friday night, or is this a photo call with a pour.
+```
+
+### SOFT-LINK variant
+
+```
+A robot that can pull a tap in Central is a better picture than another warehouse tote video.  I still want the two-week mark: does it take tablet tickets through a Friday night, or is this a photo call with a pour.
+
+https://mechafeed.com/blog/ai2-alphabot2-lan-kwai-fong/
+```
+
+---
+
+## ConsJump Sends a 22 kg Aliengo Through a Body-Sized Gate
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/consjump-aliengo-gate/
+
+### SOLO (no link)
+
+```
+A dog-sized robot clearing a dog-sized hole is the right demo for hierarchical control.  The VICON hall still does a lot of the localization work, and the gate is a high-contrast square, not a random doorway.
+```
+
+### SOFT-LINK variant
+
+```
+A dog-sized robot clearing a dog-sized hole is the right demo for hierarchical control.  The VICON hall still does a lot of the localization work, and the gate is a high-contrast square, not a random doorway.
+
+https://mechafeed.com/blog/consjump-aliengo-gate/
+```
 
 ---
 
@@ -27,6 +71,28 @@ Hooks and a lidar that actually looks up is how you get contact on geometry a he
 Hooks and a lidar that actually looks up is how you get contact on geometry a height map would erase.  Fourteen of fifteen is a lab score on three homemade ladders, including ones that shift when loaded, which I respect.
 
 https://mechafeed.com/blog/eth-humanoid-monkey-bars/
+```
+
+---
+
+## Facet-0 Puts Force in the VLA — 82% on Sub-Millimeter PC Assembly
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/facet-0-contact-rich-assembly/
+
+### SOLO (no link)
+
+```
+Most VLAs still treat force as an extra token they can ignore until the DIMM jams.  Predicting the wrench *with* the action, then paying the critic for a clean insert instead of a successful-looking shove, is the right objective for electronics.
+```
+
+### SOFT-LINK variant
+
+```
+Most VLAs still treat force as an extra token they can ignore until the DIMM jams.  Predicting the wrench *with* the action, then paying the critic for a clean insert instead of a successful-looking s…
+
+https://mechafeed.com/blog/facet-0-contact-rich-assembly/
 ```
 
 ---
@@ -75,6 +141,28 @@ https://mechafeed.com/blog/galbot-et1-preorders/
 
 ---
 
+## HIGEN RNM Puts the Humanoid Bottleneck in the Joint
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/higen-rnm-human-friendly-actuator/
+
+### SOLO (no link)
+
+```
+Standardized joints are how you stop every humanoid startup from reinventing a harmonic drive in a garage.  Sub-100 ms local stiffness is the spec I will remember, because that is the difference between a VLA that “knows” a collision and a hip that actually yields.
+```
+
+### SOFT-LINK variant
+
+```
+Standardized joints are how you stop every humanoid startup from reinventing a harmonic drive in a garage.  Sub-100 ms local stiffness is the spec I will remember, because that is the difference betwe…
+
+https://mechafeed.com/blog/higen-rnm-human-friendly-actuator/
+```
+
+---
+
 ## IHMC’s Alex Opens Doors You Can Edit While It Walks
 
 - Author on blog: Robb Harlan
@@ -119,6 +207,28 @@ https://mechafeed.com/blog/kaist-soft-3d-printed-hand/
 
 ---
 
+## Isaac Teleop Can Now Buzz a MANUS Glove Finger by Finger
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/manus-isaac-teleop-haptic/
+
+### SOLO (no link)
+
+```
+Finger tracking without touch is how a lot of “dexterous” datasets still get collected, and you can see it in the ginger grasps.  A five-motor buzz is not a fingertip taxel map, but it is a channel the operator can feel at sim rate.
+```
+
+### SOFT-LINK variant
+
+```
+Finger tracking without touch is how a lot of “dexterous” datasets still get collected, and you can see it in the ginger grasps.  A five-motor buzz is not a fingertip taxel map, but it is a channel th…
+
+https://mechafeed.com/blog/manus-isaac-teleop-haptic/
+```
+
+---
+
 ## Perceptron Opens Isaac 0.5, a 36B Robot Model
 
 - Author on blog: Shar Hendrix
@@ -137,6 +247,28 @@ Open weights plus a data-mix plot is more useful than another closed VLA teaser.
 Open weights plus a data-mix plot is more useful than another closed VLA teaser.  The 210× teleop claim is the one to stress-test: if a million hours of random video really collapses robot-hours that …
 
 https://mechafeed.com/blog/perceptron-isaac-05/
+```
+
+---
+
+## Petoi’s Quaddle Hits Kickstarter: a 4-Servo Desk Dog from $99
+
+- Author on blog: Shar Hendrix
+- Category: Deals
+- Article: https://mechafeed.com/blog/petoi-quaddle-kickstarter/
+
+### SOLO (no link)
+
+```
+Four servos and a $99 early-bird tag is the right shape for a desk quadruped: cheap enough to drop, open enough to reflash, and mechanically weird in a useful way.  I want to see whether the omnidirectional gait holds up once hundreds of kits leave the Petoi shop, not…
+```
+
+### SOFT-LINK variant
+
+```
+Four servos and a $99 early-bird tag is the right shape for a desk quadruped: cheap enough to drop, open enough to reflash, and mechanically weird in a useful way.  I want to see whether the omnidirec…
+
+https://mechafeed.com/blog/petoi-quaddle-kickstarter/
 ```
 
 ---

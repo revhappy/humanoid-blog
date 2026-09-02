@@ -3984,3 +3984,71 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Social:** tweets 393; robb-x 393
 - **Build:** PASS (astro build exit 0)
 - **Failures:** none; hit target 8 of 8
+
+## 2026-09-02 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json, startedAt 2026-09-02T14:00:04-07:00)
+- Date (Pacific): 2026-09-02
+- git pull --rebase origin main: already up to date
+- Morning this calendar day published **8** (Nexo, Skild S1, Isaac 0.5, KAIST DLP hand, OH! GYM Cohort 1, ETH PM-01 monkey bars, IHMC Alex runtime, Galbot ET1 pre-orders) — **do not rehash**
+- X list `https://x.com/i/lists/1805786050763087967`: **list: keyword search returned unrelated Latest noise, not a usable curated-list feed**. Owner lists at x.com/robbs2k/lists not loaded as a browseable page. Disclosed here; proceeded with public X semantic/keyword + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: @PetoiCamp Quaddle Kickstarter launch (today) — **CANDIDATE**
+- Public X: Galaxea NEXO recirc — **SKIP: morning**
+- Public X: 1X hand recirc — **SKIP: already covered**
+- Public X: ROBOTIS OH! GYM recirc — **SKIP: morning**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Petoi Quaddle Kickstarter, 4-servo kit from $99 — petoi.com + Kickstarter + YouTube — lane: **build**
+2. **[CANDIDATE/WRITTEN]** AI² AlphaBot 2 bartender at Lan Kwai Fong, 31 Aug — Sing Tao + IT Home + Huanqiu — lane: **build** (service/capability; distinct from existing AI² funding post)
+3. **[CANDIDATE/WRITTEN]** ConsJump Aliengo gate jump — arXiv:2608.19977 + IE 1 Sep + Wiley ADRR — lane: **build**
+4. **[CANDIDATE/WRITTEN]** HIGEN RNM Human-Friendly Actuator Platform — PR Newswire 31 Aug + Bastille — lane: **build**
+5. **[CANDIDATE/WRITTEN]** NVIDIA Isaac Teleop MANUS haptic path — NVIDIA docs + MANUS robotics/product + blog index — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Facet-0 contact-rich VLA, 82% PC assembly — arXiv:2609.01596 + project page — lane: **build**
+7. **[SKIP: already covered morning]** Nexo, Skild S1, Isaac 0.5, KAIST hand, OH! GYM, ETH monkey bars, IHMC Alex, Galbot ET1 pre-orders
+8. **[SKIP: already covered]** Microduck, BioflexBot, 1X hands, KAIST egg hand recirc, ROBOTIS flips recirc
+9. **[SKIP: business mix]** Minth/AGIBOT Serbia factory; Lyte $165M Series C; Visko $10M (video-gen + funding slant)
+10. **[SKIP: leftover / still mismatch]** CBS stereo warehouse still; Bosch Bühl building still
+11. **[SKIP: June/July recirc]** Aero Hand Open product launch (June); Walden $300M (July)
+12. **[SKIP: 163.com stills]** dingyue.ws.126.net fetches returned 194-byte stubs; used Sing Tao photos instead
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | petoi-quaddle-kickstarter | Shar Hendrix | Deals | build |
+| 2 | consjump-aliengo-gate | Robb Harlan | Research | build |
+| 3 | ai2-alphabot2-lan-kwai-fong | Shar Hendrix | Humanoids | build |
+| 4 | higen-rnm-human-friendly-actuator | Robb Harlan | Robotics | build |
+| 5 | manus-isaac-teleop-haptic | Shar Hendrix | AI | build |
+| 6 | facet-0-contact-rich-assembly | Robb Harlan | AI | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary + matching stills: **6** | Writing: **6**
+- Soft floor 2 met. Hit target 6.
+
+### Notes for Future Agents
+- Do not rewrite Quaddle Kickstarter launch, AlphaBot 2 Lan Kwai Fong pour, ConsJump Aliengo gate, HIGEN actuator platform, Isaac Teleop MANUS haptic path, Facet-0 PC-assembly paper
+- Follow Quaddle for a **funded/backer count** once Kickstarter is past the first day
+- Follow AlphaBot 2 for **actual two-week service start** (Zeman: ~mid-September)
+- HIGEN is parts-only until a **named robot** ships on these joints or CES 2027
+- Facet-0 project page has a live hour counter; paper number is ~1,000 h — use the paper for success rates
+- 163.com AlphaBot stills failed this session; Sing Tao photos worked
+
+### Run summary
+- **Articles published (6):** petoi-quaddle-kickstarter, consjump-aliengo-gate, ai2-alphabot2-lan-kwai-fong, higen-rnm-human-friendly-actuator, manus-isaac-teleop-haptic, facet-0-contact-rich-assembly
+- **pubDate:** 2026-09-02
+- **Skipped candidates:** morning eight recirc, Microduck/Bioflex/1X/KAIST recirc, Minth Serbia, Lyte $165M, Visko $10M, Aero Hand June launch, Walden July, CBS/Bosch leftovers
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 posts dated today including morning 8)
+- **Vision gate:** PASS — Quaddle (Builder/Buddy/Scout product stills), ConsJump (mid-air gate + D435i/NUC stack + sequence + gait/velocity), AlphaBot 2 (Sing Tao tap pour + gripper crop), HIGEN (six-actuator composite + exploded joint + size ladder), MANUS (Pro Haptic glove + Isaac Teleop flow + Tesollo DG-5F), Facet-0 (five-task teaser + CPU pick + sub-goal grid)
+- **Social:** tweets 399; robb-x 399
+- **Build:** PASS (astro build exit 0)
+- **Failures:** none; hit target 6 of 6
+- **Push:** pending
+

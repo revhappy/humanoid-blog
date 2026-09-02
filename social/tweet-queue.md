@@ -14,8 +14,50 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-02T16:14:18.596Z
-Posts: 393
+Generated: 2026-09-02T21:16:25.271Z
+Posts: 399
+
+---
+
+## AlphaBot 2 Pours Drinks in Lan Kwai Fong — Service Starts in Two Weeks
+
+- **Slug:** `ai2-alphabot2-lan-kwai-fong`
+- **Date:** 2026-09-02
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/ai2-alphabot2-lan-kwai-fong/
+- **Chars:** 277/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=AlphaBot%202%20Pours%20Drinks%20in%20Lan%20Kwai%20Fong%20%E2%80%94%20Service%20Starts%20in%20Two%20Weeks%0A%0AAI%C2%B2%20Robotics%20parked%20AlphaBot%202%20behind%20a%20Central%20bar%20on%20Aug%2031.%20Allan%20Zeman%20says%20tablet%20orders%20and%20pours%20start%20about%20two%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fai2-alphabot2-lan-kwai-fong%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+AlphaBot 2 Pours Drinks in Lan Kwai Fong — Service Starts in Two Weeks
+
+AI² Robotics parked AlphaBot 2 behind a Central bar on Aug 31. Allan Zeman says tablet orders and pours start about two…
+
+https://mechafeed.com/blog/ai2-alphabot2-lan-kwai-fong/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## ConsJump Sends a 22 kg Aliengo Through a Body-Sized Gate
+
+- **Slug:** `consjump-aliengo-gate`
+- **Date:** 2026-09-02
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/consjump-aliengo-gate/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ConsJump%20Sends%20a%2022%20kg%20Aliengo%20Through%20a%20Body-Sized%20Gate%0A%0AHKU%20and%20Oxford%E2%80%99s%20ConsJump%20policy%20jumps%20a%20Unitree%20Aliengo%20through%20a%20narrow%20gate%20at%202.5%20m%2Fs%20with%200.44%20s%20in%20the%20air.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fconsjump-aliengo-gate%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+ConsJump Sends a 22 kg Aliengo Through a Body-Sized Gate
+
+HKU and Oxford’s ConsJump policy jumps a Unitree Aliengo through a narrow gate at 2.5 m/s with 0.44 s in the air.
+
+https://mechafeed.com/blog/consjump-aliengo-gate/
+
+#RoboticsResearch #Humanoids
+```
 
 ---
 
@@ -36,6 +78,27 @@ ETH Zurich’s PM-01 policy jumps onto bars, brachiates at 0.5 m/s, and lands in
 https://mechafeed.com/blog/eth-humanoid-monkey-bars/
 
 #RoboticsResearch #Humanoids
+```
+
+---
+
+## Facet-0 Puts Force in the VLA — 82% on Sub-Millimeter PC Assembly
+
+- **Slug:** `facet-0-contact-rich-assembly`
+- **Date:** 2026-09-02
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/facet-0-contact-rich-assembly/
+- **Chars:** 261/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Facet-0%20Puts%20Force%20in%20the%20VLA%20%E2%80%94%2082%25%20on%20Sub-Millimeter%20PC%20Assembly%0A%0ANTU%E2%80%99s%20Facet-0%20predicts%20wrist%20wrench%20with%20each%20action%20chunk%20and%20hits%2082%25%20on%20five%20computer-assembly%20tasks%20versus%2015%25%20for%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffacet-0-contact-rich-assembly%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Facet-0 Puts Force in the VLA — 82% on Sub-Millimeter PC Assembly
+
+NTU’s Facet-0 predicts wrist wrench with each action chunk and hits 82% on five computer-assembly tasks versus 15% for…
+
+https://mechafeed.com/blog/facet-0-contact-rich-assembly/
+
+#AI #Humanoids
 ```
 
 ---
@@ -76,6 +139,27 @@ Galbot Opens ET1 Pre-Orders on 3 September
 Galbot will take pre-orders for ET1, its 1,230 mm, 30 kg biped on AstraBrain-WBC, starting 3 September. No price in the…
 
 https://mechafeed.com/blog/galbot-et1-preorders/
+
+#Robotics #Humanoids
+```
+
+---
+
+## HIGEN RNM Puts the Humanoid Bottleneck in the Joint
+
+- **Slug:** `higen-rnm-human-friendly-actuator`
+- **Date:** 2026-09-02
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/higen-rnm-human-friendly-actuator/
+- **Chars:** 256/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=HIGEN%20RNM%20Puts%20the%20Humanoid%20Bottleneck%20in%20the%20Joint%0A%0AHIGEN%20RNM%E2%80%99s%20Human-Friendly%20Actuator%20Platform%3A%20six%20joints%20from%2060%20to%20348%20Nm%2C%20sub-100%20ms%20local%20force%20response%2C%20CES%202027.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhigen-rnm-human-friendly-actuator%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+HIGEN RNM Puts the Humanoid Bottleneck in the Joint
+
+HIGEN RNM’s Human-Friendly Actuator Platform: six joints from 60 to 348 Nm, sub-100 ms local force response, CES 2027.
+
+https://mechafeed.com/blog/higen-rnm-human-friendly-actuator/
 
 #Robotics #Humanoids
 ```
@@ -124,6 +208,27 @@ https://mechafeed.com/blog/kaist-soft-3d-printed-hand/
 
 ---
 
+## Isaac Teleop Can Now Buzz a MANUS Glove Finger by Finger
+
+- **Slug:** `manus-isaac-teleop-haptic`
+- **Date:** 2026-09-02
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/manus-isaac-teleop-haptic/
+- **Chars:** 248/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Isaac%20Teleop%20Can%20Now%20Buzz%20a%20MANUS%20Glove%20Finger%20by%20Finger%0A%0ANVIDIA%E2%80%99s%20Isaac%20Teleop%20MANUS%20plugin%20reads%20haptic%20commands%20and%20drives%20five%20finger%20motors%2C%20closing%20the%20loop%20on%20sim%20teleop.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmanus-isaac-teleop-haptic%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Isaac Teleop Can Now Buzz a MANUS Glove Finger by Finger
+
+NVIDIA’s Isaac Teleop MANUS plugin reads haptic commands and drives five finger motors, closing the loop on sim teleop.
+
+https://mechafeed.com/blog/manus-isaac-teleop-haptic/
+
+#AI #Humanoids
+```
+
+---
+
 ## Perceptron Opens Isaac 0.5, a 36B Robot Model
 
 - **Slug:** `perceptron-isaac-05`
@@ -141,6 +246,27 @@ Ex-Meta FAIR researchers released Isaac 0.5: 36 billion parameters, 35 robot sys
 https://mechafeed.com/blog/perceptron-isaac-05/
 
 #AI #Humanoids
+```
+
+---
+
+## Petoi’s Quaddle Hits Kickstarter: a 4-Servo Desk Dog from $99
+
+- **Slug:** `petoi-quaddle-kickstarter`
+- **Date:** 2026-09-02
+- **Category:** Deals
+- **Article:** https://mechafeed.com/blog/petoi-quaddle-kickstarter/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Petoi%E2%80%99s%20Quaddle%20Hits%20Kickstarter%3A%20a%204-Servo%20Desk%20Dog%20from%20%2499%0A%0APetoi%20launched%20Quaddle%20on%20Kickstarter%20Sept%202%3A%20a%204-servo%20omnidirectional%20quadruped%20kit%20from%20%2499%2C%20running%20OpenCat.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpetoi-quaddle-kickstarter%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Petoi’s Quaddle Hits Kickstarter: a 4-Servo Desk Dog from $99
+
+Petoi launched Quaddle on Kickstarter Sept 2: a 4-servo omnidirectional quadruped kit from $99, running OpenCat.
+
+https://mechafeed.com/blog/petoi-quaddle-kickstarter/
+
+#Robotics #Humanoids
 ```
 
 ---
