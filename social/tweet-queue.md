@@ -14,8 +14,176 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-08-30T03:19:44.457Z
-Posts: 385
+Generated: 2026-09-02T16:14:18.596Z
+Posts: 393
+
+---
+
+## ETH Humanoid Swings Monkey Bars From Onboard Lidar
+
+- **Slug:** `eth-humanoid-monkey-bars`
+- **Date:** 2026-09-02
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/eth-humanoid-monkey-bars/
+- **Chars:** 248/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ETH%20Humanoid%20Swings%20Monkey%20Bars%20From%20Onboard%20Lidar%0A%0AETH%20Zurich%E2%80%99s%20PM-01%20policy%20jumps%20onto%20bars%2C%20brachiates%20at%200.5%20m%2Fs%2C%20and%20lands%20in%2014%20of%2015%20hardware%20trials%20using%20a%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Feth-humanoid-monkey-bars%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+ETH Humanoid Swings Monkey Bars From Onboard Lidar
+
+ETH Zurich’s PM-01 policy jumps onto bars, brachiates at 0.5 m/s, and lands in 14 of 15 hardware trials using a…
+
+https://mechafeed.com/blog/eth-humanoid-monkey-bars/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## Galaxea’s Nexo Puts Wheels Under a Dual-Arm Humanoid
+
+- **Slug:** `galaxea-nexo-wheeled-humanoid`
+- **Date:** 2026-09-02
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/galaxea-nexo-wheeled-humanoid/
+- **Chars:** 256/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Galaxea%E2%80%99s%20Nexo%20Puts%20Wheels%20Under%20a%20Dual-Arm%20Humanoid%0A%0AAt%20WRC%202026%2C%20Galaxea%20premiered%20Nexo%3A%2030%20DoF%2C%2020%20kg%20dual-arm%20payload%2C%208-hour%20runtime%2C%20aimed%20at%20packing%20and%20assembly%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgalaxea-nexo-wheeled-humanoid%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Galaxea’s Nexo Puts Wheels Under a Dual-Arm Humanoid
+
+At WRC 2026, Galaxea premiered Nexo: 30 DoF, 20 kg dual-arm payload, 8-hour runtime, aimed at packing and assembly…
+
+https://mechafeed.com/blog/galaxea-nexo-wheeled-humanoid/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Galbot Opens ET1 Pre-Orders on 3 September
+
+- **Slug:** `galbot-et1-preorders`
+- **Date:** 2026-09-02
+- **Category:** Deals
+- **Article:** https://mechafeed.com/blog/galbot-et1-preorders/
+- **Chars:** 236/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Galbot%20Opens%20ET1%20Pre-Orders%20on%203%20September%0A%0AGalbot%20will%20take%20pre-orders%20for%20ET1%2C%20its%201%2C230%20mm%2C%2030%20kg%20biped%20on%20AstraBrain-WBC%2C%20starting%203%20September.%20No%20price%20in%20the%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgalbot-et1-preorders%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Galbot Opens ET1 Pre-Orders on 3 September
+
+Galbot will take pre-orders for ET1, its 1,230 mm, 30 kg biped on AstraBrain-WBC, starting 3 September. No price in the…
+
+https://mechafeed.com/blog/galbot-et1-preorders/
+
+#Robotics #Humanoids
+```
+
+---
+
+## IHMC’s Alex Opens Doors You Can Edit While It Walks
+
+- **Slug:** `ihmc-alex-runtime-loco-manipulation`
+- **Date:** 2026-09-02
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/ihmc-alex-runtime-loco-manipulation/
+- **Chars:** 268/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=IHMC%E2%80%99s%20Alex%20Opens%20Doors%20You%20Can%20Edit%20While%20It%20Walks%0A%0AA%201%20September%20paper%20from%20IHMC%20and%20UWF%20shows%20Alex%20and%20Unitree%20H1-2%20running%20runtime-editable%20loco-manipulation%3A%2034-second%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fihmc-alex-runtime-loco-manipulation%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+IHMC’s Alex Opens Doors You Can Edit While It Walks
+
+A 1 September paper from IHMC and UWF shows Alex and Unitree H1-2 running runtime-editable loco-manipulation: 34-second…
+
+https://mechafeed.com/blog/ihmc-alex-runtime-loco-manipulation/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## KAIST’s Soft 3D-Printed Hand Lifts a Bottle and Holds an Egg
+
+- **Slug:** `kaist-soft-3d-printed-hand`
+- **Date:** 2026-09-02
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/kaist-soft-3d-printed-hand/
+- **Chars:** 256/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=KAIST%E2%80%99s%20Soft%203D-Printed%20Hand%20Lifts%20a%20Bottle%20and%20Holds%20an%20Egg%0A%0AKAIST%2C%20KIST%2C%20and%20SeoulTech%20used%20machine%20learning%20to%20print%20a%20rubber-like%20DLP%20resin%20that%20stretches%20more%20than%206%C3%97%2C%20then%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fkaist-soft-3d-printed-hand%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+KAIST’s Soft 3D-Printed Hand Lifts a Bottle and Holds an Egg
+
+KAIST, KIST, and SeoulTech used machine learning to print a rubber-like DLP resin that stretches more than 6×, then…
+
+https://mechafeed.com/blog/kaist-soft-3d-printed-hand/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Perceptron Opens Isaac 0.5, a 36B Robot Model
+
+- **Slug:** `perceptron-isaac-05`
+- **Date:** 2026-09-02
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/perceptron-isaac-05/
+- **Chars:** 230/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Perceptron%20Opens%20Isaac%200.5%2C%20a%2036B%20Robot%20Model%0A%0AEx-Meta%20FAIR%20researchers%20released%20Isaac%200.5%3A%2036%20billion%20parameters%2C%2035%20robot%20systems%2C%20open%20weights%2C%20and%20a%20scaling%20law%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fperceptron-isaac-05%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Perceptron Opens Isaac 0.5, a 36B Robot Model
+
+Ex-Meta FAIR researchers released Isaac 0.5: 36 billion parameters, 35 robot systems, open weights, and a scaling law…
+
+https://mechafeed.com/blog/perceptron-isaac-05/
+
+#AI #Humanoids
+```
+
+---
+
+## ROBOTIS OH! GYM! Puts Students on AI Sapiens K1
+
+- **Slug:** `robotis-oh-gym-cohort-1`
+- **Date:** 2026-09-02
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/robotis-oh-gym-cohort-1/
+- **Chars:** 248/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ROBOTIS%20OH!%20GYM!%20Puts%20Students%20on%20AI%20Sapiens%20K1%0A%0AFour%20university%20teams%20spent%20a%20month%20teaching%20ROBOTIS%E2%80%99s%20open%20K1%20humanoid%20obstacle%20runs%2C%20K-pop%2C%20taekwondo%2C%20and%20parkour.%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frobotis-oh-gym-cohort-1%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+ROBOTIS OH! GYM! Puts Students on AI Sapiens K1
+
+Four university teams spent a month teaching ROBOTIS’s open K1 humanoid obstacle runs, K-pop, taekwondo, and parkour.…
+
+https://mechafeed.com/blog/robotis-oh-gym-cohort-1/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Skild S1 Learns a 10-Minute Job From One Video
+
+- **Slug:** `skild-s1-in-context-learning`
+- **Date:** 2026-09-02
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/skild-s1-in-context-learning/
+- **Chars:** 241/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Skild%20S1%20Learns%20a%2010-Minute%20Job%20From%20One%20Video%0A%0ASkild%20AI%E2%80%99s%20S1%20foundation%20model%20runs%20unseen%20tasks%20up%20to%2010%20minutes%20from%20a%20single%20video%20prompt%2C%20with%20no%20fine-tuning%2C%20the%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fskild-s1-in-context-learning%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Skild S1 Learns a 10-Minute Job From One Video
+
+Skild AI’s S1 foundation model runs unseen tasks up to 10 minutes from a single video prompt, with no fine-tuning, the…
+
+https://mechafeed.com/blog/skild-s1-in-context-learning/
+
+#AI #Humanoids
+```
 
 ---
 

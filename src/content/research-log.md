@@ -3909,3 +3909,78 @@ pm run verify-media:today — 0 errors, 0 warnings on 15 posts dated today inclu
 - **Social:** tweets 385; robb-x 385
 - **Build:** PASS (astro build exit 0)
 - **Failures:** none; hit target 6 of 6
+
+## 2026-09-02 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json, startedAt 2026-09-02T09:00:02-07:00)
+- Date (Pacific): 2026-09-02
+- git pull --rebase origin main: already up to date
+- Last published: 2026-08-29 afternoon 6 (UniBLEed, Xianglu, Orin Nano 2, Asimov sim2real, Persona welding, Tennibot Lite) — **do not rehash**. Four-day gap (Aug 30–Sep 1) with no pipeline posts.
+- X list `https://x.com/i/lists/1805786050763087967`: **list: keyword search returned unrelated Latest noise, not a usable curated-list feed**. Owner lists at x.com/robbs2k/lists not loaded as a browseable page. Disclosed here; proceeded with public X semantic/keyword + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: @HumanoidRTech Galaxea NEXO wheeled humanoid at WRC — **CANDIDATE**
+- Public X: @heetezition IHMC/UWF loco-manipulation paper (H1-2 + Alex, 34 s door, 45 s ball sort) — **CANDIDATE**
+- Public X: @perceptroninc Isaac 0.5 YAM/SO-101 checkpoints — **CANDIDATE** (model launched 26 Aug; still uncovered)
+- Public X: ROBOTIS OH! GYM! student K1 motions — **CANDIDATE**
+- Public X: 1X hand recirc — **SKIP: already covered** (`1x-neo-hands-25-dof`)
+- Public X: NVIDIA Cosmos 3 Edge recirc (19 Aug blog) — **SKIP: not this week’s news**
+- Public X: BioflexBot recirc — **SKIP: already covered**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Galaxea Nexo wheeled dual-arm, 30 DoF / 20 kg / 8 h — PR Newswire via Bastille Post 24 Aug + AICrunchX 1 Sep — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Skild S1 in-context learning, 10-min unseen tasks — skild.ai/blogs/s1 + Robot Report 31 Aug — lane: **build**
+3. **[CANDIDATE/WRITTEN]** Perceptron Isaac 0.5 36B open-weight — company blog + HF + TechCrunch 26 Aug + AI Insider 31 Aug — lane: **build**
+4. **[CANDIDATE/WRITTEN]** KAIST/KIST/SeoulTech DLP soft hand, egg + 1 kg bottle — KAIST 1 Sep + IE + Nature Comm DOI — lane: **build**
+5. **[CANDIDATE/WRITTEN]** ROBOTIS OH! GYM! Cohort 1 (58 apply / 4 teams) — ROBOTIS docs + YouTube 31 Aug + KOREA WAVE 1 Sep — lane: **build**
+6. **[CANDIDATE/WRITTEN]** ETH PM-01 monkey-bar lidar traversal, 14/15 — arXiv:2608.29769 + project page — lane: **build**
+7. **[CANDIDATE/WRITTEN]** IHMC/UWF Alex runtime-editable loco-manipulation — arXiv:2609.01518 + HTML + YT playlist — lane: **build**
+8. **[CANDIDATE/WRITTEN]** Galbot ET1 pre-orders 3 Sep, 1230 mm / 30 kg — Gasgoo 1 Sep + KrASIA — lane: **build** (product/pre-order; not a funding story)
+9. **[SKIP: already covered]** Galbot ET1 WRC tennis (`galbot-et1-wrc`); this post is the pre-order date only
+10. **[SKIP: already covered]** BioflexBot; ROBOTIS K1 open-source/Hangang; WGRL dual-arm brachiation (different paper from ETH PM-01)
+11. **[SKIP: 2025 recirc]** Berkeley Humanoid Lite $5k — eWeek 1 Sep / Hackaday 30 Aug of RSS 2025 paper
+12. **[SKIP: leftover / still mismatch]** CBS stereo Science Robotics (prior notes: warehouse still); Bosch Bühl building still
+13. **[SKIP: business mix]** Minth/AGIBOT Serbia factory; Lyte $165M Series C (today, capital); Unitree IPO recirc; XPeng $900M already covered
+14. **[SKIP: RobotWale]** Tesla Optimus Gen 2 “unveils” — aggregator, not a primary
+15. **[SKIP: Cosmo 3 Edge]** NVIDIA blog 19 Aug, not a new hardware story this slot
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | galaxea-nexo-wheeled-humanoid | Shar Hendrix | Humanoids | build |
+| 2 | skild-s1-in-context-learning | Robb Harlan | AI | build |
+| 3 | perceptron-isaac-05 | Shar Hendrix | AI | build |
+| 4 | kaist-soft-3d-printed-hand | Shar Hendrix | Robotics | build |
+| 5 | robotis-oh-gym-cohort-1 | Shar Hendrix | Humanoids | build |
+| 6 | eth-humanoid-monkey-bars | Robb Harlan | Research | build |
+| 7 | ihmc-alex-runtime-loco-manipulation | Robb Harlan | Research | build |
+| 8 | galbot-et1-preorders | Shar Hendrix | Deals | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary + matching stills: **8** | Writing: **8**
+- Soft floor 3 met. Hit target 8.
+
+### Notes for Future Agents
+- Do not rewrite Nexo WRC premiere, Skild S1 ICL, Isaac 0.5 launch, KAIST DLP hand, OH! GYM Cohort 1, ETH PM-01 monkey bars, IHMC Alex runtime tree, Galbot ET1 **pre-order date**
+- Galbot ET1 **WRC tennis** article already exists; follow only if a **price / cart / ship window** appears
+- Rejected ROBOTIS `obstacle.png` / `fight.png` — promotional composites (UNIT-7 arena + K1 overlay), not Cohort 1 photos
+- ETH paper is **EngineAI PM-01 + hooks + E1R lidar**, not the U Tokyo WGRL dual-arm brachiator
+- Perceptron LIBERO 97.2% is company-table via AI Insider/Business Wire, not an independent re-run
+- Afternoon: do not rehash this morning eight
+
+### Run summary
+- **Articles published (8):** galaxea-nexo-wheeled-humanoid, skild-s1-in-context-learning, perceptron-isaac-05, kaist-soft-3d-printed-hand, robotis-oh-gym-cohort-1, eth-humanoid-monkey-bars, ihmc-alex-runtime-loco-manipulation, galbot-et1-preorders
+- **pubDate:** 2026-09-02
+- **Skipped candidates:** Berkeley Lite recirc, CBS/Bosch leftovers, Minth Serbia (business), Lyte $165M (business), Cosmos 3 Edge recirc, RobotWale Optimus, Bioflex/1X hand recirc
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (
+pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
+- **Vision gate:** PASS — Nexo (three wheeled dual-arm booth robots + GALAXEA booth), Skild (pancake / coffee / potting arm stations), Isaac (architecture + scaling-law contours), KAIST (egg/bottle gripper + design figure + scale grid), OH! GYM (K1+student YouTube still + seminar group + briefing room; rejected UNIT-7 composite obstacle.png), ETH (PM-01 hang/duck + jump-swing-land + slat duck), Alex (door traversal + UI ball lock + door-panel overlay), ET1 (armchair plaque + WRC stage)
+- **Social:** tweets 393; robb-x 393
+- **Build:** PASS (astro build exit 0)
+- **Failures:** none; hit target 8 of 8

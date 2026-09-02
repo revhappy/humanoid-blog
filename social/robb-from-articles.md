@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-08-30T03:19:45.090Z
+Generated: 2026-09-02T16:17:17.844Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## ETH Humanoid Swings Monkey Bars From Onboard Lidar
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/eth-humanoid-monkey-bars/
+
+### SOLO (no link)
+
+```
+Hooks and a lidar that actually looks up is how you get contact on geometry a height map would erase.  Fourteen of fifteen is a lab score on three homemade ladders, including ones that shift when loaded, which I respect.
+```
+
+### SOFT-LINK variant
+
+```
+Hooks and a lidar that actually looks up is how you get contact on geometry a height map would erase.  Fourteen of fifteen is a lab score on three homemade ladders, including ones that shift when loaded, which I respect.
+
+https://mechafeed.com/blog/eth-humanoid-monkey-bars/
+```
+
+---
+
+## Galaxea’s Nexo Puts Wheels Under a Dual-Arm Humanoid
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/galaxea-nexo-wheeled-humanoid/
+
+### SOLO (no link)
+
+```
+Wheels plus two arms is the boring configuration that actually finishes a packing cycle.  I like that Galaxea is willing to say so in a week when everyone else is posting sprint times.
+```
+
+### SOFT-LINK variant
+
+```
+Wheels plus two arms is the boring configuration that actually finishes a packing cycle.  I like that Galaxea is willing to say so in a week when everyone else is posting sprint times.
+
+https://mechafeed.com/blog/galaxea-nexo-wheeled-humanoid/
+```
+
+---
+
+## Galbot Opens ET1 Pre-Orders on 3 September
+
+- Author on blog: Shar Hendrix
+- Category: Deals
+- Article: https://mechafeed.com/blog/galbot-et1-preorders/
+
+### SOLO (no link)
+
+```
+A pre-order day without a price is a calendar hold, not a product.  1.
+```
+
+### SOFT-LINK variant
+
+```
+A pre-order day without a price is a calendar hold, not a product.  1.
+
+https://mechafeed.com/blog/galbot-et1-preorders/
+```
+
+---
+
+## IHMC’s Alex Opens Doors You Can Edit While It Walks
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/ihmc-alex-runtime-loco-manipulation/
+
+### SOLO (no link)
+
+```
+I have a soft spot for a tree you can patch while the robot is in the doorway.  Thirty-four seconds through a spring closer is a number I can compare.
+```
+
+### SOFT-LINK variant
+
+```
+I have a soft spot for a tree you can patch while the robot is in the doorway.  Thirty-four seconds through a spring closer is a number I can compare.
+
+https://mechafeed.com/blog/ihmc-alex-runtime-loco-manipulation/
+```
+
+---
+
+## KAIST’s Soft 3D-Printed Hand Lifts a Bottle and Holds an Egg
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/kaist-soft-3d-printed-hand/
+
+### SOLO (no link)
+
+```
+A lab hand that does egg *and* kilogram-bottle is the right demo for a new elastomer.  It is still a tethered pneumatic print, not a humanoid palm you can buy.
+```
+
+### SOFT-LINK variant
+
+```
+A lab hand that does egg *and* kilogram-bottle is the right demo for a new elastomer.  It is still a tethered pneumatic print, not a humanoid palm you can buy.
+
+https://mechafeed.com/blog/kaist-soft-3d-printed-hand/
+```
+
+---
+
+## Perceptron Opens Isaac 0.5, a 36B Robot Model
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/perceptron-isaac-05/
+
+### SOLO (no link)
+
+```
+Open weights plus a data-mix plot is more useful than another closed VLA teaser.  The 210× teleop claim is the one to stress-test: if a million hours of random video really collapses robot-hours that hard, labs with a camera budget just got a recipe.
+```
+
+### SOFT-LINK variant
+
+```
+Open weights plus a data-mix plot is more useful than another closed VLA teaser.  The 210× teleop claim is the one to stress-test: if a million hours of random video really collapses robot-hours that …
+
+https://mechafeed.com/blog/perceptron-isaac-05/
+```
+
+---
+
+## ROBOTIS OH! GYM! Puts Students on AI Sapiens K1
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/robotis-oh-gym-cohort-1/
+
+### SOLO (no link)
+
+```
+A month on a real 23-DoF humanoid is a better education than another year of watching Unitree clips.  The fallen taekwondo kick is the honest frame.
+```
+
+### SOFT-LINK variant
+
+```
+A month on a real 23-DoF humanoid is a better education than another year of watching Unitree clips.  The fallen taekwondo kick is the honest frame.
+
+https://mechafeed.com/blog/robotis-oh-gym-cohort-1/
+```
+
+---
+
+## Skild S1 Learns a 10-Minute Job From One Video
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/skild-s1-in-context-learning/
+
+### SOLO (no link)
+
+```
+A 66% unseen-task number against a 9% language baseline is a real gap if the eval is honest.  I still want the failure cases, not just the pancake that made the poster.
+```
+
+### SOFT-LINK variant
+
+```
+A 66% unseen-task number against a 9% language baseline is a real gap if the eval is honest.  I still want the failure cases, not just the pancake that made the poster.
+
+https://mechafeed.com/blog/skild-s1-in-context-learning/
+```
 
 ---
 
