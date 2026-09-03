@@ -14,8 +14,134 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-02T21:16:25.271Z
-Posts: 399
+Generated: 2026-09-03T21:15:25.274Z
+Posts: 405
+
+---
+
+## ETH’s ADAPT Turns Text Into Closed-Loop G1 Motion at 50 Hz
+
+- **Slug:** `adapt-eth-text-driven-humanoid`
+- **Date:** 2026-09-03
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/adapt-eth-text-driven-humanoid/
+- **Chars:** 262/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ETH%E2%80%99s%20ADAPT%20Turns%20Text%20Into%20Closed-Loop%20G1%20Motion%20at%2050%20Hz%0A%0AADAPT%20maps%20language%20to%20joint%20actions%20with%20a%20diffusion%20prior%20plus%20residual%20RL%2C%20deployed%20on%20a%20Unitree%20G1%20at%2050%20Hz.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fadapt-eth-text-driven-humanoid%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+ETH’s ADAPT Turns Text Into Closed-Loop G1 Motion at 50 Hz
+
+ADAPT maps language to joint actions with a diffusion prior plus residual RL, deployed on a Unitree G1 at 50 Hz.
+
+https://mechafeed.com/blog/adapt-eth-text-driven-humanoid/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## Lumos MOS 2 Puts a 50 kg Dual-Arm ‘AI Worker’ on Mitsubishi PLC Lines
+
+- **Slug:** `lumos-mos2-mitsubishi`
+- **Date:** 2026-09-03
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/lumos-mos2-mitsubishi/
+- **Chars:** 260/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Lumos%20MOS%202%20Puts%20a%2050%20kg%20Dual-Arm%20%E2%80%98AI%20Worker%E2%80%99%20on%20Mitsubishi%20PLC%20Lines%0A%0ALumos%20Robotics%E2%80%99%20MOS%202%20is%20a%201.65%20m%20wheeled%20dual-arm%20with%2050%20kg%20max%20payload%2C%20already%20on%20Mitsubishi%20Electric%20PLC%20lines.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flumos-mos2-mitsubishi%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Lumos MOS 2 Puts a 50 kg Dual-Arm ‘AI Worker’ on Mitsubishi PLC Lines
+
+Lumos Robotics’ MOS 2 is a 1.65 m wheeled dual-arm with 50 kg max payload, already on Mitsubishi Electric PLC lines.
+
+https://mechafeed.com/blog/lumos-mos2-mitsubishi/
+
+#Robotics #Humanoids
+```
+
+---
+
+## UMR Retargets Human Motion to Humanoids With Surface Point Clouds, Not Hand-Labeled Joints
+
+- **Slug:** `umr-humanoid-retargeting`
+- **Date:** 2026-09-03
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/umr-humanoid-retargeting/
+- **Chars:** 280/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=UMR%20Retargets%20Human%20Motion%20to%20Humanoids%20With%20Surface%20Point%20Clouds%2C%20Not%20Hand-Labeled%20Joints%0A%0AHKUST(GZ)%20and%20Noitom%E2%80%99s%20UMR%20learns%20dense%20surface%20correspondence%20so%20G1%2C%20H2%2C%20and%20T800%20share%20one%20retargeter.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fumr-humanoid-retargeting%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+UMR Retargets Human Motion to Humanoids With Surface Point Clouds, Not Hand-Labeled Joints
+
+HKUST(GZ) and Noitom’s UMR learns dense surface correspondence so G1, H2, and T800 share one retargeter.
+
+https://mechafeed.com/blog/umr-humanoid-retargeting/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## WM-LOCO Walks a G1 Across Stones, Stairs, and an 0.8 m Gap Onboard
+
+- **Slug:** `wm-loco-g1-footholds`
+- **Date:** 2026-09-03
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/wm-loco-g1-footholds/
+- **Chars:** 255/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=WM-LOCO%20Walks%20a%20G1%20Across%20Stones%2C%20Stairs%2C%20and%20an%200.8%20m%20Gap%20Onboard%0A%0AD-Robotics%E2%80%99%20WM-LOCO%20co-trains%20a%20world%20model%20with%20PPO%3B%20a%20Unitree%20G1%20hits%2093.3%25%20on%20stones%2C%20stairs%2C%20and%20a%20gap.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fwm-loco-g1-footholds%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+WM-LOCO Walks a G1 Across Stones, Stairs, and an 0.8 m Gap Onboard
+
+D-Robotics’ WM-LOCO co-trains a world model with PPO; a Unitree G1 hits 93.3% on stones, stairs, and a gap.
+
+https://mechafeed.com/blog/wm-loco-g1-footholds/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## TwinDEX Matches a Wearable Hand to the Robot So Data Doesn’t Need Retargeting
+
+- **Slug:** `x-square-twindex`
+- **Date:** 2026-09-03
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/x-square-twindex/
+- **Chars:** 262/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=TwinDEX%20Matches%20a%20Wearable%20Hand%20to%20the%20Robot%20So%20Data%20Doesn%E2%80%99t%20Need%20Retargeting%0A%0AX%20Square%20Robot%E2%80%99s%20TwinDEX%20pairs%20a%203-finger%2C%209-DoF%20wearable%20with%20a%20matching%20robot%20hand%20for%20robot-free%20dexterous%20data.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fx-square-twindex%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+TwinDEX Matches a Wearable Hand to the Robot So Data Doesn’t Need Retargeting
+
+X Square Robot’s TwinDEX pairs a 3-finger, 9-DoF wearable with a matching robot hand for robot-free dexterous data.
+
+https://mechafeed.com/blog/x-square-twindex/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Zeroth Opens Bridge Bookings: an 88 cm Humanoid Plus OpenBridge
+
+- **Slug:** `zeroth-bridge-openbridge`
+- **Date:** 2026-09-03
+- **Category:** Deals
+- **Article:** https://mechafeed.com/blog/zeroth-bridge-openbridge/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Zeroth%20Opens%20Bridge%20Bookings%3A%20an%2088%20cm%20Humanoid%20Plus%20OpenBridge%0A%0ASuzhou%E2%80%99s%20Zeroth%20launched%20Bridge%2C%20an%2088%20cm%2C%2013%20kg%20humanoid%2C%20with%20OpenBridge%20and%20Geek%20Edition%20bookings%20from%20Sept%202.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fzeroth-bridge-openbridge%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Zeroth Opens Bridge Bookings: an 88 cm Humanoid Plus OpenBridge
+
+Suzhou’s Zeroth launched Bridge, an 88 cm, 13 kg humanoid, with OpenBridge and Geek Edition bookings from Sept 2.
+
+https://mechafeed.com/blog/zeroth-bridge-openbridge/
+
+#Robotics #Humanoids
+```
 
 ---
 

@@ -4052,3 +4052,74 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Failures:** none; hit target 6 of 6
 - **Push:** SUCCESS (`9560bd1` → origin/main)
 
+## 2026-09-03 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json, startedAt 2026-09-03T14:00:02-07:00)
+- Date (Pacific): 2026-09-03
+- git pull --rebase origin main: already up to date
+- **No 2026-09-03 morning posts** (last published: 2026-09-02 morning 8 + afternoon 6). Do not rehash those 14.
+- Untracked leftover drafts dated 2026-08-06 (`dreamwam`, `explicit-language-memory-vla`, `mind-vla`, `safecast-vla`, `unix-panther-pizza`, `zeals-d1`) — **not part of this run; not committed**.
+- X list `https://x.com/i/lists/1805786050763087967`: **list: keyword search returned unrelated Latest noise, not a usable curated-list feed**. Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X semantic/keyword + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: @IntEngineering Zeroth Bridge / OpenBridge — **CANDIDATE**
+- Public X: @airytw Highlanders mass-production clip — **SKIP: already covered** (`mitsubishi-highlanders-humanoid-mass-production`)
+- Public X: Figure 03 ladder recirc — **SKIP: already covered** (`figure-f03-ladder-autonomous`)
+- Public X: ROBOTIS OH! GYM recirc — **SKIP: 9/2 morning**
+- Public X: IHMC Alex runtime paper — **SKIP: 9/2 morning**
+- Public X: Nori Robotics HN — **SKIP: already covered**
+- Public X: TwinDEX / X Square (web-confirmed 2 Sep) — **CANDIDATE**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Zeroth Bridge + OpenBridge Geek Edition bookings 2 Sep — ACCESS Newswire + IE + zeroth-openbridge.com + YouTube — lane: **build**
+2. **[CANDIDATE/WRITTEN]** X Square TwinDEX isomorphic 3-finger wearable/hand — PR Newswire 2 Sep + x2robot.com + YouTube — lane: **build**
+3. **[CANDIDATE/WRITTEN]** WM-LOCO G1 foothold locomotion, 93.3% onboard — arXiv:2609.02542 (2 Sep) — lane: **build**
+4. **[CANDIDATE/WRITTEN]** ETH ADAPT text-driven G1 control — arXiv:2609.00677 + project page (1 Sep) — lane: **build** (distinct from existing `adapt-humanoid-tennis`)
+5. **[CANDIDATE/WRITTEN]** Lumos MOS 2 50 kg dual-arm on Mitsubishi PLC lines — lumosbot.tech + Embodied Global 28 Aug — lane: **build**
+6. **[CANDIDATE/WRITTEN]** UMR surface-point-cloud humanoid retargeting — arXiv:2609.02134 (2 Sep) + HTML — lane: **build**
+7. **[SKIP: already covered 9/2]** Galaxea Nexo, Skild S1, Isaac 0.5, KAIST DLP hand, OH! GYM, ETH monkey bars, IHMC Alex, Galbot ET1 pre-orders, Quaddle, ConsJump, AlphaBot 2, HIGEN, MANUS haptic, Facet-0
+8. **[SKIP: already covered]** BioflexBot, 1X hands, Figure ladder, Highlanders, Nori, WALL-B WRC, Ant/Zeroth $73M funding (different from Bridge product)
+9. **[SKIP: thin specs]** Galileo X WRC mobility platform — PR Newswire 24 Aug + IE 2 Sep; almost no numbers
+10. **[SKIP: business mix]** Figure–Nscale $3.5B / 100k Vera Rubin GPUs (today, capital); Goldman Sachs forecast; Minth/AGIBOT Serbia; Chatham House bubble essay
+11. **[SKIP: recirc / thin fetch]** HONOR D1/A1 Malaysia 10 km (Aug 30–31; NST page empty this session); Berkeley Humanoid Lite 2025 recirc; Aero Hand Open
+12. **[SKIP: leftover still mismatch]** CBS stereo warehouse; Bosch Bühl building
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | zeroth-bridge-openbridge | Shar Hendrix | Deals | build |
+| 2 | x-square-twindex | Shar Hendrix | Robotics | build |
+| 3 | wm-loco-g1-footholds | Robb Harlan | Research | build |
+| 4 | adapt-eth-text-driven-humanoid | Robb Harlan | Research | build |
+| 5 | lumos-mos2-mitsubishi | Robb Harlan | Robotics | build |
+| 6 | umr-humanoid-retargeting | Shar Hendrix | Research | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary + matching stills: **6** | Writing: **6**
+- Soft floor 2 met. Hit target 6. Morning slot this calendar day did not publish.
+
+### Notes for Future Agents
+- Do not rewrite Zeroth Bridge launch/OpenBridge bookings, TwinDEX isomorphic hand, WM-LOCO G1 footholds, ETH ADAPT text-driven G1, Lumos MOS 2 Mitsubishi PLC, UMR point-cloud retargeting
+- Follow Zeroth for a **cart MSRP / ship window** (site shows founding access CNY 5,999; ACCESS says price varies by region)
+- Follow TwinDEX for the paper (“coming soon” on the project page) and a hard episode count
+- Figure–Nscale compute deal is **business**; skip unless the batch has room under 25%
+- Galileo X remains too spec-thin unless a product page with numbers appears
+- HONOR Malaysia 10 km still uncovered if a primary Honor post + usable stills show up
+- Rejected Zeroth YouTube thumbnail (smiling operator at a laptop, no robot)
+
+### Run summary
+- **Articles published (6):** zeroth-bridge-openbridge, x-square-twindex, wm-loco-g1-footholds, adapt-eth-text-driven-humanoid, lumos-mos2-mitsubishi, umr-humanoid-retargeting
+- **pubDate:** 2026-09-03
+- **Skipped candidates:** 9/2 fourteen recirc, Galileo X thin, Figure Nscale business, HONOR Malaysia thin fetch, Berkeley Lite recirc, Highlanders/ladder/Nori recirc
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 6 posts dated 2026-09-03)
+- **Vision gate:** PASS — Zeroth (product render + backflip + room still + VR teleop; rejected YT laptop-operator thumb), TwinDEX (wearable vs matched robot chemistry split), WM-LOCO (G1 stones / stairs / 0.8 m gap), ADAPT (G1 text-skill collage + residual-kick ablation), Lumos MOS 2 (front product + Mitsubishi inspection still), UMR (real G1 kick/ball/stairs composite + sim soccer clouds + multi-embodiment grid)
+- **Social:** tweets 405; robb-x 405
+- **Build:** PASS (astro build exit 0; new slugs rendered)
+- **Failures:** none; hit target 6 of 6
+

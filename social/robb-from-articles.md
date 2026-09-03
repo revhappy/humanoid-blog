@@ -3,9 +3,141 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-02T21:16:26.696Z
+Generated: 2026-09-03T21:15:38.679Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## ETH’s ADAPT Turns Text Into Closed-Loop G1 Motion at 50 Hz
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/adapt-eth-text-driven-humanoid/
+
+### SOLO (no link)
+
+```
+Fifty hertz from two DDIM steps is the part that makes this deployable instead of a renderer.  Residual RL buying success at the cost of a bit of semantic alignment is an honest trade.
+```
+
+### SOFT-LINK variant
+
+```
+Fifty hertz from two DDIM steps is the part that makes this deployable instead of a renderer.  Residual RL buying success at the cost of a bit of semantic alignment is an honest trade.
+
+https://mechafeed.com/blog/adapt-eth-text-driven-humanoid/
+```
+
+---
+
+## Lumos MOS 2 Puts a 50 kg Dual-Arm ‘AI Worker’ on Mitsubishi PLC Lines
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/lumos-mos2-mitsubishi/
+
+### SOLO (no link)
+
+```
+Wheels, 50 kg, eight-hour packs, and a named automaker line is the adult version of “humanoid in a factory. ” I want cycle time and how often a person still has to swap the end effector.
+```
+
+### SOFT-LINK variant
+
+```
+Wheels, 50 kg, eight-hour packs, and a named automaker line is the adult version of “humanoid in a factory. ” I want cycle time and how often a person still has to swap the end effector.
+
+https://mechafeed.com/blog/lumos-mos2-mitsubishi/
+```
+
+---
+
+## UMR Retargets Human Motion to Humanoids With Surface Point Clouds, Not Hand-Labeled Joints
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/umr-humanoid-retargeting/
+
+### SOLO (no link)
+
+```
+If the correspondence is learned once per robot, then every new mocap dump is just another clip through the same QP.  That is the scaling story I wanted from retargeting.
+```
+
+### SOFT-LINK variant
+
+```
+If the correspondence is learned once per robot, then every new mocap dump is just another clip through the same QP.  That is the scaling story I wanted from retargeting.
+
+https://mechafeed.com/blog/umr-humanoid-retargeting/
+```
+
+---
+
+## WM-LOCO Walks a G1 Across Stones, Stairs, and an 0.8 m Gap Onboard
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/wm-loco-g1-footholds/
+
+### SOLO (no link)
+
+```
+Zero percent versus high-80s on stones is the result I care about.  If the world-model feature is doing real look-ahead, that is a cheaper trick than another teacher-student ladder.
+```
+
+### SOFT-LINK variant
+
+```
+Zero percent versus high-80s on stones is the result I care about.  If the world-model feature is doing real look-ahead, that is a cheaper trick than another teacher-student ladder.
+
+https://mechafeed.com/blog/wm-loco-g1-footholds/
+```
+
+---
+
+## TwinDEX Matches a Wearable Hand to the Robot So Data Doesn’t Need Retargeting
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/x-square-twindex/
+
+### SOLO (no link)
+
+```
+Matching the glove to the hand is the interesting hardware move.  If the 5.
+```
+
+### SOFT-LINK variant
+
+```
+Matching the glove to the hand is the interesting hardware move.  If the 5.
+
+https://mechafeed.com/blog/x-square-twindex/
+```
+
+---
+
+## Zeroth Opens Bridge Bookings: an 88 cm Humanoid Plus OpenBridge
+
+- Author on blog: Shar Hendrix
+- Category: Deals
+- Article: https://mechafeed.com/blog/zeroth-bridge-openbridge/
+
+### SOLO (no link)
+
+```
+An 88 cm, 13 kg biped you can actually book is the right shape for a developer kit.  I care less about the “Android of robots” line than whether Robot Hub and Skill Hub stay public once the first Geek units leave Suzhou.
+```
+
+### SOFT-LINK variant
+
+```
+An 88 cm, 13 kg biped you can actually book is the right shape for a developer kit.  I care less about the “Android of robots” line than whether Robot Hub and Skill Hub stay public once the first Geek units leave Suzhou.
+
+https://mechafeed.com/blog/zeroth-bridge-openbridge/
+```
 
 ---
 
