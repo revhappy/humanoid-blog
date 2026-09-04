@@ -14,8 +14,29 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-04T16:14:57.396Z
-Posts: 413
+Generated: 2026-09-04T21:11:54.625Z
+Posts: 419
+
+---
+
+## AGIBOT Opens 11,430 Real Trajectories That Include the Failures
+
+- **Slug:** `agibot-world-2026-theme-3`
+- **Date:** 2026-09-04
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/agibot-world-2026-theme-3/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=AGIBOT%20Opens%2011%2C430%20Real%20Trajectories%20That%20Include%20the%20Failures%0A%0AWORLD%202026%20Theme%203%20gives%20researchers%2014%20tasks%20of%20expert%20demos%2C%201%2C024%20successful%20rollouts%2C%201%2C369%20failures%2C%20and%20human%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fagibot-world-2026-theme-3%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+AGIBOT Opens 11,430 Real Trajectories That Include the Failures
+
+WORLD 2026 Theme 3 gives researchers 14 tasks of expert demos, 1,024 successful rollouts, 1,369 failures, and human…
+
+https://mechafeed.com/blog/agibot-world-2026-theme-3/
+
+#AI #Humanoids
+```
 
 ---
 
@@ -80,6 +101,27 @@ https://mechafeed.com/blog/bridge-pathak-open-source-humanoid/
 
 ---
 
+## EGR Stops a VLA From Listening to the Wrong Camera
+
+- **Slug:** `egr-vla-modality`
+- **Date:** 2026-09-04
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/egr-vla-modality/
+- **Chars:** 231/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=EGR%20Stops%20a%20VLA%20From%20Listening%20to%20the%20Wrong%20Camera%0A%0AUNC%20and%20MERL%20add%20evidence-gated%20training%20so%20%CF%800.5%20ignores%20junk%20sensors.%20On%20Kinova%20arms%2C%20distractor%20success%20jumps%20from%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fegr-vla-modality%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+EGR Stops a VLA From Listening to the Wrong Camera
+
+UNC and MERL add evidence-gated training so π0.5 ignores junk sensors. On Kinova arms, distractor success jumps from…
+
+https://mechafeed.com/blog/egr-vla-modality/
+
+#AI #Humanoids
+```
+
+---
+
 ## FWBC-VLA Wipes a Board and Opens a Loaded Door Without a Force Sensor
 
 - **Slug:** `fwbc-vla-wheeled-legged`
@@ -116,6 +158,48 @@ Safe-Stop Asks Whether a Humanoid Should Hit the Brakes at All
 Berkeley, CMU, and Stanford train a G1 stop policy plus two stoppability critics, with 96.4% OOD stops and hardware…
 
 https://mechafeed.com/blog/humanoid-safe-stop-g1/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## Hypershell Halo Adds Powered Knees: Four Motors, $2,299, IFA 2026
+
+- **Slug:** `hypershell-halo-ifa`
+- **Date:** 2026-09-04
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/hypershell-halo-ifa/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Hypershell%20Halo%20Adds%20Powered%20Knees%3A%20Four%20Motors%2C%20%242%2C299%2C%20IFA%202026%0A%0AHypershell%E2%80%99s%20Halo%20full-leg%20exo%20coordinates%20hip%20and%20knee%20motors%20at%201%2C490%20W%20peak.%20Origin%20Edition%20pre-orders%20start%20at%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhypershell-halo-ifa%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Hypershell Halo Adds Powered Knees: Four Motors, $2,299, IFA 2026
+
+Hypershell’s Halo full-leg exo coordinates hip and knee motors at 1,490 W peak. Origin Edition pre-orders start at…
+
+https://mechafeed.com/blog/hypershell-halo-ifa/
+
+#Robotics #Humanoids
+```
+
+---
+
+## A Soft Arm That Tracks Its Whole Shape, Not Just the Tip
+
+- **Slug:** `koopman-soft-arm-shape`
+- **Date:** 2026-09-04
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/koopman-soft-arm-shape/
+- **Chars:** 260/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20Soft%20Arm%20That%20Tracks%20Its%20Whole%20Shape%2C%20Not%20Just%20the%20Tip%0A%0AArizona%20State%20researchers%20run%20Koopman%20MPC%20on%203-%20and%205-segment%20cable-driven%20arms%20at%200.6%20m%2Fs%2C%20with%20400%20g%20tip%20load%20and%20a%207%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fkoopman-soft-arm-shape%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+A Soft Arm That Tracks Its Whole Shape, Not Just the Tip
+
+Arizona State researchers run Koopman MPC on 3- and 5-segment cable-driven arms at 0.6 m/s, with 400 g tip load and a 7…
+
+https://mechafeed.com/blog/koopman-soft-arm-shape/
 
 #RoboticsResearch #Humanoids
 ```
@@ -160,6 +244,48 @@ Queen Mary’s multi-vine eversion robot grows a tool channel from the outside a
 https://mechafeed.com/blog/multi-vine-soft-robot-steering/
 
 #Robotics #Humanoids
+```
+
+---
+
+## Jizai Puts Palmimo DevKit on Sale: A Six-Legged Desk Robot You Drive in Python
+
+- **Slug:** `palmimo-devkit-early-access`
+- **Date:** 2026-09-04
+- **Category:** Deals
+- **Article:** https://mechafeed.com/blog/palmimo-devkit-early-access/
+- **Chars:** 275/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Jizai%20Puts%20Palmimo%20DevKit%20on%20Sale%3A%20A%20Six-Legged%20Desk%20Robot%20You%20Drive%20in%20Python%0A%0ATokyo%E2%80%99s%20Jizai%20opens%20early%20access%20to%20Palmimo%20DevKit%20at%20%C2%A5598%2C000%2C%20with%20a%2021-DoF%20tabletop%20body%2C%20Raspberry%20Pi%205%2C%20and%20an%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpalmimo-devkit-early-access%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Jizai Puts Palmimo DevKit on Sale: A Six-Legged Desk Robot You Drive in Python
+
+Tokyo’s Jizai opens early access to Palmimo DevKit at ¥598,000, with a 21-DoF tabletop body, Raspberry Pi 5, and an…
+
+https://mechafeed.com/blog/palmimo-devkit-early-access/
+
+#Robotics #Humanoids
+```
+
+---
+
+## WISE Only Imagines When the Robot Is About to Touch Something
+
+- **Slug:** `wise-vla-imagination`
+- **Date:** 2026-09-04
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/wise-vla-imagination/
+- **Chars:** 246/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=WISE%20Only%20Imagines%20When%20the%20Robot%20Is%20About%20to%20Touch%20Something%0A%0ATsinghua%20and%20BAAI%20schedule%20world-model%20rollouts%20at%20contact-heavy%20states.%20On%20a%20Galaxea%20R1%20Lite%2C%20%CF%800%20success%20rises%2017.5%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fwise-vla-imagination%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+WISE Only Imagines When the Robot Is About to Touch Something
+
+Tsinghua and BAAI schedule world-model rollouts at contact-heavy states. On a Galaxea R1 Lite, π0 success rises 17.5…
+
+https://mechafeed.com/blog/wise-vla-imagination/
+
+#AI #Humanoids
 ```
 
 ---

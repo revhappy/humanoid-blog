@@ -4192,4 +4192,70 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Build:** PASS (astro build exit 0; new slugs rendered)
 - **Failures:** none; hit target 8 of 8
 
+## 2026-09-04 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json, startedAt 2026-09-04T14:00:05-07:00)
+- Date (Pacific): 2026-09-04
+- git pull --rebase origin main: already up to date
+- Morning this calendar day published **8** (Pathak/Gupta Bridge, SmoothRL, FWBC-VLA, XR-2 1500h, ARTiS, MulDP, Safe-Stop G1, multi-vine) — **do not rehash**
+- X list `https://x.com/i/lists/1805786050763087967`: **list: Latest returned mixed timeline noise, not a usable curated-list feed**. Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X semantic/keyword + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: @maze_rapid Palmimo DevKit early access (3 Sep) — **CANDIDATE/WRITTEN**
+- Public X: ROBOTIS OH! GYM recirc — **SKIP: 9/2 morning**
+- Public X: Highlanders mass-production recirc — **SKIP: already covered**
+- Public X: Zeroth Bridge recirc — **SKIP: 9/3**
+- Public X: MetaBuddy $2,999 rumor via Decrypt data-center piece — **SKIP: not a consumer humanoid launch**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Jizai Palmimo DevKit early access, ¥598,000, 21-DoF tabletop — PR TIMES 3 Sep + palmimo.dev + GitHub — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Hypershell Halo four-motor full-leg exo at IFA, $2,299 — PR Newswire 3 Sep + Notebookcheck — lane: **build**
+3. **[CANDIDATE/WRITTEN]** AGIBOT WORLD 2026 Theme 3, 11,430 RL trajectories — IE 4 Sep + STCN 31 Aug + YouTube + HF — lane: **build**
+4. **[CANDIDATE/WRITTEN]** Koopman global+local shape control on 3/5-segment soft arms — arXiv:2609.03175 (2 Sep) — lane: **build**
+5. **[CANDIDATE/WRITTEN]** EGR evidence-gated VLA, Kinova 30%→85% under distractors — arXiv:2609.03142 (2 Sep) — lane: **build**
+6. **[CANDIDATE/WRITTEN]** WISE imagination scheduling for π0/π0.5 on Galaxea R1 Lite — arXiv:2609.03681 (3 Sep) — lane: **build**
+7. **[SKIP: already covered morning]** Pathak Bridge, SmoothRL, FWBC-VLA, XR-2, ARTiS, MulDP, Safe-Stop, multi-vine
+8. **[SKIP: already covered 9/2–9/3]** Nexo, Skild S1, Isaac 0.5, KAIST hand, OH! GYM, ETH monkey bars, IHMC Alex, Galbot ET1, Quaddle, ConsJump, AlphaBot 2, HIGEN, MANUS, Facet-0, Zeroth Bridge product, TwinDEX, WM-LOCO, ETH ADAPT, Lumos MOS 2, UMR, zeals-d1
+9. **[SKIP: business mix]** Hivebotics Abluo $6M Series A (today; morning also skipped); Figure–Nscale $3.5B; Lyte $165M
+10. **[SKIP: recirc / thin]** MINERVA stills still thin; Tenniix Pro IFA recirc of CES 2026 product; Omakase D1 already posted; FailBench name collision; QLAUN extended abstract from 2024
+11. **[SKIP: leftover]** ACEMATE S10 Pro tennis robot at IFA (product exists; did not need a 7th)
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | palmimo-devkit-early-access | Shar Hendrix | Deals | build |
+| 2 | hypershell-halo-ifa | Robb Harlan | Robotics | build |
+| 3 | agibot-world-2026-theme-3 | Shar Hendrix | AI | build |
+| 4 | koopman-soft-arm-shape | Robb Harlan | Research | build |
+| 5 | egr-vla-modality | Robb Harlan | AI | build |
+| 6 | wise-vla-imagination | Shar Hendrix | AI | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary + matching stills: **6** | Writing: **6**
+- Soft floor 2 met. Hit target 6.
+
+### Notes for Future Agents
+- Do not rewrite Palmimo DevKit early-access price/SDK, Hypershell Halo IFA launch, AGIBOT WORLD Theme 3 RL drop, Koopman shape-control paper, EGR VLA, WISE π0 post-training
+- Halo **mass** disagrees: PR Newswire 2.6 kg vs Notebookcheck 3.2 kg. **Ship window** disagrees: PR Newswire “November” vs Notebookcheck November 2027
+- Follow Palmimo for a cart MSRP change after the Early Builders lot
+- Follow AGIBOT Theme 3 if a dedicated HF subset page appears (viewer on AgiBotWorld2026 was broken this session)
+- Hivebotics Abluo $6M remains **business**; skip unless a capability-first lede + stills and the batch has room under 25%
+- MINERVA still uncovered if a usable still (≥400×200) appears
+
+### Run summary
+- **Articles published (6):** palmimo-devkit-early-access, hypershell-halo-ifa, agibot-world-2026-theme-3, koopman-soft-arm-shape, egr-vla-modality, wise-vla-imagination
+- **pubDate:** 2026-09-04
+- **Skipped candidates:** morning eight recirc, Hivebotics $6M business, MINERVA thin stills, Tenniix CES recirc, Omakase D1 already posted, FailBench name collision
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 posts dated 2026-09-04 including morning 8)
+- **Vision gate:** PASS — Palmimo (product still + PR TIMES graphic + desk wave), Halo (full-leg on hiker + harness LEDs + Shelly watch), AGIBOT Theme 3 (G2 home/warehouse + YouTube collage), Koopman (title hardware shapes + 5-seg tracking grid + hole-reach sequence), EGR (sim teaser + Kinova/GelSight hardware + SR bars), WISE (R1 Lite task grid + generalization knobs + failure/recovery)
+- **Social:** tweets 419; robb-x 419
+- **Build:** PASS (astro build exit 0; new slugs rendered)
+- **Failures:** none; hit target 6 of 6
+
 

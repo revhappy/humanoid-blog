@@ -3,9 +3,31 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-04T16:14:57.477Z
+Generated: 2026-09-04T21:11:56.290Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## AGIBOT Opens 11,430 Real Trajectories That Include the Failures
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/agibot-world-2026-theme-3/
+
+### SOLO (no link)
+
+```
+Most public robot datasets still look like a highlight reel.  Shipping 1,369 failed rollouts plus the human grab that saved the episode is the part I would actually train on.
+```
+
+### SOFT-LINK variant
+
+```
+Most public robot datasets still look like a highlight reel.  Shipping 1,369 failed rollouts plus the human grab that saved the episode is the part I would actually train on.
+
+https://mechafeed.com/blog/agibot-world-2026-theme-3/
+```
 
 ---
 
@@ -75,6 +97,28 @@ https://mechafeed.com/blog/bridge-pathak-open-source-humanoid/
 
 ---
 
+## EGR Stops a VLA From Listening to the Wrong Camera
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/egr-vla-modality/
+
+### SOLO (no link)
+
+```
+I have watched too many wrist cameras train a policy to “see” a table leg that is not the job.  EGR is a training-time scolding: if this camera is looking at the floor, stop using it.
+```
+
+### SOFT-LINK variant
+
+```
+I have watched too many wrist cameras train a policy to “see” a table leg that is not the job.  EGR is a training-time scolding: if this camera is looking at the floor, stop using it.
+
+https://mechafeed.com/blog/egr-vla-modality/
+```
+
+---
+
 ## FWBC-VLA Wipes a Board and Opens a Loaded Door Without a Force Sensor
 
 - Author on blog: Robb Harlan
@@ -119,6 +163,50 @@ https://mechafeed.com/blog/humanoid-safe-stop-g1/
 
 ---
 
+## Hypershell Halo Adds Powered Knees: Four Motors, $2,299, IFA 2026
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/hypershell-halo-ifa/
+
+### SOLO (no link)
+
+```
+Powered knees are the interesting part.  Hip-only consumer shells already exist; the question is whether four motors stay light enough that you still put the thing on for a real trail.
+```
+
+### SOFT-LINK variant
+
+```
+Powered knees are the interesting part.  Hip-only consumer shells already exist; the question is whether four motors stay light enough that you still put the thing on for a real trail.
+
+https://mechafeed.com/blog/hypershell-halo-ifa/
+```
+
+---
+
+## A Soft Arm That Tracks Its Whole Shape, Not Just the Tip
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/koopman-soft-arm-shape/
+
+### SOLO (no link)
+
+```
+Tip tracking is a vanity metric on a continuum arm.  If the middle of the body hits the porthole, you failed even if the last plate is on the waypoint.
+```
+
+### SOFT-LINK variant
+
+```
+Tip tracking is a vanity metric on a continuum arm.  If the middle of the body hits the porthole, you failed even if the last plate is on the waypoint.
+
+https://mechafeed.com/blog/koopman-soft-arm-shape/
+```
+
+---
+
 ## MulDP Lets a Go1 Plan Parkour, Not Just Avoid the Obstacle
 
 - Author on blog: Shar Hendrix
@@ -159,6 +247,50 @@ Steering a garden hose by growing a second hose is a delightful mechanism.  Near
 Steering a garden hose by growing a second hose is a delightful mechanism.  Nearly 90 degrees in a phantom is enough to make me watch the video.
 
 https://mechafeed.com/blog/multi-vine-soft-robot-steering/
+```
+
+---
+
+## Jizai Puts Palmimo DevKit on Sale: A Six-Legged Desk Robot You Drive in Python
+
+- Author on blog: Shar Hendrix
+- Category: Deals
+- Article: https://mechafeed.com/blog/palmimo-devkit-early-access/
+
+### SOLO (no link)
+
+```
+I like a robot that looks like a lamp table and answers `robot. wave()`.
+```
+
+### SOFT-LINK variant
+
+```
+I like a robot that looks like a lamp table and answers `robot. wave()`.
+
+https://mechafeed.com/blog/palmimo-devkit-early-access/
+```
+
+---
+
+## WISE Only Imagines When the Robot Is About to Touch Something
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/wise-vla-imagination/
+
+### SOLO (no link)
+
+```
+Imagining every frame is a tax.  Scheduling imagination for the grasp and the lid is closer to how a person actually thinks: walk over on autopilot, then pay attention.
+```
+
+### SOFT-LINK variant
+
+```
+Imagining every frame is a tax.  Scheduling imagination for the grasp and the lid is closer to how a person actually thinks: walk over on autopilot, then pay attention.
+
+https://mechafeed.com/blog/wise-vla-imagination/
 ```
 
 ---
