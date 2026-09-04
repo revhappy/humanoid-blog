@@ -4123,3 +4123,73 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Build:** PASS (astro build exit 0; new slugs rendered)
 - **Failures:** none; hit target 6 of 6
 
+## 2026-09-04 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json, startedAt 2026-09-04T09:00:03-07:00)
+- Date (Pacific): 2026-09-04
+- git pull --rebase origin main: already up to date
+- Last published: 2026-09-03 afternoon 6 (Zeroth Bridge, TwinDEX, WM-LOCO, ETH ADAPT, Lumos MOS 2, UMR) — **do not rehash**. No 2026-09-04 posts yet.
+- X list `https://x.com/i/lists/1805786050763087967`: **list: Latest returned mixed timeline noise, not a usable curated-list feed**. Owner lists at x.com/robbs2k/lists not loaded as a browseable page. Disclosed here; proceeded with public X semantic/keyword + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: @Astribot_Inc SmoothRL tech report + uncut footage — **CANDIDATE/WRITTEN**
+- Public X: Kabam supermarket patrol robots (Singapore chain) — **SKIP: thin primary / service recap**
+- Public X: Maker Faire OC Bearbot Automat 1 — **SKIP: event listing, thin specs**
+- Public X: Figure Index recirc — **SKIP: already covered** (`figure-index-helix-data`)
+- Public X: 1X hand recirc — **SKIP: already covered**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** CMU/Pathak/Gupta Bridge open-source humanoid, morphology-control co-design — arXiv:2609.03497 (3 Sep) + project site — lane: **build** (distinct from Zeroth Bridge product)
+2. **[CANDIDATE/WRITTEN]** Astribot SmoothRL async online RL — arXiv:2608.29768 + astribot.com + NetEase 4 Sep — lane: **build**
+3. **[CANDIDATE/WRITTEN]** FWBC-VLA sensorless force on Deep Robotics M20S — arXiv:2609.03889 — lane: **build**
+4. **[CANDIDATE/WRITTEN]** XR-2 1,500 h bimanual household + DAgger — arXiv:2609.03591 + Hugging Face — lane: **build**
+5. **[CANDIDATE/WRITTEN]** ARTiS jamming-palm disassembly gripper — arXiv:2609.03362 + project page + TASE DOI — lane: **build**
+6. **[CANDIDATE/WRITTEN]** MulDP Go1 parkour navigation, IROS 2026 — arXiv:2609.03984 — lane: **build**
+7. **[CANDIDATE/WRITTEN]** Safe-Stop G1 learned stoppability — arXiv:2609.02358 + project page — lane: **build**
+8. **[CANDIDATE/WRITTEN]** Multi-vine soft robot with external working channel — arXiv:2609.03758 (Hamlyn 2026) — lane: **build**
+9. **[SKIP: stills too small]** MINERVA 0.54M LIBERO policy — arXiv:2609.03715; only fig_tasks.png at 402×120, below hero min height
+10. **[SKIP: business mix / thin stills]** Hivebotics Abluo $6M Series A (today) — funding-first; product pages returned no usable stills this session
+11. **[SKIP: already covered 9/2–9/3]** Nexo, Skild S1, Isaac 0.5, KAIST hand, OH! GYM, ETH monkey bars, IHMC Alex, Galbot ET1, Quaddle, ConsJump, AlphaBot 2, HIGEN, MANUS, Facet-0, Zeroth Bridge product, TwinDEX, WM-LOCO, ETH ADAPT, Lumos MOS 2, UMR
+12. **[SKIP: recirc / old]** Berkeley Humanoid Lite $5k, BioflexBot, Gemini Robotics ER 2 (July), OpenAI humanoid confirmation (thin specs), Figure–Nscale $3.5B (business)
+13. **[SKIP: leftover]** FailBench VLM-judge paper (name collision with existing FailBench post)
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | bridge-pathak-open-source-humanoid | Shar Hendrix | Humanoids | build |
+| 2 | astribot-smoothrl-async-rl | Robb Harlan | AI | build |
+| 3 | fwbc-vla-wheeled-legged | Robb Harlan | AI | build |
+| 4 | xr2-1500-hours-bimanual | Shar Hendrix | AI | build |
+| 5 | artis-disassembly-gripper | Shar Hendrix | Robotics | build |
+| 6 | muldp-quadruped-parkour-nav | Shar Hendrix | Robotics | build |
+| 7 | humanoid-safe-stop-g1 | Robb Harlan | Research | build |
+| 8 | multi-vine-soft-robot-steering | Shar Hendrix | Robotics | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary + matching stills: **8** | Writing: **8**
+- Soft floor 3 met. Hit target 8.
+
+### Notes for Future Agents
+- Do not rewrite Pathak/Gupta Bridge (distinct from Zeroth Bridge product), SmoothRL, FWBC-VLA, XR-2 1500h, ARTiS gripper, MulDP Go1 parkour, Safe-Stop G1, multi-vine Hamlyn abstract
+- MINERVA LIBERO floor still uncovered if a usable still (≥400×200) appears
+- Hivebotics Abluo is **today** but funding-slanted; follow if a product still + capability lede is available
+- Figure–Nscale remains business; skip unless the batch has room under 25%
+- SmoothRL success-rate numbers also reported by NetEase Intelligent (4 Sep), citing the paper
+
+### Run summary
+- **Articles published (8):** bridge-pathak-open-source-humanoid, astribot-smoothrl-async-rl, fwbc-vla-wheeled-legged, xr2-1500-hours-bimanual, artis-disassembly-gripper, muldp-quadruped-parkour-nav, humanoid-safe-stop-g1, multi-vine-soft-robot-steering
+- **pubDate:** 2026-09-04
+- **Skipped candidates:** MINERVA (hero still 402×120), Hivebotics $6M (business + no stills), 9/2–9/3 recirc, Berkeley Lite, BioflexBot, Gemini ER 2 recirc, OpenAI humanoid thin, Figure–Nscale business, FailBench name collision
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts dated 2026-09-04)
+- **Vision gate:** PASS — Bridge (teaser backflip + keyframe grid + SMPL/Bumi/K1/Toddler/Bridge compare), SmoothRL (throw teaser + three-task grid + RL vs VLA failures), FWBC (M20S wipe/door rollouts + wipe ablation), XR-2 (X2W hardware + washer/fold strips + UMI home folds), ARTiS (screwdriver hero + tool grid + CAD), MulDP (1 km outdoor follow + Isaac Sim traces + outdoor obstacles), Safe-Stop (G1 stop/fall teaser + speed bars), Vine (dual-vine diagram + phantom/pipe stills)
+- **Social:** tweets 413; robb-x 413
+- **Build:** PASS (astro build exit 0; new slugs rendered)
+- **Failures:** none; hit target 8 of 8
+
+

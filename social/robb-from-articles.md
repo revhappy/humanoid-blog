@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-03T21:15:38.679Z
+Generated: 2026-09-04T16:14:57.477Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## ARTiS Jams a Soft Palm Around Screwdrivers, Drills, and Hammers
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/artis-disassembly-gripper/
+
+### SOLO (no link)
+
+```
+A gripper that is allowed to look like a hand *and* a suction bag is the right answer for a screwdriver you still have to hit with a hammer.  I care that they scored reorient-and-return, not a lift-and-smile.
+```
+
+### SOFT-LINK variant
+
+```
+A gripper that is allowed to look like a hand *and* a suction bag is the right answer for a screwdriver you still have to hit with a hammer.  I care that they scored reorient-and-return, not a lift-and-smile.
+
+https://mechafeed.com/blog/artis-disassembly-gripper/
+```
+
+---
+
+## Astribot’s SmoothRL Fine-Tunes a VLA While the Robot Is Still Moving
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/astribot-smoothrl-async-rl/
+
+### SOLO (no link)
+
+```
+If your VLA is slow enough to need async chunks, training it as if the whole chunk ran is a bookkeeping error.  SmoothRL’s move is petty in a good way: mark the frames, throw away the rest of the gradient.
+```
+
+### SOFT-LINK variant
+
+```
+If your VLA is slow enough to need async chunks, training it as if the whole chunk ran is a bookkeeping error.  SmoothRL’s move is petty in a good way: mark the frames, throw away the rest of the gradient.
+
+https://mechafeed.com/blog/astribot-smoothrl-async-rl/
+```
+
+---
+
+## CMU’s Bridge Is an 88 cm Open-Source Humanoid Co-Designed With Its Controller
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/bridge-pathak-open-source-humanoid/
+
+### SOLO (no link)
+
+```
+I like a kit that costs less than a used K1 and comes with the policy that made the joints worth stacking.  The useful claim is not “we open-sourced a humanoid.
+```
+
+### SOFT-LINK variant
+
+```
+I like a kit that costs less than a used K1 and comes with the policy that made the joints worth stacking.  The useful claim is not “we open-sourced a humanoid.
+
+https://mechafeed.com/blog/bridge-pathak-open-source-humanoid/
+```
+
+---
+
+## FWBC-VLA Wipes a Board and Opens a Loaded Door Without a Force Sensor
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/fwbc-vla-wheeled-legged/
+
+### SOLO (no link)
+
+```
+I am here for “we refused to buy the wrist sensor. ” Residual torque is a messy proxy, and they treat it as one.
+```
+
+### SOFT-LINK variant
+
+```
+I am here for “we refused to buy the wrist sensor. ” Residual torque is a messy proxy, and they treat it as one.
+
+https://mechafeed.com/blog/fwbc-vla-wheeled-legged/
+```
+
+---
+
+## Safe-Stop Asks Whether a Humanoid Should Hit the Brakes at All
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/humanoid-safe-stop-g1/
+
+### SOLO (no link)
+
+```
+I have watched too many “just zero the velocity command” clips end in a kneel.  Asking “can I stop from here?
+```
+
+### SOFT-LINK variant
+
+```
+I have watched too many “just zero the velocity command” clips end in a kneel.  Asking “can I stop from here?
+
+https://mechafeed.com/blog/humanoid-safe-stop-g1/
+```
+
+---
+
+## MulDP Lets a Go1 Plan Parkour, Not Just Avoid the Obstacle
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/muldp-quadruped-parkour-nav/
+
+### SOLO (no link)
+
+```
+Parkour without a joystick is the right demo for a local planner.  I like that they measure SPL and not just “it jumped once.
+```
+
+### SOFT-LINK variant
+
+```
+Parkour without a joystick is the right demo for a local planner.  I like that they measure SPL and not just “it jumped once.
+
+https://mechafeed.com/blog/muldp-quadruped-parkour-nav/
+```
+
+---
+
+## Two Vine Robots Share a Working Channel and Steer About 90 Degrees
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/multi-vine-soft-robot-steering/
+
+### SOLO (no link)
+
+```
+Steering a garden hose by growing a second hose is a delightful mechanism.  Nearly 90 degrees in a phantom is enough to make me watch the video.
+```
+
+### SOFT-LINK variant
+
+```
+Steering a garden hose by growing a second hose is a delightful mechanism.  Nearly 90 degrees in a phantom is enough to make me watch the video.
+
+https://mechafeed.com/blog/multi-vine-soft-robot-steering/
+```
+
+---
+
+## XR-2 Trains on 1,500 Hours of Two-Handed Housework, Then DAgger
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/xr2-1500-hours-bimanual/
+
+### SOLO (no link)
+
+```
+A thousand hours of people folding shirts in actual bedrooms is the part I would steal.  The robot hours are the part I would trust for a washer door.
+```
+
+### SOFT-LINK variant
+
+```
+A thousand hours of people folding shirts in actual bedrooms is the part I would steal.  The robot hours are the part I would trust for a washer door.
+
+https://mechafeed.com/blog/xr2-1500-hours-bimanual/
+```
 
 ---
 

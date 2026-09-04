@@ -14,8 +14,174 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-03T21:15:25.274Z
-Posts: 405
+Generated: 2026-09-04T16:14:57.396Z
+Posts: 413
+
+---
+
+## ARTiS Jams a Soft Palm Around Screwdrivers, Drills, and Hammers
+
+- **Slug:** `artis-disassembly-gripper`
+- **Date:** 2026-09-04
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/artis-disassembly-gripper/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ARTiS%20Jams%20a%20Soft%20Palm%20Around%20Screwdrivers%2C%20Drills%2C%20and%20Hammers%0A%0AAIST%20and%20Osaka%E2%80%99s%207-DoF%20gripper%20mixes%20a%20vacuum%20jamming%20palm%20with%20Fin-Ray%20fingertips%20and%20is%20accepted%20to%20IEEE%20TASE.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fartis-disassembly-gripper%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+ARTiS Jams a Soft Palm Around Screwdrivers, Drills, and Hammers
+
+AIST and Osaka’s 7-DoF gripper mixes a vacuum jamming palm with Fin-Ray fingertips and is accepted to IEEE TASE.
+
+https://mechafeed.com/blog/artis-disassembly-gripper/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Astribot’s SmoothRL Fine-Tunes a VLA While the Robot Is Still Moving
+
+- **Slug:** `astribot-smoothrl-async-rl`
+- **Date:** 2026-09-04
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/astribot-smoothrl-async-rl/
+- **Chars:** 260/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Astribot%E2%80%99s%20SmoothRL%20Fine-Tunes%20a%20VLA%20While%20the%20Robot%20Is%20Still%20Moving%0A%0ASmoothRL%20only%20backprops%20through%20the%20action%20chunk%20the%20Astribot%20S1%20actually%20executed%2C%20lifting%20throw%20success%20from%2039%25%20to%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fastribot-smoothrl-async-rl%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Astribot’s SmoothRL Fine-Tunes a VLA While the Robot Is Still Moving
+
+SmoothRL only backprops through the action chunk the Astribot S1 actually executed, lifting throw success from 39% to…
+
+https://mechafeed.com/blog/astribot-smoothrl-async-rl/
+
+#AI #Humanoids
+```
+
+---
+
+## CMU’s Bridge Is an 88 cm Open-Source Humanoid Co-Designed With Its Controller
+
+- **Slug:** `bridge-pathak-open-source-humanoid`
+- **Date:** 2026-09-04
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/bridge-pathak-open-source-humanoid/
+- **Chars:** 158/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=CMU%E2%80%99s%20Bridge%20Is%20an%2088%20cm%20Open-Source%20Humanoid%20Co-Designed%20With%20Its%20Controller%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fbridge-pathak-open-source-humanoid%2F%0A%0A%23HumanoidRobots)
+
+```
+CMU’s Bridge Is an 88 cm Open-Source Humanoid Co-Designed With Its Controller
+
+https://mechafeed.com/blog/bridge-pathak-open-source-humanoid/
+
+#HumanoidRobots
+```
+
+---
+
+## FWBC-VLA Wipes a Board and Opens a Loaded Door Without a Force Sensor
+
+- **Slug:** `fwbc-vla-wheeled-legged`
+- **Date:** 2026-09-04
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/fwbc-vla-wheeled-legged/
+- **Chars:** 257/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FWBC-VLA%20Wipes%20a%20Board%20and%20Opens%20a%20Loaded%20Door%20Without%20a%20Force%20Sensor%0A%0AA%20Deep%20Robotics%20M20S%20estimates%20contact%20from%20residual%20torque%2C%20then%20a%20VLA%20and%20whole-body%20compensator%20share%20that%20signal%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffwbc-vla-wheeled-legged%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+FWBC-VLA Wipes a Board and Opens a Loaded Door Without a Force Sensor
+
+A Deep Robotics M20S estimates contact from residual torque, then a VLA and whole-body compensator share that signal…
+
+https://mechafeed.com/blog/fwbc-vla-wheeled-legged/
+
+#AI #Humanoids
+```
+
+---
+
+## Safe-Stop Asks Whether a Humanoid Should Hit the Brakes at All
+
+- **Slug:** `humanoid-safe-stop-g1`
+- **Date:** 2026-09-04
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/humanoid-safe-stop-g1/
+- **Chars:** 261/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Safe-Stop%20Asks%20Whether%20a%20Humanoid%20Should%20Hit%20the%20Brakes%20at%20All%0A%0ABerkeley%2C%20CMU%2C%20and%20Stanford%20train%20a%20G1%20stop%20policy%20plus%20two%20stoppability%20critics%2C%20with%2096.4%25%20OOD%20stops%20and%20hardware%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhumanoid-safe-stop-g1%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+Safe-Stop Asks Whether a Humanoid Should Hit the Brakes at All
+
+Berkeley, CMU, and Stanford train a G1 stop policy plus two stoppability critics, with 96.4% OOD stops and hardware…
+
+https://mechafeed.com/blog/humanoid-safe-stop-g1/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## MulDP Lets a Go1 Plan Parkour, Not Just Avoid the Obstacle
+
+- **Slug:** `muldp-quadruped-parkour-nav`
+- **Date:** 2026-09-04
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/muldp-quadruped-parkour-nav/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=MulDP%20Lets%20a%20Go1%20Plan%20Parkour%2C%20Not%20Just%20Avoid%20the%20Obstacle%0A%0AFudan%E2%80%99s%20diffusion%20navigator%20hits%2089.7%25%20sim%20success%20and%20a%201%20km%20outdoor%20follow%20on%20Unitree%20Go1%2C%20accepted%20to%20IROS%202026.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmuldp-quadruped-parkour-nav%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+MulDP Lets a Go1 Plan Parkour, Not Just Avoid the Obstacle
+
+Fudan’s diffusion navigator hits 89.7% sim success and a 1 km outdoor follow on Unitree Go1, accepted to IROS 2026.
+
+https://mechafeed.com/blog/muldp-quadruped-parkour-nav/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Two Vine Robots Share a Working Channel and Steer About 90 Degrees
+
+- **Slug:** `multi-vine-soft-robot-steering`
+- **Date:** 2026-09-04
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/multi-vine-soft-robot-steering/
+- **Chars:** 267/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Two%20Vine%20Robots%20Share%20a%20Working%20Channel%20and%20Steer%20About%2090%20Degrees%0A%0AQueen%20Mary%E2%80%99s%20multi-vine%20eversion%20robot%20grows%20a%20tool%20channel%20from%20the%20outside%20and%20turns%20by%20locking%20one%20vine%2C%20aimed%20at%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmulti-vine-soft-robot-steering%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Two Vine Robots Share a Working Channel and Steer About 90 Degrees
+
+Queen Mary’s multi-vine eversion robot grows a tool channel from the outside and turns by locking one vine, aimed at…
+
+https://mechafeed.com/blog/multi-vine-soft-robot-steering/
+
+#Robotics #Humanoids
+```
+
+---
+
+## XR-2 Trains on 1,500 Hours of Two-Handed Housework, Then DAgger
+
+- **Slug:** `xr2-1500-hours-bimanual`
+- **Date:** 2026-09-04
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/xr2-1500-hours-bimanual/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=XR-2%20Trains%20on%201%2C500%20Hours%20of%20Two-Handed%20Housework%2C%20Then%20DAgger%0A%0APrimeBot%20and%20Peking%20University%20open%20531.7%20robot%20hours%20plus%20~1%2C000%20UMI%20hours%2C%20then%20push%20clothes-folding%20success%20from%2058%25%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fxr2-1500-hours-bimanual%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+XR-2 Trains on 1,500 Hours of Two-Handed Housework, Then DAgger
+
+PrimeBot and Peking University open 531.7 robot hours plus ~1,000 UMI hours, then push clothes-folding success from 58%…
+
+https://mechafeed.com/blog/xr2-1500-hours-bimanual/
+
+#AI #Humanoids
+```
 
 ---
 
