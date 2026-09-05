@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-05T16:14:47.250Z
+Generated: 2026-09-05T21:12:53.061Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -27,6 +27,28 @@ Decoupling “what the sentence wants” from “whether this hand can close on 
 Decoupling “what the sentence wants” from “whether this hand can close on it” is the part I want copied.  Hands keep changing.
 
 https://mechafeed.com/blog/adarobovlg-cross-hand-grasp/
+```
+
+---
+
+## AGC-VLN Lets a Drone Draw the Map a Ground Robot Actually Drives
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/agc-vln-air-ground/
+
+### SOLO (no link)
+
+```
+I have watched too many “multi-agent VLA” papers glue two policies together and then act surprised when the errors multiply.  Drawing CAR and GOAL on the overhead frame is almost rude in its simplicity, and it is why the collaboration gain is positive.
+```
+
+### SOFT-LINK variant
+
+```
+I have watched too many “multi-agent VLA” papers glue two policies together and then act surprised when the errors multiply.  Drawing CAR and GOAL on the overhead frame is almost rude in its simplicit…
+
+https://mechafeed.com/blog/agc-vln-air-ground/
 ```
 
 ---
@@ -119,6 +141,50 @@ https://mechafeed.com/blog/hint-human-intent-manipulation/
 
 ---
 
+## LimX TRON 2 Torsos on Industrial Arms Nail Formwork and Tie Rebar
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/limx-zinova-tron2-construction/
+
+### SOLO (no link)
+
+```
+This is the first construction humanoid clip in a while that does not pretend the hard part is walking.  Nailing a board while the other arm holds it is a real two-handed task.
+```
+
+### SOFT-LINK variant
+
+```
+This is the first construction humanoid clip in a while that does not pretend the hard part is walking.  Nailing a board while the other arm holds it is a real two-handed task.
+
+https://mechafeed.com/blog/limx-zinova-tron2-construction/
+```
+
+---
+
+## UCL’s PAMoR Makes a G1’s Whole-Body Motion Carry Valence and Arousal
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/pamor-g1-affective-motion/
+
+### SOLO (no link)
+
+```
+I am so here for a humanoid that can punch “happily” without the prompt eating the punch.  Measuring expansion and energy from kinematics is a cleaner trick than hiring annotators to argue about sad walks.
+```
+
+### SOFT-LINK variant
+
+```
+I am so here for a humanoid that can punch “happily” without the prompt eating the punch.  Measuring expansion and energy from kinematics is a cleaner trick than hiring annotators to argue about sad walks.
+
+https://mechafeed.com/blog/pamor-g1-affective-motion/
+```
+
+---
+
 ## Print the Gripper to the Object: A Passive Tool Pipeline With Robot Motion Built In
 
 - Author on blog: Robb Harlan
@@ -181,6 +247,72 @@ I have watched too many “we trained on YouTube” papers retrieve the same cut
 I have watched too many “we trained on YouTube” papers retrieve the same cutting board because the wood grain matched.  RoboTok is the first one in this pile that argues with the fingers.
 
 https://mechafeed.com/blog/robotok-web-video-hands/
+```
+
+---
+
+## Osaka Trains a Unitree G1 to Scoot a Caster Chair Without Standing Up
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/stay-seated-g1-chair/
+
+### SOLO (no link)
+
+```
+This is the rare locomotion paper that made me laugh and then want the next clip.  A humanoid scooting an office chair with its feet is exactly the kind of contact mess that imitation datasets hate, and they trained it without a motion reference.
+```
+
+### SOFT-LINK variant
+
+```
+This is the rare locomotion paper that made me laugh and then want the next clip.  A humanoid scooting an office chair with its feet is exactly the kind of contact mess that imitation datasets hate, a…
+
+https://mechafeed.com/blog/stay-seated-g1-chair/
+```
+
+---
+
+## TRaIL-Odom Teaches Radar When a LiDAR Scan Goes Blind
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/trail-odom-radar-lidar/
+
+### SOLO (no link)
+
+```
+Radar-as-a-constant is how a lot of fusion still ships, and it is why adding a Doppler sensor sometimes makes the estimate worse in a nice courtyard.  Weighting the rays toward the blind axis is the kind of unglamorous estimator work that actually keeps a quadruped…
+```
+
+### SOFT-LINK variant
+
+```
+Radar-as-a-constant is how a lot of fusion still ships, and it is why adding a Doppler sensor sometimes makes the estimate worse in a nice courtyard.  Weighting the rays toward the blind axis is the k…
+
+https://mechafeed.com/blog/trail-odom-radar-lidar/
+```
+
+---
+
+## Tuya Unveils Doova, a Wheeled Elder-Care Companion, at IFA 2026
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/tuya-doova-ifa/
+
+### SOLO (no link)
+
+```
+I like that they picked a job a biped does not need: hear a shout, get across a room, and open a video line.  The 60-second timer is a concrete spec, which is more than most companion demos bother with.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they picked a job a biped does not need: hear a shout, get across a room, and open a video line.  The 60-second timer is a concrete spec, which is more than most companion demos bother with.
+
+https://mechafeed.com/blog/tuya-doova-ifa/
 ```
 
 ---

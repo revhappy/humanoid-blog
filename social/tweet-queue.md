@@ -14,8 +14,8 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-05T16:14:46.444Z
-Posts: 427
+Generated: 2026-09-05T21:12:23.291Z
+Posts: 433
 
 ---
 
@@ -34,6 +34,27 @@ AdaRoboVLG Splits Grasp Physics From Language, Then Shares the Policy Across Han
 https://mechafeed.com/blog/adarobovlg-cross-hand-grasp/
 
 #Robotics
+```
+
+---
+
+## AGC-VLN Lets a Drone Draw the Map a Ground Robot Actually Drives
+
+- **Slug:** `agc-vln-air-ground`
+- **Date:** 2026-09-05
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/agc-vln-air-ground/
+- **Chars:** 249/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=AGC-VLN%20Lets%20a%20Drone%20Draw%20the%20Map%20a%20Ground%20Robot%20Actually%20Drives%0A%0AA%20training-free%20UAV%E2%80%93UGV%20stack%20shares%20a%20bird%E2%80%99s-eye%20map.%20On%20100%20CARLA-Air%20episodes%20it%20hits%2077%25%20joint%20success%2C%20%2B27%20points%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fagc-vln-air-ground%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+AGC-VLN Lets a Drone Draw the Map a Ground Robot Actually Drives
+
+A training-free UAV–UGV stack shares a bird’s-eye map. On 100 CARLA-Air episodes it hits 77% joint success, +27 points…
+
+https://mechafeed.com/blog/agc-vln-air-ground/
+
+#AI #Humanoids
 ```
 
 ---
@@ -122,6 +143,48 @@ https://mechafeed.com/blog/hint-human-intent-manipulation/
 
 ---
 
+## LimX TRON 2 Torsos on Industrial Arms Nail Formwork and Tie Rebar
+
+- **Slug:** `limx-zinova-tron2-construction`
+- **Date:** 2026-09-05
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/limx-zinova-tron2-construction/
+- **Chars:** 267/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=LimX%20TRON%202%20Torsos%20on%20Industrial%20Arms%20Nail%20Formwork%20and%20Tie%20Rebar%0A%0AZINOVA%20and%20LimX%20mount%20TRON%202%20dual-arm%20torsos%20on%20orange%20industrial%20booms%20for%20a%20scaled%20tilt-up%20demo%3A%20boards%2C%20nail%20guns%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flimx-zinova-tron2-construction%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+LimX TRON 2 Torsos on Industrial Arms Nail Formwork and Tie Rebar
+
+ZINOVA and LimX mount TRON 2 dual-arm torsos on orange industrial booms for a scaled tilt-up demo: boards, nail guns,…
+
+https://mechafeed.com/blog/limx-zinova-tron2-construction/
+
+#Robotics #Humanoids
+```
+
+---
+
+## UCL’s PAMoR Makes a G1’s Whole-Body Motion Carry Valence and Arousal
+
+- **Slug:** `pamor-g1-affective-motion`
+- **Date:** 2026-09-05
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/pamor-g1-affective-motion/
+- **Chars:** 270/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=UCL%E2%80%99s%20PAMoR%20Makes%20a%20G1%E2%80%99s%20Whole-Body%20Motion%20Carry%20Valence%20and%20Arousal%0A%0APAMoR%20conditions%20real-time%20Unitree%20G1%20motion%20on%20kinematics-measured%20valence%20and%20arousal.%20Raters%20hit%200.38%20top-1%2C%20near%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpamor-g1-affective-motion%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+UCL’s PAMoR Makes a G1’s Whole-Body Motion Carry Valence and Arousal
+
+PAMoR conditions real-time Unitree G1 motion on kinematics-measured valence and arousal. Raters hit 0.38 top-1, near…
+
+https://mechafeed.com/blog/pamor-g1-affective-motion/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
 ## Print the Gripper to the Object: A Passive Tool Pipeline With Robot Motion Built In
 
 - **Slug:** `passive-gripper-additive-manufacturing`
@@ -179,6 +242,69 @@ Rice and NVIDIA retrieve human demos from internet video using actor-centered 3D
 https://mechafeed.com/blog/robotok-web-video-hands/
 
 #AI #Humanoids
+```
+
+---
+
+## Osaka Trains a Unitree G1 to Scoot a Caster Chair Without Standing Up
+
+- **Slug:** `stay-seated-g1-chair`
+- **Date:** 2026-09-05
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/stay-seated-g1-chair/
+- **Chars:** 258/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Osaka%20Trains%20a%20Unitree%20G1%20to%20Scoot%20a%20Caster%20Chair%20Without%20Standing%20Up%0A%0AStay%20Seated%20learns%20omnidirectional%20seated%20locomotion%20on%20a%20passive%20five-caster%20chair.%20The%20G1%20policy%20uses%20only%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fstay-seated-g1-chair%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Osaka Trains a Unitree G1 to Scoot a Caster Chair Without Standing Up
+
+Stay Seated learns omnidirectional seated locomotion on a passive five-caster chair. The G1 policy uses only…
+
+https://mechafeed.com/blog/stay-seated-g1-chair/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## TRaIL-Odom Teaches Radar When a LiDAR Scan Goes Blind
+
+- **Slug:** `trail-odom-radar-lidar`
+- **Date:** 2026-09-05
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/trail-odom-radar-lidar/
+- **Chars:** 249/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=TRaIL-Odom%20Teaches%20Radar%20When%20a%20LiDAR%20Scan%20Goes%20Blind%0A%0ASNU%2C%20ETH%2C%20and%20RAI%E2%80%99s%20RA-L%20paper%20reweights%20radar%20Doppler%20toward%20weak%20LiDAR%20directions.%20On%20three%20degenerate%20sequences%2C%20ATE%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftrail-odom-radar-lidar%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+TRaIL-Odom Teaches Radar When a LiDAR Scan Goes Blind
+
+SNU, ETH, and RAI’s RA-L paper reweights radar Doppler toward weak LiDAR directions. On three degenerate sequences, ATE…
+
+https://mechafeed.com/blog/trail-odom-radar-lidar/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Tuya Unveils Doova, a Wheeled Elder-Care Companion, at IFA 2026
+
+- **Slug:** `tuya-doova-ifa`
+- **Date:** 2026-09-05
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/tuya-doova-ifa/
+- **Chars:** 251/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Tuya%20Unveils%20Doova%2C%20a%20Wheeled%20Elder-Care%20Companion%2C%20at%20IFA%202026%0A%0ATuya%20Smart%20debuts%20Doova%20at%20IFA%3A%20LiDAR%2C%20four%20mics%2C%20skeletal%20vision%2C%20a%2060-second%20family%20video%20call%2C%20and%20a%2010.1-inch%20face.%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftuya-doova-ifa%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Tuya Unveils Doova, a Wheeled Elder-Care Companion, at IFA 2026
+
+Tuya Smart debuts Doova at IFA: LiDAR, four mics, skeletal vision, a 60-second family video call, and a 10.1-inch face.…
+
+https://mechafeed.com/blog/tuya-doova-ifa/
+
+#Robotics #Humanoids
 ```
 
 ---

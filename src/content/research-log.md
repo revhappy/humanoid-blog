@@ -4326,4 +4326,70 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Build:** PASS (astro build exit 0; new slugs rendered)
 - **Failures:** none; hit target 8 of 8
 
+## 2026-09-05 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json, startedAt 2026-09-05T14:00:05-07:00)
+- Date (Pacific): 2026-09-05
+- git pull --rebase origin main: already up to date
+- Morning this calendar day published **8** (GIFT, AdaRoboVLG, RoboTok, passive AM grippers, Astra YAM, FOCUS A3 Ultra odometry, HINT, R2S-Eval) — **do not rehash**
+- X list `https://x.com/i/lists/1805786050763087967`: **curated list feed not usable** (list: Latest returned mixed timeline noise, not a browseable curated-list feed). Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: AI-generated bullring humanoid clip — **SKIP: not real hardware**
+- Public X: UBTECH warehouse fleet recirc — **SKIP: not a new primary**
+- Public X: Optimus-to-Mars rumor — **SKIP: unverified**
+- Public X: Tesla Optimus candy-fair clip — **SKIP: no primary / unverified price**
+- Public X: seated G1 chair paper (arXiv:2608.28090) — **CANDIDATE/WRITTEN**
+- Public X: RoboCurve Inspect Robots G1 note — **SKIP: already covered Astra this morning**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Tuya Doova elder-care companion at IFA 2026 — PR Newswire 5 Sep + Humanoids Daily — lane: **build**
+2. **[CANDIDATE/WRITTEN]** LimX TRON 2 + ZINOVA tilt-up construction (formwork, nail gun, rebar) — LimX YouTube 2 Sep + Gasgoo/HD 4 Sep — lane: **build**
+3. **[CANDIDATE/WRITTEN]** Stay Seated G1 omnidirectional seated locomotion — arXiv:2608.28090 — lane: **build**
+4. **[CANDIDATE/WRITTEN]** PAMoR V-A affective whole-body motion on G1 — arXiv:2608.28213 — lane: **build**
+5. **[CANDIDATE/WRITTEN]** TRaIL-Odom radar-IMU-LiDAR adaptive Doppler — arXiv:2609.03561 + GitHub + RA-L accept — lane: **build**
+6. **[CANDIDATE/WRITTEN]** AGC-VLN training-free air-ground VLN — arXiv:2609.03483 + GitHub — lane: **build**
+7. **[SKIP: already covered morning]** GIFT, AdaRoboVLG, RoboTok, passive grippers, Astra, FOCUS, HINT, R2S-Eval
+8. **[SKIP: already covered 9/2–9/4]** Pathak Bridge, SmoothRL, FWBC-VLA, XR-2, ARTiS, MulDP, Safe-Stop, multi-vine, Palmimo, Halo, AGIBOT Theme 3, Koopman, EGR, WISE, Galbot ET1 preorders, Lumos MOS 2
+9. **[SKIP: business mix]** NVIDIA–Hugging Face $12.9B; Figure–Nscale $3.5B; Hivebotics Abluo $6M; Wandercraft €100M; Korea physical-AI budget
+10. **[SKIP: recirc / collision / thin]** MINERVA stills still thin; FailBench name collision; JEPA name collision; Berkeley Humanoid Lite recirc; AGIBOT IFA TÜV (cert/distributor slant); HONOR D1 Malaysia (no stills)
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | tuya-doova-ifa | Shar Hendrix | Robotics | build |
+| 2 | limx-zinova-tron2-construction | Robb Harlan | Robotics | build |
+| 3 | stay-seated-g1-chair | Shar Hendrix | Humanoids | build |
+| 4 | pamor-g1-affective-motion | Shar Hendrix | Humanoids | build |
+| 5 | trail-odom-radar-lidar | Robb Harlan | Robotics | build |
+| 6 | agc-vln-air-ground | Robb Harlan | AI | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary + matching stills: **6** | Writing: **6**
+- Soft floor 2 met. Hit target 6.
+
+### Notes for Future Agents
+- Do not rewrite Doova IFA debut, TRON 2 boom-mounted construction POC, Stay Seated G1 chair, PAMoR G1 affect, TRaIL-Odom, AGC-VLN
+- Doova still has **no price / ship date / on-device vs cloud** — follow if Tuya publishes those
+- TRON 2 construction is teleop + scaled indoor slab, not a field crew
+- Stay Seated hardware tracking error was not quantified
+- HONOR D1 Malaysia and MINERVA still uncovered if usable stills appear
+- AGIBOT IFA TÜV remains more certification/channel than a machine story
+
+### Run summary
+- **Articles published (6):** tuya-doova-ifa, limx-zinova-tron2-construction, stay-seated-g1-chair, pamor-g1-affective-motion, trail-odom-radar-lidar, agc-vln-air-ground
+- **pubDate:** 2026-09-05
+- **Skipped candidates:** morning eight recirc, 9/2–9/4 recirc, business (NVIDIA–HF / Figure–Nscale / Hivebotics / Wandercraft), MINERVA thin stills, FailBench/JEPA collisions, AGIBOT IFA cert slant, HONOR D1 no stills
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 posts dated 2026-09-05 including morning 8)
+- **Vision gate:** PASS — Doova (knitted IFA hero + booth still), TRON 2 (nail-gun pair + formwork cell), Stay Seated (four-chair teaser + forward/backward G1 sequences), PAMoR (framework with sad/happy G1 + V-A plane poses), TRaIL-Odom (ANYmal Boxi hero + airfield/tunnel traces), AGC-VLN (teaser map + real UAV/UGV lobby + success/fail episodes)
+- **Social:** tweets 433; robb-x 433
+- **Build:** PASS (astro build exit 0; new slugs rendered)
+- **Failures:** none; hit target 6 of 6
+
 
