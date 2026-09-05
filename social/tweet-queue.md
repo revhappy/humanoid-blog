@@ -14,8 +14,172 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-04T21:11:54.625Z
-Posts: 419
+Generated: 2026-09-05T16:14:46.444Z
+Posts: 427
+
+---
+
+## AdaRoboVLG Splits Grasp Physics From Language, Then Shares the Policy Across Hands
+
+- **Slug:** `adarobovlg-cross-hand-grasp`
+- **Date:** 2026-09-05
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/adarobovlg-cross-hand-grasp/
+- **Chars:** 150/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=AdaRoboVLG%20Splits%20Grasp%20Physics%20From%20Language%2C%20Then%20Shares%20the%20Policy%20Across%20Hands%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fadarobovlg-cross-hand-grasp%2F%0A%0A%23Robotics)
+
+```
+AdaRoboVLG Splits Grasp Physics From Language, Then Shares the Policy Across Hands
+
+https://mechafeed.com/blog/adarobovlg-cross-hand-grasp/
+
+#Robotics
+```
+
+---
+
+## FOCUS Stops Trusting a Foot Just Because It Is Touching the Floor
+
+- **Slug:** `focus-humanoid-odometry`
+- **Date:** 2026-09-05
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/focus-humanoid-odometry/
+- **Chars:** 264/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FOCUS%20Stops%20Trusting%20a%20Foot%20Just%20Because%20It%20Is%20Touching%20the%20Floor%0A%0AAgiBot%20and%20Wuhan%20University%20replace%20binary%20contact%20gating%20with%20continuous%20per-foot%20FK%20reliability.%20Real%20walking%20ATE%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffocus-humanoid-odometry%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+FOCUS Stops Trusting a Foot Just Because It Is Touching the Floor
+
+AgiBot and Wuhan University replace binary contact gating with continuous per-foot FK reliability. Real walking ATE…
+
+https://mechafeed.com/blog/focus-humanoid-odometry/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## GIFT Trains Robot Policies to Keep Geometry, Affordances, and Goals
+
+- **Slug:** `gift-vla-feature-training`
+- **Date:** 2026-09-05
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/gift-vla-feature-training/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=GIFT%20Trains%20Robot%20Policies%20to%20Keep%20Geometry%2C%20Affordances%2C%20and%20Goals%0A%0ACASIA%2C%20Tsinghua%2C%20and%20NUS%20post%20GIFT%2C%20a%20feature-training%20method%20that%20lifts%20LIBERO-Plus%20and%20real-arm%20success%20without%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgift-vla-feature-training%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+GIFT Trains Robot Policies to Keep Geometry, Affordances, and Goals
+
+CASIA, Tsinghua, and NUS post GIFT, a feature-training method that lifts LIBERO-Plus and real-arm success without…
+
+https://mechafeed.com/blog/gift-vla-feature-training/
+
+#AI #Humanoids
+```
+
+---
+
+## GPT-6 Astra Drops a Block in a Bowl 19 Times in 20. The Puzzle Still Stalls
+
+- **Slug:** `gpt6-astra-robot-arms`
+- **Date:** 2026-09-05
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/gpt6-astra-robot-arms/
+- **Chars:** 263/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=GPT-6%20Astra%20Drops%20a%20Block%20in%20a%20Bowl%2019%20Times%20in%2020.%20The%20Puzzle%20Still%20Stalls%0A%0ARoboCurve%20ran%20OpenAI%E2%80%99s%20GPT-6%20Astra%20on%20dual%20I2RT%20YAM%20arms.%20Gross%20pick-and-place%20is%20cheap%20and%20fast.%20Millimeter%20insertion%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgpt6-astra-robot-arms%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+GPT-6 Astra Drops a Block in a Bowl 19 Times in 20. The Puzzle Still Stalls
+
+RoboCurve ran OpenAI’s GPT-6 Astra on dual I2RT YAM arms. Gross pick-and-place is cheap and fast. Millimeter insertion…
+
+https://mechafeed.com/blog/gpt6-astra-robot-arms/
+
+#AI #Humanoids
+```
+
+---
+
+## HINT Only Rethinks the Goal When the Manipulation Pattern Changes
+
+- **Slug:** `hint-human-intent-manipulation`
+- **Date:** 2026-09-05
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/hint-human-intent-manipulation/
+- **Chars:** 265/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=HINT%20Only%20Rethinks%20the%20Goal%20When%20the%20Manipulation%20Pattern%20Changes%0A%0AHINT%20injects%20tracked%20intent%20into%20%CF%800.5%20and%20Wall-OSS-0.5%20with%20no%20extra%20trainable%20weights.%20Dual-arm%20spelling%20full-task%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhint-human-intent-manipulation%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+HINT Only Rethinks the Goal When the Manipulation Pattern Changes
+
+HINT injects tracked intent into π0.5 and Wall-OSS-0.5 with no extra trainable weights. Dual-arm spelling full-task…
+
+https://mechafeed.com/blog/hint-human-intent-manipulation/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Print the Gripper to the Object: A Passive Tool Pipeline With Robot Motion Built In
+
+- **Slug:** `passive-gripper-additive-manufacturing`
+- **Date:** 2026-09-05
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/passive-gripper-additive-manufacturing/
+- **Chars:** 162/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Print%20the%20Gripper%20to%20the%20Object%3A%20A%20Passive%20Tool%20Pipeline%20With%20Robot%20Motion%20Built%20In%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpassive-gripper-additive-manufacturing%2F%0A%0A%23Robotics)
+
+```
+Print the Gripper to the Object: A Passive Tool Pipeline With Robot Motion Built In
+
+https://mechafeed.com/blog/passive-gripper-additive-manufacturing/
+
+#Robotics
+```
+
+---
+
+## R2S-Eval Ranks Robot Policies by Watching the Whole Rollout, Not Just Success
+
+- **Slug:** `r2s-eval-vla-ranking`
+- **Date:** 2026-09-05
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/r2s-eval-vla-ranking/
+- **Chars:** 276/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=R2S-Eval%20Ranks%20Robot%20Policies%20by%20Watching%20the%20Whole%20Rollout%2C%20Not%20Just%20Success%0A%0AA%20real-to-sim%20plus%20VLM-preference%20pipeline%20matches%20human%20pairwise%20judgments%2082.9%25%20of%20the%20time%20on%20LIBERO%20and%2091.9%25%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fr2s-eval-vla-ranking%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+R2S-Eval Ranks Robot Policies by Watching the Whole Rollout, Not Just Success
+
+A real-to-sim plus VLM-preference pipeline matches human pairwise judgments 82.9% of the time on LIBERO and 91.9% on…
+
+https://mechafeed.com/blog/r2s-eval-vla-ranking/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## RoboTok Indexes Web Video by 3D Hand Trajectories, Not How the Kitchen Looks
+
+- **Slug:** `robotok-web-video-hands`
+- **Date:** 2026-09-05
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/robotok-web-video-hands/
+- **Chars:** 266/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=RoboTok%20Indexes%20Web%20Video%20by%203D%20Hand%20Trajectories%2C%20Not%20How%20the%20Kitchen%20Looks%0A%0ARice%20and%20NVIDIA%20retrieve%20human%20demos%20from%20internet%20video%20using%20actor-centered%203D%20hand%20motion.%20Downstream%20dexterous%20PPO%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frobotok-web-video-hands%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+RoboTok Indexes Web Video by 3D Hand Trajectories, Not How the Kitchen Looks
+
+Rice and NVIDIA retrieve human demos from internet video using actor-centered 3D hand motion. Downstream dexterous PPO…
+
+https://mechafeed.com/blog/robotok-web-video-hands/
+
+#AI #Humanoids
+```
 
 ---
 

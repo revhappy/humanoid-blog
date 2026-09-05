@@ -4258,4 +4258,72 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Build:** PASS (astro build exit 0; new slugs rendered)
 - **Failures:** none; hit target 6 of 6
 
+## 2026-09-05 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json, startedAt 2026-09-05T09:00:05-07:00)
+- Date (Pacific): 2026-09-05
+- git pull --rebase origin main: already up to date
+- Last published: 2026-09-04 morning 8 + afternoon 6 — **do not rehash**
+- X list `https://x.com/i/lists/1805786050763087967`: **curated list feed not usable** (list: Latest returned mixed timeline noise, not a browseable curated-list feed). Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: AI-generated bullring humanoid clip — **SKIP: not real hardware**
+- Public X: UBTECH warehouse fleet recirc — **SKIP: not a new primary**
+- Public X: Optimus-to-Mars rumor — **SKIP: unverified**
+- Public X: OpenAI humanoid confirmation recirc — **SKIP: already covered / thin specs**
+- Public X: 3D hand-trajectory retrieval comment — **CANDIDATE** (became RoboTok)
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** GIFT intermediate-feature training for VLA/WAM — arXiv:2609.04193 (3 Sep) + project page — lane: **build**
+2. **[CANDIDATE/WRITTEN]** AdaRoboVLG cross-hand grasp synthesis — arXiv:2609.04096 + adarobovlg.github.io — lane: **build**
+3. **[CANDIDATE/WRITTEN]** RoboTok internet-scale 3D hand-trajectory retrieval — arXiv:2609.03199 + Rice project site — lane: **build**
+4. **[CANDIDATE/WRITTEN]** Object-specific passive 3D-printed grippers — arXiv:2609.03761 — lane: **build**
+5. **[CANDIDATE/WRITTEN]** GPT-6 Astra on I2RT YAM arms — RoboCurve 4 Sep + Humanoids Daily — lane: **build**
+6. **[CANDIDATE/WRITTEN]** FOCUS per-foot FK reliability on AgiBot A3 Ultra — arXiv:2609.02222 — lane: **build** (odometry paper; distinct from existing A3 Ultra WAIC product post)
+7. **[CANDIDATE/WRITTEN]** HINT human-intent inception on PiPER dual-arm — arXiv:2609.02653 + robot-hint.github.io — lane: **build**
+8. **[CANDIDATE/WRITTEN]** R2S-Eval real-to-sim + VLM preference ranking — arXiv:2609.03276 + r2s-eval.github.io — lane: **build**
+9. **[SKIP: no matching stills]** HONOR Robotics D1 10 km Malaysia Marathon (30–31 Aug) — NST/BH/Kosmo/Malay Mail/Oriental Daily; Oriental Daily image URL 404 this session
+10. **[SKIP: already covered 9/2–9/4]** Pathak Bridge, SmoothRL, FWBC-VLA, XR-2, ARTiS, MulDP, Safe-Stop, multi-vine, Palmimo, Halo, AGIBOT Theme 3, Koopman, EGR, WISE, Zeroth Bridge product, TwinDEX, WM-LOCO, ETH ADAPT, Lumos MOS 2, UMR, Quaddle, ConsJump, AlphaBot 2, HIGEN, MANUS, Facet-0
+11. **[SKIP: business mix]** NVIDIA–Hugging Face $12.9B; Figure–Nscale $3.5B; Hivebotics Abluo $6M
+12. **[SKIP: recirc / collision]** MINERVA stills still thin; FailBench name collision; JEPA world-model paper (existing `jepa-wam-joint-embedding`); Berkeley Humanoid Lite recirc; OpenAI “will definitely do a humanoid” thin specs
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | gift-vla-feature-training | Robb Harlan | AI | build |
+| 2 | adarobovlg-cross-hand-grasp | Shar Hendrix | Robotics | build |
+| 3 | robotok-web-video-hands | Shar Hendrix | AI | build |
+| 4 | passive-gripper-additive-manufacturing | Robb Harlan | Robotics | build |
+| 5 | gpt6-astra-robot-arms | Robb Harlan | AI | build |
+| 6 | focus-humanoid-odometry | Robb Harlan | Humanoids | build |
+| 7 | hint-human-intent-manipulation | Shar Hendrix | Robotics | build |
+| 8 | r2s-eval-vla-ranking | Shar Hendrix | Research | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary + matching stills: **8** | Writing: **8**
+- Soft floor 3 met. Hit target 8.
+
+### Notes for Future Agents
+- Do not rewrite GIFT feature training, AdaRoboVLG cross-hand grasp, RoboTok web-hand retrieval, passive AM grippers, Astra YAM-arm bench, FOCUS A3 Ultra odometry, HINT PiPER intent wrapper, R2S-Eval ranking
+- HONOR D1 Malaysia 10 km still uncovered if a primary Honor post + usable stills appear
+- MINERVA still uncovered if a usable still (≥400×200) appears
+- Figure–Nscale and NVIDIA–Hugging Face remain **business**; skip unless the batch has room under 25%
+- FOCUS is an odometry paper on A3 Ultra, not a recap of the WAIC product post
+
+### Run summary
+- **Articles published (8):** gift-vla-feature-training, adarobovlg-cross-hand-grasp, robotok-web-video-hands, passive-gripper-additive-manufacturing, gpt6-astra-robot-arms, focus-humanoid-odometry, hint-human-intent-manipulation, r2s-eval-vla-ranking
+- **pubDate:** 2026-09-05
+- **Skipped candidates:** HONOR D1 Malaysia (no stills), 9/2–9/4 recirc, NVIDIA–HF / Figure–Nscale / Hivebotics business, MINERVA thin stills, FailBench name collision, JEPA collision, Berkeley Lite recirc
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts dated 2026-09-05)
+- **Vision gate:** PASS — GIFT (xArm7/ARX X5 rigs + dual-arm/single-arm rollouts), AdaRoboVLG (dual-arm clothes hero + 12-task clutter grid + static/conveyor prior still), RoboTok (VTDexManip hands + knife-cut retrieval grid + t-SNE), passive grippers (printed pickup grid + A4 contact diagram + SIMP charts), Astra (RoboCurve bowl poster + Humanoids Daily composite), FOCUS (A3 Ultra labeled hero + FK-reliability diagram + walk/dance traces), HINT (teaser + task boards + system diagram), R2S-Eval (pipeline with robot stills + stack-blocks + cup-on-plate)
+- **Social:** tweets 427; robb-x 427
+- **Build:** PASS (astro build exit 0; new slugs rendered)
+- **Failures:** none; hit target 8 of 8
+
 

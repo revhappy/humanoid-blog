@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-04T21:11:56.290Z
+Generated: 2026-09-05T16:14:47.250Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## AdaRoboVLG Splits Grasp Physics From Language, Then Shares the Policy Across Hands
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/adarobovlg-cross-hand-grasp/
+
+### SOLO (no link)
+
+```
+Decoupling “what the sentence wants” from “whether this hand can close on it” is the part I want copied.  Hands keep changing.
+```
+
+### SOFT-LINK variant
+
+```
+Decoupling “what the sentence wants” from “whether this hand can close on it” is the part I want copied.  Hands keep changing.
+
+https://mechafeed.com/blog/adarobovlg-cross-hand-grasp/
+```
+
+---
+
+## FOCUS Stops Trusting a Foot Just Because It Is Touching the Floor
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/focus-humanoid-odometry/
+
+### SOLO (no link)
+
+```
+This is the unglamorous half of a humanoid: dead-reckoning when the cameras fog or the LiDAR is in a pocket.  I trust a 70% ATE cut on 19 real walks more than another parkour clip.
+```
+
+### SOFT-LINK variant
+
+```
+This is the unglamorous half of a humanoid: dead-reckoning when the cameras fog or the LiDAR is in a pocket.  I trust a 70% ATE cut on 19 real walks more than another parkour clip.
+
+https://mechafeed.com/blog/focus-humanoid-odometry/
+```
+
+---
+
+## GIFT Trains Robot Policies to Keep Geometry, Affordances, and Goals
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/gift-vla-feature-training/
+
+### SOLO (no link)
+
+```
+I like that they left the action decoder alone.  If your VLA already works, the useful question is whether the features it sees are the ones that decide a grasp, not whether you can stack another transformer on top.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they left the action decoder alone.  If your VLA already works, the useful question is whether the features it sees are the ones that decide a grasp, not whether you can stack another transformer on top.
+
+https://mechafeed.com/blog/gift-vla-feature-training/
+```
+
+---
+
+## GPT-6 Astra Drops a Block in a Bowl 19 Times in 20. The Puzzle Still Stalls
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/gpt6-astra-robot-arms/
+
+### SOLO (no link)
+
+```
+Gross pick-and-place is becoming a language-model parlor trick.  The groove is not.
+```
+
+### SOFT-LINK variant
+
+```
+Gross pick-and-place is becoming a language-model parlor trick.  The groove is not.
+
+https://mechafeed.com/blog/gpt6-astra-robot-arms/
+```
+
+---
+
+## HINT Only Rethinks the Goal When the Manipulation Pattern Changes
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/hint-human-intent-manipulation/
+
+### SOLO (no link)
+
+```
+I am so here for “do not re-reason every frame. ” That is how people actually move, and it is also how you keep a 50 Hz arm from waiting on a VLM.
+```
+
+### SOFT-LINK variant
+
+```
+I am so here for “do not re-reason every frame. ” That is how people actually move, and it is also how you keep a 50 Hz arm from waiting on a VLM.
+
+https://mechafeed.com/blog/hint-human-intent-manipulation/
+```
+
+---
+
+## Print the Gripper to the Object: A Passive Tool Pipeline With Robot Motion Built In
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/passive-gripper-additive-manufacturing/
+
+### SOLO (no link)
+
+```
+A printed, motor-free tool that only works if the robot can actually insert it is the right kind of stubborn.  The photos of the blue prints holding a bunny and a 3DBenchy are fun.
+```
+
+### SOFT-LINK variant
+
+```
+A printed, motor-free tool that only works if the robot can actually insert it is the right kind of stubborn.  The photos of the blue prints holding a bunny and a 3DBenchy are fun.
+
+https://mechafeed.com/blog/passive-gripper-additive-manufacturing/
+```
+
+---
+
+## R2S-Eval Ranks Robot Policies by Watching the Whole Rollout, Not Just Success
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/r2s-eval-vla-ranking/
+
+### SOLO (no link)
+
+```
+I want this in every lab that currently reports a single success rate from twenty sweaty resets.  Ranking two ugly failures is how you notice a policy that almost had it.
+```
+
+### SOFT-LINK variant
+
+```
+I want this in every lab that currently reports a single success rate from twenty sweaty resets.  Ranking two ugly failures is how you notice a policy that almost had it.
+
+https://mechafeed.com/blog/r2s-eval-vla-ranking/
+```
+
+---
+
+## RoboTok Indexes Web Video by 3D Hand Trajectories, Not How the Kitchen Looks
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/robotok-web-video-hands/
+
+### SOLO (no link)
+
+```
+I have watched too many “we trained on YouTube” papers retrieve the same cutting board because the wood grain matched.  RoboTok is the first one in this pile that argues with the fingers.
+```
+
+### SOFT-LINK variant
+
+```
+I have watched too many “we trained on YouTube” papers retrieve the same cutting board because the wood grain matched.  RoboTok is the first one in this pile that argues with the fingers.
+
+https://mechafeed.com/blog/robotok-web-video-hands/
+```
 
 ---
 
