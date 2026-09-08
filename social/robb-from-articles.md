@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-05T21:12:53.061Z
+Generated: 2026-09-08T16:15:13.750Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## ergoCub Won’t Drop the Box Until You Mean It
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/ergocub-tactile-handover/
+
+### SOLO (no link)
+
+```
+Release timing is the whole job.  Tactile history decides; compliance makes the hand-off feel less like a tug-of-war.
+```
+
+### SOFT-LINK variant
+
+```
+Release timing is the whole job.  Tactile history decides; compliance makes the hand-off feel less like a tug-of-war.
+
+https://mechafeed.com/blog/ergocub-tactile-handover/
+```
+
+---
+
+## FailureSpot Marks the Instant a VLA Starts to Blow It
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/failurespot-vla-onset/
+
+### SOLO (no link)
+
+```
+I have wanted a detector that says “it died at frame 173,” not “this episode failed. ” Labeling 15% of the training set is a fair trade if the onset is actually early enough to stop a smash.
+```
+
+### SOFT-LINK variant
+
+```
+I have wanted a detector that says “it died at frame 173,” not “this episode failed. ” Labeling 15% of the training set is a fair trade if the onset is actually early enough to stop a smash.
+
+https://mechafeed.com/blog/failurespot-vla-onset/
+```
+
+---
+
+## IFA 2026’s Humanoid Floor: Kung Fu Minis, a Soccer Kid, a 450 N·m T800
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/ifa-2026-humanoid-floor/
+
+### SOLO (no link)
+
+```
+I’m here for the 88 cm kung-fu kit you can reprint a shell for, and for a $6k soccer kid that already has a SKU.  The T800 is a different argument: torque and a ring.
+```
+
+### SOFT-LINK variant
+
+```
+I’m here for the 88 cm kung-fu kit you can reprint a shell for, and for a $6k soccer kid that already has a SKU.  The T800 is a different argument: torque and a ring.
+
+https://mechafeed.com/blog/ifa-2026-humanoid-floor/
+```
+
+---
+
+## SocioGesture Teaches a G1 When Not to Walk Over
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/sociogesture-g1/
+
+### SOLO (no link)
+
+```
+The useful part is the fail-safe: if the G1 is not sure, it does not walk at you.  I will take a robot that waits over one that hallucinates a wave.
+```
+
+### SOFT-LINK variant
+
+```
+The useful part is the fail-safe: if the G1 is not sure, it does not walk at you.  I will take a robot that waits over one that hallucinates a wave.
+
+https://mechafeed.com/blog/sociogesture-g1/
+```
+
+---
+
+## TacPAC Corrects a Grasp Mid-Chunk Using Predicted Touch
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/tacpac-tactile-correction/
+
+### SOLO (no link)
+
+```
+Predicting touch is cute.  Using that prediction as the thing you compare the real fingertip against, while the arm is still moving, is the part I will steal.
+```
+
+### SOFT-LINK variant
+
+```
+Predicting touch is cute.  Using that prediction as the thing you compare the real fingertip against, while the arm is still moving, is the part I will steal.
+
+https://mechafeed.com/blog/tacpac-tactile-correction/
+```
+
+---
+
+## Unitree’s G1 Spars Without a Teleoperator
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/unitree-unifolm-x2-combat/
+
+### SOLO (no link)
+
+```
+I like that they cut the teleop tether in a contact sport instead of another tidy pick-and-place.  I will like it more when the policy server is gone, the opponent is not cooperating, and someone publishes how many milliseconds sit between “I see a punch” and “I move a foot.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they cut the teleop tether in a contact sport instead of another tidy pick-and-place.  I will like it more when the policy server is gone, the opponent is not cooperating, and someone publ…
+
+https://mechafeed.com/blog/unitree-unifolm-x2-combat/
+```
+
+---
+
+## VLA-Precision Learns Lab Chemistry on Real Arms in Under an Hour
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/vla-precision-chemistry/
+
+### SOLO (no link)
+
+```
+Pipette tips and rubber stoppers are the right test.  If a VLA cannot seat a tip, it will not load a tray.
+```
+
+### SOFT-LINK variant
+
+```
+Pipette tips and rubber stoppers are the right test.  If a VLA cannot seat a tip, it will not load a tray.
+
+https://mechafeed.com/blog/vla-precision-chemistry/
+```
+
+---
+
+## XPeng IRON Walks Off a Live Humanoid Production Line
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/xpeng-iron-walks-off-line/
+
+### SOLO (no link)
+
+```
+One robot walking off a line is the right kind of evidence.  It is still one robot.
+```
+
+### SOFT-LINK variant
+
+```
+One robot walking off a line is the right kind of evidence.  It is still one robot.
+
+https://mechafeed.com/blog/xpeng-iron-walks-off-line/
+```
 
 ---
 

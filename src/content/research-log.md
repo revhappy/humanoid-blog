@@ -4393,3 +4393,73 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Failures:** none; hit target 6 of 6
 
 
+## 2026-09-08 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json, startedAt 2026-09-08T09:00:03-07:00)
+- Date (Pacific): 2026-09-08
+- git pull --rebase origin main: already up to date
+- Last published: 2026-09-05 morning 8 + afternoon 6 — weekend gap 9/6–9/7; **do not rehash**
+- X list `https://x.com/i/lists/1805786050763087967`: **curated list feed not usable** (list: Latest returned mixed timeline noise, not a browseable curated-list feed). Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: @UnitreeRobotics UnifoLM-X2-1.0 autonomous G1 combat (7 Sep) — **CANDIDATE/WRITTEN**
+- Public X: XPENG IRON walk-off recirc — **CANDIDATE/WRITTEN** (primary via PR Newswire + CnEVPost)
+- Public X: Skild S1 physical prompt steerability follow-up — **SKIP: already covered Skild S1 9/2**
+- Public X: Cybercab financing / fleet — **SKIP: not humanoid**
+- Public X: Open Source Safety Consortium / valuations — **SKIP: thin / business**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** XPeng IRON walks off commissioned Guangzhou line, >80% core automation — PR Newswire 7 Sep + CnEVPost + Electrek + Xinhua + YouTube — lane: **build** (walk-off + line engineering, not a unit-count recap of the July 1,000/month or Aug $900M posts)
+2. **[CANDIDATE/WRITTEN]** Unitree UnifoLM-X2-1.0 autonomous G1 sparring — Unitree YouTube 7 Sep + Humanoids Daily + IE — lane: **build**
+3. **[CANDIDATE/WRITTEN]** IFA 2026 humanoid floor: PrimeBOT Q1/T1 awards, Booster K1 from $5,999, EngineAI T800 450 N·m — BGR 5–6 Sep + PrimeBOT PRs + IFA programme + Rundown — lane: **build**
+4. **[CANDIDATE/WRITTEN]** VLA-Precision chemistry online RL, 98.3% / 45.8 min/task — arXiv:2609.04355 + project page — lane: **build**
+5. **[CANDIDATE/WRITTEN]** TacPAC tactile prediction + real-time correction, 22%→64% — arXiv:2609.05266 + GitHub — lane: **build**
+6. **[CANDIDATE/WRITTEN]** SocioGesture onboard G1 greeter, 25 ms Thor, 146/150 live — arXiv:2609.04545 + project page — lane: **build**
+7. **[CANDIDATE/WRITTEN]** ergoCub GR00T + TTE + compliance handover, 93% — arXiv:2609.05282 — lane: **build**
+8. **[CANDIDATE/WRITTEN]** FailureSpot timestamp-level VLA failure onset, LIBERO-10 — arXiv:2609.04277 — lane: **build**
+9. **[SKIP: no usable robot stills]** Dynamic Creatures stealth (GlobeNewswire 8 Sep) — founder photo + ChatGPT-looking site art only
+10. **[SKIP: already covered]** Tohoku stick-insect hexapod (New Atlas 7 Sep recirc of Aug 29 post); Tau $30/hr SF (Euronews recirc); Pathak Bridge; WM-LOCO; ADAPT; Facet-0; Skild S1; Doova/Halo IFA product posts
+11. **[SKIP: business mix]** Agility S-4 $1.8M sales / $138M loss; Tesla Optimus ~5,000-unit supply-chain rumor; Figure–Nscale $3.5B
+12. **[SKIP: leftover untracked Aug 6 drafts]** zeals-d1, unix-panther-pizza, etc. — not this run
+13. **[SKIP: thin stills / overlap]** Zero W1 IFA (one BGR still); HONOR D1 Malaysia; MINERVA
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | xpeng-iron-walks-off-line | Robb Harlan | Humanoids | build |
+| 2 | unitree-unifolm-x2-combat | Shar Hendrix | Humanoids | build |
+| 3 | ifa-2026-humanoid-floor | Shar Hendrix | Humanoids | build |
+| 4 | vla-precision-chemistry | Robb Harlan | Research | build |
+| 5 | tacpac-tactile-correction | Robb Harlan | Robotics | build |
+| 6 | sociogesture-g1 | Shar Hendrix | Humanoids | build |
+| 7 | ergocub-tactile-handover | Robb Harlan | Research | build |
+| 8 | failurespot-vla-onset | Shar Hendrix | AI | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary + matching stills: **8** | Writing: **8**
+- Soft floor 3 met. Hit target 8.
+
+### Notes for Future Agents
+- Do not rewrite IRON line walk-off, UnifoLM-X2 combat, IFA 2026 Q1/K1/T800 floor, VLA-Precision chemistry, TacPAC, SocioGesture G1, ergoCub TTE handover, FailureSpot
+- Dynamic Creatures still uncovered if a real robot/character still (not founder, not AI-gen site art) appears
+- Zero W1 / Zeroth W1 IFA still uncovered if a second usable still appears
+- Agility S-4 numbers remain **business**; skip unless batch has 25% room and a machine-first lede
+- Tesla Optimus 5,000-unit chatter is supply-chain rumor — skip until a primary
+- X2-1.0 compute is likely offboard (PolicyServer logs); follow if Unitree publishes onboard latency or a paper
+- IRON mass production still dated year-end 2026 / deliveries 2027 — follow for first store units actually working
+
+### Run summary
+- **Articles published (8):** xpeng-iron-walks-off-line, unitree-unifolm-x2-combat, ifa-2026-humanoid-floor, vla-precision-chemistry, tacpac-tactile-correction, sociogesture-g1, ergocub-tactile-handover, failurespot-vla-onset
+- **pubDate:** 2026-09-08
+- **Skipped candidates:** Dynamic Creatures (no robot stills), Agility S-4 / Optimus rumor (business), 9/2–9/5 recirc, leftover Aug drafts
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts dated 2026-09-08)
+- **Vision gate:** PASS — IRON (close-up lattice hero + line walk-off + glassed cells), UnifoLM-X2 (G1 red gloves vs padded trainer + official YT still; rejected IE H2-class still), IFA floor (Q1 kung fu + K1 Messi kit + T800 ring), VLA-Precision (framework + 9-task grid + UR5e bench), TacPAC (grasp/plug teaser + pipeline), SocioGesture (G1 greeter teaser + pipeline + robot-view grid), ergoCub handover (box transfer + sustained-pull sequence), FailureSpot (LIBERO onset figure + score curves + failure-mode grid)
+- **Social:** tweets 441; robb-x 441
+- **Build:** PASS (astro build exit 0; new slugs rendered)
+- **Failures:** none; hit target 8 of 8. X list not usable (disclosed). Dynamic Creatures skipped for missing robot stills.

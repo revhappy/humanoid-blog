@@ -14,8 +14,176 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-05T21:12:23.291Z
-Posts: 433
+Generated: 2026-09-08T16:15:12.781Z
+Posts: 441
+
+---
+
+## ergoCub Won’t Drop the Box Until You Mean It
+
+- **Slug:** `ergocub-tactile-handover`
+- **Date:** 2026-09-08
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/ergocub-tactile-handover/
+- **Chars:** 248/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ergoCub%20Won%E2%80%99t%20Drop%20the%20Box%20Until%20You%20Mean%20It%0A%0AIIT%20fine-tunes%20GR00T%20N1.5%20with%20a%20second%20of%20fingertip%20history%20plus%20compliance.%20Full%20system%3A%2093%25%20handover%20success%2C%209%20of%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fergocub-tactile-handover%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+ergoCub Won’t Drop the Box Until You Mean It
+
+IIT fine-tunes GR00T N1.5 with a second of fingertip history plus compliance. Full system: 93% handover success, 9 of…
+
+https://mechafeed.com/blog/ergocub-tactile-handover/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## FailureSpot Marks the Instant a VLA Starts to Blow It
+
+- **Slug:** `failurespot-vla-onset`
+- **Date:** 2026-09-08
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/failurespot-vla-onset/
+- **Chars:** 232/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FailureSpot%20Marks%20the%20Instant%20a%20VLA%20Starts%20to%20Blow%20It%0A%0AWayne%20State%E2%80%99s%20FailureSpot%20times%20VLA%20failure%20onset%20on%20LIBERO-10.%20Weak%20labels%20from%20action%20chunks%20plus%2015%25%20dense%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffailurespot-vla-onset%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+FailureSpot Marks the Instant a VLA Starts to Blow It
+
+Wayne State’s FailureSpot times VLA failure onset on LIBERO-10. Weak labels from action chunks plus 15% dense…
+
+https://mechafeed.com/blog/failurespot-vla-onset/
+
+#AI #Humanoids
+```
+
+---
+
+## IFA 2026’s Humanoid Floor: Kung Fu Minis, a Soccer Kid, a 450 N·m T800
+
+- **Slug:** `ifa-2026-humanoid-floor`
+- **Date:** 2026-09-08
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/ifa-2026-humanoid-floor/
+- **Chars:** 269/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=IFA%202026%E2%80%99s%20Humanoid%20Floor%3A%20Kung%20Fu%20Minis%2C%20a%20Soccer%20Kid%2C%20a%20450%20N%C2%B7m%20T800%0A%0ABGR%E2%80%99s%20IFA%20walk%3A%20PrimeBOT%20Q1%20kung%20fu%2C%20Booster%20K1%20in%20a%20Messi%20kit%20from%20%245%2C999%2C%20EngineAI%20T800%20at%20450%20N%C2%B7m.%20PrimeBOT%20also%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fifa-2026-humanoid-floor%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+IFA 2026’s Humanoid Floor: Kung Fu Minis, a Soccer Kid, a 450 N·m T800
+
+BGR’s IFA walk: PrimeBOT Q1 kung fu, Booster K1 in a Messi kit from $5,999, EngineAI T800 at 450 N·m. PrimeBOT also…
+
+https://mechafeed.com/blog/ifa-2026-humanoid-floor/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## SocioGesture Teaches a G1 When Not to Walk Over
+
+- **Slug:** `sociogesture-g1`
+- **Date:** 2026-09-08
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/sociogesture-g1/
+- **Chars:** 241/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=SocioGesture%20Teaches%20a%20G1%20When%20Not%20to%20Walk%20Over%0A%0AOpenMind%E2%80%99s%20onboard%20G1%20stack%20maps%20wave%2C%20stop%2C%20and%20%E2%80%98I%E2%80%99m%20on%20a%20phone%E2%80%99%20to%20conservative%20greeter%20behaviors%20in%2025%20ms%20on%20Jetson%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsociogesture-g1%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+SocioGesture Teaches a G1 When Not to Walk Over
+
+OpenMind’s onboard G1 stack maps wave, stop, and ‘I’m on a phone’ to conservative greeter behaviors in 25 ms on Jetson…
+
+https://mechafeed.com/blog/sociogesture-g1/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## TacPAC Corrects a Grasp Mid-Chunk Using Predicted Touch
+
+- **Slug:** `tacpac-tactile-correction`
+- **Date:** 2026-09-08
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/tacpac-tactile-correction/
+- **Chars:** 249/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=TacPAC%20Corrects%20a%20Grasp%20Mid-Chunk%20Using%20Predicted%20Touch%0A%0AA%20Flexiv%20world-action%20model%20caches%20predicted%20tactile%20contact%2C%20then%20a%2032.9%20Hz%20expert%20patches%20the%20unexecuted%20suffix.%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftacpac-tactile-correction%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+TacPAC Corrects a Grasp Mid-Chunk Using Predicted Touch
+
+A Flexiv world-action model caches predicted tactile contact, then a 32.9 Hz expert patches the unexecuted suffix.…
+
+https://mechafeed.com/blog/tacpac-tactile-correction/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Unitree’s G1 Spars Without a Teleoperator
+
+- **Slug:** `unitree-unifolm-x2-combat`
+- **Date:** 2026-09-08
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/unitree-unifolm-x2-combat/
+- **Chars:** 245/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Unitree%E2%80%99s%20G1%20Spars%20Without%20a%20Teleoperator%0A%0AUnitree%20demos%20UnifoLM-X2-1.0%2C%20a%20world-action%20model%20that%20lets%20a%20G1%20punch%2C%20kick%2C%20and%20slip%20a%20padded%20human%20partner%20with%20no%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Funitree-unifolm-x2-combat%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Unitree’s G1 Spars Without a Teleoperator
+
+Unitree demos UnifoLM-X2-1.0, a world-action model that lets a G1 punch, kick, and slip a padded human partner with no…
+
+https://mechafeed.com/blog/unitree-unifolm-x2-combat/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## VLA-Precision Learns Lab Chemistry on Real Arms in Under an Hour
+
+- **Slug:** `vla-precision-chemistry`
+- **Date:** 2026-09-08
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/vla-precision-chemistry/
+- **Chars:** 266/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=VLA-Precision%20Learns%20Lab%20Chemistry%20on%20Real%20Arms%20in%20Under%20an%20Hour%0A%0AUSTC%E2%80%99s%20VLA-Precision%20posts%2098.3%25%20mean%20success%20on%20nine%20chemistry%20tasks%20across%20four%20robot%20setups%2C%20with%2045.8%20minutes%20of%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fvla-precision-chemistry%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+VLA-Precision Learns Lab Chemistry on Real Arms in Under an Hour
+
+USTC’s VLA-Precision posts 98.3% mean success on nine chemistry tasks across four robot setups, with 45.8 minutes of…
+
+https://mechafeed.com/blog/vla-precision-chemistry/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## XPeng IRON Walks Off a Live Humanoid Production Line
+
+- **Slug:** `xpeng-iron-walks-off-line`
+- **Date:** 2026-09-08
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/xpeng-iron-walks-off-line/
+- **Chars:** 257/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=XPeng%20IRON%20Walks%20Off%20a%20Live%20Humanoid%20Production%20Line%0A%0AXPeng%20commissions%20a%20Guangzhou%20IRON%20line%20with%20%3E80%25%20core%20automation%3B%20a%20finished%20robot%20walks%20off%20under%20its%20own%20power.%20Mass%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fxpeng-iron-walks-off-line%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+XPeng IRON Walks Off a Live Humanoid Production Line
+
+XPeng commissions a Guangzhou IRON line with >80% core automation; a finished robot walks off under its own power. Mass…
+
+https://mechafeed.com/blog/xpeng-iron-walks-off-line/
+
+#HumanoidRobots #Humanoids
+```
 
 ---
 
