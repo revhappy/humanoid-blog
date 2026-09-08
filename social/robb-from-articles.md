@@ -3,9 +3,53 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-08T16:15:13.750Z
+Generated: 2026-09-08T21:09:49.484Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Digit Drags a Couch, Then Puts the Chairs Back
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/agility-digit-redecorates/
+
+### SOLO (no link)
+
+```
+Dragging a couch is a better test than a tote on a jig.  The load is off-center, the feet have to keep walking, and the object is not designed for the gripper.
+```
+
+### SOFT-LINK variant
+
+```
+Dragging a couch is a better test than a tote on a jig.  The load is off-center, the feet have to keep walking, and the object is not designed for the gripper.
+
+https://mechafeed.com/blog/agility-digit-redecorates/
+```
+
+---
+
+## This UR10e Puts a Jacket On You While You Wave and Check Your Phone
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/dressing-in-motion/
+
+### SOLO (no link)
+
+```
+If you cannot dress someone who is fidgeting, you cannot dress someone who is tired.  The 89% insert number is on scripted lab motions with a force cap, not a bedroom at 7 a.
+```
+
+### SOFT-LINK variant
+
+```
+If you cannot dress someone who is fidgeting, you cannot dress someone who is tired.  The 89% insert number is on scripted lab motions with a force cap, not a bedroom at 7 a.
+
+https://mechafeed.com/blog/dressing-in-motion/
+```
 
 ---
 
@@ -53,6 +97,50 @@ https://mechafeed.com/blog/failurespot-vla-onset/
 
 ---
 
+## RoboGesture Makes a G1 Talk With Its Hands
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/galbot-robogesture/
+
+### SOLO (no link)
+
+```
+I like that they generate in robot joint space instead of hoping IK will forgive a human shrug.  The 2-second loop is still a stage pause, not a hallway chat.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they generate in robot joint space instead of hoping IK will forgive a human shrug.  The 2-second loop is still a stage pause, not a hallway chat.
+
+https://mechafeed.com/blog/galbot-robogesture/
+```
+
+---
+
+## Copying the Human Hand Does Not Automatically Make It Easier to Drive
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/hand-morphology-actuation/
+
+### SOLO (no link)
+
+```
+I have watched too many hand launches sell “human-like” as if that were a control spec.  This paper’s useful sentence is that the ACBH thumb is kinematically nicer and actuator-ugly.
+```
+
+### SOFT-LINK variant
+
+```
+I have watched too many hand launches sell “human-like” as if that were a control spec.  This paper’s useful sentence is that the ACBH thumb is kinematically nicer and actuator-ugly.
+
+https://mechafeed.com/blog/hand-morphology-actuation/
+```
+
+---
+
 ## IFA 2026’s Humanoid Floor: Kung Fu Minis, a Soccer Kid, a 450 N·m T800
 
 - Author on blog: Shar Hendrix
@@ -71,6 +159,50 @@ I’m here for the 88 cm kung-fu kit you can reprint a shell for, and for a $6k 
 I’m here for the 88 cm kung-fu kit you can reprint a shell for, and for a $6k soccer kid that already has a SKU.  The T800 is a different argument: torque and a ring.
 
 https://mechafeed.com/blog/ifa-2026-humanoid-floor/
+```
+
+---
+
+## LIBERO-Recover Asks If the Arm Can Get Up After It Drops the Bowl
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/libero-recover/
+
+### SOLO (no link)
+
+```
+I am glad someone stopped celebrating 99% on a reset table.  The useful finding is that L1/L2 look solvable and L3/L4 do not.
+```
+
+### SOFT-LINK variant
+
+```
+I am glad someone stopped celebrating 99% on a reset table.  The useful finding is that L1/L2 look solvable and L3/L4 do not.
+
+https://mechafeed.com/blog/libero-recover/
+```
+
+---
+
+## RoboSPA: Pick the Third-Farthest Bottle, Then Remember What You Hid
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/robospa-vla-benchmark/
+
+### SOLO (no link)
+
+```
+I am tired of 90% on pick-the-red-cup.  Asking for the fourth object in row one, counted right to left, is closer to how people actually talk to a robot.
+```
+
+### SOFT-LINK variant
+
+```
+I am tired of 90% on pick-the-red-cup.  Asking for the fourth object in row one, counted right to left, is closer to how people actually talk to a robot.
+
+https://mechafeed.com/blog/robospa-vla-benchmark/
 ```
 
 ---

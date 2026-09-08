@@ -14,8 +14,50 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-08T16:15:12.781Z
-Posts: 441
+Generated: 2026-09-08T21:09:48.573Z
+Posts: 447
+
+---
+
+## Digit Drags a Couch, Then Puts the Chairs Back
+
+- **Slug:** `agility-digit-redecorates`
+- **Date:** 2026-09-08
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/agility-digit-redecorates/
+- **Chars:** 251/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Digit%20Drags%20a%20Couch%2C%20Then%20Puts%20the%20Chairs%20Back%0A%0AAgility%E2%80%99s%20Digit%20Redecorates%20clip%20shows%20the%20warehouse%20biped%20shoving%20an%20orange%20sofa%20and%20shuffling%20mixed%20clutter%2C%20the%20same%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fagility-digit-redecorates%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Digit Drags a Couch, Then Puts the Chairs Back
+
+Agility’s Digit Redecorates clip shows the warehouse biped shoving an orange sofa and shuffling mixed clutter, the same…
+
+https://mechafeed.com/blog/agility-digit-redecorates/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## This UR10e Puts a Jacket On You While You Wave and Check Your Phone
+
+- **Slug:** `dressing-in-motion`
+- **Date:** 2026-09-08
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/dressing-in-motion/
+- **Chars:** 258/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=This%20UR10e%20Puts%20a%20Jacket%20On%20You%20While%20You%20Wave%20and%20Check%20Your%20Phone%0A%0AA%20PolyU%20dressing%20policy%20learned%20on%20still%20arms%2C%20then%20tracks%20a%20moving%20sleeve%20with%20point-cloud%20registration.%20Nine%20people%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdressing-in-motion%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+This UR10e Puts a Jacket On You While You Wave and Check Your Phone
+
+A PolyU dressing policy learned on still arms, then tracks a moving sleeve with point-cloud registration. Nine people,…
+
+https://mechafeed.com/blog/dressing-in-motion/
+
+#Robotics #Humanoids
+```
 
 ---
 
@@ -61,6 +103,48 @@ https://mechafeed.com/blog/failurespot-vla-onset/
 
 ---
 
+## RoboGesture Makes a G1 Talk With Its Hands
+
+- **Slug:** `galbot-robogesture`
+- **Date:** 2026-09-08
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/galbot-robogesture/
+- **Chars:** 236/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=RoboGesture%20Makes%20a%20G1%20Talk%20With%20Its%20Hands%0A%0AGalbot%20and%20Tsinghua%E2%80%99s%20ECCV%202026%20system%20generates%20co-speech%20gestures%20on%20a%20Unitree%20G1%20with%20BrainCo%20hands%20at%20about%20120%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgalbot-robogesture%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+RoboGesture Makes a G1 Talk With Its Hands
+
+Galbot and Tsinghua’s ECCV 2026 system generates co-speech gestures on a Unitree G1 with BrainCo hands at about 120…
+
+https://mechafeed.com/blog/galbot-robogesture/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Copying the Human Hand Does Not Automatically Make It Easier to Drive
+
+- **Slug:** `hand-morphology-actuation`
+- **Date:** 2026-09-08
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/hand-morphology-actuation/
+- **Chars:** 266/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Copying%20the%20Human%20Hand%20Does%20Not%20Automatically%20Make%20It%20Easier%20to%20Drive%0A%0AA%20Budapest%20study%20splits%20Jacobian%20from%20tendons%20on%20the%20Shadow%20Hand%20and%20a%20biomechatronic%20copy.%20Anatomy%20helps%20the%20thumb%E2%80%99s%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhand-morphology-actuation%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Copying the Human Hand Does Not Automatically Make It Easier to Drive
+
+A Budapest study splits Jacobian from tendons on the Shadow Hand and a biomechatronic copy. Anatomy helps the thumb’s…
+
+https://mechafeed.com/blog/hand-morphology-actuation/
+
+#Robotics #Humanoids
+```
+
+---
+
 ## IFA 2026’s Humanoid Floor: Kung Fu Minis, a Soccer Kid, a 450 N·m T800
 
 - **Slug:** `ifa-2026-humanoid-floor`
@@ -78,6 +162,48 @@ BGR’s IFA walk: PrimeBOT Q1 kung fu, Booster K1 in a Messi kit from $5,999, En
 https://mechafeed.com/blog/ifa-2026-humanoid-floor/
 
 #HumanoidRobots #Humanoids
+```
+
+---
+
+## LIBERO-Recover Asks If the Arm Can Get Up After It Drops the Bowl
+
+- **Slug:** `libero-recover`
+- **Date:** 2026-09-08
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/libero-recover/
+- **Chars:** 260/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=LIBERO-Recover%20Asks%20If%20the%20Arm%20Can%20Get%20Up%20After%20It%20Drops%20the%20Bowl%0A%0AA%202%2C178-scenario%20benchmark%20built%20from%20real%20VLA%20failures.%20Near-perfect%20LIBERO%20scores%20fall%20more%20than%2050%25%20when%20the%20policy%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flibero-recover%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+LIBERO-Recover Asks If the Arm Can Get Up After It Drops the Bowl
+
+A 2,178-scenario benchmark built from real VLA failures. Near-perfect LIBERO scores fall more than 50% when the policy…
+
+https://mechafeed.com/blog/libero-recover/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## RoboSPA: Pick the Third-Farthest Bottle, Then Remember What You Hid
+
+- **Slug:** `robospa-vla-benchmark`
+- **Date:** 2026-09-08
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/robospa-vla-benchmark/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=RoboSPA%3A%20Pick%20the%20Third-Farthest%20Bottle%2C%20Then%20Remember%20What%20You%20Hid%0A%0AEMNLP%202026%20benchmark%20with%20527K%20trajectories.%20At%20difficulty%20L5%2C%20%CF%800.5%2C%20X-VLA%2C%20GO-1%2C%20and%20RDT%20all%20sit%20under%2025%25%20success.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frobospa-vla-benchmark%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+RoboSPA: Pick the Third-Farthest Bottle, Then Remember What You Hid
+
+EMNLP 2026 benchmark with 527K trajectories. At difficulty L5, π0.5, X-VLA, GO-1, and RDT all sit under 25% success.
+
+https://mechafeed.com/blog/robospa-vla-benchmark/
+
+#AI #Humanoids
 ```
 
 ---

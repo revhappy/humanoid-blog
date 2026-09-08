@@ -4463,3 +4463,68 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Social:** tweets 441; robb-x 441
 - **Build:** PASS (astro build exit 0; new slugs rendered)
 - **Failures:** none; hit target 8 of 8. X list not usable (disclosed). Dynamic Creatures skipped for missing robot stills.
+
+
+## 2026-09-08 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json, startedAt 2026-09-08T14:00:04-07:00)
+- Date (Pacific): 2026-09-08
+- git pull --rebase origin main: already up to date
+- Morning this calendar day published **8** (XPeng IRON walk-off, UnifoLM-X2 combat, IFA 2026 floor, VLA-Precision, TacPAC, SocioGesture G1, ergoCub TTE, FailureSpot) — **do not rehash**
+- X list https://x.com/i/lists/1805786050763087967: **curated list feed not usable** (keyword Latest returned mixed timeline noise, not a browseable curated-list feed). Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: @GalbotRobotics / @Humanoidguide RoboGesture G1 co-speech — **CANDIDATE/WRITTEN**
+- Public X: Unitree UnifoLM-X2 recirc — **SKIP: morning**
+- Public X: XPeng IRON recirc — **SKIP: morning**
+- Public X: Agility S-4 numbers — **SKIP: business mix**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Galbot RoboGesture ECCV 2026 on Unitree G1 + BrainCo hands — robogesture.github.io + arXiv:2608.28693 + Humanoids Daily + IE — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Agility Digit Redecorates (couch drag, mixed clutter) — Agility YouTube 2 Sep + IEEE Spectrum Video Friday 4 Sep — lane: **build** (machine demo, not the S-4 filing)
+3. **[CANDIDATE/WRITTEN]** LIBERO-Recover failure-recovery benchmark — arXiv:2609.05178 + project page — lane: **build** (distinct from morning FailureSpot onset detector)
+4. **[CANDIDATE/WRITTEN]** Dressing in Motion UR10e human study — arXiv:2609.04759 — lane: **build**
+5. **[CANDIDATE/WRITTEN]** RoboSPA spatial/procedural VLA benchmark — arXiv:2609.05324 + project page + GitHub — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Morphology and actuation as inductive biases (Shadow Hand vs ACBH) — arXiv:2609.05206 — lane: **build**
+7. **[SKIP: no matching robot stills]** Dynamic Creatures stealth (GlobeNewswire 8 Sep) — founder photo only; Robot Report page fetch thin; still no Danielle/Spot/Atlas character still that passed vision
+8. **[SKIP: already covered morning]** IRON walk-off, UnifoLM-X2, IFA floor, VLA-Precision, TacPAC, SocioGesture, ergoCub, FailureSpot
+9. **[SKIP: already covered 9/2–9/5]** Pathak Bridge, WM-LOCO, ADAPT, OH! GYM, Galbot ET1 preorders, Doova, Facet-0, Berkeley Lite recirc
+10. **[SKIP: business mix]** Agility S-4 .8M /  loss; Tesla Optimus 5,000-unit rumor; Figure–Nscale
+11. **[SKIP: recirc / old / thin]** SteadyTray G1 (IEEE VF recirc of March paper); MINERVA stills still thin; HONOR D1 no stills; Zero W1 second still still thin
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | galbot-robogesture | Shar Hendrix | Humanoids | build |
+| 2 | agility-digit-redecorates | Robb Harlan | Humanoids | build |
+| 3 | libero-recover | Shar Hendrix | Research | build |
+| 4 | dressing-in-motion | Robb Harlan | Robotics | build |
+| 5 | robospa-vla-benchmark | Shar Hendrix | AI | build |
+| 6 | hand-morphology-actuation | Robb Harlan | Robotics | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary + matching stills: **6** | Writing: **6**
+- Soft floor 2 met. Hit target 6.
+
+### Notes for Future Agents
+- Do not rewrite RoboGesture G1 co-speech, Digit Redecorates couch demo, LIBERO-Recover, Dressing in Motion UR10e, RoboSPA, Shadow/ACBH morphology
+- Dynamic Creatures still uncovered if a real character/Spot/Atlas still (not founder) appears
+- Zero W1 / HONOR D1 / MINERVA still uncovered if usable stills appear
+- Agility S-4 numbers remain **business**; skip unless batch has 25% room and a machine-first lede
+- Digit Redecorates is a demo clip, not a V5 ship date
+
+### Run summary
+- **Articles published (6):** galbot-robogesture, agility-digit-redecorates, libero-recover, dressing-in-motion, robospa-vla-benchmark, hand-morphology-actuation
+- **pubDate:** 2026-09-08
+- **Skipped candidates:** Dynamic Creatures (founder still only), morning eight recirc, 9/2–9/5 recirc, business (Agility S-4 / Optimus rumor), SteadyTray recirc, MINERVA/HONOR/Zero W1 thin stills
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 posts dated 2026-09-08 including morning 8)
+- **Vision gate:** PASS — RoboGesture (G1 teaser + pipeline + Unitree gesture compare), Digit (IEEE sofa drag + official YT title card), LIBERO-Recover (L1–L4 arm strips + task grid), Dressing (UR10e human-study grid + setup/garments + Assistive Gym), RoboSPA (10-category table scenes + difficulty design + AgileX failure panels), morphology (Shadow Hand + ACBH tendons + thumb ellipsoids). Rejected undersized dressing cover (312×199) as hero.
+- **Social:** tweets 447; robb-x 447
+- **Build:** PASS (astro build exit 0; new slugs rendered)
+- **Failures:** none; hit target 6 of 6. X list not usable (disclosed). Dynamic Creatures skipped again for missing robot stills.
