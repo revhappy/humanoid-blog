@@ -14,8 +14,134 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-08T21:09:48.573Z
-Posts: 447
+Generated: 2026-09-09T21:16:41.263Z
+Posts: 453
+
+---
+
+## IFA’s Home Robots Share a Chip: Sunrise Inside SuperDog, AiMe, and xLean
+
+- **Slug:** `d-robotics-ifa-home`
+- **Date:** 2026-09-09
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/d-robotics-ifa-home/
+- **Chars:** 263/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=IFA%E2%80%99s%20Home%20Robots%20Share%20a%20Chip%3A%20Sunrise%20Inside%20SuperDog%2C%20AiMe%2C%20and%20xLean%0A%0AD-Robotics%20says%20TCL%E2%80%99s%20hey%20AiMe%2C%20Vbot%E2%80%99s%20SuperDog%2C%20and%20the%20xLean%20TR1%20all%20run%20its%20Sunrise%20AI%20silicon%20on%20the%20Berlin%20floor.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fd-robotics-ifa-home%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+IFA’s Home Robots Share a Chip: Sunrise Inside SuperDog, AiMe, and xLean
+
+D-Robotics says TCL’s hey AiMe, Vbot’s SuperDog, and the xLean TR1 all run its Sunrise AI silicon on the Berlin floor.
+
+https://mechafeed.com/blog/d-robotics-ifa-home/
+
+#Robotics #Humanoids
+```
+
+---
+
+## DeCAL Lets a Dexterous VLA Feel Before It Commits
+
+- **Slug:** `decal-dexterous-vla`
+- **Date:** 2026-09-09
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/decal-dexterous-vla/
+- **Chars:** 242/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=DeCAL%20Lets%20a%20Dexterous%20VLA%20Feel%20Before%20It%20Commits%0A%0APeking%20and%20BAAI%E2%80%99s%20CoRL%202026%20model%20gates%20tactile%20input%20on%20contact%20and%20hits%2071%25%20success%20on%20six%20real%20SharpaWave-hand%20tasks.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdecal-dexterous-vla%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+DeCAL Lets a Dexterous VLA Feel Before It Commits
+
+Peking and BAAI’s CoRL 2026 model gates tactile input on contact and hits 71% success on six real SharpaWave-hand tasks.
+
+https://mechafeed.com/blog/decal-dexterous-vla/
+
+#Robotics #Humanoids
+```
+
+---
+
+## PPS Steers a Frozen π0.5 Without Touching Its Weights
+
+- **Slug:** `pps-proxy-policy-steering`
+- **Date:** 2026-09-09
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/pps-proxy-policy-steering/
+- **Chars:** 242/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=PPS%20Steers%20a%20Frozen%20%CF%800.5%20Without%20Touching%20Its%20Weights%0A%0ACornell%E2%80%99s%20Proxy%20Policy%20Steering%20lifts%20%CF%800.5%20by%2053%20points%20on%20average%20and%20turns%20coffee%20brewing%20from%200%2F10%20to%205%2F10%20while%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpps-proxy-policy-steering%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+PPS Steers a Frozen π0.5 Without Touching Its Weights
+
+Cornell’s Proxy Policy Steering lifts π0.5 by 53 points on average and turns coffee brewing from 0/10 to 5/10 while…
+
+https://mechafeed.com/blog/pps-proxy-policy-steering/
+
+#AI #Humanoids
+```
+
+---
+
+## TANGO Walks a G1 Through Clutter by Moving the Whole Body
+
+- **Slug:** `tango-g1-vln`
+- **Date:** 2026-09-09
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/tango-g1-vln/
+- **Chars:** 241/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=TANGO%20Walks%20a%20G1%20Through%20Clutter%20by%20Moving%20the%20Whole%20Body%0A%0AA%20CoRL%202026%20VLA%20predicts%2029-DoF%20G1%20actions%20from%20language%20and%20RGB%2C%20trained%20only%20in%20sim%2C%20then%20zero-shot%20through%20a%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftango-g1-vln%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+TANGO Walks a G1 Through Clutter by Moving the Whole Body
+
+A CoRL 2026 VLA predicts 29-DoF G1 actions from language and RGB, trained only in sim, then zero-shot through a…
+
+https://mechafeed.com/blog/tango-g1-vln/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Vention Opens a Physical AI Lab Where the Factory Is the Dataset
+
+- **Slug:** `vention-physical-ai-lab`
+- **Date:** 2026-09-09
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/vention-physical-ai-lab/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Vention%20Opens%20a%20Physical%20AI%20Lab%20Where%20the%20Factory%20Is%20the%20Dataset%0A%0AMontreal%20automation%20firm%E2%80%99s%20new%20lab%2C%20led%20by%20Jimmy%20Li%20and%20advised%20by%20Cohere%E2%80%99s%20Joelle%20Pineau%2C%20will%20post-train%20robot%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fvention-physical-ai-lab%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Vention Opens a Physical AI Lab Where the Factory Is the Dataset
+
+Montreal automation firm’s new lab, led by Jimmy Li and advised by Cohere’s Joelle Pineau, will post-train robot…
+
+https://mechafeed.com/blog/vention-physical-ai-lab/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Xiaoyuan Is a Guide Dog With Wheels for Flats and Legs for Stairs
+
+- **Slug:** `xiaoyuan-guide-robot`
+- **Date:** 2026-09-09
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/xiaoyuan-guide-robot/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Xiaoyuan%20Is%20a%20Guide%20Dog%20With%20Wheels%20for%20Flats%20and%20Legs%20for%20Stairs%0A%0AA%20wheeled-legged%20guide%20robot%20launched%20at%20Beijing%E2%80%99s%20rehab%20expo%20claims%2099%25%20indoor%20obstacle%20avoidance%20and%20a%20Hangzhou%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fxiaoyuan-guide-robot%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Xiaoyuan Is a Guide Dog With Wheels for Flats and Legs for Stairs
+
+A wheeled-legged guide robot launched at Beijing’s rehab expo claims 99% indoor obstacle avoidance and a Hangzhou…
+
+https://mechafeed.com/blog/xiaoyuan-guide-robot/
+
+#Robotics #Humanoids
+```
 
 ---
 

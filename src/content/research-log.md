@@ -4528,3 +4528,71 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Social:** tweets 447; robb-x 447
 - **Build:** PASS (astro build exit 0; new slugs rendered)
 - **Failures:** none; hit target 6 of 6. X list not usable (disclosed). Dynamic Creatures skipped again for missing robot stills.
+
+
+## 2026-09-09 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json, startedAt 2026-09-09T14:00:06-07:00)
+- Date (Pacific): 2026-09-09
+- git pull --rebase origin main: already up to date
+- No 2026-09-09 morning posts on disk (morning slot appears not to have published). Last published: 2026-09-08 morning 8 + afternoon 6 — **do not rehash**
+- X list `https://x.com/i/lists/1805786050763087967`: **curated list feed not usable** (fetch returned privacy/login error). Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: Unitree UnifoLM-X2 recirc — **SKIP: covered 9/8 morning**
+- Public X: XPeng IRON recirc — **SKIP: covered 9/8 morning**
+- Public X: Boston Dynamics @BostonDynamics Kirin Brewery Spot (9 Sep) — **SKIP: thin primary beyond YT title card / tweet**
+- Public X: @dynamicreatures / BD partnership recirc — **SKIP: stills still founder/talking-head; Danielle not on a usable still**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** TANGO whole-body 29-DoF VLN on Unitree G1, zero-shot 30 m office — arXiv:2609.09158 (8 Sep) + project page + YouTube — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Xiaoyuan wheeled-legged guide robot — SCMP 4 Sep + Global Times 5 Sep — lane: **build**
+3. **[CANDIDATE/WRITTEN]** DeCAL visuo-tactile dexterous VLA, 71% SR — arXiv:2609.09119 + project page — lane: **build**
+4. **[CANDIDATE/WRITTEN]** Vention Physical AI Lab Montreal — PR Newswire + Robot Report 9 Sep — lane: **build**
+5. **[CANDIDATE/WRITTEN]** D-Robotics Sunrise chips in TCL hey AiMe, Vbot SuperDog, xLean TR1 at IFA — PR Newswire 4 Sep + Gadget Flow + Technology.org + AP YouTube — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Proxy Policy Steering (PPS) on π0.5, +53 pp — arXiv:2609.09148 + ppsteering.github.io — lane: **build**
+7. **[SKIP: no matching robot stills]** Dynamic Creatures stealth — Fortune/Globe/TRR stills are founders; YT maxres is a talking head; TRR mp4 403
+8. **[SKIP: no robot stills]** Samsung Medical Center dual humanoid surgical demo announced for 16 Sep — FN photo is the hospital team
+9. **[SKIP: already covered 9/8]** XPeng IRON walk-off, UnifoLM-X2, IFA humanoid floor (Q1/K1/T800), VLA-Precision, TacPAC, SocioGesture, ergoCub, FailureSpot, RoboGesture, Digit Redecorates, LIBERO-Recover, Dressing in Motion, RoboSPA, morphology
+10. **[SKIP: already covered]** NVIDIA SONIC Science Robotics recirc (existing nvidia-sonic-science-robotics.md); Figure Index 69k WAU (existing figure-index-helix-data.md); Pathak Bridge; ADAPT; WM-LOCO
+11. **[SKIP: business mix]** Unitree shares down 53%; Agility S-4; Tesla Optimus 5,000-unit rumor; CSRC IPO curb; Humanoid 34,000 preorders; Antioch $32M
+12. **[SKIP: thin / old / recirc]** Kirin Spot (deployment is 2025 Instagram/Nikkei; today’s post is a case-study video); Nature humanoid surgery (July); TCL AiMe design story is CES 2025 (used only IFA 2026 chip/show facts)
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | tango-g1-vln | Shar Hendrix | Humanoids | build |
+| 2 | xiaoyuan-guide-robot | Shar Hendrix | Robotics | build |
+| 3 | decal-dexterous-vla | Robb Harlan | Robotics | build |
+| 4 | vention-physical-ai-lab | Robb Harlan | Robotics | build |
+| 5 | d-robotics-ifa-home | Shar Hendrix | Robotics | build |
+| 6 | pps-proxy-policy-steering | Robb Harlan | AI | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary + matching stills: **6** | Writing: **6**
+- Soft floor 2 met. Hit target 6.
+- No morning posts this calendar day; did not pad with 9/8 recirc.
+
+### Notes for Future Agents
+- Do not rewrite TANGO G1 VLN, Xiaoyuan guide robot, DeCAL, Vention Physical AI Lab, D-Robotics IFA Sunrise home robots, PPS
+- Dynamic Creatures still uncovered if a real Danielle/Hugo/Spot-character still (not founder, not talking-head YT thumb) appears
+- Samsung ORchestra dual-humanoid surgical demo is **16 Sep** — follow that day for robot stills
+- Xiaoyuan corporate identity is split: SCMP = Zhiyuan Research Institute / Norinco; GT = Yuanshan Zhixing Technology — do not invent a merge
+- Vention is arms/AMRs, not humanoids; GRIIP SDK not shipped yet
+- Kirin/TECO Spot case video is a recirc of a 2025 Chitose deployment unless BD publishes new metrics
+
+### Run summary
+- **Articles published (6):** tango-g1-vln, xiaoyuan-guide-robot, decal-dexterous-vla, vention-physical-ai-lab, d-robotics-ifa-home, pps-proxy-policy-steering
+- **pubDate:** 2026-09-09
+- **Skipped candidates:** Dynamic Creatures (no robot still), Samsung surgery (team photo only), 9/8 recirc, business (Unitree share dump / Agility S-4 / Optimus rumor), Kirin thin, SONIC/Index recirc
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 6 posts dated 2026-09-09)
+- **Vision gate:** PASS — TANGO (G1 office teaser + PET/architecture + real sidestep/squat/stride strips), Xiaoyuan (expo pair + stair climb), DeCAL (teaser arms + UR5/SharpaWave rig + six-task grid), Vention (lab cells + Jimmy Li with arms), D-Robotics IFA (Sunrise product mosaic + AP AiMe stage still), PPS (method teaser with jeans + Franka jeans fold + drawer/boxes). Rejected DC talking-head YT thumb, Samsung team photo, Gadget Flow Hesai-booth quadruped, PPS first-page text render.
+- **Social:** tweets 453; robb-x 453
+- **Build:** PASS (astro build exit 0; 466 pages; new slugs rendered)
+- **Failures:** none; hit target 6 of 6. X list not usable (disclosed). No morning posts this calendar day.

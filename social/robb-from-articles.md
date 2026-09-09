@@ -3,9 +3,141 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-08T21:09:49.484Z
+Generated: 2026-09-09T21:17:01.068Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## IFA’s Home Robots Share a Chip: Sunrise Inside SuperDog, AiMe, and xLean
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/d-robotics-ifa-home/
+
+### SOLO (no link)
+
+```
+I’m here for the washer and the CE-certified dog more than the companion with twenty sensors and no price.  A chip vendor showing up in three different bodies is a supply-chain story wearing a robot suit.
+```
+
+### SOFT-LINK variant
+
+```
+I’m here for the washer and the CE-certified dog more than the companion with twenty sensors and no price.  A chip vendor showing up in three different bodies is a supply-chain story wearing a robot suit.
+
+https://mechafeed.com/blog/d-robotics-ifa-home/
+```
+
+---
+
+## DeCAL Lets a Dexterous VLA Feel Before It Commits
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/decal-dexterous-vla/
+
+### SOLO (no link)
+
+```
+A gate that shuts up until contact is how I would wire a hand if I had to ship it.  Seventy-one percent across wipe, twist, pipette, and a light bulb is a lab average, not a shift.
+```
+
+### SOFT-LINK variant
+
+```
+A gate that shuts up until contact is how I would wire a hand if I had to ship it.  Seventy-one percent across wipe, twist, pipette, and a light bulb is a lab average, not a shift.
+
+https://mechafeed.com/blog/decal-dexterous-vla/
+```
+
+---
+
+## PPS Steers a Frozen π0.5 Without Touching Its Weights
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/pps-proxy-policy-steering/
+
+### SOLO (no link)
+
+```
+Leaving the base frozen so it can still recover from a miss is the part I would steal.  Five out of ten on coffee is not a barista.
+```
+
+### SOFT-LINK variant
+
+```
+Leaving the base frozen so it can still recover from a miss is the part I would steal.  Five out of ten on coffee is not a barista.
+
+https://mechafeed.com/blog/pps-proxy-policy-steering/
+```
+
+---
+
+## TANGO Walks a G1 Through Clutter by Moving the Whole Body
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/tango-g1-vln/
+
+### SOLO (no link)
+
+```
+I like that they made the body part of the path, not a passenger on a 2D waypoint.  A G1 that sidesteps a chair because the policy predicted 29 joints, not because someone wrote a dodge primitive, is the kind of demo that makes me replay the clip.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they made the body part of the path, not a passenger on a 2D waypoint.  A G1 that sidesteps a chair because the policy predicted 29 joints, not because someone wrote a dodge primitive, is …
+
+https://mechafeed.com/blog/tango-g1-vln/
+```
+
+---
+
+## Vention Opens a Physical AI Lab Where the Factory Is the Dataset
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/vention-physical-ai-lab/
+
+### SOLO (no link)
+
+```
+A lab whose training set is live plants is the right argument.  Four hundred percent revenue growth is a company number, not a grasp-success number.
+```
+
+### SOFT-LINK variant
+
+```
+A lab whose training set is live plants is the right argument.  Four hundred percent revenue growth is a company number, not a grasp-success number.
+
+https://mechafeed.com/blog/vention-physical-ai-lab/
+```
+
+---
+
+## Xiaoyuan Is a Guide Dog With Wheels for Flats and Legs for Stairs
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/xiaoyuan-guide-robot/
+
+### SOLO (no link)
+
+```
+Wheels for the quiet parts and legs for the stairs is the kind of hybrid I want on a sidewalk, not another humanoid waving at a booth.  I am not going to treat a press-kit obstacle-avoidance percentage as a white-cane replacement.
+```
+
+### SOFT-LINK variant
+
+```
+Wheels for the quiet parts and legs for the stairs is the kind of hybrid I want on a sidewalk, not another humanoid waving at a booth.  I am not going to treat a press-kit obstacle-avoidance percentage as a white-cane replacement.
+
+https://mechafeed.com/blog/xiaoyuan-guide-robot/
+```
 
 ---
 
