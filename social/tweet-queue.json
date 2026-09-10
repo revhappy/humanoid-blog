@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T16:12:40.661Z",
+  "generatedAt": "2026-09-10T21:13:58.096Z",
   "site": "https://mechafeed.com/",
   "posts": [
     {
@@ -33,6 +33,16 @@
       "chars": 245
     },
     {
+      "id": "gta-2-task-axes",
+      "title": "GTA-2 Builds Robot Skills From Axes, Not End-to-End Actions",
+      "pubDate": "2026-09-10",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/gta-2-task-axes/",
+      "tweet": "GTA-2 Builds Robot Skills From Axes, Not End-to-End Actions\n\nCMU and Bosch VLMs compose task-axis controllers on a UR5e. Zero-shot success is 73.9% across 14 tasks; one round of…\n\nhttps://mechafeed.com/blog/gta-2-task-axes/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=GTA-2%20Builds%20Robot%20Skills%20From%20Axes%2C%20Not%20End-to-End%20Actions%0A%0ACMU%20and%20Bosch%20VLMs%20compose%20task-axis%20controllers%20on%20a%20UR5e.%20Zero-shot%20success%20is%2073.9%25%20across%2014%20tasks%3B%20one%20round%20of%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgta-2-task-axes%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 239
+    },
+    {
       "id": "hawmpo-vla",
       "title": "HaWMPO Down-Weights Hallucinated World-Model Rollouts",
       "pubDate": "2026-09-10",
@@ -41,6 +51,26 @@
       "tweet": "HaWMPO Down-Weights Hallucinated World-Model Rollouts\n\nJilin and JD post-train OpenVLA-OFT in a world model, then raise G1 success from 67.5% to 80% by scoring fake futures.\n\nhttps://mechafeed.com/blog/hawmpo-vla/\n\n#AI #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=HaWMPO%20Down-Weights%20Hallucinated%20World-Model%20Rollouts%0A%0AJilin%20and%20JD%20post-train%20OpenVLA-OFT%20in%20a%20world%20model%2C%20then%20raise%20G1%20success%20from%2067.5%25%20to%2080%25%20by%20scoring%20fake%20futures.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhawmpo-vla%2F%0A%0A%23AI%20%23Humanoids",
       "chars": 229
+    },
+    {
+      "id": "in-hand-assembly-sharpa",
+      "title": "One Sharpa Wave Hand Caps a Bottle, Syringe, and Marker",
+      "pubDate": "2026-09-10",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/in-hand-assembly-sharpa/",
+      "tweet": "One Sharpa Wave Hand Caps a Bottle, Syringe, and Marker\n\nHKU and HKUST Guangzhou train fixture-free in-hand assembly in sim; a 22-DoF hand mates two parts with a single camera,…\n\nhttps://mechafeed.com/blog/in-hand-assembly-sharpa/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=One%20Sharpa%20Wave%20Hand%20Caps%20a%20Bottle%2C%20Syringe%2C%20and%20Marker%0A%0AHKU%20and%20HKUST%20Guangzhou%20train%20fixture-free%20in-hand%20assembly%20in%20sim%3B%20a%2022-DoF%20hand%20mates%20two%20parts%20with%20a%20single%20camera%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fin-hand-assembly-sharpa%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 252
+    },
+    {
+      "id": "jepa-policy",
+      "title": "JEPA Policy Skips Diffusion and Still Beats It on Five Robot Tasks",
+      "pubDate": "2026-09-10",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/jepa-policy/",
+      "tweet": "JEPA Policy Skips Diffusion and Still Beats It on Five Robot Tasks\n\nA two-pass Transformer predicts the action chunk and the future latent together. 83% in sim, 66.9% across 630 real…\n\nhttps://mechafeed.com/blog/jepa-policy/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=JEPA%20Policy%20Skips%20Diffusion%20and%20Still%20Beats%20It%20on%20Five%20Robot%20Tasks%0A%0AA%20two-pass%20Transformer%20predicts%20the%20action%20chunk%20and%20the%20future%20latent%20together.%2083%25%20in%20sim%2C%2066.9%25%20across%20630%20real%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fjepa-policy%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 240
     },
     {
       "id": "show-harness-vlm",
@@ -53,6 +83,16 @@
       "chars": 232
     },
     {
+      "id": "spot-handstand-curriculum",
+      "title": "Stiffer Joints in Sim Teach Spot to Handstand",
+      "pubDate": "2026-09-10",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/spot-handstand-curriculum/",
+      "tweet": "Stiffer Joints in Sim Teach Spot to Handstand\n\nSaxion researchers anneal PD stiffness from 60 to 40 so a Boston Dynamics Spot can tip 90 degrees onto its front legs;…\n\nhttps://mechafeed.com/blog/spot-handstand-curriculum/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Stiffer%20Joints%20in%20Sim%20Teach%20Spot%20to%20Handstand%0A%0ASaxion%20researchers%20anneal%20PD%20stiffness%20from%2060%20to%2040%20so%20a%20Boston%20Dynamics%20Spot%20can%20tip%2090%20degrees%20onto%20its%20front%20legs%3B%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fspot-handstand-curriculum%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 243
+    },
+    {
       "id": "spot-humanoid-teleop",
       "title": "SPOT Lets You Look Around Without Steering the Humanoid",
       "pubDate": "2026-09-10",
@@ -60,6 +100,16 @@
       "url": "https://mechafeed.com/blog/spot-humanoid-teleop/",
       "tweet": "SPOT Lets You Look Around Without Steering the Humanoid\n\nUMass and MIT decouple VR head motion from robot actuation, cutting drop-recovery time to 19.7 s across 10 operators.\n\nhttps://mechafeed.com/blog/spot-humanoid-teleop/\n\n#HumanoidRobots #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=SPOT%20Lets%20You%20Look%20Around%20Without%20Steering%20the%20Humanoid%0A%0AUMass%20and%20MIT%20decouple%20VR%20head%20motion%20from%20robot%20actuation%2C%20cutting%20drop-recovery%20time%20to%2019.7%20s%20across%2010%20operators.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fspot-humanoid-teleop%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 252
+    },
+    {
+      "id": "tactile-data-robots",
+      "title": "Tactile Data Is Finally Big Enough to Matter for Robot Hands",
+      "pubDate": "2026-09-10",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/tactile-data-robots/",
+      "tweet": "Tactile Data Is Finally Big Enough to Matter for Robot Hands\n\nIEEE Spectrum surveys T-Rex’s 65% touch-reactive VLA, a 3,000-hour multi-sensor set, and NeoteAI’s 30,000-hour tactile…\n\nhttps://mechafeed.com/blog/tactile-data-robots/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Tactile%20Data%20Is%20Finally%20Big%20Enough%20to%20Matter%20for%20Robot%20Hands%0A%0AIEEE%20Spectrum%20surveys%20T-Rex%E2%80%99s%2065%25%20touch-reactive%20VLA%2C%20a%203%2C000-hour%20multi-sensor%20set%2C%20and%20NeoteAI%E2%80%99s%2030%2C000-hour%20tactile%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftactile-data-robots%2F%0A%0A%23Robotics%20%23Humanoids",
       "chars": 252
     },
     {
@@ -71,6 +121,16 @@
       "tweet": "Unitree Opens UnifoLM-WLA-1.0, One G1 Policy for 64 Tasks\n\nA 6B whole-body VLA trained on ~2,500 hours of real-robot data, covering tabletop work and laundry-to-washer locomotion.\n\nhttps://mechafeed.com/blog/unitree-unifolm-wla-10/\n\n#HumanoidRobots #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=Unitree%20Opens%20UnifoLM-WLA-1.0%2C%20One%20G1%20Policy%20for%2064%20Tasks%0A%0AA%206B%20whole-body%20VLA%20trained%20on%20~2%2C500%20hours%20of%20real-robot%20data%2C%20covering%20tabletop%20work%20and%20laundry-to-washer%20locomotion.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Funitree-unifolm-wla-10%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
       "chars": 259
+    },
+    {
+      "id": "vibe-humanoid-control",
+      "title": "ViBe Lets a Blind Humanoid Tracker See Curbs, Cubes, and Dodgeballs",
+      "pubDate": "2026-09-10",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/vibe-humanoid-control/",
+      "tweet": "ViBe Lets a Blind Humanoid Tracker See Curbs, Cubes, and Dodgeballs\n\nUSC post-trains a frozen SONIC tracker with LoRA and a visual extractor; a G1 parkours, reorients cubes, and dodges…\n\nhttps://mechafeed.com/blog/vibe-humanoid-control/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=ViBe%20Lets%20a%20Blind%20Humanoid%20Tracker%20See%20Curbs%2C%20Cubes%2C%20and%20Dodgeballs%0A%0AUSC%20post-trains%20a%20frozen%20SONIC%20tracker%20with%20LoRA%20and%20a%20visual%20extractor%3B%20a%20G1%20parkours%2C%20reorients%20cubes%2C%20and%20dodges%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fvibe-humanoid-control%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 264
     },
     {
       "id": "whirl-leap-hand",

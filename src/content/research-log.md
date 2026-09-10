@@ -4667,3 +4667,70 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Social:** tweets 461; robb-x 461
 - **Build:** PASS (astro build exit 0; 474 pages; new slugs rendered)
 - **Failures:** none; hit target 8 of 8. X list not usable (disclosed).
+
+## 2026-09-10 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json, startedAt 2026-09-10T14:00:05-07:00)
+- Date (Pacific): 2026-09-10
+- git pull --rebase origin main: already up to date
+- Morning this calendar day published **8** (UnifoLM-WLA-1.0, Agile ONE Fürstenfeldbruck, HaWMPO, FolDeX, Show-Harness, GALATEA, SPOT teleop, WHIRL LEAP Hand) — **do not rehash**
+- X list https://x.com/i/lists/1805786050763087967: **not usable** (fetch returned privacy/login error). Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: XPeng IRON recirc / $6.3B valuation chatter — **SKIP: covered 9/8 morning; business slant**
+- Public X: Unitree boxing / UnifoLM-X2 recirc — **SKIP: covered 9/8 morning**
+- Public X: Figure laundry loading clip — **SKIP: recirc / not a new primary**
+- Public X: @agilityrobotics “Built for the Real World” safety post (10 Sep) — **SKIP: marketing/safety essay, thin machine news**
+- Public X: @BostonDynamics Spot/Orbit 5.2 agentic workflows (10 Sep) — **SKIP: software-release webinar recirc, not a new robot capability demo with stills we could verify this run**
+- Public X: demolition-humanoid / Mexico plaza clips — **SKIP: unverified viral, no primary**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** ViBe perceptive whole-body post-training on Unitree G1 (parkour, cube, dodgeball) — arXiv:2609.09918 (9 Sep) + project page — lane: **build**
+2. **[CANDIDATE/WRITTEN]** In-hand assembly on Sharpa Wave (bottle/syringe/marker) — arXiv:2609.10137 + project page, CoRL 2026 — lane: **build**
+3. **[CANDIDATE/WRITTEN]** GTA-2 task-axis VLM skills on UR5e, 73.9% zero-shot / 90.7% refined — arXiv:2609.09808 + project page — lane: **build**
+4. **[CANDIDATE/WRITTEN]** IEEE Spectrum tactile-data survey (10 Sep) covering T-Rex 65%, Yuan 3,000h, NeoteAI 30,000h N0-TWAM — Spectrum + T-Rex + NeoteAI — lane: **build**
+5. **[CANDIDATE/WRITTEN]** Spot handstand via Actuator Dynamics Curriculum — arXiv:2609.09492, CoRL 2026 — lane: **build**
+6. **[CANDIDATE/WRITTEN]** JEPA Policy diffusion-free imitation, 630 real episodes — arXiv:2609.09630 + project + GitHub — lane: **build**
+7. **[SKIP: already covered morning]** UnifoLM-WLA-1.0, Agile ONE, HaWMPO, FolDeX, Show-Harness, GALATEA (2609.10050), SPOT teleop, WHIRL
+8. **[SKIP: already covered 9/8–9/9]** XPeng IRON walk-off, UnifoLM-X2 combat, BeyondMimic Science Robotics recirc, TANGO, DeCAL, Digit Redecorates, NVIDIA SONIC recirc
+9. **[SKIP: business mix]** Unitree share dump; Agility S-4; Wandercraft 12 customers; Tesla Optimus 5,000-unit rumor; Figure Series C rumor calendar; XPeng $6.3B valuation recirc
+10. **[SKIP: thin / no matching stills / not new]** Dynamic Creatures (founder stills); Samsung ORchestra (16 Sep, team photo); Cuebus×Yazaki×Yamazen warehouse demo starts **21 Sep** (follow that day); Sparsh-1 / RobotWale India copy (thin, unverified primary); Tau $30/hr recirc; Kirin Spot recirc
+11. **[SKIP: leftover untracked Aug 6 drafts]** dreamwam, explicit-language-memory-vla, mind-vla, safecast-vla, unix-panther-pizza, zeals-d1 — old unpublished files, not this slot
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | vibe-humanoid-control | Shar Hendrix | Humanoids | build |
+| 2 | in-hand-assembly-sharpa | Robb Harlan | Robotics | build |
+| 3 | gta-2-task-axes | Shar Hendrix | AI | build |
+| 4 | tactile-data-robots | Robb Harlan | Robotics | build |
+| 5 | spot-handstand-curriculum | Shar Hendrix | Robotics | build |
+| 6 | jepa-policy | Robb Harlan | AI | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary + matching stills: **6** | Writing: **6**
+- Soft floor 2 met. Hit target 6.
+
+### Notes for Future Agents
+- Do not rewrite ViBe G1 perceptive control, Sharpa in-hand assembly, GTA-2, IEEE tactile/T-Rex/NeoteAI roundup, Spot handstand curriculum, JEPA Policy
+- Cuebus × Yazaki × Yamazen humanoid handover at Innovation Hub–REN starts **21 Sep 2026** — follow for robot stills and named humanoid model
+- Samsung ORchestra dual-humanoid surgical demo is **16 Sep**
+- Dynamic Creatures still uncovered if a real Danielle/Hugo still (not founder) appears
+- T-Rex paper itself is June; today’s hook is the IEEE Spectrum survey plus NeoteAI N0-TWAM numbers
+- Untracked Aug 6 drafts in the working tree are leftovers — do not publish as 2026-09-10 posts
+
+### Run summary
+- **Articles published (6):** vibe-humanoid-control, in-hand-assembly-sharpa, gta-2-task-axes, tactile-data-robots, spot-handstand-curriculum, jepa-policy
+- **pubDate:** 2026-09-10
+- **Skipped candidates:** morning eight recirc, 9/8–9/9 recirc, business (Unitree dump / Agility S-4 / Optimus rumor), Cuebus (demo 21 Sep), Dynamic Creatures / Samsung stills, viral unverified clips
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 posts dated 2026-09-10 including morning 8)
+- **Vision gate:** PASS — ViBe (G1 parkour/dodgeball overview hero + locomanip strips + outdoor/low-light cube), in-hand (Sharpa Wave bottle/syringe/marker teaser + CAD geometries + perturbation recovery), GTA-2 (UR5e erase/pour teaser + four-agent pipeline + 14-task mosaic), tactile (NeoteAI N0-TWAM teaser with robot contact stills + T-Rex architecture with toothpaste demo), Spot (hardware handstand hero + sim sequence), JEPA (five-task start/end montage + method diagrams with robot observations). Rejected identical spot-3 duplicate of sim cover (not used in post).
+- **Social:** tweets 467; robb-x 467
+- **Build:** PASS (astro build exit 0; 480 pages; new slugs rendered)
+- **Failures:** none; hit target 6 of 6. X list not usable (disclosed).

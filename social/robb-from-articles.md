@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-10T16:12:41.685Z
+Generated: 2026-09-10T21:13:58.134Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -75,6 +75,28 @@ https://mechafeed.com/blog/galatea-video-dexterity/
 
 ---
 
+## GTA-2 Builds Robot Skills From Axes, Not End-to-End Actions
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/gta-2-task-axes/
+
+### SOLO (no link)
+
+```
+I smiled at “fix the typo” rearranging letters into TEACH.  That is a system that followed the words, not a hidden demo script.
+```
+
+### SOFT-LINK variant
+
+```
+I smiled at “fix the typo” rearranging letters into TEACH.  That is a system that followed the words, not a hidden demo script.
+
+https://mechafeed.com/blog/gta-2-task-axes/
+```
+
+---
+
 ## HaWMPO Down-Weights Hallucinated World-Model Rollouts
 
 - Author on blog: Robb Harlan
@@ -93,6 +115,50 @@ I like that they treated world-model RL as a lying intern, not an oracle.  Down-
 I like that they treated world-model RL as a lying intern, not an oracle.  Down-weighting the pretty-but-wrong rollouts is the grown-up move.
 
 https://mechafeed.com/blog/hawmpo-vla/
+```
+
+---
+
+## One Sharpa Wave Hand Caps a Bottle, Syringe, and Marker
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/in-hand-assembly-sharpa/
+
+### SOLO (no link)
+
+```
+Capping a marker with the hand that holds it is the kind of boring dexterity factories actually pay for, and almost nobody demos it because two arms plus a fixture is easier to score.  The open-loop collapse is the receipt: this is closed-loop contact, not a replayed flourish.
+```
+
+### SOFT-LINK variant
+
+```
+Capping a marker with the hand that holds it is the kind of boring dexterity factories actually pay for, and almost nobody demos it because two arms plus a fixture is easier to score.  The open-loop c…
+
+https://mechafeed.com/blog/in-hand-assembly-sharpa/
+```
+
+---
+
+## JEPA Policy Skips Diffusion and Still Beats It on Five Robot Tasks
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/jepa-policy/
+
+### SOLO (no link)
+
+```
+I have been waiting for someone to treat diffusion’s latency as a product bug, not a badge.  Two passes and 13 ms is the kind of number you can hang on a 3090 next to a real gripper.
+```
+
+### SOFT-LINK variant
+
+```
+I have been waiting for someone to treat diffusion’s latency as a product bug, not a badge.  Two passes and 13 ms is the kind of number you can hang on a 3090 next to a real gripper.
+
+https://mechafeed.com/blog/jepa-policy/
 ```
 
 ---
@@ -119,6 +185,28 @@ https://mechafeed.com/blog/show-harness-vlm/
 
 ---
 
+## Stiffer Joints in Sim Teach Spot to Handstand
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/spot-handstand-curriculum/
+
+### SOLO (no link)
+
+```
+I have watched a lot of quadruped “biped tricks” that needed a motion-capture oracle.  This one needed a gain knob and a willingness to let the robot fall in sim until it stopped falling.
+```
+
+### SOFT-LINK variant
+
+```
+I have watched a lot of quadruped “biped tricks” that needed a motion-capture oracle.  This one needed a gain knob and a willingness to let the robot fall in sim until it stopped falling.
+
+https://mechafeed.com/blog/spot-handstand-curriculum/
+```
+
+---
+
 ## SPOT Lets You Look Around Without Steering the Humanoid
 
 - Author on blog: Shar Hendrix
@@ -141,6 +229,28 @@ https://mechafeed.com/blog/spot-humanoid-teleop/
 
 ---
 
+## Tactile Data Is Finally Big Enough to Matter for Robot Hands
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/tactile-data-robots/
+
+### SOLO (no link)
+
+```
+I am glad someone measured the failure mode where “add tactile” makes π0. 5 worse.
+```
+
+### SOFT-LINK variant
+
+```
+I am glad someone measured the failure mode where “add tactile” makes π0. 5 worse.
+
+https://mechafeed.com/blog/tactile-data-robots/
+```
+
+---
+
 ## Unitree Opens UnifoLM-WLA-1.0, One G1 Policy for 64 Tasks
 
 - Author on blog: Shar Hendrix
@@ -159,6 +269,28 @@ I care about the washer clip more than the 6B count.  A single policy that walks
 I care about the washer clip more than the 6B count.  A single policy that walks, stoops, and stuffs clothes is the shape of work people actually want from a G1.
 
 https://mechafeed.com/blog/unitree-unifolm-wla-10/
+```
+
+---
+
+## ViBe Lets a Blind Humanoid Tracker See Curbs, Cubes, and Dodgeballs
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/vibe-humanoid-control/
+
+### SOLO (no link)
+
+```
+I like that they refused to train yet another task-specific student.  A tracker that already walks like a person, plus a cheap visual bypass, is a much nicer research object than a one-off parkour net.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they refused to train yet another task-specific student.  A tracker that already walks like a person, plus a cheap visual bypass, is a much nicer research object than a one-off parkour net.
+
+https://mechafeed.com/blog/vibe-humanoid-control/
 ```
 
 ---
