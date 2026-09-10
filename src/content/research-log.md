@@ -4596,3 +4596,74 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Social:** tweets 453; robb-x 453
 - **Build:** PASS (astro build exit 0; 466 pages; new slugs rendered)
 - **Failures:** none; hit target 6 of 6. X list not usable (disclosed). No morning posts this calendar day.
+
+## 2026-09-10 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json, startedAt 2026-09-10T09:00:03-07:00)
+- Date (Pacific): 2026-09-10
+- git pull --rebase origin main: already up to date
+- Last published: 2026-09-09 afternoon 6 (TANGO, Xiaoyuan, DeCAL, Vention, D-Robotics IFA, PPS) — **do not rehash**. No 2026-09-10 posts yet.
+- X list `https://x.com/i/lists/1805786050763087967`: **curated list feed not usable** (keyword Latest returned mixed timeline noise, not a browseable curated-list feed). Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: Unitree UnifoLM-WLA-1.0 open-source (10 Sep) — **CANDIDATE/WRITTEN**
+- Public X: XPeng IRON recirc — **SKIP: covered 9/8 morning**
+- Public X: UnifoLM-X2 combat recirc — **SKIP: covered 9/8 morning**
+- Public X: Fauna Sprout design system — **SKIP: Amazon acquisition / Jan 2026 launch, not new**
+- Public X: Arkshel MX01 recirc — **SKIP: already covered**
+- Public X: Poland "robot protest" viral — **SKIP: not a robotics product story**
+- Semantic X search: over capacity this session
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Unitree UnifoLM-WLA-1.0 6B open VLA, ~2,500h, 64 G1 tasks — project page + Humanoids Daily 10 Sep + IT Home — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Agile ONE first production Fürstenfeldbruck, 21-DoF Agile Hand, DeepMind insertion 89.6% — Humanoids Daily 10 Sep + company about — lane: **build** (machine/hand/factory first; 10x TAM quote is context, not the lede)
+3. **[CANDIDATE/WRITTEN]** HaWMPO hallucination-aware world-model RL, G1 67.5%→80% — arXiv:2609.09941 (9 Sep) — lane: **build**
+4. **[CANDIDATE/WRITTEN]** FolDeX 2,000+ hours garment folding benchmark + FoldChallenge — arXiv:2609.10243 (9 Sep) + Midea eval page — lane: **build**
+5. **[CANDIDATE/WRITTEN]** Show-Harness VLM semantic action interface, Gemini ZS 89% — arXiv:2609.10522 + project page (9 Sep) — lane: **build**
+6. **[CANDIDATE/WRITTEN]** GALATEA generated-video HOI tracking, Sharpa Wave 27/40 — arXiv:2609.10050 + project page (9 Sep) — lane: **build**
+7. **[CANDIDATE/WRITTEN]** SPOT VR teleop decoupled looking, 19.69s drop recovery — arXiv:2609.07933 (7 Sep) — lane: **build**
+8. **[CANDIDATE/WRITTEN]** WHIRL intervention-aware world model on 16-DoF LEAP Hand, 96.7% / 84% fewer pedal steps — arXiv:2609.06009 + project (5 Sep, CoRL 2026) — lane: **build**
+9. **[SKIP: already covered]** XPeng IRON walk-off; UnifoLM-X2 combat; BeyondMimic Science Robotics recirc; TANGO; DeCAL; NVIDIA SONIC recirc; Pathak Bridge; Digit Redecorates
+10. **[SKIP: business mix]** Unitree share dump; Agility S-4; Wandercraft 12 Calvin-40 customers (customer-count/funding slant); SoftBank $800M Agile talks; Tesla Optimus 5,000-unit rumor; Figure–Nscale
+11. **[SKIP: no matching robot stills / thin]** Dynamic Creatures (founder stills); Samsung ORchestra dual-humanoid surgery (16 Sep, team photo); Fauna Sprout recirc; Kirin Spot recirc
+12. **[SKIP: too old / recirc]** BioflexBot; Berkeley Lite; WM-LOCO; BRIDGE Pathak
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | unitree-unifolm-wla-10 | Shar Hendrix | Humanoids | build |
+| 2 | agile-one-furstenfeldbruck | Robb Harlan | Humanoids | build |
+| 3 | hawmpo-vla | Robb Harlan | AI | build |
+| 4 | foldex-garment-folding | Shar Hendrix | Research | build |
+| 5 | show-harness-vlm | Shar Hendrix | AI | build |
+| 6 | galatea-video-dexterity | Robb Harlan | Robotics | build |
+| 7 | spot-humanoid-teleop | Shar Hendrix | Humanoids | build |
+| 8 | whirl-leap-hand | Robb Harlan | Robotics | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary + matching stills: **8** | Writing: **8**
+- Soft floor 3 met. Hit target 8.
+
+### Notes for Future Agents
+- Do not rewrite UnifoLM-WLA-1.0 open-source, Agile ONE Fürstenfeldbruck production/hand, HaWMPO, FolDeX, Show-Harness, GALATEA, SPOT teleop, WHIRL LEAP Hand
+- UnifoLM-WLA project page still says Code/Models/Datasets **coming soon** — follow when weights actually land
+- Samsung ORchestra dual-humanoid surgical demo is **16 Sep** — follow that day for robot stills
+- Dynamic Creatures still uncovered if a real Danielle/Hugo/Spot-character still (not founder) appears
+- Wandercraft 12-customer PR is **business** unless a Calvin-40 work-cell still + task footage appears
+- Agile ONE production is first units / event tour, not a shipped factory shift; DeepMind 89.6% is FR3 Duo insertion, not the biped
+
+### Run summary
+- **Articles published (8):** unitree-unifolm-wla-10, agile-one-furstenfeldbruck, hawmpo-vla, foldex-garment-folding, show-harness-vlm, galatea-video-dexterity, spot-humanoid-teleop, whirl-leap-hand
+- **pubDate:** 2026-09-10
+- **Skipped candidates:** 9/8–9/9 recirc, business (Unitree dump / Agility S-4 / Wandercraft customers / Optimus rumor), Dynamic Creatures (no robot still), Samsung surgery (team photo), Fauna/Arkshel recirc
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts dated 2026-09-10)
+- **Vision gate:** PASS — UnifoLM (G1 laundry-to-washer hero + plate-rack head cam), Agile ONE (walking lab hero + torso wiring + factory cells), HaWMPO (G1 tissue desk hero + pipeline + tissue/headphone strips), FolDeX (benchmark overview + garment/embodiment grid), Show-Harness (task mosaic + Franka rig + generalization strips), GALATEA (Sharpa Wave grasp grid + pipeline + jar/mug compare), SPOT (teleop teaser + four-task strips), WHIRL (LEAP teaser + five-task strip + pipeline). Rejected nested arXiv HTML 404s; used correct html/ID/filename paths and Humanoids Daily / project-page stills.
+- **Social:** tweets 461; robb-x 461
+- **Build:** PASS (astro build exit 0; 474 pages; new slugs rendered)
+- **Failures:** none; hit target 8 of 8. X list not usable (disclosed).

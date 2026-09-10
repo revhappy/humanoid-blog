@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-09T21:17:01.068Z
+Generated: 2026-09-10T16:12:41.685Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Agile ONE Starts Production Near Munich, Hand First
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/agile-one-furstenfeldbruck/
+
+### SOLO (no link)
+
+```
+A European humanoid that starts as a hand and a factory, not a dance reel, is the version I will actually watch.  21 DoF with joint torque in every finger is a real product choice.
+```
+
+### SOFT-LINK variant
+
+```
+A European humanoid that starts as a hand and a factory, not a dance reel, is the version I will actually watch.  21 DoF with joint torque in every finger is a real product choice.
+
+https://mechafeed.com/blog/agile-one-furstenfeldbruck/
+```
+
+---
+
+## FolDeX Makes Laundry the Real-Robot Benchmark
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/foldex-garment-folding/
+
+### SOLO (no link)
+
+```
+I have been waiting for someone to stop treating a folded towel as one cell in a 30-task suite.  FolDeX is that complaint, with a leaderboard.
+```
+
+### SOFT-LINK variant
+
+```
+I have been waiting for someone to stop treating a folded towel as one cell in a 30-task suite.  FolDeX is that complaint, with a leaderboard.
+
+https://mechafeed.com/blog/foldex-garment-folding/
+```
+
+---
+
+## GALATEA Turns Generated Hand Videos Into Real Grasps
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/galatea-video-dexterity/
+
+### SOLO (no link)
+
+```
+I will take 27/40 on unseen generated plans over another “the video model is the policy” demo that never closes the gripper.  The useful engineering is the reconstruction yield: 83% usable versus the 4% reconstructable rate they cite from in-the-wild 100 Days of Hands.
+```
+
+### SOFT-LINK variant
+
+```
+I will take 27/40 on unseen generated plans over another “the video model is the policy” demo that never closes the gripper.  The useful engineering is the reconstruction yield: 83% usable versus the …
+
+https://mechafeed.com/blog/galatea-video-dexterity/
+```
+
+---
+
+## HaWMPO Down-Weights Hallucinated World-Model Rollouts
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/hawmpo-vla/
+
+### SOLO (no link)
+
+```
+I like that they treated world-model RL as a lying intern, not an oracle.  Down-weighting the pretty-but-wrong rollouts is the grown-up move.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they treated world-model RL as a lying intern, not an oracle.  Down-weighting the pretty-but-wrong rollouts is the grown-up move.
+
+https://mechafeed.com/blog/hawmpo-vla/
+```
+
+---
+
+## Show-Harness Lets a VLM Play the Robot Like a Game
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/show-harness-vlm/
+
+### SOLO (no link)
+
+```
+I grinned at GUMI.  If a VLM can play a robot the way it plays a browser, the data problem gets less mystical.
+```
+
+### SOFT-LINK variant
+
+```
+I grinned at GUMI.  If a VLM can play a robot the way it plays a browser, the data problem gets less mystical.
+
+https://mechafeed.com/blog/show-harness-vlm/
+```
+
+---
+
+## SPOT Lets You Look Around Without Steering the Humanoid
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/spot-humanoid-teleop/
+
+### SOLO (no link)
+
+```
+Decoupling “look” from “turn” is the kind of interface fix that should have been obvious and somehow was not.  The 19.
+```
+
+### SOFT-LINK variant
+
+```
+Decoupling “look” from “turn” is the kind of interface fix that should have been obvious and somehow was not.  The 19.
+
+https://mechafeed.com/blog/spot-humanoid-teleop/
+```
+
+---
+
+## Unitree Opens UnifoLM-WLA-1.0, One G1 Policy for 64 Tasks
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/unitree-unifolm-wla-10/
+
+### SOLO (no link)
+
+```
+I care about the washer clip more than the 6B count.  A single policy that walks, stoops, and stuffs clothes is the shape of work people actually want from a G1.
+```
+
+### SOFT-LINK variant
+
+```
+I care about the washer clip more than the 6B count.  A single policy that walks, stoops, and stuffs clothes is the shape of work people actually want from a G1.
+
+https://mechafeed.com/blog/unitree-unifolm-wla-10/
+```
+
+---
+
+## WHIRL Learns What a Human Would Avoid on a LEAP Hand
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/whirl-leap-hand/
+
+### SOLO (no link)
+
+```
+Using the pedal as a *forecast*, not a replay mask, is the idea I wish more HIL stacks stole.  84% fewer operator steps on a drawer pull is the kind of number that decides whether a grad student still has a wrist by Friday.
+```
+
+### SOFT-LINK variant
+
+```
+Using the pedal as a *forecast*, not a replay mask, is the idea I wish more HIL stacks stole.  84% fewer operator steps on a drawer pull is the kind of number that decides whether a grad student still has a wrist by Friday.
+
+https://mechafeed.com/blog/whirl-leap-hand/
+```
 
 ---
 

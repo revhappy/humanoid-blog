@@ -14,8 +14,176 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-09T21:16:41.263Z
-Posts: 453
+Generated: 2026-09-10T16:12:40.661Z
+Posts: 461
+
+---
+
+## Agile ONE Starts Production Near Munich, Hand First
+
+- **Slug:** `agile-one-furstenfeldbruck`
+- **Date:** 2026-09-10
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/agile-one-furstenfeldbruck/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Agile%20ONE%20Starts%20Production%20Near%20Munich%2C%20Hand%20First%0A%0AAgile%20Robots%20is%20building%20its%20174%20cm%20humanoid%20in%20F%C3%BCrstenfeldbruck%2C%20with%20a%2021-DoF%20hand%20and%20DeepMind%20insertion%20numbers%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fagile-one-furstenfeldbruck%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Agile ONE Starts Production Near Munich, Hand First
+
+Agile Robots is building its 174 cm humanoid in Fürstenfeldbruck, with a 21-DoF hand and DeepMind insertion numbers…
+
+https://mechafeed.com/blog/agile-one-furstenfeldbruck/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## FolDeX Makes Laundry the Real-Robot Benchmark
+
+- **Slug:** `foldex-garment-folding`
+- **Date:** 2026-09-10
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/foldex-garment-folding/
+- **Chars:** 240/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FolDeX%20Makes%20Laundry%20the%20Real-Robot%20Benchmark%0A%0AFudan%2C%20Midea%2C%20and%20CMU%20release%202%2C000%2B%20hours%20of%20folding%20data%20across%2010%2B%20robots%2C%20plus%20a%20FoldChallenge%20leaderboard.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffoldex-garment-folding%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+FolDeX Makes Laundry the Real-Robot Benchmark
+
+Fudan, Midea, and CMU release 2,000+ hours of folding data across 10+ robots, plus a FoldChallenge leaderboard.
+
+https://mechafeed.com/blog/foldex-garment-folding/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## GALATEA Turns Generated Hand Videos Into Real Grasps
+
+- **Slug:** `galatea-video-dexterity`
+- **Date:** 2026-09-10
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/galatea-video-dexterity/
+- **Chars:** 245/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=GALATEA%20Turns%20Generated%20Hand%20Videos%20Into%20Real%20Grasps%0A%0ABerkeley%20and%20Sharpa%20ground%201%2C500%2B%20Seedance%20clips%20in%20Isaac%20Gym%2C%20then%20run%20a%20Sharpa%20Wave%20hand%20at%2027%2F40%20on%20unseen%20plans.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgalatea-video-dexterity%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+GALATEA Turns Generated Hand Videos Into Real Grasps
+
+Berkeley and Sharpa ground 1,500+ Seedance clips in Isaac Gym, then run a Sharpa Wave hand at 27/40 on unseen plans.
+
+https://mechafeed.com/blog/galatea-video-dexterity/
+
+#Robotics #Humanoids
+```
+
+---
+
+## HaWMPO Down-Weights Hallucinated World-Model Rollouts
+
+- **Slug:** `hawmpo-vla`
+- **Date:** 2026-09-10
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/hawmpo-vla/
+- **Chars:** 229/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=HaWMPO%20Down-Weights%20Hallucinated%20World-Model%20Rollouts%0A%0AJilin%20and%20JD%20post-train%20OpenVLA-OFT%20in%20a%20world%20model%2C%20then%20raise%20G1%20success%20from%2067.5%25%20to%2080%25%20by%20scoring%20fake%20futures.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhawmpo-vla%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+HaWMPO Down-Weights Hallucinated World-Model Rollouts
+
+Jilin and JD post-train OpenVLA-OFT in a world model, then raise G1 success from 67.5% to 80% by scoring fake futures.
+
+https://mechafeed.com/blog/hawmpo-vla/
+
+#AI #Humanoids
+```
+
+---
+
+## Show-Harness Lets a VLM Play the Robot Like a Game
+
+- **Slug:** `show-harness-vlm`
+- **Date:** 2026-09-10
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/show-harness-vlm/
+- **Chars:** 232/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Show-Harness%20Lets%20a%20VLM%20Play%20the%20Robot%20Like%20a%20Game%0A%0ANUS%20Show%20Lab%20turns%20MV_LEFT%20into%20a%20Franka%20step.%20Gemini-3.1%20Pro%20hits%2089%25%20zero-shot%3B%20a%202B%20Qwen%20fine-tune%20is%20close%20behind.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fshow-harness-vlm%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Show-Harness Lets a VLM Play the Robot Like a Game
+
+NUS Show Lab turns MV_LEFT into a Franka step. Gemini-3.1 Pro hits 89% zero-shot; a 2B Qwen fine-tune is close behind.
+
+https://mechafeed.com/blog/show-harness-vlm/
+
+#AI #Humanoids
+```
+
+---
+
+## SPOT Lets You Look Around Without Steering the Humanoid
+
+- **Slug:** `spot-humanoid-teleop`
+- **Date:** 2026-09-10
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/spot-humanoid-teleop/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=SPOT%20Lets%20You%20Look%20Around%20Without%20Steering%20the%20Humanoid%0A%0AUMass%20and%20MIT%20decouple%20VR%20head%20motion%20from%20robot%20actuation%2C%20cutting%20drop-recovery%20time%20to%2019.7%20s%20across%2010%20operators.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fspot-humanoid-teleop%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+SPOT Lets You Look Around Without Steering the Humanoid
+
+UMass and MIT decouple VR head motion from robot actuation, cutting drop-recovery time to 19.7 s across 10 operators.
+
+https://mechafeed.com/blog/spot-humanoid-teleop/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Unitree Opens UnifoLM-WLA-1.0, One G1 Policy for 64 Tasks
+
+- **Slug:** `unitree-unifolm-wla-10`
+- **Date:** 2026-09-10
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/unitree-unifolm-wla-10/
+- **Chars:** 259/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Unitree%20Opens%20UnifoLM-WLA-1.0%2C%20One%20G1%20Policy%20for%2064%20Tasks%0A%0AA%206B%20whole-body%20VLA%20trained%20on%20~2%2C500%20hours%20of%20real-robot%20data%2C%20covering%20tabletop%20work%20and%20laundry-to-washer%20locomotion.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Funitree-unifolm-wla-10%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Unitree Opens UnifoLM-WLA-1.0, One G1 Policy for 64 Tasks
+
+A 6B whole-body VLA trained on ~2,500 hours of real-robot data, covering tabletop work and laundry-to-washer locomotion.
+
+https://mechafeed.com/blog/unitree-unifolm-wla-10/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## WHIRL Learns What a Human Would Avoid on a LEAP Hand
+
+- **Slug:** `whirl-leap-hand`
+- **Date:** 2026-09-10
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/whirl-leap-hand/
+- **Chars:** 240/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=WHIRL%20Learns%20What%20a%20Human%20Would%20Avoid%20on%20a%20LEAP%20Hand%0A%0AHKUST%20Guangzhou%20and%20IIT%20turn%20pedal%20takeovers%20into%20a%20risk%20head%2C%20hitting%2096.7%25%20on%20hard%20grasps%20and%20cutting%20operator%20steps%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fwhirl-leap-hand%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+WHIRL Learns What a Human Would Avoid on a LEAP Hand
+
+HKUST Guangzhou and IIT turn pedal takeovers into a risk head, hitting 96.7% on hard grasps and cutting operator steps…
+
+https://mechafeed.com/blog/whirl-leap-hand/
+
+#Robotics #Humanoids
+```
 
 ---
 
