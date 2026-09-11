@@ -14,8 +14,29 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-11T16:16:13.954Z
-Posts: 475
+Generated: 2026-09-11T21:11:57.972Z
+Posts: 481
+
+---
+
+## 2AM Keeps Task Memory in the Agent, Not the Robot Policy
+
+- **Slug:** `2am-agent-memory`
+- **Date:** 2026-09-11
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/2am-agent-memory/
+- **Chars:** 238/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=2AM%20Keeps%20Task%20Memory%20in%20the%20Agent%2C%20Not%20the%20Robot%20Policy%0A%0AKU%20Leuven%20and%20Meituan%20split%20a%20VLM%20agent%20from%20a%20stateless%20VLA.%20Grounded%20grasp%2Fplace%2Fmove%20hints%20lift%20LIBERO-Mem%20relaxed%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2F2am-agent-memory%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+2AM Keeps Task Memory in the Agent, Not the Robot Policy
+
+KU Leuven and Meituan split a VLM agent from a stateless VLA. Grounded grasp/place/move hints lift LIBERO-Mem relaxed…
+
+https://mechafeed.com/blog/2am-agent-memory/
+
+#AI #Humanoids
+```
 
 ---
 
@@ -55,6 +76,48 @@ CAP Walks a G1 When the Depth Camera Lies
 Fudan and TARS train one G1 policy that denoises corrupted depth instead of switching to a blind controller. CoRL 2026.
 
 https://mechafeed.com/blog/cap-g1-locomotion/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## A Dexterous Hand Plays Grade 7 Piano, Then Duets
+
+- **Slug:** `expressive-robotic-pianist`
+- **Date:** 2026-09-11
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/expressive-robotic-pianist/
+- **Chars:** 247/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20Dexterous%20Hand%20Plays%20Grade%207%20Piano%2C%20Then%20Duets%0A%0AZhejiang%E2%80%99s%20InReal%20hand%20uses%20Graph-Mimic%20and%20a%20key-velocity%20loudness%20model.%20Real%20F1%20hits%200.80%E2%80%930.95%3B%20untrained%20listeners%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fexpressive-robotic-pianist%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+A Dexterous Hand Plays Grade 7 Piano, Then Duets
+
+Zhejiang’s InReal hand uses Graph-Mimic and a key-velocity loudness model. Real F1 hits 0.80–0.95; untrained listeners…
+
+https://mechafeed.com/blog/expressive-robotic-pianist/
+
+#Robotics #Humanoids
+```
+
+---
+
+## AGIBOT’s GE-Act 2.0 Scales Zero-Shot Hands From 300 to 30,000 Hours
+
+- **Slug:** `ge-act-20`
+- **Date:** 2026-09-11
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/ge-act-20/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=AGIBOT%E2%80%99s%20GE-Act%202.0%20Scales%20Zero-Shot%20Hands%20From%20300%20to%2030%2C000%20Hours%0A%0AA%20native%20world-action%20model%2C%20trained%20from%20scratch%2C%20lifts%20G1-OP%20success%20from%2017.1%25%20to%2044.1%25%20across%20100%20unseen%20tasks.%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fge-act-20%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+AGIBOT’s GE-Act 2.0 Scales Zero-Shot Hands From 300 to 30,000 Hours
+
+A native world-action model, trained from scratch, lifts G1-OP success from 17.1% to 44.1% across 100 unseen tasks.…
+
+https://mechafeed.com/blog/ge-act-20/
 
 #HumanoidRobots #Humanoids
 ```
@@ -145,6 +208,27 @@ https://mechafeed.com/blog/map-wam/
 
 ---
 
+## Maven’s Wheeled Dual-Arm Palletizer Is Already Working Shifts
+
+- **Slug:** `maven-robotics-palletizing`
+- **Date:** 2026-09-11
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/maven-robotics-palletizing/
+- **Chars:** 255/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Maven%E2%80%99s%20Wheeled%20Dual-Arm%20Palletizer%20Is%20Already%20Working%20Shifts%0A%0ASanta%20Clara%E2%80%99s%20Maven%20Robotics%20exits%20stealth%20with%20vacuum-grip%20mixed%20palletizing%3A%2010%20mph%2C%2030%20kg%2C%20up%20to%20eight%20robots%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmaven-robotics-palletizing%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Maven’s Wheeled Dual-Arm Palletizer Is Already Working Shifts
+
+Santa Clara’s Maven Robotics exits stealth with vacuum-grip mixed palletizing: 10 mph, 30 kg, up to eight robots,…
+
+https://mechafeed.com/blog/maven-robotics-palletizing/
+
+#Robotics #Humanoids
+```
+
+---
+
 ## An ORCA Hand Writes 'Hello' After 18 Seconds of Finger Wiggles
 
 - **Slug:** `orca-pen-writing`
@@ -166,6 +250,27 @@ https://mechafeed.com/blog/orca-pen-writing/
 
 ---
 
+## PGMT Puts One G1 Policy on Stairs, Grass, and a 37 cm Box
+
+- **Slug:** `pgmt-g1-terrain`
+- **Date:** 2026-09-11
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/pgmt-g1-terrain/
+- **Chars:** 250/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=PGMT%20Puts%20One%20G1%20Policy%20on%20Stairs%2C%20Grass%2C%20and%20a%2037%20cm%20Box%0A%0AZhejiang%20and%20NUS%20train%20a%20perceptive%20motion%20tracker%20that%20adapts%20flat-ground%20references%20to%20real%20terrain%20without%20matched%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpgmt-g1-terrain%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+PGMT Puts One G1 Policy on Stairs, Grass, and a 37 cm Box
+
+Zhejiang and NUS train a perceptive motion tracker that adapts flat-ground references to real terrain without matched…
+
+https://mechafeed.com/blog/pgmt-g1-terrain/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
 ## Human and Robot Wear the Same Exoskeleton to Teach a 20-DoF Hand
 
 - **Slug:** `seed-umi`
@@ -183,6 +288,27 @@ SEED-UMI puts one 20-DoF glove on both a person and a Wuji hand; paired replay h
 https://mechafeed.com/blog/seed-umi/
 
 #Robotics #Humanoids
+```
+
+---
+
+## UniMPA Grounds Predicted Futures in Actions the Robot Has Already Done
+
+- **Slug:** `unimpa-galaxea`
+- **Date:** 2026-09-11
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/unimpa-galaxea/
+- **Chars:** 251/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=UniMPA%20Grounds%20Predicted%20Futures%20in%20Actions%20the%20Robot%20Has%20Already%20Done%0A%0AA%20memory-prediction-action%20VLA%20beats%20%CF%800.5%20on%20LIBERO-Plus%20and%20a%20Galaxea%20R1%20Lite%2C%20with%2025%E2%80%9350%25%20of%20the%20baseline%E2%80%99s%20training%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Funimpa-galaxea%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+UniMPA Grounds Predicted Futures in Actions the Robot Has Already Done
+
+A memory-prediction-action VLA beats π0.5 on LIBERO-Plus and a Galaxea R1 Lite, with 25–50% of the baseline’s training…
+
+https://mechafeed.com/blog/unimpa-galaxea/
+
+#AI #Humanoids
 ```
 
 ---

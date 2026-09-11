@@ -3,9 +3,31 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-11T16:16:14.780Z
+Generated: 2026-09-11T21:11:57.989Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## 2AM Keeps Task Memory in the Agent, Not the Robot Policy
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/2am-agent-memory/
+
+### SOLO (no link)
+
+```
+Stuffing more history into the VLA is the default move.  2AM’s bet is that the policy should be allowed to retry from a clean observation after the Agent rewrites the instruction.
+```
+
+### SOFT-LINK variant
+
+```
+Stuffing more history into the VLA is the default move.  2AM’s bet is that the policy should be allowed to retry from a clean observation after the Agent rewrites the instruction.
+
+https://mechafeed.com/blog/2am-agent-memory/
+```
 
 ---
 
@@ -49,6 +71,50 @@ I am tired of "vision or proprioception" as a product slide.  Cameras go bad in 
 I am tired of "vision or proprioception" as a product slide.  Cameras go bad in pieces.
 
 https://mechafeed.com/blog/cap-g1-locomotion/
+```
+
+---
+
+## A Dexterous Hand Plays Grade 7 Piano, Then Duets
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/expressive-robotic-pianist/
+
+### SOLO (no link)
+
+```
+A robot hand that can thumb-under a scale and then sit next to a person on Für Elise is the kind of demo I actually watch twice.  Untrained ears tying the robot with a human is a fun result.
+```
+
+### SOFT-LINK variant
+
+```
+A robot hand that can thumb-under a scale and then sit next to a person on Für Elise is the kind of demo I actually watch twice.  Untrained ears tying the robot with a human is a fun result.
+
+https://mechafeed.com/blog/expressive-robotic-pianist/
+```
+
+---
+
+## AGIBOT’s GE-Act 2.0 Scales Zero-Shot Hands From 300 to 30,000 Hours
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/ge-act-20/
+
+### SOLO (no link)
+
+```
+I like that they refused to let a fine-tune hide the pretrained model.  44% on a hundred held-out tasks is not a factory shift, and they say so.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they refused to let a fine-tune hide the pretrained model.  44% on a hundred held-out tasks is not a factory shift, and they say so.
+
+https://mechafeed.com/blog/ge-act-20/
 ```
 
 ---
@@ -141,6 +207,28 @@ https://mechafeed.com/blog/map-wam/
 
 ---
 
+## Maven’s Wheeled Dual-Arm Palletizer Is Already Working Shifts
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/maven-robotics-palletizing/
+
+### SOLO (no link)
+
+```
+Wheels, vacuum, a WMS hook, and a claimed 16-hour shift.  That is a more honest first product than another biped folding a shirt under lights.
+```
+
+### SOFT-LINK variant
+
+```
+Wheels, vacuum, a WMS hook, and a claimed 16-hour shift.  That is a more honest first product than another biped folding a shirt under lights.
+
+https://mechafeed.com/blog/maven-robotics-palletizing/
+```
+
+---
+
 ## An ORCA Hand Writes 'Hello' After 18 Seconds of Finger Wiggles
 
 - Author on blog: Shar Hendrix
@@ -163,6 +251,28 @@ https://mechafeed.com/blog/orca-pen-writing/
 
 ---
 
+## PGMT Puts One G1 Policy on Stairs, Grass, and a 37 cm Box
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/pgmt-g1-terrain/
+
+### SOLO (no link)
+
+```
+I am here for the “one policy, several plugs” part.  Teleop that does not make the operator specify every stair riser is the useful interface.
+```
+
+### SOFT-LINK variant
+
+```
+I am here for the “one policy, several plugs” part.  Teleop that does not make the operator specify every stair riser is the useful interface.
+
+https://mechafeed.com/blog/pgmt-g1-terrain/
+```
+
+---
+
 ## Human and Robot Wear the Same Exoskeleton to Teach a 20-DoF Hand
 
 - Author on blog: Shar Hendrix
@@ -181,6 +291,28 @@ I like the stubborn hardware idea more than the leaderboard.  If the camera and 
 I like the stubborn hardware idea more than the leaderboard.  If the camera and the encoder see the same metal on both sides, retargeting stops being a research problem and starts being a calibration.
 
 https://mechafeed.com/blog/seed-umi/
+```
+
+---
+
+## UniMPA Grounds Predicted Futures in Actions the Robot Has Already Done
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/unimpa-galaxea/
+
+### SOLO (no link)
+
+```
+World models that daydream a future the gripper cannot reach are a known tax.  Tying the dream to a bank of transitions the robot has actually paid for is the grown-up version.
+```
+
+### SOFT-LINK variant
+
+```
+World models that daydream a future the gripper cannot reach are a known tax.  Tying the dream to a bank of transitions the robot has actually paid for is the grown-up version.
+
+https://mechafeed.com/blog/unimpa-galaxea/
 ```
 
 ---

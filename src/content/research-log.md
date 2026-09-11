@@ -4809,3 +4809,72 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Build:** PASS (astro build exit 0; 488 pages; new slugs rendered)
 - **Failures:** none; hit target 8 of 8. X list not usable (disclosed).
 
+## 2026-09-11 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json, startedAt 2026-09-11T14:00:02-07:00)
+- Date (Pacific): 2026-09-11
+- git pull --rebase origin main: already up to date
+- Morning this calendar day published **8** (SEED-UMI, CAP G1, ORCA pen writing, KAIROS V0.7, AIDIN×HD Hyundai hand, IMLE-VLA, HuRo, MaP-WAM) — **do not rehash**
+- X list https://x.com/i/lists/1805786050763087967: **not usable** (keyword Latest returned mixed timeline noise, not a browseable curated-list feed). Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: Brett Adcock Figure Index 86,000 WAU (11 Sep) — **SKIP: incremental Index metric; already covered Index/Helix**
+- Public X: GALATEA recirc — **SKIP: covered 9/10 morning**
+- Public X: Unitree G1 remote-control kick CCTV — **SKIP: no primary / unverified**
+- Public X: HD Hyundai × AIDIN — **SKIP: written this morning**
+- Public X: flying AC-install humanoid — **SKIP: Arkshel MX01 recirc**
+- Public X: XPeng IRON / UnifoLM recirc — **SKIP: already covered**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** AGIBOT GE-Act 2.0 native WAM, 300→30,000 h, 17.1%→44.1% G1-OP zero-shot — project page + arXiv:2609.05588 + Humanoids Daily 11 Sep — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Maven Robotics wheeled dual-arm mixed palletizing; 10 mph / 30 kg; up to 8 robots, 16 h, 99% uptime — TechCrunch + GlobeNewswire 10 Sep + HD — lane: **build** (machine/shift lede; $100M is context)
+3. **[CANDIDATE/WRITTEN]** PGMT perceptive G1 motion tracking, 37 cm obstacles, one policy for teleop/tracking/recovery — arXiv:2609.08511 + project page — lane: **build**
+4. **[CANDIDATE/WRITTEN]** Expressive Robotic Pianist / InReal hand, Graph-Mimic, Grade 7, duet F1 0.80–0.95 — arXiv:2609.10844 — lane: **build**
+5. **[CANDIDATE/WRITTEN]** UniMPA action-grounded WAM on Galaxea R1 Lite, +12.6 real-world vs π0.5 — arXiv:2609.11875 + project page — lane: **build**
+6. **[CANDIDATE/WRITTEN]** 2AM agent-side memory + RGB VLA, LIBERO-Mem 76.3% completion / 63% relaxed — arXiv:2609.11308 — lane: **build**
+7. **[SKIP: already covered morning]** SEED-UMI, CAP, ORCA, KAIROS, AIDIN, IMLE-VLA, HuRo, MaP-WAM
+8. **[SKIP: already covered 9/8–9/10]** UnifoLM-WLA, UnifoLM-X2, XPeng IRON, GALATEA, FolDeX, ViBe, tactile IEEE, BeyondMimic recirc
+9. **[SKIP: business mix]** Kinetix $75M; Unitree share dump; Agility S-4; Figure 86k WAU metric-only; Skild $100M ARR
+10. **[SKIP: thin / no matching stills / not new]** Dynamic Creatures (founder stills); Samsung ORchestra (16 Sep); Richtech IMTS (show 14–19 Sep); Cuebus 21 Sep; RobotWale India copy; IEEE VF monkey bars recirc; Sparsh-1
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | ge-act-20 | Shar Hendrix | Humanoids | build |
+| 2 | maven-robotics-palletizing | Robb Harlan | Robotics | build |
+| 3 | pgmt-g1-terrain | Shar Hendrix | Humanoids | build |
+| 4 | expressive-robotic-pianist | Shar Hendrix | Robotics | build |
+| 5 | unimpa-galaxea | Robb Harlan | AI | build |
+| 6 | 2am-agent-memory | Robb Harlan | AI | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+- Maven counted as **build**: lede and bulk are the wheeled dual-arm, vacuum palletizing, 10 mph / 30 kg, 8-robot / 16-hour / 99% uptime claims, not the round size.
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary + matching stills: **6** | Writing: **6**
+- Soft floor 2 met. Hit target 6.
+
+### Notes for Future Agents
+- Do not rewrite GE-Act 2.0 open paper, Maven palletizing stealth, PGMT G1 terrain tracker, InReal pianist, UniMPA, 2AM
+- GE-Act 2.0 **code still “coming soon”** on the project page
+- Samsung ORchestra dual-humanoid surgical demo is **16 Sep**
+- Cuebus × Yazaki × Yamazen starts **21 Sep**
+- Richtech DEX + Titan at **IMTS 2026 (Sep 14–19)**
+- Dynamic Creatures still uncovered if a real Danielle/Hugo still (not founder) appears
+- Figure Index 86k WAU is a metric bump on an already-covered product; skip unless Helix capability changes
+- Maven has no public cycle-time / named-site still of the robot stacking pallets; team+robot photo is from Humanoids Daily
+
+### Run summary
+- **Articles published (6):** ge-act-20, maven-robotics-palletizing, pgmt-g1-terrain, expressive-robotic-pianist, unimpa-galaxea, 2am-agent-memory
+- **pubDate:** 2026-09-11
+- **Skipped candidates:** morning eight recirc, 9/8–9/10 recirc, business (Kinetix / Unitree dump / Agility S-4 / Figure 86k), Dynamic Creatures / Samsung stills, IMTS DEX, Cuebus
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 posts dated 2026-09-11 including morning 8)
+- **Vision gate:** PASS — GE-Act (task-wall hero with 30k-h robot rollouts + G2 pick/stack/pour/wipe montage), Maven (team+green dual-arm hero + robot crop; rejected TechCrunch line-art as hero), PGMT (G1 stairs/grass/cartwheel teaser + control-mode strips), Pianist (InReal duet hero + thumb-under fingering), UniMPA (R1 Lite seven-suite hero + sim/real eval board), 2AM (agent-steer teaser + training pipeline)
+- **Social:** tweets 481; robb-x 481
+- **Build:** PASS (astro build exit 0; 494 pages; new slugs rendered)
+- **Failures:** none; hit target 6 of 6. X list not usable (disclosed).
+
