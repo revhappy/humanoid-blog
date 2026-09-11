@@ -4734,3 +4734,78 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Social:** tweets 467; robb-x 467
 - **Build:** PASS (astro build exit 0; 480 pages; new slugs rendered)
 - **Failures:** none; hit target 6 of 6. X list not usable (disclosed).
+
+## 2026-09-11 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json, startedAt 2026-09-11T09:00:04-07:00)
+- Date (Pacific): 2026-09-11
+- git pull --rebase origin main: already up to date
+- Last published: 2026-09-10 morning 8 + afternoon 6 — **do not rehash**. No 2026-09-11 posts yet.
+- X list `https://x.com/i/lists/1805786050763087967`: **curated list feed not usable** (keyword Latest returned mixed timeline noise, not a browseable curated-list feed). Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: AheadForm looking-back clip — **SKIP: recirc of existing AheadForm coverage**
+- Public X: Light-Loco-Parkour RoboPapers episode — **SKIP: already covered light-loco-parkour**
+- Public X: Unitree G1 remote-control kick viral — **SKIP: no primary / unverified CCTV recirc**
+- Public X: Fellows Forum 2026 promo — **SKIP: event invite**
+- Public X: HD Hyundai × AIDIN KRW13B five-finger shipbuilding hand — **CANDIDATE/WRITTEN**
+- Public X: Sprite Humanoid FreeCAD CERN OHL — **SKIP: thin primary this run**
+- Public X: Seeed LoRa mesh guide — **SKIP: not robotics/humanoid**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** SEED-UMI shared 20-DoF exoskeleton, 70% / 3× collection — arXiv:2609.11753 + project + YouTube — lane: **build**
+2. **[CANDIDATE/WRITTEN]** CAP perception-blind G1 locomotion, CoRL 2026 — arXiv:2609.11553 + project + YouTube — lane: **build**
+3. **[CANDIDATE/WRITTEN]** ETH ORCA in-hand pen writing, 18 s / 0.64 mm — arXiv:2609.11775 + project — lane: **build**
+4. **[CANDIDATE/WRITTEN]** KIMM KAIROS V0.7 talchum demo, 170 cm / 29 DoF — Aju Press 7 Sep + Maeil Business — lane: **build**
+5. **[CANDIDATE/WRITTEN]** HD Hyundai ₩13B into AIDIN; five-finger shipbuilding hand — FN + KED 11 Sep + AIDIN product page — lane: **build** (hand/sensor lede; funding is context)
+6. **[CANDIDATE/WRITTEN]** IMLE-VLA single-step 55 Hz / 98% LIBERO — arXiv:2609.10915 + project, IROS 2026 — lane: **build**
+7. **[CANDIDATE/WRITTEN]** HuRo 630K robotized episodes, 51.5%→80.3% — arXiv:2609.10706 + project — lane: **build**
+8. **[CANDIDATE/WRITTEN]** MaP-WAM memory-as-plans, 83.3% RMBench / 78% Franka — arXiv:2609.11561 + project — lane: **build**
+9. **[SKIP: already covered]** XPeng IRON walk-off; UnifoLM-X2 combat; UnifoLM-WLA-1.0; ETH monkey bars (IEEE VF recirc); BeyondMimic; NVIDIA SONIC recirc; Digit Redecorates; tactile IEEE survey; FolDeX / GALATEA / SPOT / WHIRL / ViBe / Sharpa in-hand
+10. **[SKIP: business mix]** Kinetix AI $75M KAIBot; Unitree share dump; Agility S-4; Tesla Optimus 5,000-unit rumor
+11. **[SKIP: thin / no matching stills / not new]** Dynamic Creatures (founder stills); Samsung ORchestra (16 Sep); Sparsh/RobotWale India copy; Poland robot protest; Richtech DEX IMTS (show-floor 14–19 Sep, follow then); Duke Humanoid v2 IEEE VF (older v1-era page); Cuebus 21 Sep
+12. **[SKIP: IEEE VF recirc]** ETH monkey bars already posted 9/2; Flexiv dishes not a new primary we fetched beyond Spectrum blurb
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | seed-umi | Shar Hendrix | Robotics | build |
+| 2 | cap-g1-locomotion | Robb Harlan | Humanoids | build |
+| 3 | orca-pen-writing | Shar Hendrix | Robotics | build |
+| 4 | kairos-v07 | Shar Hendrix | Humanoids | build |
+| 5 | aidin-hyundai-shipbuilding-hand | Robb Harlan | Robotics | build |
+| 6 | imle-vla | Shar Hendrix | AI | build |
+| 7 | huro-vla | Robb Harlan | AI | build |
+| 8 | map-wam | Shar Hendrix | AI | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+- AIDIN counted as **build**: lede and bulk are the five-finger shipbuilding hand and capacitive F/T sensors, not the round size.
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary + matching stills: **8** | Writing: **8**
+- Soft floor 3 met. Hit target 8.
+
+### Notes for Future Agents
+- Do not rewrite SEED-UMI shared exoskeleton, CAP G1 denoising locomotion, ORCA pen writing, KAIROS V0.7, AIDIN×HD Hyundai five-finger shipbuilding hand, IMLE-VLA, HuRo robotized pretraining, MaP-WAM
+- Samsung ORchestra dual-humanoid surgical demo is **16 Sep** — follow that day for robot stills
+- Cuebus × Yazaki × Yamazen humanoid handover starts **21 Sep**
+- Richtech DEX + Titan at **IMTS 2026 (Sep 14–19)** — follow for booth stills/footage
+- Dynamic Creatures still uncovered if a real Danielle/Hugo still (not founder) appears
+- KAIROS V1 is dated **April 2027**
+- AIDIN/Hyundai five-finger shipyard hand has **no payload, cycle time, or ship date** yet
+- UnifoLM-WLA weights still "coming soon" as of 9/10 morning post
+
+### Run summary
+- **Articles published (8):** seed-umi, cap-g1-locomotion, orca-pen-writing, kairos-v07, aidin-hyundai-shipbuilding-hand, imle-vla, huro-vla, map-wam
+- **pubDate:** 2026-09-11
+- **Skipped candidates:** 9/8–9/10 recirc, business (Kinetix $75M / Unitree dump / Agility S-4 / Optimus rumor), Dynamic Creatures / Samsung stills, IEEE VF monkey-bars recirc, IMTS DEX (show not open yet)
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts dated 2026-09-11)
+- **Vision gate:** PASS — SEED-UMI (screwdriver teaser + shared tennis-ball glove + five-task rollouts), CAP (G1 cover-uncover teaser + flash/outdoor strips), ORCA (hand writing hello + ink cutouts), KAIROS (KIMM wave hero + stage with hansam units), AIDIN (CJ tumbler wrap + AIDIN-Hand render + Gen2 orange grasp), IMLE-VLA (Franka pineapple tasks hero + 55 Hz diagram), HuRo (robotized overlay teaser + ALLEX four-task bars), MaP-WAM (Franka Find Button / Press Buttons hero + memory-as-plans diagram)
+- **Social:** tweets 475; robb-x 475
+- **Build:** PASS (astro build exit 0; 488 pages; new slugs rendered)
+- **Failures:** none; hit target 8 of 8. X list not usable (disclosed).
+

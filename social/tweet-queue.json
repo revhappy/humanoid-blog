@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-09-10T21:13:58.096Z",
+  "generatedAt": "2026-09-11T16:16:13.954Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "aidin-hyundai-shipbuilding-hand",
+      "title": "HD Hyundai Buys Touch for a Five-Finger Shipyard Hand",
+      "pubDate": "2026-09-11",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/aidin-hyundai-shipbuilding-hand/",
+      "tweet": "HD Hyundai Buys Touch for a Five-Finger Shipyard Hand\n\nHD Hyundai Robotics puts 13 billion won into AIDIN's force-torque sensors and plans a five-finger hand for shipbuilding…\n\nhttps://mechafeed.com/blog/aidin-hyundai-shipbuilding-hand/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=HD%20Hyundai%20Buys%20Touch%20for%20a%20Five-Finger%20Shipyard%20Hand%0A%0AHD%20Hyundai%20Robotics%20puts%2013%20billion%20won%20into%20AIDIN's%20force-torque%20sensors%20and%20plans%20a%20five-finger%20hand%20for%20shipbuilding%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Faidin-hyundai-shipbuilding-hand%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 258
+    },
+    {
+      "id": "cap-g1-locomotion",
+      "title": "CAP Walks a G1 When the Depth Camera Lies",
+      "pubDate": "2026-09-11",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/cap-g1-locomotion/",
+      "tweet": "CAP Walks a G1 When the Depth Camera Lies\n\nFudan and TARS train one G1 policy that denoises corrupted depth instead of switching to a blind controller. CoRL 2026.\n\nhttps://mechafeed.com/blog/cap-g1-locomotion/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=CAP%20Walks%20a%20G1%20When%20the%20Depth%20Camera%20Lies%0A%0AFudan%20and%20TARS%20train%20one%20G1%20policy%20that%20denoises%20corrupted%20depth%20instead%20of%20switching%20to%20a%20blind%20controller.%20CoRL%202026.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcap-g1-locomotion%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 237
+    },
+    {
+      "id": "huro-vla",
+      "title": "HuRo Paints a Robot Over 630,000 Human Videos",
+      "pubDate": "2026-09-11",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/huro-vla/",
+      "tweet": "HuRo Paints a Robot Over 630,000 Human Videos\n\nYonsei and RLWRLD robotize egocentric clips into 142 million frames. Pretraining lifts real ALLEX completion from 51.5%…\n\nhttps://mechafeed.com/blog/huro-vla/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=HuRo%20Paints%20a%20Robot%20Over%20630%2C000%20Human%20Videos%0A%0AYonsei%20and%20RLWRLD%20robotize%20egocentric%20clips%20into%20142%20million%20frames.%20Pretraining%20lifts%20real%20ALLEX%20completion%20from%2051.5%25%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhuro-vla%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 221
+    },
+    {
+      "id": "imle-vla",
+      "title": "IMLE-VLA Drops the 10-Step Action Head and Hits 55 Hz",
+      "pubDate": "2026-09-11",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/imle-vla/",
+      "tweet": "IMLE-VLA Drops the 10-Step Action Head and Hits 55 Hz\n\nSFU and Penn replace π0.5's flow-matching loop with one cIMLE pass. 98% on LIBERO, smoother Franka motion, IROS 2026.\n\nhttps://mechafeed.com/blog/imle-vla/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=IMLE-VLA%20Drops%20the%2010-Step%20Action%20Head%20and%20Hits%2055%20Hz%0A%0ASFU%20and%20Penn%20replace%20%CF%800.5's%20flow-matching%20loop%20with%20one%20cIMLE%20pass.%2098%25%20on%20LIBERO%2C%20smoother%20Franka%20motion%2C%20IROS%202026.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fimle-vla%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 226
+    },
+    {
+      "id": "kairos-v07",
+      "title": "KAIROS V0.7 Dances Talchum, Still Needs a Hanger",
+      "pubDate": "2026-09-11",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/kairos-v07/",
+      "tweet": "KAIROS V0.7 Dances Talchum, Still Needs a Hanger\n\nKIMM's 170 cm, 29-DoF homegrown humanoid shows mask dance and calisthenics in Seoul. V1 is dated April 2027.\n\nhttps://mechafeed.com/blog/kairos-v07/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=KAIROS%20V0.7%20Dances%20Talchum%2C%20Still%20Needs%20a%20Hanger%0A%0AKIMM's%20170%20cm%2C%2029-DoF%20homegrown%20humanoid%20shows%20mask%20dance%20and%20calisthenics%20in%20Seoul.%20V1%20is%20dated%20April%202027.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fkairos-v07%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 226
+    },
+    {
+      "id": "map-wam",
+      "title": "MaP-WAM Remembers as a Plan, Not a Growing Video",
+      "pubDate": "2026-09-11",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/map-wam/",
+      "tweet": "MaP-WAM Remembers as a Plan, Not a Growing Video\n\nHIT's memory-as-plans stack hits 83.3% on RMBench and 78% on a Franka that must recall covered buttons and numbers.\n\nhttps://mechafeed.com/blog/map-wam/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=MaP-WAM%20Remembers%20as%20a%20Plan%2C%20Not%20a%20Growing%20Video%0A%0AHIT's%20memory-as-plans%20stack%20hits%2083.3%25%20on%20RMBench%20and%2078%25%20on%20a%20Franka%20that%20must%20recall%20covered%20buttons%20and%20numbers.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmap-wam%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 218
+    },
+    {
+      "id": "orca-pen-writing",
+      "title": "An ORCA Hand Writes 'Hello' After 18 Seconds of Finger Wiggles",
+      "pubDate": "2026-09-11",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/orca-pen-writing/",
+      "tweet": "An ORCA Hand Writes 'Hello' After 18 Seconds of Finger Wiggles\n\nETH Zurich estimates a task Jacobian on the fly. A 17-DoF tendon hand writes on paper at 0.64 mm error with no sim, no…\n\nhttps://mechafeed.com/blog/orca-pen-writing/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=An%20ORCA%20Hand%20Writes%20'Hello'%20After%2018%20Seconds%20of%20Finger%20Wiggles%0A%0AETH%20Zurich%20estimates%20a%20task%20Jacobian%20on%20the%20fly.%20A%2017-DoF%20tendon%20hand%20writes%20on%20paper%20at%200.64%20mm%20error%20with%20no%20sim%2C%20no%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Forca-pen-writing%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 251
+    },
+    {
+      "id": "seed-umi",
+      "title": "Human and Robot Wear the Same Exoskeleton to Teach a 20-DoF Hand",
+      "pubDate": "2026-09-11",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/seed-umi/",
+      "tweet": "Human and Robot Wear the Same Exoskeleton to Teach a 20-DoF Hand\n\nSEED-UMI puts one 20-DoF glove on both a person and a Wuji hand; paired replay hits 70% success on five contact-rich…\n\nhttps://mechafeed.com/blog/seed-umi/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Human%20and%20Robot%20Wear%20the%20Same%20Exoskeleton%20to%20Teach%20a%2020-DoF%20Hand%0A%0ASEED-UMI%20puts%20one%2020-DoF%20glove%20on%20both%20a%20person%20and%20a%20Wuji%20hand%3B%20paired%20replay%20hits%2070%25%20success%20on%20five%20contact-rich%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fseed-umi%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 243
+    },
     {
       "id": "agile-one-furstenfeldbruck",
       "title": "Agile ONE Starts Production Near Munich, Hand First",

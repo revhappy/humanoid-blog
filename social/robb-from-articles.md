@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-10T21:13:58.134Z
+Generated: 2026-09-11T16:16:14.780Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## HD Hyundai Buys Touch for a Five-Finger Shipyard Hand
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/aidin-hyundai-shipbuilding-hand/
+
+### SOLO (no link)
+
+```
+I care about the grinding cell, not the press quote.  If a five-finger hand can hold a sander on a curved hull without chewing the coating, Hyundai has a reason to own the sensor company.
+```
+
+### SOFT-LINK variant
+
+```
+I care about the grinding cell, not the press quote.  If a five-finger hand can hold a sander on a curved hull without chewing the coating, Hyundai has a reason to own the sensor company.
+
+https://mechafeed.com/blog/aidin-hyundai-shipbuilding-hand/
+```
+
+---
+
+## CAP Walks a G1 When the Depth Camera Lies
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/cap-g1-locomotion/
+
+### SOLO (no link)
+
+```
+I am tired of "vision or proprioception" as a product slide.  Cameras go bad in pieces.
+```
+
+### SOFT-LINK variant
+
+```
+I am tired of "vision or proprioception" as a product slide.  Cameras go bad in pieces.
+
+https://mechafeed.com/blog/cap-g1-locomotion/
+```
+
+---
+
+## HuRo Paints a Robot Over 630,000 Human Videos
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/huro-vla/
+
+### SOLO (no link)
+
+```
+Painting a robot onto Ego4D is the kind of hack that either becomes the default data engine or looks silly in a year.  The OOD gap between overlay and no-overlay is the part I trust.
+```
+
+### SOFT-LINK variant
+
+```
+Painting a robot onto Ego4D is the kind of hack that either becomes the default data engine or looks silly in a year.  The OOD gap between overlay and no-overlay is the part I trust.
+
+https://mechafeed.com/blog/huro-vla/
+```
+
+---
+
+## IMLE-VLA Drops the 10-Step Action Head and Hits 55 Hz
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/imle-vla/
+
+### SOLO (no link)
+
+```
+Stop-and-go arms make me twitch.  If you can keep π0.
+```
+
+### SOFT-LINK variant
+
+```
+Stop-and-go arms make me twitch.  If you can keep π0.
+
+https://mechafeed.com/blog/imle-vla/
+```
+
+---
+
+## KAIROS V0.7 Dances Talchum, Still Needs a Hanger
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/kairos-v07/
+
+### SOLO (no link)
+
+```
+I am so here for a lab that will put a wobbly dance on a government stage instead of cutting a kung-fu reel.  The hanger is the story.
+```
+
+### SOFT-LINK variant
+
+```
+I am so here for a lab that will put a wobbly dance on a government stage instead of cutting a kung-fu reel.  The hanger is the story.
+
+https://mechafeed.com/blog/kairos-v07/
+```
+
+---
+
+## MaP-WAM Remembers as a Plan, Not a Growing Video
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/map-wam/
+
+### SOLO (no link)
+
+```
+Remembering a covered color is the kind of dumb task that wrecks Markov policies and looks trivial to a person.  If the executor can stay at 827 ms while the planner holds the history, that is a better split than stuffing 1,700 frames into the actor.
+```
+
+### SOFT-LINK variant
+
+```
+Remembering a covered color is the kind of dumb task that wrecks Markov policies and looks trivial to a person.  If the executor can stay at 827 ms while the planner holds the history, that is a bette…
+
+https://mechafeed.com/blog/map-wam/
+```
+
+---
+
+## An ORCA Hand Writes 'Hello' After 18 Seconds of Finger Wiggles
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/orca-pen-writing/
+
+### SOLO (no link)
+
+```
+I grinned at the 18-second warmup more than the millimeter.  If a Jacobian you learn at the desk can write the alphabet, a lot of "we need another million demos" talk is covering for a controller that never looks at the pen.
+```
+
+### SOFT-LINK variant
+
+```
+I grinned at the 18-second warmup more than the millimeter.  If a Jacobian you learn at the desk can write the alphabet, a lot of "we need another million demos" talk is covering for a controller that never looks at the pen.
+
+https://mechafeed.com/blog/orca-pen-writing/
+```
+
+---
+
+## Human and Robot Wear the Same Exoskeleton to Teach a 20-DoF Hand
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/seed-umi/
+
+### SOLO (no link)
+
+```
+I like the stubborn hardware idea more than the leaderboard.  If the camera and the encoder see the same metal on both sides, retargeting stops being a research problem and starts being a calibration.
+```
+
+### SOFT-LINK variant
+
+```
+I like the stubborn hardware idea more than the leaderboard.  If the camera and the encoder see the same metal on both sides, retargeting stops being a research problem and starts being a calibration.
+
+https://mechafeed.com/blog/seed-umi/
+```
 
 ---
 
