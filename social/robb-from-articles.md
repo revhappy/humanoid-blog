@@ -3,9 +3,53 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-12T16:13:52.797Z
+Generated: 2026-09-12T21:11:56.245Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## ActSafeGuard Puts Hard Joint Limits Inside Flow-Matching VLAs
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/actsafeguard-vla/
+
+### SOLO (no link)
+
+```
+A VLA that is “usually” inside joint limits is not a product.  The stop-gradient collapse on place shoe is the result I would put on a slide: safety at test time without boundary-aware training is a filter, not a policy.
+```
+
+### SOFT-LINK variant
+
+```
+A VLA that is “usually” inside joint limits is not a product.  The stop-gradient collapse on place shoe is the result I would put on a slide: safety at test time without boundary-aware training is a filter, not a policy.
+
+https://mechafeed.com/blog/actsafeguard-vla/
+```
+
+---
+
+## EngineAI T800s Kickbox in Riyadh as CyberHero Opens a Global Circuit
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/cyberhero-riyadh-t800/
+
+### SOLO (no link)
+
+```
+I am here for a full-size humanoid that has to recover after it hits the floor, not for the DJ.  The airborne still and the technicians kneeling over a yellow chassis are the honest pair: the move looked wild, and someone still had to put the robot back together between rounds.
+```
+
+### SOFT-LINK variant
+
+```
+I am here for a full-size humanoid that has to recover after it hits the floor, not for the DJ.  The airborne still and the technicians kneeling over a yellow chassis are the honest pair: the move loo…
+
+https://mechafeed.com/blog/cyberhero-riyadh-t800/
+```
 
 ---
 
@@ -75,6 +119,50 @@ https://mechafeed.com/blog/farm-world-model-failure/
 
 ---
 
+## FreqFM Conditions VLA Flow Matching on Action Frequency
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/freqfm-vla/
+
+### SOLO (no link)
+
+```
+I like that they measured the spectrum on the robot they actually run, then went back to the A2 for cup stacks and a stamp.  A 9.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they measured the spectrum on the robot they actually run, then went back to the A2 for cup stacks and a stamp.  A 9.
+
+https://mechafeed.com/blog/freqfm-vla/
+```
+
+---
+
+## GeoTrussRover Climbs a Step by Changing Its Own Frame
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/geotrussrover/
+
+### SOLO (no link)
+
+```
+A robot that climbs by stretching its own chassis is the kind of mechanism I want more of.  The 0.
+```
+
+### SOFT-LINK variant
+
+```
+A robot that climbs by stretching its own chassis is the kind of mechanism I want more of.  The 0.
+
+https://mechafeed.com/blog/geotrussrover/
+```
+
+---
+
 ## GMO Built an Ambulance for Humanoids, Complete With a Spare Bot
 
 - Author on blog: Shar Hendrix
@@ -93,6 +181,28 @@ I like the spare-bot more than the siren paint.  A humanoid that cannot be swapp
 I like the spare-bot more than the siren paint.  A humanoid that cannot be swapped is a science-fair piece, not a shift worker.
 
 https://mechafeed.com/blog/gmo-humanoid-ambulance/
+```
+
+---
+
+## Nucleus Drops the Legs: Nucleus II Goes Wheeled After Factory Pushback
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/nucleus-ii-wheeled/
+
+### SOLO (no link)
+
+```
+I care less about the branding change than the customer veto.  A plant that asks for “no legs” is telling you the biped is still a reliability and safety problem on flat concrete.
+```
+
+### SOFT-LINK variant
+
+```
+I care less about the branding change than the customer veto.  A plant that asks for “no legs” is telling you the biped is still a reliability and safety problem on flat concrete.
+
+https://mechafeed.com/blog/nucleus-ii-wheeled/
 ```
 
 ---

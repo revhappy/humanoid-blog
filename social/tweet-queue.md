@@ -14,8 +14,50 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-12T16:13:52.754Z
-Posts: 487
+Generated: 2026-09-12T21:11:54.762Z
+Posts: 492
+
+---
+
+## ActSafeGuard Puts Hard Joint Limits Inside Flow-Matching VLAs
+
+- **Slug:** `actsafeguard-vla`
+- **Date:** 2026-09-12
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/actsafeguard-vla/
+- **Chars:** 241/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ActSafeGuard%20Puts%20Hard%20Joint%20Limits%20Inside%20Flow-Matching%20VLAs%0A%0ASJTU%E2%80%99s%20ray-scaling%20layer%20hits%20100%25%20step%20safety%20on%20%CF%800.5%20and%20Fast-WAM%2C%20then%20keeps%20a%20real%20ALOHA%20arm%20on%20a%20magnetic-ball%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Factsafeguard-vla%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+ActSafeGuard Puts Hard Joint Limits Inside Flow-Matching VLAs
+
+SJTU’s ray-scaling layer hits 100% step safety on π0.5 and Fast-WAM, then keeps a real ALOHA arm on a magnetic-ball…
+
+https://mechafeed.com/blog/actsafeguard-vla/
+
+#AI #Humanoids
+```
+
+---
+
+## EngineAI T800s Kickbox in Riyadh as CyberHero Opens a Global Circuit
+
+- **Slug:** `cyberhero-riyadh-t800`
+- **Date:** 2026-09-12
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/cyberhero-riyadh-t800/
+- **Chars:** 265/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=EngineAI%20T800s%20Kickbox%20in%20Riyadh%20as%20CyberHero%20Opens%20a%20Global%20Circuit%0A%0AHero%20Esports%20staged%20ten%20full-size%20T800s%20in%20a%20Riyadh%20arena%20on%20Sept.%209%20and%20sketched%20an%20eight-city%20robot%20sports%20league.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcyberhero-riyadh-t800%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+EngineAI T800s Kickbox in Riyadh as CyberHero Opens a Global Circuit
+
+Hero Esports staged ten full-size T800s in a Riyadh arena on Sept. 9 and sketched an eight-city robot sports league.
+
+https://mechafeed.com/blog/cyberhero-riyadh-t800/
+
+#HumanoidRobots #Humanoids
+```
 
 ---
 
@@ -82,6 +124,48 @@ https://mechafeed.com/blog/farm-world-model-failure/
 
 ---
 
+## FreqFM Conditions VLA Flow Matching on Action Frequency
+
+- **Slug:** `freqfm-vla`
+- **Date:** 2026-09-12
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/freqfm-vla/
+- **Chars:** 228/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FreqFM%20Conditions%20VLA%20Flow%20Matching%20on%20Action%20Frequency%0A%0AAGIBOT%20and%20Xi%E2%80%99an%20Jiaotong%E2%80%99s%20DCT-conditioned%20expert%20gains%209.3%20points%20on%20LIBERO-Plus%20and%20lifts%20six%20A2%20humanoid%20tasks.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffreqfm-vla%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+FreqFM Conditions VLA Flow Matching on Action Frequency
+
+AGIBOT and Xi’an Jiaotong’s DCT-conditioned expert gains 9.3 points on LIBERO-Plus and lifts six A2 humanoid tasks.
+
+https://mechafeed.com/blog/freqfm-vla/
+
+#AI #Humanoids
+```
+
+---
+
+## GeoTrussRover Climbs a Step by Changing Its Own Frame
+
+- **Slug:** `geotrussrover`
+- **Date:** 2026-09-12
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/geotrussrover/
+- **Chars:** 236/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=GeoTrussRover%20Climbs%20a%20Step%20by%20Changing%20Its%20Own%20Frame%0A%0AA%2021-member%20electric%20truss%20on%20four%20wheels%20traverses%202.11%20wheel%20radii%20on%20hardware%20by%20reusing%20four%20contact%20primitives.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgeotrussrover%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+GeoTrussRover Climbs a Step by Changing Its Own Frame
+
+A 21-member electric truss on four wheels traverses 2.11 wheel radii on hardware by reusing four contact primitives.
+
+https://mechafeed.com/blog/geotrussrover/
+
+#Robotics #Humanoids
+```
+
+---
+
 ## GMO Built an Ambulance for Humanoids, Complete With a Spare Bot
 
 - **Slug:** `gmo-humanoid-ambulance`
@@ -97,6 +181,27 @@ GMO Built an Ambulance for Humanoids, Complete With a Spare Bot
 GMO AIR’s Tokyo van carries engineers, parts, and a replacement humanoid so a broken unit can be swapped on site.
 
 https://mechafeed.com/blog/gmo-humanoid-ambulance/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Nucleus Drops the Legs: Nucleus II Goes Wheeled After Factory Pushback
+
+- **Slug:** `nucleus-ii-wheeled`
+- **Date:** 2026-09-12
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/nucleus-ii-wheeled/
+- **Chars:** 261/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Nucleus%20Drops%20the%20Legs%3A%20Nucleus%20II%20Goes%20Wheeled%20After%20Factory%20Pushback%0A%0AA%20month%20after%20stealth%20on%20Unitree%20G1s%2C%20Nucleus%20deployed%20a%20wheeled%20dual-arm%20with%2010%20kg%20per%20arm%20and%205%E2%80%939%20hour%20uptime.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fnucleus-ii-wheeled%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Nucleus Drops the Legs: Nucleus II Goes Wheeled After Factory Pushback
+
+A month after stealth on Unitree G1s, Nucleus deployed a wheeled dual-arm with 10 kg per arm and 5–9 hour uptime.
+
+https://mechafeed.com/blog/nucleus-ii-wheeled/
 
 #HumanoidRobots #Humanoids
 ```

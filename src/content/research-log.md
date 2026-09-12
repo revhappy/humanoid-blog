@@ -4947,3 +4947,69 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Build:** PASS (astro build exit 0; 500 pages; new slugs rendered)
 - **Failures:** none. Soft floor 3 met; wrote 6 of target 8 rather than pad. X list not usable (disclosed).
 
+## 2026-09-12 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json, startedAt 2026-09-12T14:00:03-07:00)
+- Date (Pacific): 2026-09-12
+- git pull --rebase origin main: already up to date
+- Morning this calendar day published **6** (SwingBot, Duke V2 VRW, GMO Humanoid Ambulance, ReactHuman, DUET-DINO, FARM) — **do not rehash**
+- X list `https://x.com/i/lists/1805786050763087967`: **not usable** (privacy/login error). Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: Sam Altman “impressive” humanoid demo in 2027 — **SKIP: no robot, no primary beyond recirc quotes**
+- Public X: Melvin Schwarz Nucleus II wheeled deploy (8 Sep) — **CANDIDATE/WRITTEN**
+- Public X: XPeng IRON / UnifoLM recirc — **SKIP: covered 9/8–9/10**
+- Semantic X search mixed; list browse failed
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** CyberHero x Riyadh EngineAI T800 kickboxing — PR Newswire 9 Sep + 31 Aug + Xinhua fight stills 10 Sep — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Nucleus II wheeled dual-arm after factory “no legs” feedback — HD 9 Sep + Schwarz X 8 Sep + nucleuslab.ai — lane: **build**
+3. **[CANDIDATE/WRITTEN]** GeoTrussRover 21-member VGT step climb, 2.11 wheel radii hardware — arXiv:2609.11361 + HTML — lane: **build**
+4. **[CANDIDATE/WRITTEN]** ActSafeGuard 100% step-safety flow-matching safeguard on π0.5 / Fast-WAM + ALOHA — arXiv:2609.11697 + HTML — lane: **build**
+5. **[CANDIDATE/WRITTEN]** FreqFM DCT-conditioned VLA flow matching, +9.3 LIBERO-Plus, AgiBot A2 six tasks — arXiv:2609.10405 + HTML — lane: **build**
+6. **[SKIP: already covered morning]** SwingBot, Duke V2, GMO ambulance, ReactHuman, DUET-DINO, FARM
+7. **[SKIP: already covered 9/8–9/11]** XPeng IRON line; UnifoLM-X2; UnifoLM-WLA; GE-Act 2.0; Maven; PGMT; SEED-UMI; CAP; ORCA; KAIROS; AIDIN; URKL Shenzhen (July post engineai-urkl-robot-combat-league.md — Riyadh is a new event)
+8. **[SKIP: no matching robot stills]** Harness Robotic OS / Argos (HTML figures are maps/planners, not a Vbot); Husqvarna FCC press (no mower still on Cision page); Honda Asimo Evolution calendar listing (no Honda primary)
+9. **[SKIP: thin / sim-only / one-source]** Morphology-aware Galaxea retargeting (quant later); ORCH wildfire collectives (sim); ObstaDiff (morning skip); JoyIn Aether (no robot still)
+10. **[SKIP: business mix]** Husqvarna FCC exemption; Greenfield Reg A+; Altman 2027 demo chatter; Agility S-4 recirc; Figure 86k WAU
+
+### Selected for Writing (ranked) — 5 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | cyberhero-riyadh-t800 | Shar Hendrix | Humanoids | build |
+| 2 | nucleus-ii-wheeled | Robb Harlan | Humanoids | build |
+| 3 | geotrussrover | Shar Hendrix | Robotics | build |
+| 4 | actsafeguard-vla | Robb Harlan | AI | build |
+| 5 | freqfm-vla | Shar Hendrix | AI | build |
+
+### Mix check
+- Build/innovate: 5 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary + matching stills: **5** | Writing: **5**
+- Soft floor 2 met. Did **not** pad to 6: Harness/Husqvarna lacked matching robot stills; remaining headlines were recirc, sim-only, or business.
+
+### Notes for Future Agents
+- Do not rewrite CyberHero Riyadh T800, Nucleus II wheeled pivot, GeoTrussRover, ActSafeGuard, FreqFM
+- Morning 9/12 posts (SwingBot, Duke V2, GMO, ReactHuman, DUET-DINO, FARM) still off-limits
+- Samsung ORchestra dual-humanoid surgical demo is **16 Sep**
+- Cuebus × Yazaki × Yamazen starts **21 Sep**
+- Richtech DEX + Titan at **IMTS 2026 (Sep 14–19)**
+- Nucleus II wheeled OEM still unnamed; next promised clip is a multi-hour shift with failures
+- CyberHero did not publish bout scores or autonomy vs driver split
+- Harness/Argos still uncovered if a Vbot patrol still appears
+- Husqvarna FCC exemption still uncovered if a cited Automower still lands with the approval story
+
+### Run summary
+- **Articles published (5):** cyberhero-riyadh-t800, nucleus-ii-wheeled, geotrussrover, actsafeguard-vla, freqfm-vla
+- **pubDate:** 2026-09-12
+- **Skipped candidates:** morning six recirc, Harness (no Vbot still), Husqvarna (no mower still), Altman 2027 (no robot), JoyIn, ORCH sim, Galaxea retargeting thin, business
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 11 posts dated 2026-09-12 including morning 6)
+- **Vision gate:** PASS — CyberHero (yellow/blue kick hero + airborne + KO pose + between-round service), Nucleus II (warehouse wheeled dual-arm + tote crop), GeoTrussRover (hardware step sequence + sim/real 0.46/0.195 m + actuator CAD), ActSafeGuard (ALOHA cube-in-cup strip + PIPER track strip), FreqFM (A2 six-task grid + method diagram). Unused spectra heatmap not placed in FreqFM body.
+- **Social:** tweets 492; robb-x 492
+- **Build:** PASS (astro build exit 0; 505 pages; new slugs rendered)
+- **Failures:** none. Soft floor 2 met; wrote 5 of target 6 rather than pad. X list not usable (disclosed).
+
