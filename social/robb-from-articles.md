@@ -3,9 +3,141 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-11T21:11:57.989Z
+Generated: 2026-09-12T16:13:52.797Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## DUET-DINO Plans 7-DoF Reaches From Side and Wrist Views at Once
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/duet-dino-cross-view/
+
+### SOLO (no link)
+
+```
+Wrist plus scene is the right argument.  92% on a 5 cm reach in sim is a real lift over the public V-JEPA checkpoint.
+```
+
+### SOFT-LINK variant
+
+```
+Wrist plus scene is the right argument.  92% on a 5 cm reach in sim is a real lift over the public V-JEPA checkpoint.
+
+https://mechafeed.com/blog/duet-dino-cross-view/
+```
+
+---
+
+## Duke Humanoid V2 Aims Two Cameras So Reach Is Not Blind
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/duke-humanoid-v2-vrw/
+
+### SOLO (no link)
+
+```
+Copying a human head is a local maximum if the job is two benches at once.  Independent gimbals are an ugly, correct answer: spend a little mass so the torso does not have to pirouette for a second view.
+```
+
+### SOFT-LINK variant
+
+```
+Copying a human head is a local maximum if the job is two benches at once.  Independent gimbals are an ugly, correct answer: spend a little mass so the torso does not have to pirouette for a second view.
+
+https://mechafeed.com/blog/duke-humanoid-v2-vrw/
+```
+
+---
+
+## FARM Reads Failure Out of a Frozen World Model
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/farm-world-model-failure/
+
+### SOLO (no link)
+
+```
+I will take a 34k-parameter whistle on a frozen predictor over another full-size critic any day, if the score actually rises before the mug hits the floor.  The transfer table is the adult slide: Core vs Expanded is a reminder that “the representation contains failure”…
+```
+
+### SOFT-LINK variant
+
+```
+I will take a 34k-parameter whistle on a frozen predictor over another full-size critic any day, if the score actually rises before the mug hits the floor.  The transfer table is the adult slide: Core…
+
+https://mechafeed.com/blog/farm-world-model-failure/
+```
+
+---
+
+## GMO Built an Ambulance for Humanoids, Complete With a Spare Bot
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/gmo-humanoid-ambulance/
+
+### SOLO (no link)
+
+```
+I like the spare-bot more than the siren paint.  A humanoid that cannot be swapped is a science-fair piece, not a shift worker.
+```
+
+### SOFT-LINK variant
+
+```
+I like the spare-bot more than the siren paint.  A humanoid that cannot be swapped is a science-fair piece, not a shift worker.
+
+https://mechafeed.com/blog/gmo-humanoid-ambulance/
+```
+
+---
+
+## ReactHuman Freezes the Scene and Asks the Model to Catch or Dodge
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/reacthuman-hazard-benchmark/
+
+### SOLO (no link)
+
+```
+I care that they execute the plan.  A model that says “catch” while standing a meter short would ace a quiz and drop the plate.
+```
+
+### SOFT-LINK variant
+
+```
+I care that they execute the plan.  A model that says “catch” while standing a meter short would ace a quiz and drop the plate.
+
+https://mechafeed.com/blog/reacthuman-hazard-benchmark/
+```
+
+---
+
+## SwingBot Teaches a Humanoid to Brachiate, Hooks and All
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/swingbot-humanoid-brachiation/
+
+### SOLO (no link)
+
+```
+I am here for a robot that treats monkey bars as a locomotion mode, not a party trick.  The receipts I care about are the closed-loop handoffs and the fact that the legs are doing work, not just the hooks.
+```
+
+### SOFT-LINK variant
+
+```
+I am here for a robot that treats monkey bars as a locomotion mode, not a party trick.  The receipts I care about are the closed-loop handoffs and the fact that the legs are doing work, not just the hooks.
+
+https://mechafeed.com/blog/swingbot-humanoid-brachiation/
+```
 
 ---
 

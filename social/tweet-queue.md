@@ -14,8 +14,134 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-11T21:11:57.972Z
-Posts: 481
+Generated: 2026-09-12T16:13:52.754Z
+Posts: 487
+
+---
+
+## DUET-DINO Plans 7-DoF Reaches From Side and Wrist Views at Once
+
+- **Slug:** `duet-dino-cross-view`
+- **Date:** 2026-09-12
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/duet-dino-cross-view/
+- **Chars:** 247/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=DUET-DINO%20Plans%207-DoF%20Reaches%20From%20Side%20and%20Wrist%20Views%20at%20Once%0A%0AA%20dual-camera%20latent%20world%20model%20hits%2092%25%20on%20reach%20and%2072.5%25%20on%20angled-reach%2C%20beating%20single-view%20V-JEPA%202-AC.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fduet-dino-cross-view%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+DUET-DINO Plans 7-DoF Reaches From Side and Wrist Views at Once
+
+A dual-camera latent world model hits 92% on reach and 72.5% on angled-reach, beating single-view V-JEPA 2-AC.
+
+https://mechafeed.com/blog/duet-dino-cross-view/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Duke Humanoid V2 Aims Two Cameras So Reach Is Not Blind
+
+- **Slug:** `duke-humanoid-v2-vrw`
+- **Date:** 2026-09-12
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/duke-humanoid-v2-vrw/
+- **Chars:** 246/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Duke%20Humanoid%20V2%20Aims%20Two%20Cameras%20So%20Reach%20Is%20Not%20Blind%0A%0AA%2031-DoF%20lab%20humanoid%20with%20independently%20actuated%20RGB-D%20heads%20lifts%20visible-reachable%20coverage%20from%2038%25%20to%2097%25.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fduke-humanoid-v2-vrw%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Duke Humanoid V2 Aims Two Cameras So Reach Is Not Blind
+
+A 31-DoF lab humanoid with independently actuated RGB-D heads lifts visible-reachable coverage from 38% to 97%.
+
+https://mechafeed.com/blog/duke-humanoid-v2-vrw/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## FARM Reads Failure Out of a Frozen World Model
+
+- **Slug:** `farm-world-model-failure`
+- **Date:** 2026-09-12
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/farm-world-model-failure/
+- **Chars:** 231/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FARM%20Reads%20Failure%20Out%20of%20a%20Frozen%20World%20Model%0A%0AA%2033%2C985-parameter%20probe%20on%20VLA-JEPA%20states%20hits%2085.68%20pooled%20AUROC%20and%20transfers%20to%20PIPER%20X%2C%20SO-101%2C%20and%20Franka.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffarm-world-model-failure%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+FARM Reads Failure Out of a Frozen World Model
+
+A 33,985-parameter probe on VLA-JEPA states hits 85.68 pooled AUROC and transfers to PIPER X, SO-101, and Franka.
+
+https://mechafeed.com/blog/farm-world-model-failure/
+
+#AI #Humanoids
+```
+
+---
+
+## GMO Built an Ambulance for Humanoids, Complete With a Spare Bot
+
+- **Slug:** `gmo-humanoid-ambulance`
+- **Date:** 2026-09-12
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/gmo-humanoid-ambulance/
+- **Chars:** 258/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=GMO%20Built%20an%20Ambulance%20for%20Humanoids%2C%20Complete%20With%20a%20Spare%20Bot%0A%0AGMO%20AIR%E2%80%99s%20Tokyo%20van%20carries%20engineers%2C%20parts%2C%20and%20a%20replacement%20humanoid%20so%20a%20broken%20unit%20can%20be%20swapped%20on%20site.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgmo-humanoid-ambulance%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+GMO Built an Ambulance for Humanoids, Complete With a Spare Bot
+
+GMO AIR’s Tokyo van carries engineers, parts, and a replacement humanoid so a broken unit can be swapped on site.
+
+https://mechafeed.com/blog/gmo-humanoid-ambulance/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## ReactHuman Freezes the Scene and Asks the Model to Catch or Dodge
+
+- **Slug:** `reacthuman-hazard-benchmark`
+- **Date:** 2026-09-12
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/reacthuman-hazard-benchmark/
+- **Chars:** 258/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ReactHuman%20Freezes%20the%20Scene%20and%20Asks%20the%20Model%20to%20Catch%20or%20Dodge%0A%0AA%2017-family%2C%201%2C000-scene%20benchmark%20puts%20MLLMs%20in%20a%20simulated%20humanoid%20and%20scores%20whether%20the%20catch%20actually%20meets%20the%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Freacthuman-hazard-benchmark%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+ReactHuman Freezes the Scene and Asks the Model to Catch or Dodge
+
+A 17-family, 1,000-scene benchmark puts MLLMs in a simulated humanoid and scores whether the catch actually meets the…
+
+https://mechafeed.com/blog/reacthuman-hazard-benchmark/
+
+#AI #Humanoids
+```
+
+---
+
+## SwingBot Teaches a Humanoid to Brachiate, Hooks and All
+
+- **Slug:** `swingbot-humanoid-brachiation`
+- **Date:** 2026-09-12
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/swingbot-humanoid-brachiation/
+- **Chars:** 260/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=SwingBot%20Teaches%20a%20Humanoid%20to%20Brachiate%2C%20Hooks%20and%20All%0A%0AFudan%E2%80%99s%20CoRL%202026%20paper%20puts%20a%2020-DoF%20humanoid%20on%20overhead%20bars%20with%20passive%20wrist%20hooks%20and%20a%20residual-keyframe%20RL%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fswingbot-humanoid-brachiation%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+SwingBot Teaches a Humanoid to Brachiate, Hooks and All
+
+Fudan’s CoRL 2026 paper puts a 20-DoF humanoid on overhead bars with passive wrist hooks and a residual-keyframe RL…
+
+https://mechafeed.com/blog/swingbot-humanoid-brachiation/
+
+#HumanoidRobots #Humanoids
+```
 
 ---
 

@@ -4878,3 +4878,72 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Build:** PASS (astro build exit 0; 494 pages; new slugs rendered)
 - **Failures:** none; hit target 6 of 6. X list not usable (disclosed).
 
+## 2026-09-12 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json, startedAt 2026-09-12T09:00:03-07:00)
+- Date (Pacific): 2026-09-12
+- git pull --rebase origin main: already up to date
+- Last published: 2026-09-11 morning 8 + afternoon 6 — **do not rehash**. No 2026-09-12 posts yet.
+- X list `https://x.com/i/lists/1805786050763087967`: **curated list feed not usable** (keyword Latest returned mixed timeline noise / PrismaX thread, not a browseable curated-list feed). Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: XPeng IRON production-line recirc — **SKIP: already covered 9/8**
+- Public X: Unitree UnifoLM-X2 combat recirc — **SKIP: already covered 9/8**
+- Public X: Robotics247 Humanoid×Siemens tote destacking — **SKIP: January 2026 PoC, not new**
+- Public X: PrismaX robotics-data essay — **SKIP: not a machine/demo story**
+- Public X: Fuchio outdoor wheeled prototype — **SKIP: thin primary / no company press**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** SwingBot whole-body humanoid brachiation, Mini Pi plus, CoRL 2026 — arXiv:2609.10283 + project page — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Duke Humanoid V2 visible-reachable workspace, 38%→97% — arXiv:2609.08905 + lab page — lane: **build**
+3. **[CANDIDATE/WRITTEN]** GMO Humanoid Ambulance, Tokyo Sep 2026 — GMO AIR PR + Kyodo + Euronews — lane: **build**
+4. **[CANDIDATE/WRITTEN]** ReactHuman MLLM hazard benchmark, 17 families / 306 eval scenes — arXiv:2609.10895 + Hugging Face — lane: **build**
+5. **[CANDIDATE/WRITTEN]** DUET-DINO dual-view 7-DoF latent planning, 92% reach — arXiv:2609.10506 + project page — lane: **build**
+6. **[CANDIDATE/WRITTEN]** FARM frozen VLA-JEPA failure readout, 33,985 params — arXiv:2609.11445 + GitHub — lane: **build**
+7. **[SKIP: already covered 9/8–9/11]** XPeng IRON line; UnifoLM-X2; UnifoLM-WLA-1.0; GE-Act 2.0; Maven palletizing; PGMT; SEED-UMI; CAP; ORCA; KAIROS; AIDIN; IMLE-VLA; HuRo; MaP-WAM; BeyondMimic recirc; NVIDIA SONIC recirc; ETH monkey bars; WGRL brachiation (different Tokyo upper-body paper)
+8. **[SKIP: no matching stills]** CyberHero x Riyadh T800 bouts (Xinhua/Zawya/PRNewswire text only; no verified fight still this run); JoyIn Aether (TNW/CNBC screenshots of OpenAI page, no robot still; legal claims unverified)
+9. **[SKIP: single-source / thin]** ObstaDiff greenhouse Sawyer (arxiv only, setup still undersized); How Long Until Your Robot Ignores You (arxiv only; Layer 3 ongoing); UltraSense TRR op-ed (April product, not a new demo); Jilin tension-compression Xinhua photo essay
+10. **[SKIP: business mix]** Greenfield Reg A+; Unitree share dump recirc; Agility S-4 recirc; Figure 86k WAU; Honda Asimo calendar listing unverified
+11. **[SKIP: follow later]** Samsung ORchestra **16 Sep**; Cuebus×Yazaki **21 Sep**; Richtech IMTS **14–19 Sep**; Dynamic Creatures (no Danielle/Hugo still)
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | swingbot-humanoid-brachiation | Shar Hendrix | Humanoids | build |
+| 2 | duke-humanoid-v2-vrw | Robb Harlan | Humanoids | build |
+| 3 | gmo-humanoid-ambulance | Shar Hendrix | Humanoids | build |
+| 4 | reacthuman-hazard-benchmark | Robb Harlan | AI | build |
+| 5 | duet-dino-cross-view | Shar Hendrix | Robotics | build |
+| 6 | farm-world-model-failure | Robb Harlan | AI | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+- GMO counted as **build**: lede and bulk are the van, spare-robot swap, and how the machine is recovered, not a funding round.
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary + matching stills: **6** | Writing: **6**
+- Soft floor 3 met. Did **not** pad to 8: CyberHero/JoyIn lacked matching stills; ObstaDiff and the G1 LLM-safety paper lacked a second fetched URL; remaining headlines were recirc or business.
+
+### Notes for Future Agents
+- Do not rewrite SwingBot brachiation, Duke V2 VRW, GMO Humanoid Ambulance, ReactHuman, DUET-DINO, FARM
+- Samsung ORchestra dual-humanoid surgical demo is **16 Sep**
+- Cuebus × Yazaki × Yamazen starts **21 Sep**
+- Richtech DEX + Titan at **IMTS 2026 (Sep 14–19)**
+- CyberHero Riyadh happened **9 Sep** — still uncovered if a real T800 fight still (not CES/URKL recirc) appears
+- JoyIn Aether still uncovered if a Unitree/AgiBot task still lands with a primary, and if legal claims get a filing
+- UnifoLM-WLA weights still "coming soon" as of 9/10 morning post
+- SwingBot paper HTML says 11 kg plate; project page says 1 kg — we omitted the disputed mass
+
+### Run summary
+- **Articles published (6):** swingbot-humanoid-brachiation, duke-humanoid-v2-vrw, gmo-humanoid-ambulance, reacthuman-hazard-benchmark, duet-dino-cross-view, farm-world-model-failure
+- **pubDate:** 2026-09-12
+- **Skipped candidates:** 9/8–9/11 recirc, CyberHero (no fight still), JoyIn (no robot still), ObstaDiff (one source), LLM orchestrator safety (one source), business
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 6 posts dated 2026-09-12)
+- **Vision gate:** PASS — SwingBot (gibbon+robot hero + timed traversal + push/pull/payload/spacing), Duke V2 (real-robot teaser + hardware CAD + two-target timelapse), GMO (rejected logo-only still; used van+humanoid photo hero + van render + interior + Kyodo stage robots), ReactHuman (sim G1 chandelier catch + pipeline + object-drop reach), DUET-DINO (banana reach compare + breakfast-table Franka + architecture), FARM (PIPER X / SO-101 hardware + LIBERO failure traces + readout diagram)
+- **Social:** tweets 487; robb-x 487
+- **Build:** PASS (astro build exit 0; 500 pages; new slugs rendered)
+- **Failures:** none. Soft floor 3 met; wrote 6 of target 8 rather than pad. X list not usable (disclosed).
+
