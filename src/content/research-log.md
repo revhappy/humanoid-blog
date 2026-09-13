@@ -5013,3 +5013,76 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Build:** PASS (astro build exit 0; 505 pages; new slugs rendered)
 - **Failures:** none. Soft floor 2 met; wrote 5 of target 6 rather than pad. X list not usable (disclosed).
 
+## 2026-09-13 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json, startedAt 2026-09-13T09:37:01-07:00)
+- Date (Pacific): 2026-09-13
+- git pull --rebase origin main: already up to date
+- Last published: 2026-09-12 morning 6 + afternoon 5 — **do not rehash**. No 2026-09-13 posts yet.
+- X list `https://x.com/i/lists/1805786050763087967`: **curated list feed not usable** (keyword Latest returned mixed timeline noise, not a browseable curated-list feed). Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: XPeng IRON production-line recirc — **SKIP: covered 9/8**
+- Public X: Unitree UnifoLM-X2 combat recirc — **SKIP: covered 9/8**
+- Public X: GMO Humanoid Ambulance recirc (IE 13 Sep) — **SKIP: covered 9/12 morning**
+- Public X: Sam Altman 2027 humanoid demo — **SKIP: no robot, no primary**
+- Public X: Shimizu construction patrol recirc — **SKIP: July 2026 field trial, not new**
+- Public X: BeyondMimic recirc — **SKIP: already covered**
+- Semantic X: mixed influencer recirc, not usable as list
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** SwarmNxt open-source OmniNxt ROS 2 swarm, 6-drone swap + 4-drone obstacles — arXiv:2609.11382 + GitHub + YouTube — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Seeing is Not Believing ROS 2 LD_PRELOAD telemetry spoof on Franka — arXiv:2609.08280 + YouTube — lane: **build**
+3. **[CANDIDATE/WRITTEN]** CosmoH2G 6,189 paired hand-gripper episodes, Galaxea R1 Lite 70.43% real SR — arXiv:2609.07498 + project page — lane: **build**
+4. **[CANDIDATE/WRITTEN]** Dist-GPRL UR5e conveyor bar hook, 90% hardware vs 10% GPRL — arXiv:2609.11433 — lane: **build**
+5. **[CANDIDATE/WRITTEN]** Munro Live Unitree G1 actuator teardown (~15:1 planetary, knee heat pipe) — Munro YouTube 11 Sep + Humanoid.guide 13 Sep — lane: **build**
+6. **[CANDIDATE/WRITTEN]** UBTECH Liuzhou Super Smart Factory commissioned 12 Sep; Cruzr destack, 10-min takt, 2,000 screws — IT Home + China News Service + HD — lane: **build** (lede/bulk are Cruzr kitting, fastening, burn-in, ASRS — not a funding round)
+7. **[CANDIDATE/WRITTEN]** Wandercraft Calvin-40 12 enterprise customers, tires/panels/carts, Renault 350/18 mo — company post 4 Sep + HD — lane: **build** (lede/bulk are the headless hauler and task stack; 12 customers is the hook)
+8. **[SKIP: already covered 9/8–9/12]** XPeng IRON line; UnifoLM-X2; UnifoLM-WLA; SwingBot; Duke V2; GMO ambulance; ReactHuman; GE-Act 2.0; Maven; PGMT; SEED-UMI; CAP; ORCA; KAIROS; AIDIN; CyberHero; Nucleus II; GeoTrussRover; ActSafeGuard; FreqFM; BeyondMimic recirc
+9. **[SKIP: business mix]** Agility S-4 recirc; Figure 86k WAU; Humanoid HMND $2.4B pre-order; Unitree share dump; Nexus Robotics RobotWale copy
+10. **[SKIP: thin / no matching stills / not new]** Dynamic Creatures (founder stills); Samsung ORchestra (16 Sep); Cuebus 21 Sep; Richtech IMTS (14–19 Sep); Harness/Argos (no Vbot still); ObstaDiff (one-source prior skip); morphology-aware Galaxea (quant later); DLSRL (sim-only, no robot still); underactuated hand (no HTML figures); Reflex neuromuscular (sim human, not a robot); Sparsh-1 RobotWale
+11. **[SKIP: IEEE VF recirc]** ETH monkey bars already posted; Flexiv dishes not a new primary
+
+### Selected for Writing (ranked) — 7 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | swarmnxt | Shar Hendrix | Robotics | build |
+| 2 | ros2-telemetry-spoof | Robb Harlan | Research | build |
+| 3 | cosmoh2g | Shar Hendrix | Robotics | build |
+| 4 | dist-gprl | Robb Harlan | Robotics | build |
+| 5 | unitree-g1-actuator-teardown | Robb Harlan | Humanoids | build |
+| 6 | ubtech-liuzhou-super-factory | Shar Hendrix | Humanoids | build |
+| 7 | wandercraft-calvin-40 | Robb Harlan | Humanoids | build |
+
+### Mix check
+- Build/innovate: 7 | Business/industry: 0 | Business share: 0% (≤25%)
+- UBTECH counted as **build**: lede and bulk are Cruzr destacking, 2,000-screw fastening, 4-hour burn-in, 65 m² ASRS — how the line works. 10,000-unit plan is context.
+- Wandercraft counted as **build**: lede and bulk are the headless Calvin-40, tire/panel/cart tasks, and Masselin quotes on scaling from proven work. 12 customers is the announcement hook, not a funding story.
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary + matching stills: **7** | Writing: **7**
+- Soft floor 3 met. Did **not** pad to 8: remaining headlines were recirc, sim-only, or lacked matching stills. Weekend arXiv (Sat/Sun) had no new cs.RO dump after Friday.
+
+### Notes for Future Agents
+- Do not rewrite SwarmNxt, ROS 2 telemetry spoof, CosmoH2G, Dist-GPRL, Munro G1 actuator teardown, UBTECH Liuzhou factory, Wandercraft Calvin-40 12-customer post
+- Samsung ORchestra dual-humanoid surgical demo is **16 Sep**
+- Cuebus × Yazaki × Yamazen starts **21 Sep**
+- Richtech DEX + Titan at **IMTS 2026 (Sep 14–19)** — follow for booth stills
+- Dynamic Creatures still uncovered if a real Danielle/Hugo still (not founder) appears
+- CosmoH2G code/dataset still “coming soon” on the project page
+- Wandercraft 12 customers are unnamed in the primary; 40 kg payload is from HD profile, not the 4 Sep post
+- UBTECH 10-minute takt is design/plan, not a measured output this weekend
+
+### Run summary
+- **Articles published (7):** swarmnxt, ros2-telemetry-spoof, cosmoh2g, dist-gprl, unitree-g1-actuator-teardown, ubtech-liuzhou-super-factory, wandercraft-calvin-40
+- **pubDate:** 2026-09-13
+- **Skipped candidates:** 9/8–9/12 recirc, Altman 2027, Shimizu July recirc, DLSRL/ObstaDiff/Harness thin, business mix
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 7 posts dated 2026-09-13)
+- **Vision gate:** PASS — SwarmNxt (six-drone swap hero + obstacle pillars), ROS2 (Franka lab setup + physical arm), CosmoH2G (human/robot flip teaser + R1 Lite compare + UMI dataset), Dist-GPRL (sim+UR5e teaser + hook collision vs lift), Munro G1 (actuator guts hero + exploded layout), UBTECH (Walker high-bay hero + Cruzr kitting + lighting tunnel + aerial plant), Wandercraft (Calvin-40 walk hero + rear three-quarter + tire-stack stage still)
+- **Social:** tweets 499; robb-x 499
+- **Build:** PASS (astro build exit 0; 512 pages; new slugs rendered)
+- **Failures:** none. Soft floor 3 met; wrote 7 of target 8 rather than pad. X list not usable (disclosed).
+

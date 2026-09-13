@@ -14,8 +14,155 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-12T21:11:54.762Z
-Posts: 492
+Generated: 2026-09-13T16:50:48.991Z
+Posts: 499
+
+---
+
+## CosmoH2G Turns Flips and Rotations Into Gripper Motions
+
+- **Slug:** `cosmoh2g`
+- **Date:** 2026-09-13
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/cosmoh2g/
+- **Chars:** 231/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=CosmoH2G%20Turns%20Flips%20and%20Rotations%20Into%20Gripper%20Motions%0A%0ACUHKSZ%E2%80%99s%20paired%20hand-gripper%20dataset%20of%206%2C189%20episodes%20hits%2070%25%20real-robot%20success%20on%20Galaxea%20R1%20Lite%20for%20spatial%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fcosmoh2g%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+CosmoH2G Turns Flips and Rotations Into Gripper Motions
+
+CUHKSZ’s paired hand-gripper dataset of 6,189 episodes hits 70% real-robot success on Galaxea R1 Lite for spatial…
+
+https://mechafeed.com/blog/cosmoh2g/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Dist-GPRL Pulls Bars Off a Moving Conveyor Without Hitting the Neighbor
+
+- **Slug:** `dist-gprl`
+- **Date:** 2026-09-13
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/dist-gprl/
+- **Chars:** 251/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Dist-GPRL%20Pulls%20Bars%20Off%20a%20Moving%20Conveyor%20Without%20Hitting%20the%20Neighbor%0A%0AUTS%20trains%20a%20UR5e%20to%20adapt%20demonstrated%20skills%20around%20moving%20obstacles%3B%20hardware%20success%20hits%2090%25%20versus%2010%25%20for%20the%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdist-gprl%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Dist-GPRL Pulls Bars Off a Moving Conveyor Without Hitting the Neighbor
+
+UTS trains a UR5e to adapt demonstrated skills around moving obstacles; hardware success hits 90% versus 10% for the…
+
+https://mechafeed.com/blog/dist-gprl/
+
+#Robotics #Humanoids
+```
+
+---
+
+## A One-Line ROS 2 Hook Can Fake What a Robot Is Doing
+
+- **Slug:** `ros2-telemetry-spoof`
+- **Date:** 2026-09-13
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/ros2-telemetry-spoof/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20One-Line%20ROS%202%20Hook%20Can%20Fake%20What%20a%20Robot%20Is%20Doing%0A%0AUCL%20and%20PolyU%20researchers%20spoof%20Franka%20telemetry%20through%20LD_PRELOAD%2C%20bypassing%20SROS%202%20and%20beating%20an%20AI%20detector%2087%25%20of%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fros2-telemetry-spoof%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+A One-Line ROS 2 Hook Can Fake What a Robot Is Doing
+
+UCL and PolyU researchers spoof Franka telemetry through LD_PRELOAD, bypassing SROS 2 and beating an AI detector 87% of…
+
+https://mechafeed.com/blog/ros2-telemetry-spoof/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## SwarmNxt Flies Six Open-Source Drones Without a Collision
+
+- **Slug:** `swarmnxt`
+- **Date:** 2026-09-13
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/swarmnxt/
+- **Chars:** 239/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=SwarmNxt%20Flies%20Six%20Open-Source%20Drones%20Without%20a%20Collision%0A%0AEPFL%20and%20HKUST%20open-source%20a%20ROS%202%20swarm%20stack%20on%20OmniNxt%20hardware%2C%20with%20a%20six-drone%20swap%20and%20a%20four-drone%20obstacle%20run.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fswarmnxt%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+SwarmNxt Flies Six Open-Source Drones Without a Collision
+
+EPFL and HKUST open-source a ROS 2 swarm stack on OmniNxt hardware, with a six-drone swap and a four-drone obstacle run.
+
+https://mechafeed.com/blog/swarmnxt/
+
+#Robotics #Humanoids
+```
+
+---
+
+## UBTECH’s Liuzhou Plant Puts Cruzr to Work Building Walker
+
+- **Slug:** `ubtech-liuzhou-super-factory`
+- **Date:** 2026-09-13
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/ubtech-liuzhou-super-factory/
+- **Chars:** 264/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=UBTECH%E2%80%99s%20Liuzhou%20Plant%20Puts%20Cruzr%20to%20Work%20Building%20Walker%0A%0AThe%20Guangxi%20factory%20opened%2012%20September%20with%20a%2010-minute%20takt%2C%20Cruzr%20destacking%2C%202%2C000%20screws%20per%20chassis%2C%20and%20a%2065%20m%C2%B2%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fubtech-liuzhou-super-factory%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+UBTECH’s Liuzhou Plant Puts Cruzr to Work Building Walker
+
+The Guangxi factory opened 12 September with a 10-minute takt, Cruzr destacking, 2,000 screws per chassis, and a 65 m²…
+
+https://mechafeed.com/blog/ubtech-liuzhou-super-factory/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Munro Tears Down the G1 Actuator: Planetary Gears and a Stator Heat Pipe
+
+- **Slug:** `unitree-g1-actuator-teardown`
+- **Date:** 2026-09-13
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/unitree-g1-actuator-teardown/
+- **Chars:** 280/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Munro%20Tears%20Down%20the%20G1%20Actuator%3A%20Planetary%20Gears%20and%20a%20Stator%20Heat%20Pipe%0A%0AMunro%20Live%E2%80%99s%20G1%20joint%20teardown%20finds%20~15%3A1%20planetary%20gearing%2C%20knee%20heat%20pipes%2C%20remote%20ankle%20motors%2C%20and%20CNC%20parts%20built%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Funitree-g1-actuator-teardown%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Munro Tears Down the G1 Actuator: Planetary Gears and a Stator Heat Pipe
+
+Munro Live’s G1 joint teardown finds ~15:1 planetary gearing, knee heat pipes, remote ankle motors, and CNC parts built…
+
+https://mechafeed.com/blog/unitree-g1-actuator-teardown/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Wandercraft’s Headless Calvin-40 Adds 12 Industrial Customers
+
+- **Slug:** `wandercraft-calvin-40`
+- **Date:** 2026-09-13
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/wandercraft-calvin-40/
+- **Chars:** 262/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Wandercraft%E2%80%99s%20Headless%20Calvin-40%20Adds%2012%20Industrial%20Customers%0A%0AThe%20Paris%20humanoid%2C%20built%20to%20haul%20tires%2C%20panels%2C%20and%20carts%2C%20now%20has%2012%20enterprise%20buyers%3B%20Renault%20still%20plans%20350%20units%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fwandercraft-calvin-40%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Wandercraft’s Headless Calvin-40 Adds 12 Industrial Customers
+
+The Paris humanoid, built to haul tires, panels, and carts, now has 12 enterprise buyers; Renault still plans 350 units…
+
+https://mechafeed.com/blog/wandercraft-calvin-40/
+
+#HumanoidRobots #Humanoids
+```
 
 ---
 

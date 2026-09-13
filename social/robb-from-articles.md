@@ -3,9 +3,163 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-12T21:11:56.245Z
+Generated: 2026-09-13T16:50:49.127Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## CosmoH2G Turns Flips and Rotations Into Gripper Motions
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/cosmoh2g/
+
+### SOLO (no link)
+
+```
+The useful part is the collection protocol, not the transformer.  If you force flips in the data, the mapping has something to learn.
+```
+
+### SOFT-LINK variant
+
+```
+The useful part is the collection protocol, not the transformer.  If you force flips in the data, the mapping has something to learn.
+
+https://mechafeed.com/blog/cosmoh2g/
+```
+
+---
+
+## Dist-GPRL Pulls Bars Off a Moving Conveyor Without Hitting the Neighbor
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/dist-gprl/
+
+### SOLO (no link)
+
+```
+Ninety percent on a real conveyor with a moving neighbor is the kind of number I will remember.  Windowing the via-points is a small structural change that made the old GP adapter usable.
+```
+
+### SOFT-LINK variant
+
+```
+Ninety percent on a real conveyor with a moving neighbor is the kind of number I will remember.  Windowing the via-points is a small structural change that made the old GP adapter usable.
+
+https://mechafeed.com/blog/dist-gprl/
+```
+
+---
+
+## A One-Line ROS 2 Hook Can Fake What a Robot Is Doing
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/ros2-telemetry-spoof/
+
+### SOLO (no link)
+
+```
+Encrypted telemetry that does not match the metal is a nasty class of bug.  If your safety case is “the dashboard says it did the task,” this paper is the counterexample.
+```
+
+### SOFT-LINK variant
+
+```
+Encrypted telemetry that does not match the metal is a nasty class of bug.  If your safety case is “the dashboard says it did the task,” this paper is the counterexample.
+
+https://mechafeed.com/blog/ros2-telemetry-spoof/
+```
+
+---
+
+## SwarmNxt Flies Six Open-Source Drones Without a Collision
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/swarmnxt/
+
+### SOLO (no link)
+
+```
+I like a paper that publishes the playbooks.  Six drones swapping through each other’s wash is a real test; the obstacle run with noisy depth is the one I would actually reuse.
+```
+
+### SOFT-LINK variant
+
+```
+I like a paper that publishes the playbooks.  Six drones swapping through each other’s wash is a real test; the obstacle run with noisy depth is the one I would actually reuse.
+
+https://mechafeed.com/blog/swarmnxt/
+```
+
+---
+
+## UBTECH’s Liuzhou Plant Puts Cruzr to Work Building Walker
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/ubtech-liuzhou-super-factory/
+
+### SOLO (no link)
+
+```
+The picture I care about is Cruzr restocking the line that builds Walker, not the 10,000-unit slide.  A 10-minute takt with 2,000 fasteners only matters if the four-hour burn-in stays honest when the rack is full.
+```
+
+### SOFT-LINK variant
+
+```
+The picture I care about is Cruzr restocking the line that builds Walker, not the 10,000-unit slide.  A 10-minute takt with 2,000 fasteners only matters if the four-hour burn-in stays honest when the rack is full.
+
+https://mechafeed.com/blog/ubtech-liuzhou-super-factory/
+```
+
+---
+
+## Munro Tears Down the G1 Actuator: Planetary Gears and a Stator Heat Pipe
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/unitree-g1-actuator-teardown/
+
+### SOLO (no link)
+
+```
+A 15:1 planetary you can back-drive is a control choice, not a cheap-out.  The heat pipe on the stator is the detail I did not expect.
+```
+
+### SOFT-LINK variant
+
+```
+A 15:1 planetary you can back-drive is a control choice, not a cheap-out.  The heat pipe on the stator is the detail I did not expect.
+
+https://mechafeed.com/blog/unitree-g1-actuator-teardown/
+```
+
+---
+
+## Wandercraft’s Headless Calvin-40 Adds 12 Industrial Customers
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/wandercraft-calvin-40/
+
+### SOLO (no link)
+
+```
+A headless 40-kilo hauler is a more honest industrial sketch than another pretty face.  Twelve unnamed customers is a press number until we see a second named floor besides Renault and SAPA.
+```
+
+### SOFT-LINK variant
+
+```
+A headless 40-kilo hauler is a more honest industrial sketch than another pretty face.  Twelve unnamed customers is a press number until we see a second named floor besides Renault and SAPA.
+
+https://mechafeed.com/blog/wandercraft-calvin-40/
+```
 
 ---
 
