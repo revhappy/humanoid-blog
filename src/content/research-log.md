@@ -5086,3 +5086,72 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts)
 - **Build:** PASS (astro build exit 0; 512 pages; new slugs rendered)
 - **Failures:** none. Soft floor 3 met; wrote 7 of target 8 rather than pad. X list not usable (disclosed).
 
+
+## 2026-09-15 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json, startedAt 2026-09-15T14:00:02-07:00)
+- Date (Pacific): 2026-09-15
+- git pull --rebase origin main: already up to date
+- No 2026-09-15 posts yet (morning slot did not publish). Last posts: 2026-09-14 (ArtManip, DWMP, FoldNet++, LIT, Pneu-rons, STAR, Unitree G1+, UR Gen 7) and 2026-09-13 morning seven. **Do not rehash.**
+- Research log on disk ended at 2026-09-13 morning (no 9/13 afternoon or 9/14 entries in this file).
+- X list `https://x.com/i/lists/1805786050763087967`: **not usable** (privacy/login error). Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: Agility Digit 5 unveil (Bloomberg TV, DCVC, 21st Robotics) — **CANDIDATE/WRITTEN**
+- Public X: Odyssey-3 world model (official @odysseyml, Sep 15) — **CANDIDATE/WRITTEN**
+- Public X: Reward AI OM-1 (Sep 14, @RewardAI_) — **CANDIDATE/WRITTEN**
+- Public X: police-patrol humanoid clip / robot-fighting op-ed — **SKIP: thin / no primary**
+- Public X: Shimizu construction patrol recirc — **SKIP: already flagged as July 2026 field trial**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Agility Digit 5 cooperative-safety humanoid — Agility PR + product page + IEEE Spectrum + Ars Technica + Humanoids Daily — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Odyssey-3 foundation world model + Flexion humanoid policies — Odyssey blog — lane: **build**
+3. **[CANDIDATE/WRITTEN]** Reward AI OM-1 human-glove policy — company blog + Humanoids Daily + YouTube — lane: **build**
+4. **[CANDIDATE/WRITTEN]** Blue Insect Embodied Mantis Standard / Xiaobai, RMB 9,800 modular wheeled humanoid — TechNode + IT Home + 36Kr — lane: **build**
+5. **[CANDIDATE/WRITTEN]** PhysBrain 1.5 open 8B physical foundation model — arXiv:2609.14973 + project page + HF — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Bench2Dex 12-hand visuo-tactile bimanual bench — arXiv:2609.15726 + project page — lane: **build**
+7. **[SKIP: already covered]** Unitree G1+ (9/14 unitree-g1-plus.md); UR Gen 7 IMTS (9/14 ur-gen-7-imts.md); UBTECH Liuzhou factory recirc (9/13 ubtech-liuzhou-super-factory.md); TANGO (tango-g1-vln.md); Flexion Niantic (flexion-niantic-nvidia-sim2real.md); 9/8–9/14 recirc (XPeng IRON, UnifoLM, SwingBot, GE-Act 2.0, Maven, etc.)
+8. **[SKIP: not yet / thin stills]** Samsung ORchestra **16 Sep**; Cuebus **21 Sep**; Richtech IMTS booth follow; Kinetic Blocks marketplace (data-market slant); InOrbit OpenRobOps ISO 21423 (TRR page fetch failed this run; Feb blog is old); SuperDex (Aug launch, not this week's news); Meta SuperDex LinkedIn recirc
+9. **[SKIP: business mix]** Agility S-4 / $1.8M revenue recirc; Unitree share dump; Honda E-Series / BD-BMW calendar listings on humanoidapplications.com (unverified); Digit 5 $300M orders kept as context inside the hardware piece, not a standalone money post
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | agility-digit-5 | Robb Harlan | Humanoids | build |
+| 2 | odyssey-3-world-model | Shar Hendrix | AI | build |
+| 3 | reward-ai-om-1 | Shar Hendrix | Robotics | build |
+| 4 | blue-insect-mantis-standard | Shar Hendrix | Humanoids | build |
+| 5 | physbrain-15 | Robb Harlan | AI | build |
+| 6 | bench2dex | Robb Harlan | Research | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+- Digit 5 counted as **build**: lede and bulk are legs, payload, 9-minute charge, sit-down safety. Order-book figure is one sourced sentence.
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary + matching stills: **6** | Writing: **6**
+- Soft floor 2 met. Hit target 6. No morning posts today to avoid.
+
+### Notes for Future Agents
+- Do not rewrite Digit 5, Odyssey-3, Reward AI OM-1, Mantis Standard, PhysBrain 1.5, Bench2Dex
+- Samsung ORchestra dual-humanoid surgical demo is **16 Sep**
+- Cuebus × Yazaki × Yamazen starts **21 Sep**
+- Digit 5 early access is **H1 2027**; product-page specs are preliminary
+- Odyssey-3 public release still "coming weeks"
+- Reward AI OM-1 has no independent hardware audit this run
+- InOrbit OpenRobOps ISO 21423 still uncovered if TRR/company stills of the reference implementation land
+- Rejected Odyssey founder headshot (odyssey-3-2.jpg) as a still
+
+### Run summary
+- **Articles published (6):** agility-digit-5, odyssey-3-world-model, reward-ai-om-1, blue-insect-mantis-standard, physbrain-15, bench2dex
+- **pubDate:** 2026-09-15
+- **Skipped candidates:** 9/8–9/14 recirc, G1+/UR Gen 7/UBTECH recirc, Samsung 16 Sep, InOrbit (fetch fail), SuperDex (old), business mix
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (
+pm run verify-media:today — 0 errors, 0 warnings on 6 posts dated 2026-09-15)
+- **Vision gate:** PASS — Digit 5 (studio hero + Spectrum two-view + workbench + aisle squat; unused factory render deleted), Odyssey-3 (tote-pack hero + dual-arm still + embodiment diagram; rejected founder headshot), OM-1 (humanoid conveyor hero + architecture + fridge reach), Mantis (arms-up hero + front view), PhysBrain (architecture hero + action-trajectory grid + future RGB/depth/mask), Bench2Dex (overview hero + tactile pipeline)
+- **Social:** tweets 507; robb-x 507
+- **Build:** PASS (astro build exit 0; 520 pages; new slugs rendered)
+- **Failures:** none. Soft floor 2 met; wrote 6 of target 6. X list not usable (disclosed).

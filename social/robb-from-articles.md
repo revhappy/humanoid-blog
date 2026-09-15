@@ -3,9 +3,317 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-13T16:50:49.127Z
+Generated: 2026-09-15T21:10:55.964Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Agility’s Digit 5 Sits Down So It Can’t Fall on You
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/agility-digit-5/
+
+### SOLO (no link)
+
+```
+Sitting down so you cannot fall on someone is the first humanoid safety story I have read that I can actually picture on a warehouse floor.  The rest of the pitch still has to survive 2027: early access is a year out, the specs are pre-production, and the $300 million…
+```
+
+### SOFT-LINK variant
+
+```
+Sitting down so you cannot fall on someone is the first humanoid safety story I have read that I can actually picture on a warehouse floor.  The rest of the pitch still has to survive 2027: early acce…
+
+https://mechafeed.com/blog/agility-digit-5/
+```
+
+---
+
+## Bench2Dex Puts 12 Robot Hands on One Tactile Benchmark
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/bench2dex/
+
+### SOLO (no link)
+
+```
+A shared fake GelSight across 12 hands is the experiment I wanted.  The scores say the obvious thing: GR00T looks strong when the scene is the one it trained on, then the table moves and everyone is back under 20%.
+```
+
+### SOFT-LINK variant
+
+```
+A shared fake GelSight across 12 hands is the experiment I wanted.  The scores say the obvious thing: GR00T looks strong when the scene is the one it trained on, then the table moves and everyone is back under 20%.
+
+https://mechafeed.com/blog/bench2dex/
+```
+
+---
+
+## Mantis Standard Starts at 9,800 Yuan and Snaps Together Like a PC
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/blue-insect-mantis-standard/
+
+### SOLO (no link)
+
+```
+Nine thousand eight hundred yuan for a dual-arm mobile manipulator is the number that made me stop.  It is a research cart with a lift column, not a factory biped, and that is fine.
+```
+
+### SOFT-LINK variant
+
+```
+Nine thousand eight hundred yuan for a dual-arm mobile manipulator is the number that made me stop.  It is a research cart with a lift column, not a factory biped, and that is fine.
+
+https://mechafeed.com/blog/blue-insect-mantis-standard/
+```
+
+---
+
+## Odyssey-3 Runs Arms, Humanoids, Cars, and Games From One World Model
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/odyssey-3-world-model/
+
+### SOLO (no link)
+
+```
+I like the honesty of “tens of hours,” not “zero-shot magic. ” If a world model really lets Flexion keep a humanoid working when the lights change, that is a useful kind of transfer.
+```
+
+### SOFT-LINK variant
+
+```
+I like the honesty of “tens of hours,” not “zero-shot magic. ” If a world model really lets Flexion keep a humanoid working when the lights change, that is a useful kind of transfer.
+
+https://mechafeed.com/blog/odyssey-3-world-model/
+```
+
+---
+
+## PhysBrain 1.5 Turns a VLM Into a Physical Foundation Model
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/physbrain-15/
+
+### SOLO (no link)
+
+```
+Open weights plus a 28-bench table is the right way to ship a “physical foundation model. ” 72.
+```
+
+### SOFT-LINK variant
+
+```
+Open weights plus a 28-bench table is the right way to ship a “physical foundation model. ” 72.
+
+https://mechafeed.com/blog/physbrain-15/
+```
+
+---
+
+## Reward AI’s OM-1 Learns From a Glove, Not From Robot Teleop
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/reward-ai-om-1/
+
+### SOLO (no link)
+
+```
+Training only on people wearing a glove is a clean bet: if the mapping holds, you stop paying for teleop farms.  I want to see the same Ethernet-tab unlatch on a robot that was not in the launch reel, timed against a human, with the misses left in.
+```
+
+### SOFT-LINK variant
+
+```
+Training only on people wearing a glove is a clean bet: if the mapping holds, you stop paying for teleop farms.  I want to see the same Ethernet-tab unlatch on a robot that was not in the launch reel,…
+
+https://mechafeed.com/blog/reward-ai-om-1/
+```
+
+---
+
+## ArtManip Opens and Closes Tools In-Hand, Zero-Shot
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/artmanip-in-hand/
+
+### SOLO (no link)
+
+```
+I like that they admitted the digital twin is a box and still got 85. 7% open-close on actual hardware.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they admitted the digital twin is a box and still got 85. 7% open-close on actual hardware.
+
+https://mechafeed.com/blog/artmanip-in-hand/
+```
+
+---
+
+## DWMP Splits a Humanoid’s Body Model From Its Depth Model
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/dwmp-humanoid-obstacles/
+
+### SOLO (no link)
+
+```
+I am glad they did not mash joints and depth into one latent and hope.  A G1 that still clears a ceiling it has not memorized is the right test.
+```
+
+### SOFT-LINK variant
+
+```
+I am glad they did not mash joints and depth into one latent and hope.  A G1 that still clears a ceiling it has not memorized is the right test.
+
+https://mechafeed.com/blog/dwmp-humanoid-obstacles/
+```
+
+---
+
+## FoldNet++ Folds Unseen T-Shirts From a Crumpled Heap
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/foldnet-plusplus/
+
+### SOLO (no link)
+
+```
+Starting from a heap is the right problem.  9/10 on a table with a Galbot is laundry-adjacent, not a closet.
+```
+
+### SOFT-LINK variant
+
+```
+Starting from a heap is the right problem.  9/10 on a table with a Galbot is laundry-adjacent, not a closet.
+
+https://mechafeed.com/blog/foldnet-plusplus/
+```
+
+---
+
+## LIT Stops Robot Policies From Cheating on the Background
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/lit-vla-shortcut/
+
+### SOLO (no link)
+
+```
+Teaching the hands where to go before you let the cameras gossip is a clean idea.  The scatter plot is the part I trust.
+```
+
+### SOFT-LINK variant
+
+```
+Teaching the hands where to go before you let the cameras gossip is a clean idea.  The scatter plot is the part I trust.
+
+https://mechafeed.com/blog/lit-vla-shortcut/
+```
+
+---
+
+## Pneu-rons Crawl Without a Pump or a Brain Box
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/pneumatic-neurons-inflate-fire/
+
+### SOLO (no link)
+
+```
+A robot you can cut in half that keeps walking, slowly, is the kind of demo I want on a lab bench.  Fifteen minutes a cycle is the honest cost of boiling a pouch instead of running a pump.
+```
+
+### SOFT-LINK variant
+
+```
+A robot you can cut in half that keeps walking, slowly, is the kind of demo I want on a lab bench.  Fifteen minutes a cycle is the honest cost of boiling a pouch instead of running a pump.
+
+https://mechafeed.com/blog/pneumatic-neurons-inflate-fire/
+```
+
+---
+
+## STAR Puts Sparse Touch Into a Dexterous VLA
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/star-vtla-tactile/
+
+### SOLO (no link)
+
+```
+Two hundred hours of real multi-finger contact is the scarce thing, not another VLM backbone.  61% with 100 extra demos is not a factory number.
+```
+
+### SOFT-LINK variant
+
+```
+Two hundred hours of real multi-finger contact is the scarce thing, not another VLM backbone.  61% with 100 extra demos is not a factory number.
+
+https://mechafeed.com/blog/star-vtla-tactile/
+```
+
+---
+
+## Unitree’s G1+ Adds a Moving Neck and Lists at $15,000
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/unitree-g1-plus/
+
+### SOLO (no link)
+
+```
+A neck that actually looks at you is the useful part of this list.  Peak-torque percentages are marketing until someone logs a long manipulation session and shows the motors stay in the cooler band.
+```
+
+### SOFT-LINK variant
+
+```
+A neck that actually looks at you is the useful part of this list.  Peak-torque percentages are marketing until someone logs a long manipulation session and shows the motors stay in the cooler band.
+
+https://mechafeed.com/blog/unitree-g1-plus/
+```
+
+---
+
+## Universal Robots Unveils Gen 7 at IMTS, Wrist Flange First
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/ur-gen-7-imts/
+
+### SOLO (no link)
+
+```
+A wrist flange that assumes a camera is the honest sentence in this launch.  The three new arms are inventory.
+```
+
+### SOFT-LINK variant
+
+```
+A wrist flange that assumes a camera is the honest sentence in this launch.  The three new arms are inventory.
+
+https://mechafeed.com/blog/ur-gen-7-imts/
+```
 
 ---
 
@@ -8215,28 +8523,6 @@ https://mechafeed.com/blog/dobot-lumo-all-terrain-humanoid/
 
 ---
 
-## DreamWAM: World Action Models That Dream Beyond RGB
-
-- Author on blog: Robb Harlan
-- Category: Research
-- Article: https://mechafeed.com/blog/dreamwam-beyond-rgb-world-models/
-
-### SOLO (no link)
-
-```
-Predicting pretty next frames is not the same as predicting the state that makes the grasp land.  DreamWAM’s split — rich future during training, boring RGB at deploy — is the pattern I want more teams to copy.
-```
-
-### SOFT-LINK variant
-
-```
-Predicting pretty next frames is not the same as predicting the state that makes the grasp land.  DreamWAM’s split — rich future during training, boring RGB at deploy — is the pattern I want more teams to copy.
-
-https://mechafeed.com/blog/dreamwam-beyond-rgb-world-models/
-```
-
----
-
 ## 3D-Printed EIT Skin: Geometry-Scalable Touch for Humanoid Surfaces
 
 - Author on blog: Shar Hendrix
@@ -8255,72 +8541,6 @@ Whole-body touch is one of those unsexy bottlenecks that makes humanoids safer a
 Whole-body touch is one of those unsexy bottlenecks that makes humanoids safer around people.  Printing the skin geometry from CAD instead of hand-wiring thousands of taxels is the kind of manufacturi…
 
 https://mechafeed.com/blog/eit-conformal-tactile-skin/
-```
-
----
-
-## Explicit Language Memory Keeps Long-Horizon VLAs on Phase
-
-- Author on blog: Robb Harlan
-- Category: AI
-- Article: https://mechafeed.com/blog/explicit-language-memory-vla/
-
-### SOLO (no link)
-
-```
-Readable state is underrated ops infrastructure.  If the robot’s “brain dump” says the package was never scanned, you can debug a skipped stage instead of staring at a silent action log.
-```
-
-### SOFT-LINK variant
-
-```
-Readable state is underrated ops infrastructure.  If the robot’s “brain dump” says the package was never scanned, you can debug a skipped stage instead of staring at a silent action log.
-
-https://mechafeed.com/blog/explicit-language-memory-vla/
-```
-
----
-
-## Mind-VLA Aligns VLA Features to the Object the Instruction Names
-
-- Author on blog: Shar Hendrix
-- Category: AI
-- Article: https://mechafeed.com/blog/mind-vla-instruction-aware-3d/
-
-### SOLO (no link)
-
-```
-This is one of those papers where the diagnosis is almost as useful as the method.  If your 3D teacher always describes the whole table, the policy can “understand geometry” without locking onto *the banana under the box*.
-```
-
-### SOFT-LINK variant
-
-```
-This is one of those papers where the diagnosis is almost as useful as the method.  If your 3D teacher always describes the whole table, the policy can “understand geometry” without locking onto *the …
-
-https://mechafeed.com/blog/mind-vla-instruction-aware-3d/
-```
-
----
-
-## SAFECAST: Contrast Sets Make VLA Failure Detectors Hold Up Off-Distribution
-
-- Author on blog: Shar Hendrix
-- Category: AI
-- Article: https://mechafeed.com/blog/safecast-vla-failure-detection/
-
-### SOLO (no link)
-
-```
-Failure detection is how you put a VLA near people without pretending the policy never flubs a grasp.  SAFECAST’s idea is simple: if deployment will be messy, stop calibrating only on clean demos.
-```
-
-### SOFT-LINK variant
-
-```
-Failure detection is how you put a VLA near people without pretending the policy never flubs a grasp.  SAFECAST’s idea is simple: if deployment will be messy, stop calibrating only on clean demos.
-
-https://mechafeed.com/blog/safecast-vla-failure-detection/
 ```
 
 ---
@@ -8369,28 +8589,6 @@ https://mechafeed.com/blog/stablemimic-humanoid-recovery/
 
 ---
 
-## UniX AI Panther Runs Full Pizza Order-to-Bake Sequence
-
-- Author on blog: Robb Harlan
-- Category: Humanoids
-- Article: https://mechafeed.com/blog/unix-panther-pizza-long-horizon/
-
-### SOLO (no link)
-
-```
-Kitchen demos are easy to oversell.  What I care about here is the long-horizon claim: app order → prep → oven → timed bake as one continuous policy stack.
-```
-
-### SOFT-LINK variant
-
-```
-Kitchen demos are easy to oversell.  What I care about here is the long-horizon claim: app order → prep → oven → timed bake as one continuous policy stack.
-
-https://mechafeed.com/blog/unix-panther-pizza-long-horizon/
-```
-
----
-
 ## Vulcan’s Sourccey: Open-Source Home Robot for $1,999 and LeRobot Workflows
 
 - Author on blog: Shar Hendrix
@@ -8409,28 +8607,6 @@ I’m so here for a sub-$2k dual-arm base with public STLs and replaceable servo
 I’m so here for a sub-$2k dual-arm base with public STLs and replaceable servos.  That is how you get more hands collecting home data.
 
 https://mechafeed.com/blog/vulcan-sourccey-open-source-home-robot/
-```
-
----
-
-## ZEALS Launches D1: Japan-Sized Compact Humanoid From ¥5M
-
-- Author on blog: Shar Hendrix
-- Category: Deals
-- Article: https://mechafeed.com/blog/zeals-d1-compact-japan-humanoid/
-
-### SOLO (no link)
-
-```
-I like that this launch leads with corridor width and a price instead of parkour.  Japan’s buildings are a design constraint most “full-size humanoid” decks ignore.
-```
-
-### SOFT-LINK variant
-
-```
-I like that this launch leads with corridor width and a price instead of parkour.  Japan’s buildings are a design constraint most “full-size humanoid” decks ignore.
-
-https://mechafeed.com/blog/zeals-d1-compact-japan-humanoid/
 ```
 
 ---

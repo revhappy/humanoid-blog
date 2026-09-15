@@ -14,8 +14,302 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-13T16:50:48.991Z
-Posts: 499
+Generated: 2026-09-15T21:10:48.218Z
+Posts: 507
+
+---
+
+## Agility’s Digit 5 Sits Down So It Can’t Fall on You
+
+- **Slug:** `agility-digit-5`
+- **Date:** 2026-09-15
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/agility-digit-5/
+- **Chars:** 244/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Agility%E2%80%99s%20Digit%205%20Sits%20Down%20So%20It%20Can%E2%80%99t%20Fall%20on%20You%0A%0ADigit%205%20lifts%2050%20lb%2C%20charges%20in%209%20minutes%2C%20and%20is%20built%20to%20work%20near%20people%20without%20cages.%20Early%20access%20is%20slated%20for%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fagility-digit-5%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Agility’s Digit 5 Sits Down So It Can’t Fall on You
+
+Digit 5 lifts 50 lb, charges in 9 minutes, and is built to work near people without cages. Early access is slated for…
+
+https://mechafeed.com/blog/agility-digit-5/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Bench2Dex Puts 12 Robot Hands on One Tactile Benchmark
+
+- **Slug:** `bench2dex`
+- **Date:** 2026-09-15
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/bench2dex/
+- **Chars:** 243/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Bench2Dex%20Puts%2012%20Robot%20Hands%20on%20One%20Tactile%20Benchmark%0A%0AA%20new%20Isaac%20Lab%20benchmark%20spans%2012%20dexterous%20hands%2C%2026%20bimanual%20tasks%2C%20and%201.3K%20demos%20with%20a%20shared%20simulated%20tactile%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fbench2dex%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+Bench2Dex Puts 12 Robot Hands on One Tactile Benchmark
+
+A new Isaac Lab benchmark spans 12 dexterous hands, 26 bimanual tasks, and 1.3K demos with a shared simulated tactile…
+
+https://mechafeed.com/blog/bench2dex/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## Mantis Standard Starts at 9,800 Yuan and Snaps Together Like a PC
+
+- **Slug:** `blue-insect-mantis-standard`
+- **Date:** 2026-09-15
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/blue-insect-mantis-standard/
+- **Chars:** 268/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Mantis%20Standard%20Starts%20at%209%2C800%20Yuan%20and%20Snaps%20Together%20Like%20a%20PC%0A%0AXi%E2%80%99an%20Jiaotong%20spinout%20Blue%20Insect%20Embodied%20launched%20Xiaobai%2C%20a%20modular%20wheeled%20humanoid%20with%2022%20DoF%20and%20a%207%20kg%20arm.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fblue-insect-mantis-standard%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Mantis Standard Starts at 9,800 Yuan and Snaps Together Like a PC
+
+Xi’an Jiaotong spinout Blue Insect Embodied launched Xiaobai, a modular wheeled humanoid with 22 DoF and a 7 kg arm.
+
+https://mechafeed.com/blog/blue-insect-mantis-standard/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Odyssey-3 Runs Arms, Humanoids, Cars, and Games From One World Model
+
+- **Slug:** `odyssey-3-world-model`
+- **Date:** 2026-09-15
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/odyssey-3-world-model/
+- **Chars:** 251/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Odyssey-3%20Runs%20Arms%2C%20Humanoids%2C%20Cars%2C%20and%20Games%20From%20One%20World%20Model%0A%0AOdyssey-3%20is%20a%20foundation%20world%20model%20that%20controls%20robots%20and%20Flexion%20humanoids%20with%20tens%20of%20hours%20of%20extra%20data.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fodyssey-3-world-model%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Odyssey-3 Runs Arms, Humanoids, Cars, and Games From One World Model
+
+Odyssey-3 is a foundation world model that controls robots and Flexion humanoids with tens of hours of extra data.
+
+https://mechafeed.com/blog/odyssey-3-world-model/
+
+#AI #Humanoids
+```
+
+---
+
+## PhysBrain 1.5 Turns a VLM Into a Physical Foundation Model
+
+- **Slug:** `physbrain-15`
+- **Date:** 2026-09-15
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/physbrain-15/
+- **Chars:** 234/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=PhysBrain%201.5%20Turns%20a%20VLM%20Into%20a%20Physical%20Foundation%20Model%0A%0ADeepCybo%E2%80%99s%20open%208B%20PhysBrain%201.5%20scores%2072.5%20across%2028%20embodied%20benchmarks%20and%20predicts%20RGB%2C%20depth%2C%20and%20robot%20masks.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fphysbrain-15%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+PhysBrain 1.5 Turns a VLM Into a Physical Foundation Model
+
+DeepCybo’s open 8B PhysBrain 1.5 scores 72.5 across 28 embodied benchmarks and predicts RGB, depth, and robot masks.
+
+https://mechafeed.com/blog/physbrain-15/
+
+#AI #Humanoids
+```
+
+---
+
+## Reward AI’s OM-1 Learns From a Glove, Not From Robot Teleop
+
+- **Slug:** `reward-ai-om-1`
+- **Date:** 2026-09-15
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/reward-ai-om-1/
+- **Chars:** 239/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Reward%20AI%E2%80%99s%20OM-1%20Learns%20From%20a%20Glove%2C%20Not%20From%20Robot%20Teleop%0A%0AStanford%20DexCap%20spinout%20Reward%20AI%20says%20OM-1%20trains%20only%20on%20human%20mocap%20and%20runs%20zero-shot%20on%20arms%20and%20humanoids.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Freward-ai-om-1%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Reward AI’s OM-1 Learns From a Glove, Not From Robot Teleop
+
+Stanford DexCap spinout Reward AI says OM-1 trains only on human mocap and runs zero-shot on arms and humanoids.
+
+https://mechafeed.com/blog/reward-ai-om-1/
+
+#Robotics #Humanoids
+```
+
+---
+
+## ArtManip Opens and Closes Tools In-Hand, Zero-Shot
+
+- **Slug:** `artmanip-in-hand`
+- **Date:** 2026-09-14
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/artmanip-in-hand/
+- **Chars:** 237/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ArtManip%20Opens%20and%20Closes%20Tools%20In-Hand%2C%20Zero-Shot%0A%0AA%20Sharpa%20hand%20trained%20on%20primitive%20knives%20and%20staplers%20transfers%20to%2012%20real%20articulated%20tools%2C%20completing%20257%20of%20300%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fartmanip-in-hand%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+ArtManip Opens and Closes Tools In-Hand, Zero-Shot
+
+A Sharpa hand trained on primitive knives and staplers transfers to 12 real articulated tools, completing 257 of 300…
+
+https://mechafeed.com/blog/artmanip-in-hand/
+
+#Robotics #Humanoids
+```
+
+---
+
+## DWMP Splits a Humanoid’s Body Model From Its Depth Model
+
+- **Slug:** `dwmp-humanoid-obstacles`
+- **Date:** 2026-09-14
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/dwmp-humanoid-obstacles/
+- **Chars:** 250/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=DWMP%20Splits%20a%20Humanoid%E2%80%99s%20Body%20Model%20From%20Its%20Depth%20Model%0A%0ADWMP%20uses%20a%20Koopman%20body%20model%20and%20an%20RSSM%20depth%20model%20so%20a%20Unitree%20G1%20can%20duck%20and%20squeeze%20through%20randomized%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdwmp-humanoid-obstacles%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+DWMP Splits a Humanoid’s Body Model From Its Depth Model
+
+DWMP uses a Koopman body model and an RSSM depth model so a Unitree G1 can duck and squeeze through randomized…
+
+https://mechafeed.com/blog/dwmp-humanoid-obstacles/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## FoldNet++ Folds Unseen T-Shirts From a Crumpled Heap
+
+- **Slug:** `foldnet-plusplus`
+- **Date:** 2026-09-14
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/foldnet-plusplus/
+- **Chars:** 239/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FoldNet%2B%2B%20Folds%20Unseen%20T-Shirts%20From%20a%20Crumpled%20Heap%0A%0APeking%20University%20and%20Galbot%E2%80%99s%20FoldNet%2B%2B%20trains%20on%20120K%20synthetic%20episodes%20and%20folds%20real%20T-shirts%20zero-shot%20at%20over%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffoldnet-plusplus%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+FoldNet++ Folds Unseen T-Shirts From a Crumpled Heap
+
+Peking University and Galbot’s FoldNet++ trains on 120K synthetic episodes and folds real T-shirts zero-shot at over…
+
+https://mechafeed.com/blog/foldnet-plusplus/
+
+#Robotics #Humanoids
+```
+
+---
+
+## LIT Stops Robot Policies From Cheating on the Background
+
+- **Slug:** `lit-vla-shortcut`
+- **Date:** 2026-09-14
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/lit-vla-shortcut/
+- **Chars:** 234/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=LIT%20Stops%20Robot%20Policies%20From%20Cheating%20on%20the%20Background%0A%0ANUS%20Latent%20Interface%20Training%20makes%20VLAs%20act%20from%20a%20pose-supervised%20bottleneck%2C%20lifting%20LIBERO-Plus%20by%20up%20to%2010.7%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flit-vla-shortcut%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+LIT Stops Robot Policies From Cheating on the Background
+
+NUS Latent Interface Training makes VLAs act from a pose-supervised bottleneck, lifting LIBERO-Plus by up to 10.7…
+
+https://mechafeed.com/blog/lit-vla-shortcut/
+
+#AI #Humanoids
+```
+
+---
+
+## Pneu-rons Crawl Without a Pump or a Brain Box
+
+- **Slug:** `pneumatic-neurons-inflate-fire`
+- **Date:** 2026-09-14
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/pneumatic-neurons-inflate-fire/
+- **Chars:** 245/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Pneu-rons%20Crawl%20Without%20a%20Pump%20or%20a%20Brain%20Box%0A%0AUC%20San%20Diego%E2%80%99s%20Pneu-ron%20modules%20boil%20a%20low-temp%20fluid%2C%20trip%20a%20soft%20switch%2C%20and%20form%20a%20ring%20that%20crawls%2025%20mm%20in%20six%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpneumatic-neurons-inflate-fire%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Pneu-rons Crawl Without a Pump or a Brain Box
+
+UC San Diego’s Pneu-ron modules boil a low-temp fluid, trip a soft switch, and form a ring that crawls 25 mm in six…
+
+https://mechafeed.com/blog/pneumatic-neurons-inflate-fire/
+
+#Robotics #Humanoids
+```
+
+---
+
+## STAR Puts Sparse Touch Into a Dexterous VLA
+
+- **Slug:** `star-vtla-tactile`
+- **Date:** 2026-09-14
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/star-vtla-tactile/
+- **Chars:** 227/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=STAR%20Puts%20Sparse%20Touch%20Into%20a%20Dexterous%20VLA%0A%0AAgibot%20and%20Shanghai%20Innovation%20Institute%20collect%20200%20hours%20of%20bimanual%20tactile%20data%20and%20train%20STAR%2C%20a%20VTLA%20recipe%20that%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fstar-vtla-tactile%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+STAR Puts Sparse Touch Into a Dexterous VLA
+
+Agibot and Shanghai Innovation Institute collect 200 hours of bimanual tactile data and train STAR, a VTLA recipe that…
+
+https://mechafeed.com/blog/star-vtla-tactile/
+
+#AI #Humanoids
+```
+
+---
+
+## Unitree’s G1+ Adds a Moving Neck and Lists at $15,000
+
+- **Slug:** `unitree-g1-plus`
+- **Date:** 2026-09-14
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/unitree-g1-plus/
+- **Chars:** 247/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Unitree%E2%80%99s%20G1%2B%20Adds%20a%20Moving%20Neck%20and%20Lists%20at%20%2415%2C000%0A%0AUnitree%E2%80%99s%20G1%2B%20adds%20a%20two-axis%20neck%2C%20stronger%20motors%2C%20and%20binocular%20vision.%20List%20price%3A%20%2415%2C000%20before%20tax%20and%20shipping.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Funitree-g1-plus%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Unitree’s G1+ Adds a Moving Neck and Lists at $15,000
+
+Unitree’s G1+ adds a two-axis neck, stronger motors, and binocular vision. List price: $15,000 before tax and shipping.
+
+https://mechafeed.com/blog/unitree-g1-plus/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Universal Robots Unveils Gen 7 at IMTS, Wrist Flange First
+
+- **Slug:** `ur-gen-7-imts`
+- **Date:** 2026-09-14
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/ur-gen-7-imts/
+- **Chars:** 245/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Universal%20Robots%20Unveils%20Gen%207%20at%20IMTS%2C%20Wrist%20Flange%20First%0A%0AUR%E2%80%99s%20Gen%207%20cobot%20platform%2C%20shown%20at%20IMTS%2C%20rebuilds%20the%20controller%2C%20teach%20pendant%2C%20and%20tool%20flange%20for%20wrist%20cameras%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fur-gen-7-imts%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Universal Robots Unveils Gen 7 at IMTS, Wrist Flange First
+
+UR’s Gen 7 cobot platform, shown at IMTS, rebuilds the controller, teach pendant, and tool flange for wrist cameras and…
+
+https://mechafeed.com/blog/ur-gen-7-imts/
+
+#Robotics #Humanoids
+```
 
 ---
 
@@ -7836,27 +8130,6 @@ https://mechafeed.com/blog/dobot-lumo-all-terrain-humanoid/
 
 ---
 
-## DreamWAM: World Action Models That Dream Beyond RGB
-
-- **Slug:** `dreamwam-beyond-rgb-world-models`
-- **Date:** 2026-08-06
-- **Category:** Research
-- **Article:** https://mechafeed.com/blog/dreamwam-beyond-rgb-world-models/
-- **Chars:** 262/280
-- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=DreamWAM%3A%20World%20Action%20Models%20That%20Dream%20Beyond%20RGB%0A%0AHUST%20researchers%E2%80%99%20DreamWAM%20predicts%20motion%2C%20geometry%2C%20and%20semantics%E2%80%94not%20just%20pixels%E2%80%94raising%20real-robot%20success%20under%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdreamwam-beyond-rgb-world-models%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
-
-```
-DreamWAM: World Action Models That Dream Beyond RGB
-
-HUST researchers’ DreamWAM predicts motion, geometry, and semantics—not just pixels—raising real-robot success under…
-
-https://mechafeed.com/blog/dreamwam-beyond-rgb-world-models/
-
-#RoboticsResearch #Humanoids
-```
-
----
-
 ## 3D-Printed EIT Skin: Geometry-Scalable Touch for Humanoid Surfaces
 
 - **Slug:** `eit-conformal-tactile-skin`
@@ -7874,69 +8147,6 @@ CTU Prague, CU Boulder, and TU/e show a conformal electrical impedance tomograph
 https://mechafeed.com/blog/eit-conformal-tactile-skin/
 
 #RoboticsResearch #Humanoids
-```
-
----
-
-## Explicit Language Memory Keeps Long-Horizon VLAs on Phase
-
-- **Slug:** `explicit-language-memory-vla`
-- **Date:** 2026-08-06
-- **Category:** AI
-- **Article:** https://mechafeed.com/blog/explicit-language-memory-vla/
-- **Chars:** 242/280
-- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Explicit%20Language%20Memory%20Keeps%20Long-Horizon%20VLAs%20on%20Phase%0A%0AFudan%20researchers%20add%20a%20rolling%20natural-language%20memory%20to%20hierarchical%20VLAs%2C%20lifting%20multi-stage%20success%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fexplicit-language-memory-vla%2F%0A%0A%23AI%20%23Humanoids)
-
-```
-Explicit Language Memory Keeps Long-Horizon VLAs on Phase
-
-Fudan researchers add a rolling natural-language memory to hierarchical VLAs, lifting multi-stage success on…
-
-https://mechafeed.com/blog/explicit-language-memory-vla/
-
-#AI #Humanoids
-```
-
----
-
-## Mind-VLA Aligns VLA Features to the Object the Instruction Names
-
-- **Slug:** `mind-vla-instruction-aware-3d`
-- **Date:** 2026-08-06
-- **Category:** AI
-- **Article:** https://mechafeed.com/blog/mind-vla-instruction-aware-3d/
-- **Chars:** 260/280
-- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Mind-VLA%20Aligns%20VLA%20Features%20to%20the%20Object%20the%20Instruction%20Names%0A%0ACAS%2FNanjing%20researchers%20introduce%20Mind-VLA%3A%20instruction-aware%203D%20alignment%20for%20VLAs%2C%20hitting%2093.9%25%20LIBERO%20and%20stronger%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmind-vla-instruction-aware-3d%2F%0A%0A%23AI%20%23Humanoids)
-
-```
-Mind-VLA Aligns VLA Features to the Object the Instruction Names
-
-CAS/Nanjing researchers introduce Mind-VLA: instruction-aware 3D alignment for VLAs, hitting 93.9% LIBERO and stronger…
-
-https://mechafeed.com/blog/mind-vla-instruction-aware-3d/
-
-#AI #Humanoids
-```
-
----
-
-## SAFECAST: Contrast Sets Make VLA Failure Detectors Hold Up Off-Distribution
-
-- **Slug:** `safecast-vla-failure-detection`
-- **Date:** 2026-08-06
-- **Category:** AI
-- **Article:** https://mechafeed.com/blog/safecast-vla-failure-detection/
-- **Chars:** 271/280
-- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=SAFECAST%3A%20Contrast%20Sets%20Make%20VLA%20Failure%20Detectors%20Hold%20Up%20Off-Distribution%0A%0AUSC%E2%80%99s%20SAFECAST%20trains%20and%20calibrates%20hidden-state%20failure%20probes%20with%20visual%20and%20language%20contrast%20sets%2C%20beating%20SAFE%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsafecast-vla-failure-detection%2F%0A%0A%23AI%20%23Humanoids)
-
-```
-SAFECAST: Contrast Sets Make VLA Failure Detectors Hold Up Off-Distribution
-
-USC’s SAFECAST trains and calibrates hidden-state failure probes with visual and language contrast sets, beating SAFE…
-
-https://mechafeed.com/blog/safecast-vla-failure-detection/
-
-#AI #Humanoids
 ```
 
 ---
@@ -7983,27 +8193,6 @@ https://mechafeed.com/blog/stablemimic-humanoid-recovery/
 
 ---
 
-## UniX AI Panther Runs Full Pizza Order-to-Bake Sequence
-
-- **Slug:** `unix-panther-pizza-long-horizon`
-- **Date:** 2026-08-06
-- **Category:** Humanoids
-- **Article:** https://mechafeed.com/blog/unix-panther-pizza-long-horizon/
-- **Chars:** 259/280
-- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=UniX%20AI%20Panther%20Runs%20Full%20Pizza%20Order-to-Bake%20Sequence%0A%0AUniX%20AI%E2%80%99s%20wheeled%20dual-arm%20Panther%20demos%20app-to-oven%20pizza%20prep%20with%20UniCortex%20long-horizon%20planning%2C%20on%20a%2034-DoF%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Funix-panther-pizza-long-horizon%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
-
-```
-UniX AI Panther Runs Full Pizza Order-to-Bake Sequence
-
-UniX AI’s wheeled dual-arm Panther demos app-to-oven pizza prep with UniCortex long-horizon planning, on a 34-DoF…
-
-https://mechafeed.com/blog/unix-panther-pizza-long-horizon/
-
-#HumanoidRobots #Humanoids
-```
-
----
-
 ## Vulcan’s Sourccey: Open-Source Home Robot for $1,999 and LeRobot Workflows
 
 - **Slug:** `vulcan-sourccey-open-source-home-robot`
@@ -8019,27 +8208,6 @@ Vulcan’s Sourccey: Open-Source Home Robot for $1,999 and LeRobot Workflows
 Vulcan Robotics’ Sourccey is a 1.03 m wheeled dual-arm platform with open hardware, Pi 5 compute, and an…
 
 https://mechafeed.com/blog/vulcan-sourccey-open-source-home-robot/
-
-#Robotics #Humanoids
-```
-
----
-
-## ZEALS Launches D1: Japan-Sized Compact Humanoid From ¥5M
-
-- **Slug:** `zeals-d1-compact-japan-humanoid`
-- **Date:** 2026-08-06
-- **Category:** Deals
-- **Article:** https://mechafeed.com/blog/zeals-d1-compact-japan-humanoid/
-- **Chars:** 253/280
-- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ZEALS%20Launches%20D1%3A%20Japan-Sized%20Compact%20Humanoid%20From%20%C2%A55M%0A%0ATokyo%E2%80%99s%20ZEALS%20opens%20sales%20on%20D1%2C%20a%20~129%20cm%20semi-domestic%20humanoid%20built%20for%20Japanese%20indoor%20corridors%2C%20with%20%C2%A55M%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fzeals-d1-compact-japan-humanoid%2F%0A%0A%23Robotics%20%23Humanoids)
-
-```
-ZEALS Launches D1: Japan-Sized Compact Humanoid From ¥5M
-
-Tokyo’s ZEALS opens sales on D1, a ~129 cm semi-domestic humanoid built for Japanese indoor corridors, with ¥5M…
-
-https://mechafeed.com/blog/zeals-d1-compact-japan-humanoid/
 
 #Robotics #Humanoids
 ```
