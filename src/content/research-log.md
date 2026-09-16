@@ -5155,3 +5155,80 @@ pm run verify-media:today — 0 errors, 0 warnings on 6 posts dated 2026-09-15)
 - **Social:** tweets 507; robb-x 507
 - **Build:** PASS (astro build exit 0; 520 pages; new slugs rendered)
 - **Failures:** none. Soft floor 2 met; wrote 6 of target 6. X list not usable (disclosed).
+
+
+## 2026-09-16 â€” Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json, startedAt 2026-09-16T09:00:03-07:00)
+- Date (Pacific): 2026-09-16
+- git pull --rebase origin main: already up to date
+- Last published: 2026-09-15 afternoon (Digit 5, Odyssey-3, Reward AI OM-1, Mantis Standard, PhysBrain 1.5, Bench2Dex). **Do not rehash.** No 2026-09-16 posts before this run.
+- Untracked leftover 9/14 local files (ArtManip, DWMP, FoldNet++, LIT, Pneu-rons, STAR, G1+, UR Gen 7) were left unstaged; not part of this slot.
+- X list `https://x.com/i/lists/1805786050763087967`: **not usable as a curated feed**. Keyword Latest with list: operator returned mixed general robotics posts (IEEE events, Kawasaki IMTS, Agility Digit 5 recirc), not a browseable list. Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: Agility Digit 5 recirc (IEEE Spectrum, Bloomberg TV) â€” **SKIP: covered 9/15**
+- Public X: Genrobot.AI DFM whole-body mesh from ego video â€” **SKIP: thin, no primary beyond X**
+- Public X: Q-planning RoboPapers episode â€” **SKIP: podcast drop, not a new hardware story**
+- Public X: Samsung Medical Center ORchestra demo (today) â€” **SKIP: no matching robot stills** (Financial News photo is professors only; SMC June symposium page has no robot still this run)
+- Semantic X: Digit 5 recirc-heavy
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** ETH Soft Robotics Lab walking WUJI hand (Fingers as Legs) â€” arXiv:2609.17172 + HTML â€” lane: **build**
+2. **[CANDIDATE/WRITTEN]** Weave G1+Inspire whole-body HOI, 92.5%/65% sim â€” arXiv:2609.16683 + project page â€” lane: **build**
+3. **[CANDIDATE/WRITTEN]** X-WBC cross-embodiment WBC, CoRL 2026, four real Unitree robots â€” arXiv:2609.15213 + project page â€” lane: **build**
+4. **[CANDIDATE/WRITTEN]** XPACE world+action model on XPENG IRON â€” arXiv:2609.17372 + HTML â€” lane: **build**
+5. **[CANDIDATE/WRITTEN]** Rhoda web-video pretraining scaling on 10 kg bearing unpack â€” rhoda.ai 10 Sep + Humanoids Daily 15 Sep â€” lane: **build**
+6. **[CANDIDATE/WRITTEN]** Zoomlion Z01/Z03 at World Humanoid Robot Games + factory tasks â€” PR Newswire 16 Sep + MarketScreener â€” lane: **build**
+7. **[CANDIDATE/WRITTEN]** ugo Nova remote-control drilling at Tokyo physical AI summit â€” Euronews 16 Sep â€” lane: **build**
+8. **[CANDIDATE/WRITTEN]** InOrbit OpenRobOps ISO 21423 Apache 2.0 release â€” InOrbit blog 15 Sep + The Robot Report â€” lane: **build**
+9. **[SKIP: already covered]** Digit 5; Odyssey-3; Reward AI OM-1; PhysBrain 1.5; Bench2Dex; UBTECH Liuzhou recirc; Unitree G1+; UR Gen 7; TactaBot; GPT-6 Astra; Duke V2 VRW; SwingBot
+10. **[SKIP: no matching robot stills]** Samsung ORchestra 16 Sep demo (professors-only still); InOrbit cartoon still rejected
+11. **[SKIP: thin / old / one still]** Tacta catalog recirc (July launch, already posted); ProHand 1.0 (June); Prima 1 catalog; Wonik Samsung fab PoC (one 600px still); ETRI/KAIST VLN (guide-robot photo, not humanoid); SuperDex (old)
+12. **[SKIP: business mix]** ENCOS RMB 300M Series B; Boston Dynamics 2027 IPO unlikely; Yincheng Intelligence Series A; Korean robot-stock rally; Agility S-4 recirc
+
+### Selected for Writing (ranked) â€” 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | fingers-as-legs-wuji | Shar Hendrix | Robotics | build |
+| 2 | weave-g1-loco-manipulation | Robb Harlan | Research | build |
+| 3 | x-wbc-cross-embodiment | Shar Hendrix | Humanoids | build |
+| 4 | xpace-xpeng-iron | Robb Harlan | AI | build |
+| 5 | rhoda-web-video-scaling | Shar Hendrix | AI | build |
+| 6 | zoomlion-z01-whrg | Robb Harlan | Humanoids | build |
+| 7 | ugo-nova-tokyo | Shar Hendrix | Humanoids | build |
+| 8 | inorbit-openrobops | Robb Harlan | Robotics | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (â‰¤25%)
+- Zoomlion counted as **build**: lede and bulk are Z01/Z03 tasks (harness tying, mirror preassembly) and a Games demo, not a funding round.
+- InOrbit counted as **build**: open-source fleet manager + ISO reference implementation, not a raise.
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary + matching stills: **8** | Writing: **8**
+- Soft floor 3 met. Hit target 8.
+
+### Notes for Future Agents
+- Do not rewrite Fingers as Legs / WUJI hand, Weave G1 HOI, X-WBC, XPACE IRON, Rhoda scaling, Zoomlion WHRG, ugo Nova Tokyo, OpenRobOps
+- Samsung ORchestra dual-humanoid surgical demo happened **16 Sep** â€” still uncovered if a real OR/robot still (not professors) lands
+- Cuebus Ã— Yazaki Ã— Yamazen starts **21 Sep**
+- Richtech DEX + Titan at **IMTS 2026 (Sep 14â€“19)** â€” still no booth stills this run
+- Wonik Robotics Samsung semiconductor PoC still uncovered if a second still + English secondary appear
+- ETRI/KAIST VLN 90.7% (112 teams) uncovered if a robot-not-researcher still + second URL land
+- Weave evaluation is **simulation only** â€” follow if they post hardware
+- ISO 21423 still listed as under publication
+- Rejected InOrbit PHD-comics still (inorbit-openrobops-3.jpg)
+
+### Run summary
+- **Articles published (8):** fingers-as-legs-wuji, weave-g1-loco-manipulation, x-wbc-cross-embodiment, xpace-xpeng-iron, rhoda-web-video-scaling, zoomlion-z01-whrg, ugo-nova-tokyo, inorbit-openrobops
+- **pubDate:** 2026-09-16
+- **Skipped candidates:** Digit 5 recirc, Samsung ORchestra (no robot still), Wonik (one still), ETRI VLN, business mix, 9/8â€“9/15 recirc
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts dated 2026-09-16)
+- **Vision gate:** PASS — Fingers as Legs (14-surface crawl hero + hardware/sim + keyboard presses + cube push); Weave (sim HOI grid + method pipeline); X-WBC (multi-body teaser + four-robot VR deploy + architecture); XPACE (IRON teleop teaser + MoT diagram); Rhoda (bearing-unpack cell + scaling chart); Zoomlion (bib 105 on WHRG track); ugo Nova (white semi-humanoid drilling, operator in frame); OpenRobOps (health dashboard + warehouse nav map). Rejected InOrbit PHD-comics still.
+- **Social:** tweets 515; robb-x 515
+- **Build:** PASS (astro build exit 0; 528 pages; new slugs rendered)
+- **Failures:** none. Soft floor 3 met; wrote 8 of target 8. X list not usable (disclosed).
+

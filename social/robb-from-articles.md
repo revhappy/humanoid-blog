@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-15T21:10:55.964Z
+Generated: 2026-09-16T16:16:39.789Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## ETH Puts Legs on a Hand, Then Makes It Type
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/fingers-as-legs-wuji/
+
+### SOLO (no link)
+
+```
+I’m so here for a hand that crawls onto a keyboard and finishes a puzzle while holding its own weight.  The useful idea is not “Thing from the Addams Family.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for a hand that crawls onto a keyboard and finishes a puzzle while holding its own weight.  The useful idea is not “Thing from the Addams Family.
+
+https://mechafeed.com/blog/fingers-as-legs-wuji/
+```
+
+---
+
+## InOrbit Opens OpenRobOps as an ISO 21423 Fleet Manager
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/inorbit-openrobops/
+
+### SOLO (no link)
+
+```
+Open-sourcing the fleet manager is the right layer to give away.  Everyone’s custom dashboard is a tax.
+```
+
+### SOFT-LINK variant
+
+```
+Open-sourcing the fleet manager is the right layer to give away.  Everyone’s custom dashboard is a tax.
+
+https://mechafeed.com/blog/inorbit-openrobops/
+```
+
+---
+
+## Rhoda Scales Web Video and the Bearings Come Out Faster
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/rhoda-web-video-scaling/
+
+### SOLO (no link)
+
+```
+This is the rare scaling chart I trust because they published the failure modes.  Bigger models mostly win on time, not on “did the bearings land in the tote.
+```
+
+### SOFT-LINK variant
+
+```
+This is the rare scaling chart I trust because they published the failure modes.  Bigger models mostly win on time, not on “did the bearings land in the tote.
+
+https://mechafeed.com/blog/rhoda-web-video-scaling/
+```
+
+---
+
+## ugo Nova Drills Under Remote Control at Tokyo’s Physical AI Day
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/ugo-nova-tokyo/
+
+### SOLO (no link)
+
+```
+I like a demo that admits the joystick is still in the shot.  A seven-axis pair that can hold a drill and a 10 kg claim on the banner is a real product shape, even if autonomy is next year’s problem.
+```
+
+### SOFT-LINK variant
+
+```
+I like a demo that admits the joystick is still in the shot.  A seven-axis pair that can hold a drill and a 10 kg claim on the banner is a real product shape, even if autonomy is next year’s problem.
+
+https://mechafeed.com/blog/ugo-nova-tokyo/
+```
+
+---
+
+## Weave Teaches a G1 to Walk Up and Carry the Chair
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/weave-g1-loco-manipulation/
+
+### SOLO (no link)
+
+```
+A 65% transfer number on unseen carries is the interesting bit, not the 92% on clips it trained on.  I care whether a G1 can walk up, close fingers that actually load the object, and keep the pelvis inside a quarter meter.
+```
+
+### SOFT-LINK variant
+
+```
+A 65% transfer number on unseen carries is the interesting bit, not the 92% on clips it trained on.  I care whether a G1 can walk up, close fingers that actually load the object, and keep the pelvis inside a quarter meter.
+
+https://mechafeed.com/blog/weave-g1-loco-manipulation/
+```
+
+---
+
+## X-WBC Trains One Whole-Body Brain Across Nine Humanoids
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/x-wbc-cross-embodiment/
+
+### SOLO (no link)
+
+```
+The part I like is the five-point VR route sitting next to full mocap in the same token space.  If a Quest-scale interface can drive four different Unitree bodies from one backbone, that is a real ops win even if the success-rate bump over a single-robot Transformer is small.
+```
+
+### SOFT-LINK variant
+
+```
+The part I like is the five-point VR route sitting next to full mocap in the same token space.  If a Quest-scale interface can drive four different Unitree bodies from one backbone, that is a real ops…
+
+https://mechafeed.com/blog/x-wbc-cross-embodiment/
+```
+
+---
+
+## XPACE Lets XPeng’s IRON Practice Recoveries in Its Own Simulator
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/xpace-xpeng-iron/
+
+### SOLO (no link)
+
+```
+I like that they refuse to train the simulator only on pretty successes.  A world model that cannot show a bad motion is useless the first time a policy misses a grasp.
+```
+
+### SOFT-LINK variant
+
+```
+I like that they refuse to train the simulator only on pretty successes.  A world model that cannot show a bad motion is useless the first time a policy misses a grasp.
+
+https://mechafeed.com/blog/xpace-xpeng-iron/
+```
+
+---
+
+## Zoomlion’s Z01 Leaves the Factory Line for a Track Meet
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/zoomlion-z01-whrg/
+
+### SOLO (no link)
+
+```
+A track meet is a demo with a stopwatch nearby.  The sentence I care about is the harness-tying Z01 and the mirror-preassembling Z03 inside Zoomlion’s own factories.
+```
+
+### SOFT-LINK variant
+
+```
+A track meet is a demo with a stopwatch nearby.  The sentence I care about is the harness-tying Z01 and the mirror-preassembling Z03 inside Zoomlion’s own factories.
+
+https://mechafeed.com/blog/zoomlion-z01-whrg/
+```
 
 ---
 

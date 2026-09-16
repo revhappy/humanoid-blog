@@ -14,8 +14,176 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-15T21:10:48.218Z
-Posts: 507
+Generated: 2026-09-16T16:16:17.486Z
+Posts: 515
+
+---
+
+## ETH Puts Legs on a Hand, Then Makes It Type
+
+- **Slug:** `fingers-as-legs-wuji`
+- **Date:** 2026-09-16
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/fingers-as-legs-wuji/
+- **Chars:** 232/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ETH%20Puts%20Legs%20on%20a%20Hand%2C%20Then%20Makes%20It%20Type%0A%0AAn%20818%20g%20WUJI%20hand%20crawls%20untethered%20on%2014%20surfaces%2C%20recovers%20from%20falls%2C%20and%20presses%20keys%20while%20holding%20itself%20up.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffingers-as-legs-wuji%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+ETH Puts Legs on a Hand, Then Makes It Type
+
+An 818 g WUJI hand crawls untethered on 14 surfaces, recovers from falls, and presses keys while holding itself up.
+
+https://mechafeed.com/blog/fingers-as-legs-wuji/
+
+#Robotics #Humanoids
+```
+
+---
+
+## InOrbit Opens OpenRobOps as an ISO 21423 Fleet Manager
+
+- **Slug:** `inorbit-openrobops`
+- **Date:** 2026-09-16
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/inorbit-openrobops/
+- **Chars:** 246/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=InOrbit%20Opens%20OpenRobOps%20as%20an%20ISO%2021423%20Fleet%20Manager%0A%0AInOrbit%20released%20Apache%202.0%20OpenRobOps%20on%2015%20September%2C%20a%20reference%20implementation%20of%20the%20coming%20ISO%2021423%20mobile-robot%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Finorbit-openrobops%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+InOrbit Opens OpenRobOps as an ISO 21423 Fleet Manager
+
+InOrbit released Apache 2.0 OpenRobOps on 15 September, a reference implementation of the coming ISO 21423 mobile-robot…
+
+https://mechafeed.com/blog/inorbit-openrobops/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Rhoda Scales Web Video and the Bearings Come Out Faster
+
+- **Slug:** `rhoda-web-video-scaling`
+- **Date:** 2026-09-16
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/rhoda-web-video-scaling/
+- **Chars:** 245/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Rhoda%20Scales%20Web%20Video%20and%20the%20Bearings%20Come%20Out%20Faster%0A%0ALarger%20web-video%20models%20raise%20at-speed%20unpacking%20from%203.7%25%20to%2084.7%25%20on%20a%20real%2010%20kg%20bearing%20task%2C%20after%20200-plus%20robot%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frhoda-web-video-scaling%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Rhoda Scales Web Video and the Bearings Come Out Faster
+
+Larger web-video models raise at-speed unpacking from 3.7% to 84.7% on a real 10 kg bearing task, after 200-plus robot…
+
+https://mechafeed.com/blog/rhoda-web-video-scaling/
+
+#AI #Humanoids
+```
+
+---
+
+## ugo Nova Drills Under Remote Control at Tokyo’s Physical AI Day
+
+- **Slug:** `ugo-nova-tokyo`
+- **Date:** 2026-09-16
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/ugo-nova-tokyo/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ugo%20Nova%20Drills%20Under%20Remote%20Control%20at%20Tokyo%E2%80%99s%20Physical%20AI%20Day%0A%0AAt%20a%2016%20September%20Tokyo%20summit%2C%20ugo%E2%80%99s%20semi-humanoid%20Nova%20drills%20on%20a%20bench%20while%20THK%E2%80%99s%20dual-arm%20cell%20hammers%20a%20nail%2C%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fugo-nova-tokyo%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+ugo Nova Drills Under Remote Control at Tokyo’s Physical AI Day
+
+At a 16 September Tokyo summit, ugo’s semi-humanoid Nova drills on a bench while THK’s dual-arm cell hammers a nail,…
+
+https://mechafeed.com/blog/ugo-nova-tokyo/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Weave Teaches a G1 to Walk Up and Carry the Chair
+
+- **Slug:** `weave-g1-loco-manipulation`
+- **Date:** 2026-09-16
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/weave-g1-loco-manipulation/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Weave%20Teaches%20a%20G1%20to%20Walk%20Up%20and%20Carry%20the%20Chair%0A%0AOne%20policy%20on%20a%20Unitree%20G1%20plus%20Inspire%20hands%20hits%2092.5%25%20on%20trained%20carry%20tasks%20in%20simulation%2C%2065%25%20on%20unseen%20clips.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fweave-g1-loco-manipulation%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+Weave Teaches a G1 to Walk Up and Carry the Chair
+
+One policy on a Unitree G1 plus Inspire hands hits 92.5% on trained carry tasks in simulation, 65% on unseen clips.
+
+https://mechafeed.com/blog/weave-g1-loco-manipulation/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## X-WBC Trains One Whole-Body Brain Across Nine Humanoids
+
+- **Slug:** `x-wbc-cross-embodiment`
+- **Date:** 2026-09-16
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/x-wbc-cross-embodiment/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=X-WBC%20Trains%20One%20Whole-Body%20Brain%20Across%20Nine%20Humanoids%0A%0AA%20CoRL%202026%20paper%20shares%20a%20motion%20Transformer%20across%20nine%20simulated%20bodies%20and%20deploys%20the%20same%20VR%20interface%20on%20four%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fx-wbc-cross-embodiment%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+X-WBC Trains One Whole-Body Brain Across Nine Humanoids
+
+A CoRL 2026 paper shares a motion Transformer across nine simulated bodies and deploys the same VR interface on four…
+
+https://mechafeed.com/blog/x-wbc-cross-embodiment/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## XPACE Lets XPeng’s IRON Practice Recoveries in Its Own Simulator
+
+- **Slug:** `xpace-xpeng-iron`
+- **Date:** 2026-09-16
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/xpace-xpeng-iron/
+- **Chars:** 240/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=XPACE%20Lets%20XPeng%E2%80%99s%20IRON%20Practice%20Recoveries%20in%20Its%20Own%20Simulator%0A%0AA%2015%20September%20paper%20trains%20a%20shared%20video%20backbone%20as%20both%20IRON%20policy%20and%20world%20simulator%2C%20then%20fine-tunes%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fxpace-xpeng-iron%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+XPACE Lets XPeng’s IRON Practice Recoveries in Its Own Simulator
+
+A 15 September paper trains a shared video backbone as both IRON policy and world simulator, then fine-tunes on…
+
+https://mechafeed.com/blog/xpace-xpeng-iron/
+
+#AI #Humanoids
+```
+
+---
+
+## Zoomlion’s Z01 Leaves the Factory Line for a Track Meet
+
+- **Slug:** `zoomlion-z01-whrg`
+- **Date:** 2026-09-16
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/zoomlion-z01-whrg/
+- **Chars:** 242/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Zoomlion%E2%80%99s%20Z01%20Leaves%20the%20Factory%20Line%20for%20a%20Track%20Meet%0A%0AZoomlion%20ran%20its%20humanoids%20at%20the%20World%20Humanoid%20Robot%20Games%20and%20says%20dozens%20already%20sort%2C%20tie%20harnesses%2C%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fzoomlion-z01-whrg%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Zoomlion’s Z01 Leaves the Factory Line for a Track Meet
+
+Zoomlion ran its humanoids at the World Humanoid Robot Games and says dozens already sort, tie harnesses, and…
+
+https://mechafeed.com/blog/zoomlion-z01-whrg/
+
+#HumanoidRobots #Humanoids
+```
 
 ---
 
