@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T16:16:17.486Z",
+  "generatedAt": "2026-09-16T21:09:35.069Z",
   "site": "https://mechafeed.com/",
   "posts": [
     {
@@ -23,6 +23,46 @@
       "chars": 246
     },
     {
+      "id": "kyle-munich-humanoid",
+      "title": "Munich’s Kyle Walks Unblurred, Product Still a Year Out",
+      "pubDate": "2026-09-16",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/kyle-munich-humanoid/",
+      "tweet": "Munich’s Kyle Walks Unblurred, Product Still a Year Out\n\nSynapticon co-founder Nikolai Ensslen showed a boxy alpha humanoid on 14 September and pointed to an early-2027…\n\nhttps://mechafeed.com/blog/kyle-munich-humanoid/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Munich%E2%80%99s%20Kyle%20Walks%20Unblurred%2C%20Product%20Still%20a%20Year%20Out%0A%0ASynapticon%20co-founder%20Nikolai%20Ensslen%20showed%20a%20boxy%20alpha%20humanoid%20on%2014%20September%20and%20pointed%20to%20an%20early-2027%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fkyle-munich-humanoid%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 247
+    },
+    {
+      "id": "motus2-shengshu",
+      "title": "Motus2 Screws in a Bulb, Then Grades Its Own Future",
+      "pubDate": "2026-09-16",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/motus2-shengshu/",
+      "tweet": "Motus2 Screws in a Bulb, Then Grades Its Own Future\n\nShengShu’s world model hits 84% on five real dexterous tasks by coupling a policy, a video simulator, and a value head…\n\nhttps://mechafeed.com/blog/motus2-shengshu/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Motus2%20Screws%20in%20a%20Bulb%2C%20Then%20Grades%20Its%20Own%20Future%0A%0AShengShu%E2%80%99s%20world%20model%20hits%2084%25%20on%20five%20real%20dexterous%20tasks%20by%20coupling%20a%20policy%2C%20a%20video%20simulator%2C%20and%20a%20value%20head%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmotus2-shengshu%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 233
+    },
+    {
+      "id": "proxidex",
+      "title": "ProxiDex Reads Hand-to-Object Distance Instead of Skin",
+      "pubDate": "2026-09-16",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/proxidex/",
+      "tweet": "ProxiDex Reads Hand-to-Object Distance Instead of Skin\n\nA CoRL 2026 policy reconstructs proximity from point clouds, then twists caps and pinches toys on a Realman arm with a…\n\nhttps://mechafeed.com/blog/proxidex/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=ProxiDex%20Reads%20Hand-to-Object%20Distance%20Instead%20of%20Skin%0A%0AA%20CoRL%202026%20policy%20reconstructs%20proximity%20from%20point%20clouds%2C%20then%20twists%20caps%20and%20pinches%20toys%20on%20a%20Realman%20arm%20with%20a%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fproxidex%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 235
+    },
+    {
+      "id": "recal-digit-collision-wbc",
+      "title": "RECAL Teaches a Blind Digit Controller to Sidestep Clutter",
+      "pubDate": "2026-09-16",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/recal-digit-collision-wbc/",
+      "tweet": "RECAL Teaches a Blind Digit Controller to Sidestep Clutter\n\nOregon State wraps Digit V3’s whole-body controller with a point-cloud layer that trades tracking for collision-free…\n\nhttps://mechafeed.com/blog/recal-digit-collision-wbc/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=RECAL%20Teaches%20a%20Blind%20Digit%20Controller%20to%20Sidestep%20Clutter%0A%0AOregon%20State%20wraps%20Digit%20V3%E2%80%99s%20whole-body%20controller%20with%20a%20point-cloud%20layer%20that%20trades%20tracking%20for%20collision-free%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frecal-digit-collision-wbc%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 262
+    },
+    {
       "id": "rhoda-web-video-scaling",
       "title": "Rhoda Scales Web Video and the Bearings Come Out Faster",
       "pubDate": "2026-09-16",
@@ -43,6 +83,16 @@
       "chars": 254
     },
     {
+      "id": "unidex-vitac",
+      "title": "UniDex-ViTac Turns 50 Human Videos Into a Grasping Policy",
+      "pubDate": "2026-09-16",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/unidex-vitac/",
+      "tweet": "UniDex-ViTac Turns 50 Human Videos Into a Grasping Policy\n\nKIST trains a visuo-tactile ACT policy in simulation from DexYCB clips, then lifts seen and unseen objects on a Franka…\n\nhttps://mechafeed.com/blog/unidex-vitac/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=UniDex-ViTac%20Turns%2050%20Human%20Videos%20Into%20a%20Grasping%20Policy%0A%0AKIST%20trains%20a%20visuo-tactile%20ACT%20policy%20in%20simulation%20from%20DexYCB%20clips%2C%20then%20lifts%20seen%20and%20unseen%20objects%20on%20a%20Franka%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Funidex-vitac%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 242
+    },
+    {
       "id": "weave-g1-loco-manipulation",
       "title": "Weave Teaches a G1 to Walk Up and Carry the Chair",
       "pubDate": "2026-09-16",
@@ -51,6 +101,16 @@
       "tweet": "Weave Teaches a G1 to Walk Up and Carry the Chair\n\nOne policy on a Unitree G1 plus Inspire hands hits 92.5% on trained carry tasks in simulation, 65% on unseen clips.\n\nhttps://mechafeed.com/blog/weave-g1-loco-manipulation/\n\n#RoboticsResearch #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=Weave%20Teaches%20a%20G1%20to%20Walk%20Up%20and%20Carry%20the%20Chair%0A%0AOne%20policy%20on%20a%20Unitree%20G1%20plus%20Inspire%20hands%20hits%2092.5%25%20on%20trained%20carry%20tasks%20in%20simulation%2C%2065%25%20on%20unseen%20clips.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fweave-g1-loco-manipulation%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
       "chars": 252
+    },
+    {
+      "id": "wholebody-wam-g1",
+      "title": "WholeBodyWAM Puts a Tabletop World Model on G1’s Legs",
+      "pubDate": "2026-09-16",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/wholebody-wam-g1/",
+      "tweet": "WholeBodyWAM Puts a Tabletop World Model on G1’s Legs\n\nA G1 with BrainCo hands hits 91.9% in sim and 81.3% on eight real loco-manipulation tasks by grounding a pre-trained…\n\nhttps://mechafeed.com/blog/wholebody-wam-g1/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=WholeBodyWAM%20Puts%20a%20Tabletop%20World%20Model%20on%20G1%E2%80%99s%20Legs%0A%0AA%20G1%20with%20BrainCo%20hands%20hits%2091.9%25%20in%20sim%20and%2081.3%25%20on%20eight%20real%20loco-manipulation%20tasks%20by%20grounding%20a%20pre-trained%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fwholebody-wam-g1%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 246
     },
     {
       "id": "x-wbc-cross-embodiment",

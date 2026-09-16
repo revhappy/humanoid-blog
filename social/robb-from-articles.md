@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-16T16:16:39.789Z
+Generated: 2026-09-16T21:09:45.706Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -53,6 +53,94 @@ https://mechafeed.com/blog/inorbit-openrobops/
 
 ---
 
+## Munich’s Kyle Walks Unblurred, Product Still a Year Out
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/kyle-munich-humanoid/
+
+### SOLO (no link)
+
+```
+I’m so here for a team that shows the ugly mule instead of a matte-black teaser.  A gait you can watch, a gantry you can see, and a 2027 product they are not pretending to sell today is a cleaner pitch than most stealth decks.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for a team that shows the ugly mule instead of a matte-black teaser.  A gait you can watch, a gantry you can see, and a 2027 product they are not pretending to sell today is a cleaner pitch than most stealth decks.
+
+https://mechafeed.com/blog/kyle-munich-humanoid/
+```
+
+---
+
+## Motus2 Screws in a Bulb, Then Grades Its Own Future
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/motus2-shengshu/
+
+### SOLO (no link)
+
+```
+Screwing in a bulb at 84% after you add robot hours is the number I care about, not the 130,000-hour pyramid.  Human video buys you priors; the mid-training is what makes the hands stop missing the socket.
+```
+
+### SOFT-LINK variant
+
+```
+Screwing in a bulb at 84% after you add robot hours is the number I care about, not the 130,000-hour pyramid.  Human video buys you priors; the mid-training is what makes the hands stop missing the socket.
+
+https://mechafeed.com/blog/motus2-shengshu/
+```
+
+---
+
+## ProxiDex Reads Hand-to-Object Distance Instead of Skin
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/proxidex/
+
+### SOLO (no link)
+
+```
+I’m so here for a policy that paints the gap between finger and bottle instead of waiting on a new tactile bus.  The Wuji cap-twist stills are the receipt: you can see the reconstructed cloud hug the bottle while the hand actually turns it.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for a policy that paints the gap between finger and bottle instead of waiting on a new tactile bus.  The Wuji cap-twist stills are the receipt: you can see the reconstructed cloud hug the bottle while the hand actually turns it.
+
+https://mechafeed.com/blog/proxidex/
+```
+
+---
+
+## RECAL Teaches a Blind Digit Controller to Sidestep Clutter
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/recal-digit-collision-wbc/
+
+### SOLO (no link)
+
+```
+I like this more than another end-to-end “see and walk” policy.  Keep the controller that already balances on Digit.
+```
+
+### SOFT-LINK variant
+
+```
+I like this more than another end-to-end “see and walk” policy.  Keep the controller that already balances on Digit.
+
+https://mechafeed.com/blog/recal-digit-collision-wbc/
+```
+
+---
+
 ## Rhoda Scales Web Video and the Bearings Come Out Faster
 
 - Author on blog: Shar Hendrix
@@ -97,6 +185,28 @@ https://mechafeed.com/blog/ugo-nova-tokyo/
 
 ---
 
+## UniDex-ViTac Turns 50 Human Videos Into a Grasping Policy
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/unidex-vitac/
+
+### SOLO (no link)
+
+```
+Fifty clips in, a policy out, and no teleop on the Franka is the part that matters.  The contact story is narrower than the name: four bits, no force magnitude, and a sim-to-real mismatch the authors already flag.
+```
+
+### SOFT-LINK variant
+
+```
+Fifty clips in, a policy out, and no teleop on the Franka is the part that matters.  The contact story is narrower than the name: four bits, no force magnitude, and a sim-to-real mismatch the authors already flag.
+
+https://mechafeed.com/blog/unidex-vitac/
+```
+
+---
+
 ## Weave Teaches a G1 to Walk Up and Carry the Chair
 
 - Author on blog: Robb Harlan
@@ -115,6 +225,28 @@ A 65% transfer number on unseen carries is the interesting bit, not the 92% on c
 A 65% transfer number on unseen carries is the interesting bit, not the 92% on clips it trained on.  I care whether a G1 can walk up, close fingers that actually load the object, and keep the pelvis inside a quarter meter.
 
 https://mechafeed.com/blog/weave-g1-loco-manipulation/
+```
+
+---
+
+## WholeBodyWAM Puts a Tabletop World Model on G1’s Legs
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/wholebody-wam-g1/
+
+### SOLO (no link)
+
+```
+I’m so here for a G1 that waters a plant and then opens a door without swapping the entire stack.  The useful claim is not “we trained a humanoid world model from scratch.
+```
+
+### SOFT-LINK variant
+
+```
+I’m so here for a G1 that waters a plant and then opens a door without swapping the entire stack.  The useful claim is not “we trained a humanoid world model from scratch.
+
+https://mechafeed.com/blog/wholebody-wam-g1/
 ```
 
 ---

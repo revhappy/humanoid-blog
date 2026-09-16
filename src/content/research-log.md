@@ -5232,3 +5232,67 @@ pm run verify-media:today — 0 errors, 0 warnings on 6 posts dated 2026-09-15)
 - **Build:** PASS (astro build exit 0; 528 pages; new slugs rendered)
 - **Failures:** none. Soft floor 3 met; wrote 8 of target 8. X list not usable (disclosed).
 
+## 2026-09-16 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json, startedAt 2026-09-16T14:00:02-07:00)
+- Date (Pacific): 2026-09-16
+- git pull --rebase origin main: already up to date
+- Morning already published 8 posts today (fingers-as-legs-wuji, weave-g1-loco-manipulation, x-wbc-cross-embodiment, xpace-xpeng-iron, rhoda-web-video-scaling, zoomlion-z01-whrg, ugo-nova-tokyo, inorbit-openrobops). **Do not rehash.**
+- X list https://x.com/i/lists/1805786050763087967: **not usable as a curated feed**. Keyword Latest with list: operator returned mixed general posts (STEM ads, arXiv bots, actuator chatter), not a browseable list. Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: Agility Digit 5 recirc (IEEE Spectrum, Bloomberg TV, Interesting Engineering) — **SKIP: covered 9/15**
+- Public X: ugo Nova recirc — **SKIP: covered 9/16 morning**
+- Public X: Nikolai Ensslen Kyle walking mule (14 Sep) — **CANDIDATE/WRITTEN**
+- Semantic X: Digit 5 recirc-heavy
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** RECAL collision-aware WBC on Digit V3 — arXiv:2609.16405 (14 Sep) + HTML — lane: **build**
+2. **[CANDIDATE/WRITTEN]** WholeBodyWAM G1 loco-manipulation — arXiv:2609.16644 + project page — lane: **build**
+3. **[CANDIDATE/WRITTEN]** UniDex-ViTac visuo-tactile from 50 human videos — arXiv:2609.16504 + project page — lane: **build**
+4. **[CANDIDATE/WRITTEN]** ProxiDex CoRL 2026 proximity policy — arXiv:2609.16586 + project page — lane: **build**
+5. **[CANDIDATE/WRITTEN]** Motus2 ShengShu self-evolving world model — PR 14 Sep + project page + arXiv:2608.30237 — lane: **build**
+6. **[CANDIDATE/WRITTEN]** Kyle Munich stealth walking mule — HD 14 Sep + Ensslen X + Synapticon leadership note — lane: **build**
+7. **[SKIP: already covered]** Digit 5; Odyssey-3; Reward AI OM-1; PhysBrain 1.5; Bench2Dex; Fingers as Legs / WUJI crawl; Weave; X-WBC; XPACE; Rhoda; Zoomlion WHRG; ugo Nova; OpenRobOps; Unitree G1+; UBTECH Liuzhou recirc
+8. **[SKIP: no matching robot stills / not yet]** Samsung ORchestra 16 Sep demo (morning still lacked robot stills; no new OR still this run); Cuebus 21 Sep; Richtech IMTS booth; Wonik Samsung PoC; ETRI/KAIST VLN
+9. **[SKIP: business mix]** Unitree integrator/stock recirc; UBTech U1 delivery-volume cut (1500–2000 vs 10k plan); Agility S-4 / Digit 5 recirc; Kinetic Blocks data marketplace
+10. **[SKIP: thin / one-source / sim-only slant]** ManiSkillFormer (held as backup); ConGraspXL (sim-heavy); Bi-MoDe whiteboard wipe; Auto-HSI swarm; Occupancy-network nephrectomy (surgical, not humanoid)
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | recal-digit-collision-wbc | Robb Harlan | Research | build |
+| 2 | wholebody-wam-g1 | Shar Hendrix | Humanoids | build |
+| 3 | unidex-vitac | Robb Harlan | Robotics | build |
+| 4 | proxidex | Shar Hendrix | Robotics | build |
+| 5 | motus2-shengshu | Robb Harlan | AI | build |
+| 6 | kyle-munich-humanoid | Shar Hendrix | Humanoids | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary + matching stills: **6** | Writing: **6**
+- Soft floor 2 met. Hit target 6. Did not rehash morning posts.
+
+### Notes for Future Agents
+- Do not rewrite RECAL Digit WBC, WholeBodyWAM G1, UniDex-ViTac, ProxiDex, Motus2, Kyle Munich mule
+- Samsung ORchestra dual-humanoid surgical demo happened **16 Sep** — still uncovered if a real OR/robot still (not professors) lands
+- Cuebus × Yazaki × Yamazen starts **21 Sep**
+- UBTech U1 deliveries began 16 Sep per 36Kr, with executives cutting 2026 volume to 1500–2000 — business-lane follow if a product still + English primary land
+- ManiSkillFormer on Galaxea R1-Lite still uncovered
+- RECAL HTML has no hardware photograph of Digit V3; authors claim real-robot demos of all five task families
+- Motus2 arXiv is 2608.30237 (v2 10 Sep); public unveiling 10 Sep / PR 14 Sep
+
+### Run summary
+- **Articles published (6):** recal-digit-collision-wbc, wholebody-wam-g1, unidex-vitac, proxidex, motus2-shengshu, kyle-munich-humanoid
+- **pubDate:** 2026-09-16
+- **Skipped candidates:** Digit 5 recirc, morning 8, Samsung ORchestra (no robot still), business mix, ManiSkillFormer backup
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 posts dated 2026-09-16, including morning 8)
+- **Vision gate:** PASS — RECAL (Digit sim sys-arch hero + attention box-carry); WholeBodyWAM (G1 cart-serve hero + 8-task grid + door handle); UniDex-ViTac (Franka grasp grid hero + pipeline + tactile pads); ProxiDex (VR/real teaser hero + Wuji cap-twist); Motus2 (Wuji Hand 2 Luna hero + Marvin kitchen + Sharpa Wave Luna); Kyle (HD gantry hero + Ensslen-clip walking still)
+- **Social:** tweets 521; robb-x 521
+- **Build:** PASS (astro build exit 0; 534 pages; new slugs rendered)
+- **Failures:** none. Soft floor 2 met; wrote 6 of target 6. X list not usable (disclosed).
