@@ -14,8 +14,176 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-16T21:09:35.069Z
-Posts: 521
+Generated: 2026-09-17T18:16:34.115Z
+Posts: 529
+
+---
+
+## AGIBOT Puts A3 Ultra on Hotel, Shop, and Metro Duty
+
+- **Slug:** `agibot-a3-ultra-service`
+- **Date:** 2026-09-17
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/agibot-a3-ultra-service/
+- **Chars:** 250/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=AGIBOT%20Puts%20A3%20Ultra%20on%20Hotel%2C%20Shop%2C%20and%20Metro%20Duty%0A%0AAGIBOT%20says%20its%20174%20cm%20A3%20Ultra%20is%20already%20working%20in%20hotels%2C%20dealerships%2C%20supermarkets%2C%20and%20metro%20inspection%2C%20with%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fagibot-a3-ultra-service%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+AGIBOT Puts A3 Ultra on Hotel, Shop, and Metro Duty
+
+AGIBOT says its 174 cm A3 Ultra is already working in hotels, dealerships, supermarkets, and metro inspection, with…
+
+https://mechafeed.com/blog/agibot-a3-ultra-service/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## CLASP Rolls Ripe Blueberries Off the Cluster, Leaves Green Ones
+
+- **Slug:** `clasp-blueberry-harvester`
+- **Date:** 2026-09-17
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/clasp-blueberry-harvester/
+- **Chars:** 258/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=CLASP%20Rolls%20Ripe%20Blueberries%20Off%20the%20Cluster%2C%20Leaves%20Green%20Ones%0A%0AGeorgia%20Tech%E2%80%99s%20%243%2C326%20cluster%20picker%20uses%20rolling%20silicone%20bands%20and%20current-limited%20pull%20to%20harvest%2023%20of%2025%20field%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fclasp-blueberry-harvester%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+CLASP Rolls Ripe Blueberries Off the Cluster, Leaves Green Ones
+
+Georgia Tech’s $3,326 cluster picker uses rolling silicone bands and current-limited pull to harvest 23 of 25 field…
+
+https://mechafeed.com/blog/clasp-blueberry-harvester/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Digit Teams Pinch Boxes Together With No Radio Chat
+
+- **Slug:** `decmht-digit-transport`
+- **Date:** 2026-09-17
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/decmht-digit-transport/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Digit%20Teams%20Pinch%20Boxes%20Together%20With%20No%20Radio%20Chat%0A%0AOregon%20State%E2%80%99s%20decMHT%20lets%20one%20to%20ten%20Digit%20V3%20humanoids%20pick%20up%20shared%20loads%20by%20pinching%2C%20then%20hands%20boxes%20off%20on%20real%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdecmht-digit-transport%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Digit Teams Pinch Boxes Together With No Radio Chat
+
+Oregon State’s decMHT lets one to ten Digit V3 humanoids pick up shared loads by pinching, then hands boxes off on real…
+
+https://mechafeed.com/blog/decmht-digit-transport/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Two Helix Cables Recreate Elephant-Trunk S-Bends
+
+- **Slug:** `dual-helicity-elephant-trunk`
+- **Date:** 2026-09-17
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/dual-helicity-elephant-trunk/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Two%20Helix%20Cables%20Recreate%20Elephant-Trunk%20S-Bends%0A%0ANUS%20and%20A*STAR%20show%20that%20helix%20angle%20and%20opposite-hand%20phase%2C%20not%20a%20stack%20of%20segments%2C%20can%20draw%20elephant-like%20trunk%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdual-helicity-elephant-trunk%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+Two Helix Cables Recreate Elephant-Trunk S-Bends
+
+NUS and A*STAR show that helix angle and opposite-hand phase, not a stack of segments, can draw elephant-like trunk…
+
+https://mechafeed.com/blog/dual-helicity-elephant-trunk/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## A LimX Biped Reaches High and Low From One End-Effector Command
+
+- **Slug:** `limx-tron-loco-manip`
+- **Date:** 2026-09-17
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/limx-tron-loco-manip/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20LimX%20Biped%20Reaches%20High%20and%20Low%20From%20One%20End-Effector%20Command%0A%0AZJU-UIUC%20and%20LimX%20train%20a%2014-joint%20TRON%201%20plus%20arm%20to%20squat%2C%20step%2C%20and%20reach%20from%20a%20single%206-DoF%20target%2C%20on%20hardware.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flimx-tron-loco-manip%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+A LimX Biped Reaches High and Low From One End-Effector Command
+
+ZJU-UIUC and LimX train a 14-joint TRON 1 plus arm to squat, step, and reach from a single 6-DoF target, on hardware.
+
+https://mechafeed.com/blog/limx-tron-loco-manip/
+
+#Robotics #Humanoids
+```
+
+---
+
+## rMuscle Caches VLA Muscle Memory for Faster Factory Inference
+
+- **Slug:** `rmuscle-vla-cache`
+- **Date:** 2026-09-17
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/rmuscle-vla-cache/
+- **Chars:** 243/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=rMuscle%20Caches%20VLA%20Muscle%20Memory%20for%20Faster%20Factory%20Inference%0A%0AShanghai%20Jiao%20Tong%E2%80%99s%20rMuscle%20reuses%20visual%20tokens%20and%20neuron%20masks%20across%20repeated%20robot%20jobs%2C%20up%20to%201.42%C3%97%20faster%20on%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frmuscle-vla-cache%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+rMuscle Caches VLA Muscle Memory for Faster Factory Inference
+
+Shanghai Jiao Tong’s rMuscle reuses visual tokens and neuron masks across repeated robot jobs, up to 1.42× faster on…
+
+https://mechafeed.com/blog/rmuscle-vla-cache/
+
+#AI #Humanoids
+```
+
+---
+
+## Two Wheeled Humanoids Assist a Goat-Liver Gallbladder Demo
+
+- **Slug:** `samsung-orchestra-surgical`
+- **Date:** 2026-09-17
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/samsung-orchestra-surgical/
+- **Chars:** 260/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Two%20Wheeled%20Humanoids%20Assist%20a%20Goat-Liver%20Gallbladder%20Demo%0A%0ASamsung%20Medical%20Center%E2%80%99s%20ORchestra%20robots%20pass%20tools%20and%20hold%20a%20scope%20while%20a%20surgeon%20removes%20a%20goat%20gallbladder%20in%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsamsung-orchestra-surgical%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Two Wheeled Humanoids Assist a Goat-Liver Gallbladder Demo
+
+Samsung Medical Center’s ORchestra robots pass tools and hold a scope while a surgeon removes a goat gallbladder in…
+
+https://mechafeed.com/blog/samsung-orchestra-surgical/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## MIT Lincoln Lab Open-Sources SPROUT, a Vine Robot for Rubble
+
+- **Slug:** `sprout-vine-search`
+- **Date:** 2026-09-17
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/sprout-vine-search/
+- **Chars:** 251/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=MIT%20Lincoln%20Lab%20Open-Sources%20SPROUT%2C%20a%20Vine%20Robot%20for%20Rubble%0A%0ASPROUT%20grows%20through%203.81%20cm%20holes%20in%20steel%20plate%2C%20runs%20on%20firefighter%20air%20tanks%2C%20and%20ships%20CAD%2C%20PCBs%2C%20and%20ROS%202%20under%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsprout-vine-search%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+MIT Lincoln Lab Open-Sources SPROUT, a Vine Robot for Rubble
+
+SPROUT grows through 3.81 cm holes in steel plate, runs on firefighter air tanks, and ships CAD, PCBs, and ROS 2 under…
+
+https://mechafeed.com/blog/sprout-vine-search/
+
+#Robotics #Humanoids
+```
 
 ---
 

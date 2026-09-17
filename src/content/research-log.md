@@ -5296,3 +5296,78 @@ pm run verify-media:today — 0 errors, 0 warnings on 6 posts dated 2026-09-15)
 - **Social:** tweets 521; robb-x 521
 - **Build:** PASS (astro build exit 0; 534 pages; new slugs rendered)
 - **Failures:** none. Soft floor 2 met; wrote 6 of target 6. X list not usable (disclosed).
+
+
+## 2026-09-17 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json, startedAt 2026-09-17T10:47:42-07:00)
+- Date (Pacific): 2026-09-17
+- git pull --rebase origin main: already up to date
+- Last published: 2026-09-16 afternoon (RECAL, WholeBodyWAM, UniDex-ViTac, ProxiDex, Motus2, Kyle Munich). Morning 8 on 9/16 also live. **Do not rehash.** No 2026-09-17 posts before this run.
+- X list https://x.com/i/lists/1805786050763087967: **not usable as a curated feed**. Keyword Latest with list: operator returned mixed general posts (hobby hardware, NVIDIA recirc, dog-robot clips), not a browseable list. Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: AGIBOT A3 Ultra hotels/dealerships/supermarkets/metro — **CANDIDATE/WRITTEN**
+- Public X: Agility Digit 5 recirc — **SKIP: covered 9/15**
+- Public X: World Labs Atlas + NVIDIA Isaac recirc (Atlas launched 1 Sep) — **SKIP: recirc**
+- Public X: China humanoid kicks developer viral clip — **SKIP: thin, no primary**
+- Semantic/keyword X: Digit 5 / Optimus recirc-heavy
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Samsung Medical Center ORchestra dual-humanoid surgical demo (16 Sep; English stills 17 Sep) — MK + Kyunghyang + KED Global — lane: **build**
+2. **[CANDIDATE/WRITTEN]** AGIBOT A3 Ultra commercial service cases (hotels, 4S, convenience, metro) — AGIBOT X 17 Sep + product page + Humanoids Daily + Shanghai Observer/NetEase — lane: **build**
+3. **[CANDIDATE/WRITTEN]** SPROUT open-source vine robot for USAR — arXiv:2609.17781 + project + GitHub — lane: **build**
+4. **[CANDIDATE/WRITTEN]** decMHT multi-humanoid Digit V3 pickup/transport — arXiv:2609.17824 + project + YouTube — lane: **build**
+5. **[CANDIDATE/WRITTEN]** LimX TRON 1 end-effector whole-body loco-manip — arXiv:2609.18930 — lane: **build**
+6. **[CANDIDATE/WRITTEN]** CLASP blueberry cluster rolling-band harvester — arXiv:2609.18051 — lane: **build**
+7. **[CANDIDATE/WRITTEN]** Dual-helicity elephant-trunk continuum prototype — arXiv:2609.18050 — lane: **build**
+8. **[CANDIDATE/WRITTEN]** rMuscle VLA cache / muscle memory inference — arXiv:2609.19104 — lane: **build**
+9. **[SKIP: already covered]** Digit 5; Odyssey-3; Reward AI OM-1; PhysBrain 1.5; Bench2Dex; Fingers as Legs; Weave; X-WBC; XPACE; Rhoda; Zoomlion; ugo Nova; OpenRobOps; RECAL; WholeBodyWAM; UniDex-ViTac; ProxiDex; Motus2; Kyle; Unitree G1+; UBTECH Liuzhou; GMO ambulance recirc; AGIBOT A3 Ultra WAIC launch (agibot-a3-ultra-waic-2026.md — this run is the 16/17 service-deployment follow, not a rewrite of the WAIC unveil)
+10. **[SKIP: no matching stills / recirc / thin]** Harmonic Go2 Fourier policies (HTML figures 404 this run); Gated residual Agile One (simulation-only eval; kept as backup); Arm Total Design (Robot Report page fetch thin); World Labs Atlas (1 Sep recirc); Richtech IMTS booth stills still missing; Cuebus 21 Sep; Wonik Samsung PoC
+11. **[SKIP: business mix]** TRR August funding roundup (\.9B); Unitree integrator/stock recirc; Boston Dynamics 2027 IPO unlikely; Agility S-4 recirc
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | samsung-orchestra-surgical | Robb Harlan | Humanoids | build |
+| 2 | agibot-a3-ultra-service | Shar Hendrix | Humanoids | build |
+| 3 | sprout-vine-search | Shar Hendrix | Robotics | build |
+| 4 | decmht-digit-transport | Robb Harlan | Humanoids | build |
+| 5 | limx-tron-loco-manip | Shar Hendrix | Robotics | build |
+| 6 | clasp-blueberry-harvester | Robb Harlan | Robotics | build |
+| 7 | dual-helicity-elephant-trunk | Shar Hendrix | Research | build |
+| 8 | rmuscle-vla-cache | Robb Harlan | AI | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+- AGIBOT counted as **build**: lede and bulk are service tasks, hands, charging, and the product-page capability caveat — not a funding story.
+- rMuscle counted as **build**: inference cache + ALOHA/Franka packing cells, not a raise.
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary + matching stills: **8** | Writing: **8**
+- Soft floor 3 met. Hit target 8.
+
+### Notes for Future Agents
+- Do not rewrite Samsung ORchestra 16 Sep demo, AGIBOT A3 Ultra service-deployment video, SPROUT, decMHT Digit teams, LimX TRON 1 loco-manip, CLASP blueberry, dual-helicity trunk, rMuscle
+- Cuebus × Yazaki × Yamazen starts **21 Sep**
+- Gated residual body-hand coordination on Agile One (arXiv:2609.18763) is **sim-only**; uncovered if hardware teleop stills land
+- Harmonic Go2 Fourier policies (arXiv:2609.17946) uncovered if HTML figures resolve
+- Adaptive-MHE legged loco-manip (arXiv:2609.17832) backup
+- AGIBOT service post still has **no independent deployment count**; product page says A3 platform demos need secondary development
+- ORchestra first patient trials aimed at **2029**; wheeled base, not biped
+- CLASP field card is 23/25 clusters; bruise-rate comparison still missing
+
+
+### Run summary
+- **Articles published (8):** samsung-orchestra-surgical, agibot-a3-ultra-service, sprout-vine-search, decmht-digit-transport, limx-tron-loco-manip, clasp-blueberry-harvester, dual-helicity-elephant-trunk, rmuscle-vla-cache
+- **pubDate:** 2026-09-17
+- **Skipped candidates:** Digit 5 recirc, 9/16 morning+afternoon, Harmonic Go2 (figure 404), Gated residual Agile One (sim-only), Arm Total Design thin, World Labs Atlas recirc, business mix
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (
+pm run verify-media:today — 0 errors, 0 warnings on 8 posts dated 2026-09-17)
+- **Vision gate:** PASS — ORchestra (OR demo hero + logos wall + tray/endoscope + two wheeled torsos); A3 Ultra (product run hero + reception + shopping bottle + outdoor inspection); SPROUT (rubble teaser + field grid + CAD); decMHT (Digit hardware composite + 1-10 layouts); LimX TRON (labeled hardware + VR/UMI/scripted + stepping sequence); CLASP (field+CAD hero + rolling-band workflow); dual-helicity (prototype vs elephant postures + MuJoCo sweep); rMuscle (ALOHA bottles + conveyor packing)
+- **Social:** tweets 529; robb-x 529
+- **Build:** PASS (astro build exit 0; 542 pages; new slugs rendered)
+- **Failures:** none. Soft floor 3 met; wrote 8 of target 8. X list not usable (disclosed).

@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-16T21:09:45.706Z
+Generated: 2026-09-17T18:16:34.112Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## AGIBOT Puts A3 Ultra on Hotel, Shop, and Metro Duty
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/agibot-a3-ultra-service/
+
+### SOLO (no link)
+
+```
+I like that the company is talking hotels and metro inspection instead of another kung-fu reel.  I also want a count.
+```
+
+### SOFT-LINK variant
+
+```
+I like that the company is talking hotels and metro inspection instead of another kung-fu reel.  I also want a count.
+
+https://mechafeed.com/blog/agibot-a3-ultra-service/
+```
+
+---
+
+## CLASP Rolls Ripe Blueberries Off the Cluster, Leaves Green Ones
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/clasp-blueberry-harvester/
+
+### SOLO (no link)
+
+```
+Selectivity in the contact, not in a bounding box, is the right fight for this crop.  92% of 25 clusters is a small field card, but the 3.
+```
+
+### SOFT-LINK variant
+
+```
+Selectivity in the contact, not in a bounding box, is the right fight for this crop.  92% of 25 clusters is a small field card, but the 3.
+
+https://mechafeed.com/blog/clasp-blueberry-harvester/
+```
+
+---
+
+## Digit Teams Pinch Boxes Together With No Radio Chat
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/decmht-digit-transport/
+
+### SOLO (no link)
+
+```
+The trick I will steal is the attachment spec.  You tell each robot “pinch here,” not “stand at this world pose.
+```
+
+### SOFT-LINK variant
+
+```
+The trick I will steal is the attachment spec.  You tell each robot “pinch here,” not “stand at this world pose.
+
+https://mechafeed.com/blog/decmht-digit-transport/
+```
+
+---
+
+## Two Helix Cables Recreate Elephant-Trunk S-Bends
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/dual-helicity-elephant-trunk/
+
+### SOLO (no link)
+
+```
+I have watched too many continuum arms grow a new motor every time someone wants an S.  Two cables that draw a reverse bend because of how they cross is the kind of morphological cheat I want on a field arm.
+```
+
+### SOFT-LINK variant
+
+```
+I have watched too many continuum arms grow a new motor every time someone wants an S.  Two cables that draw a reverse bend because of how they cross is the kind of morphological cheat I want on a field arm.
+
+https://mechafeed.com/blog/dual-helicity-elephant-trunk/
+```
+
+---
+
+## A LimX Biped Reaches High and Low From One End-Effector Command
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/limx-tron-loco-manip/
+
+### SOLO (no link)
+
+```
+A 14-joint mutt that squats because the hand target is on the floor is my kind of controller.  The vertical workspace numbers are the receipt.
+```
+
+### SOFT-LINK variant
+
+```
+A 14-joint mutt that squats because the hand target is on the floor is my kind of controller.  The vertical workspace numbers are the receipt.
+
+https://mechafeed.com/blog/limx-tron-loco-manip/
+```
+
+---
+
+## rMuscle Caches VLA Muscle Memory for Faster Factory Inference
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/rmuscle-vla-cache/
+
+### SOLO (no link)
+
+```
+This is the unglamorous way you make a VLA keep up with a 30 Hz arm: remember the last time this station looked like this, recompute the patches that moved, and stop reloading every neuron.  1.
+```
+
+### SOFT-LINK variant
+
+```
+This is the unglamorous way you make a VLA keep up with a 30 Hz arm: remember the last time this station looked like this, recompute the patches that moved, and stop reloading every neuron.  1.
+
+https://mechafeed.com/blog/rmuscle-vla-cache/
+```
+
+---
+
+## Two Wheeled Humanoids Assist a Goat-Liver Gallbladder Demo
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/samsung-orchestra-surgical/
+
+### SOLO (no link)
+
+```
+Passing a grasper by voice and holding a scope without a resident in the room is the part I care about.  The wheeled-base choice is the honest engineering: if you need RCM through a 5 mm port, you do not also need a biped that can eat the floor.
+```
+
+### SOFT-LINK variant
+
+```
+Passing a grasper by voice and holding a scope without a resident in the room is the part I care about.  The wheeled-base choice is the honest engineering: if you need RCM through a 5 mm port, you do …
+
+https://mechafeed.com/blog/samsung-orchestra-surgical/
+```
+
+---
+
+## MIT Lincoln Lab Open-Sources SPROUT, a Vine Robot for Rubble
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/sprout-vine-search/
+
+### SOLO (no link)
+
+```
+I want more robots that show up with a strap, a tank the crew already owns, and a GitHub link.  Growing through a hole half your own width is the party trick.
+```
+
+### SOFT-LINK variant
+
+```
+I want more robots that show up with a strap, a tank the crew already owns, and a GitHub link.  Growing through a hole half your own width is the party trick.
+
+https://mechafeed.com/blog/sprout-vine-search/
+```
 
 ---
 
