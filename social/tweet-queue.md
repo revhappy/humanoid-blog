@@ -14,8 +14,176 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-17T18:16:34.115Z
-Posts: 529
+Generated: 2026-09-18T16:13:33.643Z
+Posts: 537
+
+---
+
+## Agile-WAM Inserts Plugs at 11.9 ms Without a Giant Video Backbone
+
+- **Slug:** `agile-wam-tactile`
+- **Date:** 2026-09-18
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/agile-wam-tactile/
+- **Chars:** 248/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Agile-WAM%20Inserts%20Plugs%20at%2011.9%20ms%20Without%20a%20Giant%20Video%20Backbone%0A%0AUC%20Davis%20and%20Analog%20Devices%20jointly%20predict%20touch%2C%20vision%2C%20and%20actions%20on%20a%20Flexiv%20arm%2C%20with%20a%2029.4%25%20relative%20success%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fagile-wam-tactile%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Agile-WAM Inserts Plugs at 11.9 ms Without a Giant Video Backbone
+
+UC Davis and Analog Devices jointly predict touch, vision, and actions on a Flexiv arm, with a 29.4% relative success…
+
+https://mechafeed.com/blog/agile-wam-tactile/
+
+#AI #Humanoids
+```
+
+---
+
+## DexTouch-WM Trains Robot Touch on 100 Hours of Human Gloves
+
+- **Slug:** `dextouch-wm-human-touch`
+- **Date:** 2026-09-18
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/dextouch-wm-human-touch/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=DexTouch-WM%20Trains%20Robot%20Touch%20on%20100%20Hours%20of%20Human%20Gloves%0A%0AHKUST%20GZ%20and%20Xspark%20AI%20put%20the%20same%20320-taxel%20pads%20on%20people%20and%20a%20Wuji%20hand%2C%20then%20scale%20human%20data%20while%20freezing%205%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdextouch-wm-human-touch%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+DexTouch-WM Trains Robot Touch on 100 Hours of Human Gloves
+
+HKUST GZ and Xspark AI put the same 320-taxel pads on people and a Wuji hand, then scale human data while freezing 5…
+
+https://mechafeed.com/blog/dextouch-wm-human-touch/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Figure’s Helix 2.5 Does Chores in 30 Homes It Never Trained In
+
+- **Slug:** `figure-helix-25-30-homes`
+- **Date:** 2026-09-18
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/figure-helix-25-30-homes/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Figure%E2%80%99s%20Helix%202.5%20Does%20Chores%20in%2030%20Homes%20It%20Never%20Trained%20In%0A%0AIndex-pretrained%20Helix%202.5%20hits%2056%25%20full-task%20success%20across%2030%20unseen%20Bay%20Area%20homes%2C%20vs%209%25%20from%20scratch.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffigure-helix-25-30-homes%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Figure’s Helix 2.5 Does Chores in 30 Homes It Never Trained In
+
+Index-pretrained Helix 2.5 hits 56% full-task success across 30 unseen Bay Area homes, vs 9% from scratch.
+
+https://mechafeed.com/blog/figure-helix-25-30-homes/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## A Unitree G1 Learns Roofer Motions on a Pitched Lab Roof
+
+- **Slug:** `g1-roofing-slope-locomotion`
+- **Date:** 2026-09-18
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/g1-roofing-slope-locomotion/
+- **Chars:** 258/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20Unitree%20G1%20Learns%20Roofer%20Motions%20on%20a%20Pitched%20Lab%20Roof%0A%0AFlorida%20researchers%20ground%20VR%20roofing%20demos%20to%20a%20metric%20roof%20so%20a%20G1%20can%20walk%2C%20hammer%2C%20and%20hold%20a%20nailgun%20on%209%E2%80%9325%C2%B0%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fg1-roofing-slope-locomotion%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+A Unitree G1 Learns Roofer Motions on a Pitched Lab Roof
+
+Florida researchers ground VR roofing demos to a metric roof so a G1 can walk, hammer, and hold a nailgun on 9–25°…
+
+https://mechafeed.com/blog/g1-roofing-slope-locomotion/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Icarus Flies JOY Through 66 Parabolas Before an ISS Handover
+
+- **Slug:** `icarus-joy-parabolic-flight`
+- **Date:** 2026-09-18
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/icarus-joy-parabolic-flight/
+- **Chars:** 259/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Icarus%20Flies%20JOY%20Through%2066%20Parabolas%20Before%20an%20ISS%20Handover%0A%0ABrooklyn%20startup%20Icarus%20tested%20its%20free-flying%20cargo%20robot%20in%20Canadian%20zero-G%2C%20the%20last%20major%20flight%20before%20a%20January%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ficarus-joy-parabolic-flight%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Icarus Flies JOY Through 66 Parabolas Before an ISS Handover
+
+Brooklyn startup Icarus tested its free-flying cargo robot in Canadian zero-G, the last major flight before a January…
+
+https://mechafeed.com/blog/icarus-joy-parabolic-flight/
+
+#Robotics #Humanoids
+```
+
+---
+
+## PASSAGE Walks a G1 Through 50 Unseen Clutter Layouts Onboard
+
+- **Slug:** `passage-humanoid-clutter`
+- **Date:** 2026-09-18
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/passage-humanoid-clutter/
+- **Chars:** 261/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=PASSAGE%20Walks%20a%20G1%20Through%2050%20Unseen%20Clutter%20Layouts%20Onboard%0A%0AGalbot%20and%20university%20partners%20train%20one%20planner-tracker%20on%20100%20hours%20of%20VR%20clutter%2C%20then%20run%20LiDAR%20and%20control%20on%20a%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpassage-humanoid-clutter%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+PASSAGE Walks a G1 Through 50 Unseen Clutter Layouts Onboard
+
+Galbot and university partners train one planner-tracker on 100 hours of VR clutter, then run LiDAR and control on a…
+
+https://mechafeed.com/blog/passage-humanoid-clutter/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## Spirit AI Puts Moz1 on CATL Lines and Bets on Messy Human Data
+
+- **Slug:** `spirit-ai-moz1-data`
+- **Date:** 2026-09-18
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/spirit-ai-moz1-data/
+- **Chars:** 244/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Spirit%20AI%20Puts%20Moz1%20on%20CATL%20Lines%20and%20Bets%20on%20Messy%20Human%20Data%0A%0AGao%20Yang%20tells%20Reuters%20a%20mid-2027%20spoken-to-action%20milestone%2C%20while%20tens%20of%20wheeled%20Moz1s%20already%20work%20at%20CATL%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fspirit-ai-moz1-data%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+Spirit AI Puts Moz1 on CATL Lines and Bets on Messy Human Data
+
+Gao Yang tells Reuters a mid-2027 spoken-to-action milestone, while tens of wheeled Moz1s already work at CATL and…
+
+https://mechafeed.com/blog/spirit-ai-moz1-data/
+
+#AI #Humanoids
+```
+
+---
+
+## MIT Workspace Tokens Remember the Cubes Without a VLM in the Loop
+
+- **Slug:** `workspace-models-memory`
+- **Date:** 2026-09-18
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/workspace-models-memory/
+- **Chars:** 263/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=MIT%20Workspace%20Tokens%20Remember%20the%20Cubes%20Without%20a%20VLM%20in%20the%20Loop%0A%0ACoRL%202026%20paper%20amortizes%20VLM%20saliency%20into%20a%2049%20ms%20workspace%20encoder%20so%20a%20Franka%20can%20count%2C%20recall%20drawers%2C%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fworkspace-models-memory%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+MIT Workspace Tokens Remember the Cubes Without a VLM in the Loop
+
+CoRL 2026 paper amortizes VLM saliency into a 49 ms workspace encoder so a Franka can count, recall drawers, and…
+
+https://mechafeed.com/blog/workspace-models-memory/
+
+#RoboticsResearch #Humanoids
+```
 
 ---
 

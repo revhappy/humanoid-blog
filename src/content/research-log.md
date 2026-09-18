@@ -5371,3 +5371,78 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts dated 2026-09-17)
 - **Social:** tweets 529; robb-x 529
 - **Build:** PASS (astro build exit 0; 542 pages; new slugs rendered)
 - **Failures:** none. Soft floor 3 met; wrote 8 of target 8. X list not usable (disclosed).
+
+
+## 2026-09-18 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json, startedAt 2026-09-18T09:00:03-07:00)
+- Date (Pacific): 2026-09-18
+- git pull --rebase origin main: already up to date
+- Last published: 2026-09-17 morning (samsung-orchestra-surgical, agibot-a3-ultra-service, sprout-vine-search, decmht-digit-transport, limx-tron-loco-manip, clasp-blueberry-harvester, dual-helicity-elephant-trunk, rmuscle-vla-cache). No 9/17 afternoon in the log. **Do not rehash.**
+- Untracked leftover 9/14 local files (ArtManip, DWMP, FoldNet++, LIT, Pneu-rons, STAR, G1+, UR Gen 7) left unstaged; not part of this slot.
+- X list https://x.com/i/lists/1805786050763087967: **not usable as a curated feed**. Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: Figure Helix 2.5 / 30 Bay Area homes (Adcock 17 Sep) — **CANDIDATE/WRITTEN**
+- Public X: Sentio OS developer preview — **SKIP: thin / no independent stills this run**
+- Public X: Spirit AI 2027 robot-brain Reuters — **CANDIDATE/WRITTEN**
+- Public X: ugo Nova recirc — **SKIP: covered 9/16**
+- Public X: Digit 5 recirc — **SKIP: covered 9/15**
+- Public X: AGIBOT A3 Ultra recirc — **SKIP: covered 9/17**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Figure Helix 2.5 30-home generalization — figure.ai 17 Sep + YouTube + HD + Humanoid.guide + Startup Fortune — lane: **build**
+2. **[CANDIDATE/WRITTEN]** Icarus JOY 66-parabola ISS prep — TRR 18 Sep + Payload + The Debrief — lane: **build**
+3. **[CANDIDATE/WRITTEN]** G1 roofing slope locomotion — arXiv:2609.20558 — lane: **build**
+4. **[CANDIDATE/WRITTEN]** DexTouch-WM human tactile WM — arXiv:2609.20649 — lane: **build**
+5. **[CANDIDATE/WRITTEN]** Agile-WAM tactile WAM — arXiv:2609.20761 + project page — lane: **build**
+6. **[CANDIDATE/WRITTEN]** PASSAGE clutter traversal — arXiv:2609.18732 + project page — lane: **build**
+7. **[CANDIDATE/WRITTEN]** Spirit AI Moz1 / dirty-data interview — HD + Finimize + Reuters + GitHub Spirit-v1.5 — lane: **build** (lede is Moz1 + 1000 contractors + CATL/JD, not the raise)
+8. **[CANDIDATE/WRITTEN]** Workspace Models CoRL 2026 — arXiv:2609.20820 — lane: **build**
+9. **[SKIP: already covered]** Digit 5; Odyssey-3; Reward AI OM-1; 9/16–9/17 posts; ugo Nova; Zoomlion; OpenRobOps; Samsung ORchestra; AGIBOT A3 Ultra service; Lumos MOS 2; XPACE; Weave; X-WBC
+10. **[SKIP: no matching stills / exec-only / thin]** QBit QB88XX (PR still is TWSE/chairman booth); Sentio OS; Kinetic Blocks open catalogue recirc of 9/1 marketplace; Bimo 1.1 old; Muscle V0 old; INSPECT gearbox (kept as backup)
+11. **[SKIP: business mix]** TRR August \.9B funding; Watney \; Tesla Optimus factory steel / Ningbo audit; UBTECH Walker C1 Slovenia expansion; Figure 04 hardware-leap interview (same-day Figure, Helix 2.5 is the build story); Arm Total Design ecosystem
+12. **[SKIP: leftover untracked 9/14]** G1+, UR Gen 7, ArtManip, etc.
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | figure-helix-25-30-homes | Robb Harlan | Humanoids | build |
+| 2 | icarus-joy-parabolic-flight | Shar Hendrix | Robotics | build |
+| 3 | g1-roofing-slope-locomotion | Robb Harlan | Humanoids | build |
+| 4 | dextouch-wm-human-touch | Shar Hendrix | Robotics | build |
+| 5 | agile-wam-tactile | Robb Harlan | AI | build |
+| 6 | passage-humanoid-clutter | Shar Hendrix | Humanoids | build |
+| 7 | spirit-ai-moz1-data | Robb Harlan | AI | build |
+| 8 | workspace-models-memory | Shar Hendrix | Research | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+- Spirit counted as **build**: lede and bulk are Moz1 on CATL/JD lines, 1000 capture contractors, 90% structured-room caveat, bottle-cap failure. Funding/valuation is one sourced context sentence.
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary + matching stills: **8** | Writing: **8**
+- Soft floor 3 met. Hit target 8.
+
+### Notes for Future Agents
+- Do not rewrite Helix 2.5 30-home, Icarus JOY parabolic, G1 roofing, DexTouch-WM, Agile-WAM, PASSAGE, Spirit Moz1 Reuters-day, Workspace Models
+- Figure 04 / Adcock four-chapters interview (HD 18 Sep) still uncovered if treated as a hardware story with distinct stills
+- Cuebus × Yazaki × Yamazen starts **21 Sep**
+- QBit QB88XX uncovered if a chip/hand still (not exec booth) lands
+- INSPECT gearbox view-selection (arXiv:2609.20615) backup
+- TRR vs Payload/Debrief disagree on Icarus zero-G minutes (2 vs 22); parabola count 66 is shared — follow-up if Icarus posts a primary
+- Reward AI Omnibody glove is part of OM-1 (already covered 9/15), not a new product
+
+### Run summary
+- **Articles published (8):** figure-helix-25-30-homes, icarus-joy-parabolic-flight, g1-roofing-slope-locomotion, dextouch-wm-human-touch, agile-wam-tactile, passage-humanoid-clutter, spirit-ai-moz1-data, workspace-models-memory
+- **pubDate:** 2026-09-18
+- **Skipped candidates:** Digit 5 / ugo Nova / A3 Ultra recirc; QBit exec-only still; Sentio OS thin; Kinetic Blocks recirc; Watney/funding/Ningbo/Walker C1 Slovenia/Figure 04 interview; INSPECT backup; 9/14 leftovers
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (
+pm run verify-media:today — 0 errors, 0 warnings on 8 posts dated 2026-09-18)
+- **Vision gate:** PASS — Helix (Figure 03 three-home composite hero + Adcock/towel still + Index chart); Icarus (JOY in cabin hero + dual-arm hardware + NRC team); G1 roofing (hardware time-lapse hero + human/G1 Figure 1 + 9/17/25 deg platform); DexTouch (teaser glove/Wuji hero + generated demo grid); Agile-WAM (five-task gripper hero + recovery sequences); PASSAGE (pipeline+real G1 hero + VR mocap + sim/LiDAR pair); Spirit (Moz1 CATL hero + stage humanoid); Workspace (filmstrip hero + architecture + cube-slot chart)
+- **Social:** tweets 537; robb-x 537
+- **Build:** PASS (astro build exit 0; 550 pages; new slugs rendered)
+- **Failures:** none. Soft floor 3 met; wrote 8 of target 8. X list not usable (disclosed).

@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-17T18:16:34.112Z
+Generated: 2026-09-18T16:13:34.485Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Agile-WAM Inserts Plugs at 11.9 ms Without a Giant Video Backbone
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/agile-wam-tactile/
+
+### SOLO (no link)
+
+```
+Eleven milliseconds is the part I trust more than “world model. ” If you can keep contact while the camera is looking at the back of a plug, you have a policy that belongs on a line, not a reel.
+```
+
+### SOFT-LINK variant
+
+```
+Eleven milliseconds is the part I trust more than “world model. ” If you can keep contact while the camera is looking at the back of a plug, you have a policy that belongs on a line, not a reel.
+
+https://mechafeed.com/blog/agile-wam-tactile/
+```
+
+---
+
+## DexTouch-WM Trains Robot Touch on 100 Hours of Human Gloves
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/dextouch-wm-human-touch/
+
+### SOLO (no link)
+
+```
+I like the experiment design more than the acronym.  Five hours of robot time, then ask whether 100 hours of sweaty gloves actually help *robot* contact prediction on tasks the robot never practiced.
+```
+
+### SOFT-LINK variant
+
+```
+I like the experiment design more than the acronym.  Five hours of robot time, then ask whether 100 hours of sweaty gloves actually help *robot* contact prediction on tasks the robot never practiced.
+
+https://mechafeed.com/blog/dextouch-wm-human-touch/
+```
+
+---
+
+## Figure’s Helix 2.5 Does Chores in 30 Homes It Never Trained In
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/figure-helix-25-30-homes/
+
+### SOLO (no link)
+
+```
+Fifty-six percent with no credit for a half-made bed is a real transfer result, not a trailer.  It is also not a housekeeper.
+```
+
+### SOFT-LINK variant
+
+```
+Fifty-six percent with no credit for a half-made bed is a real transfer result, not a trailer.  It is also not a housekeeper.
+
+https://mechafeed.com/blog/figure-helix-25-30-homes/
+```
+
+---
+
+## A Unitree G1 Learns Roofer Motions on a Pitched Lab Roof
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/g1-roofing-slope-locomotion/
+
+### SOLO (no link)
+
+```
+I care that they measured the roof and then argued with the retargeter until the hand was 12 cm from the deck, not that a humanoid “did construction. ” Eighty millimeters of base error under a hoist is a lab receipt.
+```
+
+### SOFT-LINK variant
+
+```
+I care that they measured the roof and then argued with the retargeter until the hand was 12 cm from the deck, not that a humanoid “did construction. ” Eighty millimeters of base error under a hoist is a lab receipt.
+
+https://mechafeed.com/blog/g1-roofing-slope-locomotion/
+```
+
+---
+
+## Icarus Flies JOY Through 66 Parabolas Before an ISS Handover
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/icarus-joy-parabolic-flight/
+
+### SOLO (no link)
+
+```
+I am here for a robot whose first customer is a cargo bag, not a keynote.  Sixty-six parabolas is a real systems test: arms, estimator, fans, catch-and-release.
+```
+
+### SOFT-LINK variant
+
+```
+I am here for a robot whose first customer is a cargo bag, not a keynote.  Sixty-six parabolas is a real systems test: arms, estimator, fans, catch-and-release.
+
+https://mechafeed.com/blog/icarus-joy-parabolic-flight/
+```
+
+---
+
+## PASSAGE Walks a G1 Through 50 Unseen Clutter Layouts Onboard
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/passage-humanoid-clutter/
+
+### SOLO (no link)
+
+```
+Fifty layouts with one planner and a backpack Jetson is the demo I want more of.  Contact-free at 45/50 is the honest number: it finishes the course, and sometimes it still kisses the foam.
+```
+
+### SOFT-LINK variant
+
+```
+Fifty layouts with one planner and a backpack Jetson is the demo I want more of.  Contact-free at 45/50 is the honest number: it finishes the course, and sometimes it still kisses the foam.
+
+https://mechafeed.com/blog/passage-humanoid-clutter/
+```
+
+---
+
+## Spirit AI Puts Moz1 on CATL Lines and Bets on Messy Human Data
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/spirit-ai-moz1-data/
+
+### SOLO (no link)
+
+```
+I will remember the thousand contractors and the Moz1s at CATL before I remember “GPT-3 for robots. ” Mid-2027 is now a calendar invite.
+```
+
+### SOFT-LINK variant
+
+```
+I will remember the thousand contractors and the Moz1s at CATL before I remember “GPT-3 for robots. ” Mid-2027 is now a calendar invite.
+
+https://mechafeed.com/blog/spirit-ai-moz1-data/
+```
+
+---
+
+## MIT Workspace Tokens Remember the Cubes Without a VLM in the Loop
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/workspace-models-memory/
+
+### SOLO (no link)
+
+```
+Paying Qwen once per demonstration and then running a 49 ms encoder is the kind of asymmetry robot labs can actually afford.  Beating the live VLM on success, not just latency, is the twist.
+```
+
+### SOFT-LINK variant
+
+```
+Paying Qwen once per demonstration and then running a 49 ms encoder is the kind of asymmetry robot labs can actually afford.  Beating the live VLM on success, not just latency, is the twist.
+
+https://mechafeed.com/blog/workspace-models-memory/
+```
 
 ---
 
