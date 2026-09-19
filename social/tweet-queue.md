@@ -14,8 +14,155 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-19T05:09:51.685Z
-Posts: 543
+Generated: 2026-09-19T16:12:27.634Z
+Posts: 550
+
+---
+
+## AthenaZero Throws 69 mph and Plays Catch on the Science Robotics Cover
+
+- **Slug:** `athena-zero-baseball`
+- **Date:** 2026-09-19
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/athena-zero-baseball/
+- **Chars:** 258/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=AthenaZero%20Throws%2069%20mph%20and%20Plays%20Catch%20on%20the%20Science%20Robotics%20Cover%0A%0ARAI%E2%80%99s%20low-inertia%20bimanual%20arm%20is%20the%20September%202026%20Science%20Robotics%20cover%2C%20with%2030.8%20m%2Fs%20throws%20and%2082%25%20batting%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fathena-zero-baseball%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+AthenaZero Throws 69 mph and Plays Catch on the Science Robotics Cover
+
+RAI’s low-inertia bimanual arm is the September 2026 Science Robotics cover, with 30.8 m/s throws and 82% batting…
+
+https://mechafeed.com/blog/athena-zero-baseball/
+
+#Robotics #Humanoids
+```
+
+---
+
+## UPenn Turns Generated Contact Sound Into Force on a Franka
+
+- **Slug:** `dreaming-contact-sound`
+- **Date:** 2026-09-19
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/dreaming-contact-sound/
+- **Chars:** 242/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=UPenn%20Turns%20Generated%20Contact%20Sound%20Into%20Force%20on%20a%20Franka%0A%0ADreaming%20the%20Sound%20of%20Contact%20maps%20Seedance%20audio%20loudness%20to%20force%2C%20lifting%20zero-shot%20success%20from%208%2F40%20to%2036%2F40.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdreaming-contact-sound%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+UPenn Turns Generated Contact Sound Into Force on a Franka
+
+Dreaming the Sound of Contact maps Seedance audio loudness to force, lifting zero-shot success from 8/40 to 36/40.
+
+https://mechafeed.com/blog/dreaming-contact-sound/
+
+#AI #Humanoids
+```
+
+---
+
+## Hirebotics Puts Cobots on a Linear Rail and Lets Painters Track the Line
+
+- **Slug:** `hirebotics-linear-rail`
+- **Date:** 2026-09-19
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/hirebotics-linear-rail/
+- **Chars:** 255/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Hirebotics%20Puts%20Cobots%20on%20a%20Linear%20Rail%20and%20Lets%20Painters%20Track%20the%20Line%0A%0AAt%20IMTS%202026%2C%20Hirebotics%20adds%20a%205-foot%20modular%20rail%20and%20no-code%20line%20tracking%20so%20cobots%20paint%20moving%20parts.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhirebotics-linear-rail%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Hirebotics Puts Cobots on a Linear Rail and Lets Painters Track the Line
+
+At IMTS 2026, Hirebotics adds a 5-foot modular rail and no-code line tracking so cobots paint moving parts.
+
+https://mechafeed.com/blog/hirebotics-linear-rail/
+
+#Robotics #Humanoids
+```
+
+---
+
+## A Flying Humanoid Walks on a Ceiling, Four Steps at a Time
+
+- **Slug:** `jsk-anti-gravity-walking`
+- **Date:** 2026-09-19
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/jsk-anti-gravity-walking/
+- **Chars:** 250/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20Flying%20Humanoid%20Walks%20on%20a%20Ceiling%2C%20Four%20Steps%20at%20a%20Time%0A%0AJSK%E2%80%99s%20IEEE%20RA-L%20paper%20shows%20thrust-rate%20whole-body%20MPC%20walking%20a%20flying%20humanoid%200.15%20m%20along%20a%20lab%20ceiling.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fjsk-anti-gravity-walking%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+A Flying Humanoid Walks on a Ceiling, Four Steps at a Time
+
+JSK’s IEEE RA-L paper shows thrust-rate whole-body MPC walking a flying humanoid 0.15 m along a lab ceiling.
+
+https://mechafeed.com/blog/jsk-anti-gravity-walking/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## JSK’s Morphing Flyer Paints a Cylinder With a Floppy Arm That Also Lifts
+
+- **Slug:** `jsk-morphing-aerial`
+- **Date:** 2026-09-19
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/jsk-morphing-aerial/
+- **Chars:** 264/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=JSK%E2%80%99s%20Morphing%20Flyer%20Paints%20a%20Cylinder%20With%20a%20Floppy%20Arm%20That%20Also%20Lifts%0A%0AA%20University%20of%20Tokyo%20aerial%20robot%20puts%20thrusters%20on%20flexible%20continuum%20links%2C%20then%20paints%20a%20250%20mm%20pipe%20and%20hauls%20683%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fjsk-morphing-aerial%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+JSK’s Morphing Flyer Paints a Cylinder With a Floppy Arm That Also Lifts
+
+A University of Tokyo aerial robot puts thrusters on flexible continuum links, then paints a 250 mm pipe and hauls 683…
+
+https://mechafeed.com/blog/jsk-morphing-aerial/
+
+#Robotics #Humanoids
+```
+
+---
+
+## ULOHA Is ALOHA in a Tank, Bubbles and All
+
+- **Slug:** `uloha-underwater`
+- **Date:** 2026-09-19
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/uloha-underwater/
+- **Chars:** 230/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ULOHA%20Is%20ALOHA%20in%20a%20Tank%2C%20Bubbles%20and%20All%0A%0AOsaka%20and%20Kobe%E2%80%99s%20underwater%20bimanual%20kit%20learns%20nine%20tank%20tasks%20with%20ACT%2C%20then%20watches%20bubbles%20cut%20sequential%20transfer%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fuloha-underwater%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+ULOHA Is ALOHA in a Tank, Bubbles and All
+
+Osaka and Kobe’s underwater bimanual kit learns nine tank tasks with ACT, then watches bubbles cut sequential transfer…
+
+https://mechafeed.com/blog/uloha-underwater/
+
+#Robotics #Humanoids
+```
+
+---
+
+## WetRobo Lets a Coding Agent Open Incubators Instead of Training a VLA
+
+- **Slug:** `wetrobo-lab-coding`
+- **Date:** 2026-09-19
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/wetrobo-lab-coding/
+- **Chars:** 251/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=WetRobo%20Lets%20a%20Coding%20Agent%20Open%20Incubators%20Instead%20of%20Training%20a%20VLA%0A%0AUTokyo%20and%20NYU%20ship%20a%20Piper-arm%20wet-lab%20kit%20where%20Codex%20writes%20the%20motion%20code%20and%20beats%20a%20lab-tuned%20%CF%800.5%20on%20bottle%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fwetrobo-lab-coding%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+WetRobo Lets a Coding Agent Open Incubators Instead of Training a VLA
+
+UTokyo and NYU ship a Piper-arm wet-lab kit where Codex writes the motion code and beats a lab-tuned π0.5 on bottle…
+
+https://mechafeed.com/blog/wetrobo-lab-coding/
+
+#AI #Humanoids
+```
 
 ---
 

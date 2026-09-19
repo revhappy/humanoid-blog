@@ -3,9 +3,163 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-19T05:09:52.842Z
+Generated: 2026-09-19T16:12:27.641Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## AthenaZero Throws 69 mph and Plays Catch on the Science Robotics Cover
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/athena-zero-baseball/
+
+### SOLO (no link)
+
+```
+I already believed AthenaZero could juggle.  This paper is the one that tells you *why* the arm is built that way: if the endpoint mass is closer to a person than a cobot, you can take a baseball hit without the object bouncing off like it hit a wall.
+```
+
+### SOFT-LINK variant
+
+```
+I already believed AthenaZero could juggle.  This paper is the one that tells you *why* the arm is built that way: if the endpoint mass is closer to a person than a cobot, you can take a baseball hit …
+
+https://mechafeed.com/blog/athena-zero-baseball/
+```
+
+---
+
+## UPenn Turns Generated Contact Sound Into Force on a Franka
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/dreaming-contact-sound/
+
+### SOLO (no link)
+
+```
+Using a made-up scraping noise as a force schedule is a weird idea that happens to beat “just replay the pixels. ” The 8/40 to 36/40 gap is the result.
+```
+
+### SOFT-LINK variant
+
+```
+Using a made-up scraping noise as a force schedule is a weird idea that happens to beat “just replay the pixels. ” The 8/40 to 36/40 gap is the result.
+
+https://mechafeed.com/blog/dreaming-contact-sound/
+```
+
+---
+
+## Hirebotics Puts Cobots on a Linear Rail and Lets Painters Track the Line
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/hirebotics-linear-rail/
+
+### SOLO (no link)
+
+```
+This is the unglamorous version of “make the robot bigger. ” You do not need a 20-foot arm if you can slide a 69-inch arm down a beam.
+```
+
+### SOFT-LINK variant
+
+```
+This is the unglamorous version of “make the robot bigger. ” You do not need a 20-foot arm if you can slide a 69-inch arm down a beam.
+
+https://mechafeed.com/blog/hirebotics-linear-rail/
+```
+
+---
+
+## A Flying Humanoid Walks on a Ceiling, Four Steps at a Time
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/jsk-anti-gravity-walking/
+
+### SOLO (no link)
+
+```
+I am here for robots that treat a ceiling as a floor.  The thrust-rate trick is the kind of boring formulation change that lets hardware exist at all.
+```
+
+### SOFT-LINK variant
+
+```
+I am here for robots that treat a ceiling as a floor.  The thrust-rate trick is the kind of boring formulation change that lets hardware exist at all.
+
+https://mechafeed.com/blog/jsk-anti-gravity-walking/
+```
+
+---
+
+## JSK’s Morphing Flyer Paints a Cylinder With a Floppy Arm That Also Lifts
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/jsk-morphing-aerial/
+
+### SOLO (no link)
+
+```
+Putting a rotor on a spring sounds like a way to invent a new oscillation.  They spent half the paper killing that oscillation, which is the right order of operations.
+```
+
+### SOFT-LINK variant
+
+```
+Putting a rotor on a spring sounds like a way to invent a new oscillation.  They spent half the paper killing that oscillation, which is the right order of operations.
+
+https://mechafeed.com/blog/jsk-morphing-aerial/
+```
+
+---
+
+## ULOHA Is ALOHA in a Tank, Bubbles and All
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/uloha-underwater/
+
+### SOLO (no link)
+
+```
+The sponge numbers are the honest part of the paper.  A block hand-over at 10/10 is a tank toy.
+```
+
+### SOFT-LINK variant
+
+```
+The sponge numbers are the honest part of the paper.  A block hand-over at 10/10 is a tank toy.
+
+https://mechafeed.com/blog/uloha-underwater/
+```
+
+---
+
+## WetRobo Lets a Coding Agent Open Incubators Instead of Training a VLA
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/wetrobo-lab-coding/
+
+### SOLO (no link)
+
+```
+I like this because the failure mode is readable.  When the VLA eats a new bench, you get a shrug.
+```
+
+### SOFT-LINK variant
+
+```
+I like this because the failure mode is readable.  When the VLA eats a new bench, you get a shrug.
+
+https://mechafeed.com/blog/wetrobo-lab-coding/
+```
 
 ---
 

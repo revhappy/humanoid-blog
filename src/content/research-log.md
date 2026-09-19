@@ -5515,3 +5515,73 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts dated 2026-09-18)
 - **Build:** PASS (astro build exit 0; 556 pages; new slugs rendered)
 - **Failures:** none. Soft floor 2 met; wrote 6 of target 6. X list not usable (disclosed). IEEE Xplore SAM paper did not fetch; numbers from TechXplore.
 
+
+
+## 2026-09-19 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json, startedAt 2026-09-19T09:00:03-07:00)
+- Date (Pacific): 2026-09-19
+- git pull --rebase origin main: already up to date
+- Last published: 2026-09-18 afternoon (tutor-next-gen-cassie-sonny, limx-luna-china-gt, rom-nav-g1-stairs, hil-umi-vla, sam-maple-seed-monocopter, inspect-gearbox-views) plus morning 8. **Do not rehash.** No 2026-09-19 posts before this run.
+- X list https://x.com/i/lists/1805786050763087967: **not usable as a curated feed**. Keyword Latest with list: operator returned mixed general posts (hyperscalers, PrismaX safety, Hirebotics rail clip, Reward AI OM-1 recirc). Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: JSK anti-gravity walking IEEE RA-L + YouTube (Sugihara, 19 Sep) — **CANDIDATE/WRITTEN**
+- Public X: Hirebotics linear rail walkthrough — **CANDIDATE/WRITTEN** (matched TRR/Robotics 24/7)
+- Public X: GMO Hitomin backflip (Kumagai 19 Sep) — **SKIP: thin / already covered GMO ambulance; no English primary for this clip**
+- Public X: Reward AI OM-1 recirc — **SKIP: covered 9/15**
+- Public X: Digit 5 / Optimus / Helix recirc — **SKIP: already covered**
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** JSK flying humanoid anti-gravity walking — arXiv:2609.07544 + YouTube wmGmubDY8n4 — lane: **build**
+2. **[CANDIDATE/WRITTEN]** AthenaZero Science Robotics cover (throw/catch/bat) — arXiv:2609.19194 + Science Robotics + RAI blog + IE — lane: **build** (distinct from Aug juggling paper)
+3. **[CANDIDATE/WRITTEN]** Hirebotics linear rail + line tracking IMTS — Robotics 24/7 16 Sep + TRR 19 Sep listing + Hirebotics site — lane: **build**
+4. **[CANDIDATE/WRITTEN]** WetRobo coding-agent lab kit — arXiv:2609.18435 + GitHub — lane: **build**
+5. **[CANDIDATE/WRITTEN]** Dreaming the Sound of Contact — arXiv:2609.19137 + project page — lane: **build**
+6. **[CANDIDATE/WRITTEN]** ULOHA underwater bimanual ALOHA — arXiv:2609.19200 + project page — lane: **build**
+7. **[CANDIDATE/WRITTEN]** JSK morphing aerial continuum + thruster — arXiv:2609.19328 — lane: **build**
+8. **[SKIP: one still]** WorMa NYU amphibious mass-shift — TechXplore 17 Sep + DOI 10.1002/adrr.70163 — only one usable robot photo (800x450); no second distinct still
+9. **[SKIP: already covered]** Helix 2.5; Icarus JOY; G1 roofing; DexTouch-WM; Agile-WAM; PASSAGE; Spirit Moz1; Workspace Models; Tutor Cassie; Luna GT; RoM-Nav; HIL-UMI; SAM; INSPECT; Digit 5; OM-1; Fingers as Legs; SwingBot; ugo Nova; A3 Ultra; AthenaZero juggling (rai-athena-robot-juggling.md)
+10. **[SKIP: business mix / recirc / thin]** Tesla Optimus steel frame; 1X 50k NEO; UBTECH Liuzhou takt; Dynamic Creatures (founder-only Fortune still; launch 8 Sep); SoftBank–RAI CFIUS; Cuebus 21 Sep; QBit exec booth
+11. **[SKIP: no matching stills]** Gated residual Agile One (sim-only); China-ASEAN Expo unnamed robots
+
+### Selected for Writing (ranked) — 7 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | jsk-anti-gravity-walking | Shar Hendrix | Humanoids | build |
+| 2 | athena-zero-baseball | Robb Harlan | Robotics | build |
+| 3 | hirebotics-linear-rail | Robb Harlan | Robotics | build |
+| 4 | wetrobo-lab-coding | Shar Hendrix | AI | build |
+| 5 | dreaming-contact-sound | Robb Harlan | AI | build |
+| 6 | uloha-underwater | Shar Hendrix | Robotics | build |
+| 7 | jsk-morphing-aerial | Robb Harlan | Robotics | build |
+
+### Mix check
+- Build/innovate: 7 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary + matching stills: **7** | Writing: **7**
+- Soft floor 3 met. Missed target 8 because WorMa had only one usable still (do not pad). Did not rehash 9/18 posts.
+
+### Notes for Future Agents
+- Do not rewrite JSK anti-gravity ceiling walk, AthenaZero Science Robotics baseball (distinct from juggling), Hirebotics IMTS rail/line-tracking, WetRobo, Dreaming Contact Sound, ULOHA, JSK morphing aerial continuum
+- WorMa (NYU Tandon, Advanced Robotics Research DOI 10.1002/adrr.70163) still uncovered if a second distinct still lands
+- Dynamic Creatures / Danielle-on-Spot uncovered if a robot still (not founder headshot) lands from Fortune/TRR
+- Cuebus × Yazaki × Yamazen starts **21 Sep**
+- GMO Hitomin backflip is a 19 Sep X clip on a Unitree G1 already covered via ambulance/WHRG — skip unless GMO posts a primary with stills
+- Figure 04 / Adcock four-chapters interview still uncovered as a hardware story with distinct stills
+
+
+### Run summary
+- **Articles published (7):** jsk-anti-gravity-walking, athena-zero-baseball, hirebotics-linear-rail, wetrobo-lab-coding, dreaming-contact-sound, uloha-underwater, jsk-morphing-aerial
+- **pubDate:** 2026-09-19
+- **Skipped candidates:** WorMa (one still), Dynamic Creatures (founder still), 9/18 morning+afternoon 14, Digit 5 / OM-1 / Helix recirc, business mix (Optimus steel, 1X 50k, UBTECH takt), GMO backflip thin, Cuebus 21 Sep
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (
+pm run verify-media:today — 0 errors, 0 warnings on 7 posts dated 2026-09-19)
+- **Vision gate:** PASS — JSK ceiling (6-frame hardware walk hero + overview with flying humanoid); AthenaZero (throw hero + throw/catch/bat strip); Hirebotics (IMTS linear-rail booth hero + FANUC paint cobot); WetRobo (Petri-lid gripper hero + incubator door strip); Dreaming (carrot-peel concept hero + generated vs real task grid); ULOHA (tank composite hero + labeled leader/follower hardware); Morphing aerial (overview tasks hero + 250 mm cylinder paint)
+- **Social:** tweets 550; robb-x 550
+- **Build:** PASS (astro build exit 0; 563 pages; new slugs rendered)
+- **Failures:** none. Soft floor 3 met; wrote 7 of target 8. X list not usable (disclosed). IEEE Xplore 11694283 did not return body; anti-gravity numbers from arXiv HTML + YouTube.

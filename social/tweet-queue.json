@@ -1,7 +1,77 @@
 {
-  "generatedAt": "2026-09-19T05:09:51.685Z",
+  "generatedAt": "2026-09-19T16:12:27.634Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "athena-zero-baseball",
+      "title": "AthenaZero Throws 69 mph and Plays Catch on the Science Robotics Cover",
+      "pubDate": "2026-09-19",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/athena-zero-baseball/",
+      "tweet": "AthenaZero Throws 69 mph and Plays Catch on the Science Robotics Cover\n\nRAI’s low-inertia bimanual arm is the September 2026 Science Robotics cover, with 30.8 m/s throws and 82% batting…\n\nhttps://mechafeed.com/blog/athena-zero-baseball/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=AthenaZero%20Throws%2069%20mph%20and%20Plays%20Catch%20on%20the%20Science%20Robotics%20Cover%0A%0ARAI%E2%80%99s%20low-inertia%20bimanual%20arm%20is%20the%20September%202026%20Science%20Robotics%20cover%2C%20with%2030.8%20m%2Fs%20throws%20and%2082%25%20batting%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fathena-zero-baseball%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 258
+    },
+    {
+      "id": "dreaming-contact-sound",
+      "title": "UPenn Turns Generated Contact Sound Into Force on a Franka",
+      "pubDate": "2026-09-19",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/dreaming-contact-sound/",
+      "tweet": "UPenn Turns Generated Contact Sound Into Force on a Franka\n\nDreaming the Sound of Contact maps Seedance audio loudness to force, lifting zero-shot success from 8/40 to 36/40.\n\nhttps://mechafeed.com/blog/dreaming-contact-sound/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=UPenn%20Turns%20Generated%20Contact%20Sound%20Into%20Force%20on%20a%20Franka%0A%0ADreaming%20the%20Sound%20of%20Contact%20maps%20Seedance%20audio%20loudness%20to%20force%2C%20lifting%20zero-shot%20success%20from%208%2F40%20to%2036%2F40.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdreaming-contact-sound%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 242
+    },
+    {
+      "id": "hirebotics-linear-rail",
+      "title": "Hirebotics Puts Cobots on a Linear Rail and Lets Painters Track the Line",
+      "pubDate": "2026-09-19",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/hirebotics-linear-rail/",
+      "tweet": "Hirebotics Puts Cobots on a Linear Rail and Lets Painters Track the Line\n\nAt IMTS 2026, Hirebotics adds a 5-foot modular rail and no-code line tracking so cobots paint moving parts.\n\nhttps://mechafeed.com/blog/hirebotics-linear-rail/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Hirebotics%20Puts%20Cobots%20on%20a%20Linear%20Rail%20and%20Lets%20Painters%20Track%20the%20Line%0A%0AAt%20IMTS%202026%2C%20Hirebotics%20adds%20a%205-foot%20modular%20rail%20and%20no-code%20line%20tracking%20so%20cobots%20paint%20moving%20parts.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhirebotics-linear-rail%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 255
+    },
+    {
+      "id": "jsk-anti-gravity-walking",
+      "title": "A Flying Humanoid Walks on a Ceiling, Four Steps at a Time",
+      "pubDate": "2026-09-19",
+      "category": "Humanoids",
+      "url": "https://mechafeed.com/blog/jsk-anti-gravity-walking/",
+      "tweet": "A Flying Humanoid Walks on a Ceiling, Four Steps at a Time\n\nJSK’s IEEE RA-L paper shows thrust-rate whole-body MPC walking a flying humanoid 0.15 m along a lab ceiling.\n\nhttps://mechafeed.com/blog/jsk-anti-gravity-walking/\n\n#HumanoidRobots #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=A%20Flying%20Humanoid%20Walks%20on%20a%20Ceiling%2C%20Four%20Steps%20at%20a%20Time%0A%0AJSK%E2%80%99s%20IEEE%20RA-L%20paper%20shows%20thrust-rate%20whole-body%20MPC%20walking%20a%20flying%20humanoid%200.15%20m%20along%20a%20lab%20ceiling.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fjsk-anti-gravity-walking%2F%0A%0A%23HumanoidRobots%20%23Humanoids",
+      "chars": 250
+    },
+    {
+      "id": "jsk-morphing-aerial",
+      "title": "JSK’s Morphing Flyer Paints a Cylinder With a Floppy Arm That Also Lifts",
+      "pubDate": "2026-09-19",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/jsk-morphing-aerial/",
+      "tweet": "JSK’s Morphing Flyer Paints a Cylinder With a Floppy Arm That Also Lifts\n\nA University of Tokyo aerial robot puts thrusters on flexible continuum links, then paints a 250 mm pipe and hauls 683…\n\nhttps://mechafeed.com/blog/jsk-morphing-aerial/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=JSK%E2%80%99s%20Morphing%20Flyer%20Paints%20a%20Cylinder%20With%20a%20Floppy%20Arm%20That%20Also%20Lifts%0A%0AA%20University%20of%20Tokyo%20aerial%20robot%20puts%20thrusters%20on%20flexible%20continuum%20links%2C%20then%20paints%20a%20250%20mm%20pipe%20and%20hauls%20683%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fjsk-morphing-aerial%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 264
+    },
+    {
+      "id": "uloha-underwater",
+      "title": "ULOHA Is ALOHA in a Tank, Bubbles and All",
+      "pubDate": "2026-09-19",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/uloha-underwater/",
+      "tweet": "ULOHA Is ALOHA in a Tank, Bubbles and All\n\nOsaka and Kobe’s underwater bimanual kit learns nine tank tasks with ACT, then watches bubbles cut sequential transfer…\n\nhttps://mechafeed.com/blog/uloha-underwater/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=ULOHA%20Is%20ALOHA%20in%20a%20Tank%2C%20Bubbles%20and%20All%0A%0AOsaka%20and%20Kobe%E2%80%99s%20underwater%20bimanual%20kit%20learns%20nine%20tank%20tasks%20with%20ACT%2C%20then%20watches%20bubbles%20cut%20sequential%20transfer%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fuloha-underwater%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 230
+    },
+    {
+      "id": "wetrobo-lab-coding",
+      "title": "WetRobo Lets a Coding Agent Open Incubators Instead of Training a VLA",
+      "pubDate": "2026-09-19",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/wetrobo-lab-coding/",
+      "tweet": "WetRobo Lets a Coding Agent Open Incubators Instead of Training a VLA\n\nUTokyo and NYU ship a Piper-arm wet-lab kit where Codex writes the motion code and beats a lab-tuned π0.5 on bottle…\n\nhttps://mechafeed.com/blog/wetrobo-lab-coding/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=WetRobo%20Lets%20a%20Coding%20Agent%20Open%20Incubators%20Instead%20of%20Training%20a%20VLA%0A%0AUTokyo%20and%20NYU%20ship%20a%20Piper-arm%20wet-lab%20kit%20where%20Codex%20writes%20the%20motion%20code%20and%20beats%20a%20lab-tuned%20%CF%800.5%20on%20bottle%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fwetrobo-lab-coding%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 251
+    },
     {
       "id": "agile-wam-tactile",
       "title": "Agile-WAM Inserts Plugs at 11.9 ms Without a Giant Video Backbone",
