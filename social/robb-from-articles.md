@@ -3,9 +3,31 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-19T16:12:27.641Z
+Generated: 2026-09-19T21:12:03.071Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## AnyViewDex Grasps From Uncalibrated RGB, No Depth at Test Time
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/anyviewdex-leap-hand/
+
+### SOLO (no link)
+
+```
+I have watched too many hand papers that assume a perfectly bolted camera.  This one moves the camera on purpose and still gets three-quarters of the grasps.
+```
+
+### SOFT-LINK variant
+
+```
+I have watched too many hand papers that assume a perfectly bolted camera.  This one moves the camera on purpose and still gets three-quarters of the grasps.
+
+https://mechafeed.com/blog/anyviewdex-leap-hand/
+```
 
 ---
 
@@ -119,6 +141,94 @@ https://mechafeed.com/blog/jsk-morphing-aerial/
 
 ---
 
+## OmniCalib Recalibrates an A3 Ultra Without a Checkerboard
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/omnicalib-a3-ultra/
+
+### SOLO (no link)
+
+```
+This is the unglamorous work that decides whether a factory humanoid’s wrist camera is lying.  I like that they refuse to write a number the walk cannot see.
+```
+
+### SOFT-LINK variant
+
+```
+This is the unglamorous work that decides whether a factory humanoid’s wrist camera is lying.  I like that they refuse to write a number the walk cannot see.
+
+https://mechafeed.com/blog/omnicalib-a3-ultra/
+```
+
+---
+
+## RotateIt Spins a Shirt Open With One Arm, No Fling
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/rotateit-garment/
+
+### SOLO (no link)
+
+```
+Flinging is a party trick that needs two hands and a clear table.  Spinning around a single pinch is the version that fits a home arm.
+```
+
+### SOFT-LINK variant
+
+```
+Flinging is a party trick that needs two hands and a clear table.  Spinning around a single pinch is the version that fits a home arm.
+
+https://mechafeed.com/blog/rotateit-garment/
+```
+
+---
+
+## SkipVLA Lets the Motion Planner Drive, and the VLA Only Grab
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/skipvla-planner/
+
+### SOLO (no link)
+
+```
+I have been waiting for someone to stop running a billion-parameter net through empty Cartesian space.  The energy number on Thor is the one I would take to a deployment meeting.
+```
+
+### SOFT-LINK variant
+
+```
+I have been waiting for someone to stop running a billion-parameter net through empty Cartesian space.  The energy number on Thor is the one I would take to a deployment meeting.
+
+https://mechafeed.com/blog/skipvla-planner/
+```
+
+---
+
+## A Shadow Hand Makes Sushi by Feel, Then Throws the Crystal Ball Away
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/tacsushi-shadow-hand/
+
+### SOLO (no link)
+
+```
+I am so here for a paper that admits sushi success is a photo, not a millimeter.  The useful split is the training-only decoder: you get to learn from ruined rice without asking the deployed policy to hallucinate the next frame.
+```
+
+### SOFT-LINK variant
+
+```
+I am so here for a paper that admits sushi success is a photo, not a millimeter.  The useful split is the training-only decoder: you get to learn from ruined rice without asking the deployed policy to hallucinate the next frame.
+
+https://mechafeed.com/blog/tacsushi-shadow-hand/
+```
+
+---
+
 ## ULOHA Is ALOHA in a Tank, Bubbles and All
 
 - Author on blog: Shar Hendrix
@@ -137,6 +247,28 @@ The sponge numbers are the honest part of the paper.  A block hand-over at 10/10
 The sponge numbers are the honest part of the paper.  A block hand-over at 10/10 is a tank toy.
 
 https://mechafeed.com/blog/uloha-underwater/
+```
+
+---
+
+## A G1 Walks Up and Closes the Door From Head Depth Alone
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/viloman-g1-door/
+
+### SOLO (no link)
+
+```
+Door closing is the right boring task.  You can fake a dance clip.
+```
+
+### SOFT-LINK variant
+
+```
+Door closing is the right boring task.  You can fake a dance clip.
+
+https://mechafeed.com/blog/viloman-g1-door/
 ```
 
 ---

@@ -14,8 +14,29 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-19T16:12:27.634Z
-Posts: 550
+Generated: 2026-09-19T21:11:45.171Z
+Posts: 556
+
+---
+
+## AnyViewDex Grasps From Uncalibrated RGB, No Depth at Test Time
+
+- **Slug:** `anyviewdex-leap-hand`
+- **Date:** 2026-09-19
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/anyviewdex-leap-hand/
+- **Chars:** 246/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=AnyViewDex%20Grasps%20From%20Uncalibrated%20RGB%2C%20No%20Depth%20at%20Test%20Time%0A%0AIIIT-H%E2%80%99s%20LEAP%20Hand%20policy%20hits%2076.7%25%20on%20eight%20unseen%20objects%20and%20six%20camera%20poses.%20Geometry%20is%20taught%20in%20sim%3B%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fanyviewdex-leap-hand%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+AnyViewDex Grasps From Uncalibrated RGB, No Depth at Test Time
+
+IIIT-H’s LEAP Hand policy hits 76.7% on eight unseen objects and six camera poses. Geometry is taught in sim;…
+
+https://mechafeed.com/blog/anyviewdex-leap-hand/
+
+#Robotics #Humanoids
+```
 
 ---
 
@@ -124,6 +145,90 @@ https://mechafeed.com/blog/jsk-morphing-aerial/
 
 ---
 
+## OmniCalib Recalibrates an A3 Ultra Without a Checkerboard
+
+- **Slug:** `omnicalib-a3-ultra`
+- **Date:** 2026-09-19
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/omnicalib-a3-ultra/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=OmniCalib%20Recalibrates%20an%20A3%20Ultra%20Without%20a%20Checkerboard%0A%0AOn%20AGIBOT%E2%80%99s%20A3%20Ultra%2C%20robot-native%20motion%20recovers%2014%20arm%20zeros%2C%2012%20leg%20zeros%2C%20and%20a%20five-camera%20head%20rig.%20CAD%20is%20the%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fomnicalib-a3-ultra%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+OmniCalib Recalibrates an A3 Ultra Without a Checkerboard
+
+On AGIBOT’s A3 Ultra, robot-native motion recovers 14 arm zeros, 12 leg zeros, and a five-camera head rig. CAD is the…
+
+https://mechafeed.com/blog/omnicalib-a3-ultra/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## RotateIt Spins a Shirt Open With One Arm, No Fling
+
+- **Slug:** `rotateit-garment`
+- **Date:** 2026-09-19
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/rotateit-garment/
+- **Chars:** 240/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=RotateIt%20Spins%20a%20Shirt%20Open%20With%20One%20Arm%2C%20No%20Fling%0A%0ANTU%E2%80%99s%20single-arm%20RotateIt%20uses%20axial%20spin%20instead%20of%20dual-arm%20flinging.%20Sim-trained%20policies%20hit%2075.6%25%20success%20on%20eight%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Frotateit-garment%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+RotateIt Spins a Shirt Open With One Arm, No Fling
+
+NTU’s single-arm RotateIt uses axial spin instead of dual-arm flinging. Sim-trained policies hit 75.6% success on eight…
+
+https://mechafeed.com/blog/rotateit-garment/
+
+#Robotics #Humanoids
+```
+
+---
+
+## SkipVLA Lets the Motion Planner Drive, and the VLA Only Grab
+
+- **Slug:** `skipvla-planner`
+- **Date:** 2026-09-19
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/skipvla-planner/
+- **Chars:** 242/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=SkipVLA%20Lets%20the%20Motion%20Planner%20Drive%2C%20and%20the%20VLA%20Only%20Grab%0A%0APurdue%E2%80%99s%20hybrid%20policy%20hands%20free-space%20transit%20to%20VAMP%20or%20cuRobo.%20On%20a%20YAM%20arm%20it%20finishes%20up%20to%202.5%C3%97%20faster%20with%20the%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fskipvla-planner%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+SkipVLA Lets the Motion Planner Drive, and the VLA Only Grab
+
+Purdue’s hybrid policy hands free-space transit to VAMP or cuRobo. On a YAM arm it finishes up to 2.5× faster with the…
+
+https://mechafeed.com/blog/skipvla-planner/
+
+#AI #Humanoids
+```
+
+---
+
+## A Shadow Hand Makes Sushi by Feel, Then Throws the Crystal Ball Away
+
+- **Slug:** `tacsushi-shadow-hand`
+- **Date:** 2026-09-19
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/tacsushi-shadow-hand/
+- **Chars:** 260/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20Shadow%20Hand%20Makes%20Sushi%20by%20Feel%2C%20Then%20Throws%20the%20Crystal%20Ball%20Away%0A%0AMERL%20and%20USC%20train%20TacSushi%20on%20340%20good%20trials%20and%2050%20failures.%20Gated%20fingertip%20touch%20plus%20training-only%20futures%20beat%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftacsushi-shadow-hand%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+A Shadow Hand Makes Sushi by Feel, Then Throws the Crystal Ball Away
+
+MERL and USC train TacSushi on 340 good trials and 50 failures. Gated fingertip touch plus training-only futures beat…
+
+https://mechafeed.com/blog/tacsushi-shadow-hand/
+
+#Robotics #Humanoids
+```
+
+---
+
 ## ULOHA Is ALOHA in a Tank, Bubbles and All
 
 - **Slug:** `uloha-underwater`
@@ -141,6 +246,27 @@ Osaka and Kobe’s underwater bimanual kit learns nine tank tasks with ACT, then
 https://mechafeed.com/blog/uloha-underwater/
 
 #Robotics #Humanoids
+```
+
+---
+
+## A G1 Walks Up and Closes the Door From Head Depth Alone
+
+- **Slug:** `viloman-g1-door`
+- **Date:** 2026-09-19
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/viloman-g1-door/
+- **Chars:** 248/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20G1%20Walks%20Up%20and%20Closes%20the%20Door%20From%20Head%20Depth%20Alone%0A%0AViLoMan%20distills%20door-closing%20onto%20a%2029-DoF%20Unitree%20G1.%20One%20policy%2C%20onboard%20depth%2C%20no%20motion%20reference.%2032%20of%2040%20real%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fviloman-g1-door%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+A G1 Walks Up and Closes the Door From Head Depth Alone
+
+ViLoMan distills door-closing onto a 29-DoF Unitree G1. One policy, onboard depth, no motion reference. 32 of 40 real…
+
+https://mechafeed.com/blog/viloman-g1-door/
+
+#HumanoidRobots #Humanoids
 ```
 
 ---

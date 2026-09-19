@@ -5585,3 +5585,68 @@ pm run verify-media:today — 0 errors, 0 warnings on 7 posts dated 2026-09-19)
 - **Social:** tweets 550; robb-x 550
 - **Build:** PASS (astro build exit 0; 563 pages; new slugs rendered)
 - **Failures:** none. Soft floor 3 met; wrote 7 of target 8. X list not usable (disclosed). IEEE Xplore 11694283 did not return body; anti-gravity numbers from arXiv HTML + YouTube.
+
+## 2026-09-19 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json, startedAt 2026-09-19T14:00:04-07:00)
+- Date (Pacific): 2026-09-19
+- git pull --rebase origin main: already up to date
+- Morning already published 7 posts today (jsk-anti-gravity-walking, athena-zero-baseball, hirebotics-linear-rail, wetrobo-lab-coding, dreaming-contact-sound, uloha-underwater, jsk-morphing-aerial). **Do not rehash.**
+- X list https://x.com/i/lists/1805786050763087967: **not usable as a curated feed**. Keyword Latest with list: operator returned mixed general posts. Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: Agility Digit 5 recirc (18 Sep) — **SKIP: covered 9/15**
+- Public X: Figure Helix 2.5 4-hour home clip recirc — **SKIP: covered 9/18**
+- Public X: 1X emoji-only — **SKIP: not substantial**
+- Semantic/keyword X: Optimus / Digit / Helix recirc-heavy
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** TacSushi Shadow Hand sushi — arXiv:2609.19613 (17 Sep) — lane: **build**
+2. **[CANDIDATE/WRITTEN]** ViLoMan G1 door-closing — arXiv:2609.19340 + project page — lane: **build**
+3. **[CANDIDATE/WRITTEN]** OmniCalib A3 Ultra self-calibration — arXiv:2609.19582 — lane: **build** (distinct from 9/17 A3 Ultra *service* post)
+4. **[CANDIDATE/WRITTEN]** RotateIt single-arm garment spin — arXiv:2609.19817 — lane: **build**
+5. **[CANDIDATE/WRITTEN]** AnyViewDex LEAP Hand RGB — arXiv:2609.20107 + project page — lane: **build**
+6. **[CANDIDATE/WRITTEN]** SkipVLA planner+VLA hybrid — arXiv:2609.20648 — lane: **build**
+7. **[SKIP: one still]** WorMa NYU amphibious — TechXplore 17 Sep + DOI 10.1002/adrr.70163 — still only one usable robot photo
+8. **[SKIP: already covered]** morning 7; 9/18 morning+afternoon 14; Digit 5; Helix 2.5; OM-1; Fingers as Legs; ugo Nova; A3 Ultra service
+9. **[SKIP: business mix / recirc / thin]** D-Robotics $400M; Faraday Future 919 (event 5:00 p.m. PDT, after this 2 p.m. slot start — do not preview as if launched); 1X 50k; Tesla Optimus steel; UBTECH takt; SoftBank–RAI CFIUS; Dynamic Creatures founder still; Cuebus 21 Sep; Figure 04 interview (no specs/stills)
+10. **[SKIP: leftover papers]** StageGuard, FlipToSee, OmniMimic, WorldContact, SmellDiffusion, Coding-agent harness — held if stills/time remain
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | tacsushi-shadow-hand | Shar Hendrix | Robotics | build |
+| 2 | viloman-g1-door | Robb Harlan | Humanoids | build |
+| 3 | omnicalib-a3-ultra | Robb Harlan | Humanoids | build |
+| 4 | rotateit-garment | Shar Hendrix | Robotics | build |
+| 5 | anyviewdex-leap-hand | Shar Hendrix | Robotics | build |
+| 6 | skipvla-planner | Robb Harlan | AI | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary + matching stills: **6** | Writing: **6**
+- Soft floor 2 met. Hit target 6. Did not rehash morning posts.
+
+### Notes for Future Agents
+- Do not rewrite TacSushi, ViLoMan G1 door, OmniCalib A3 Ultra calibration, RotateIt, AnyViewDex, SkipVLA
+- Do not rewrite morning 9/19 seven or 9/18 fourteen
+- WorMa still uncovered if a second distinct still lands
+- Faraday Future 919 launch was 5:00 p.m. PDT 19 Sep — follow if a recap with product stills exists
+- Cuebus × Yazaki × Yamazen starts **21 Sep**
+- Dynamic Creatures still needs a robot still (not founder headshot)
+- Figure 04 / Adcock interview still uncovered as a hardware story with distinct stills
+
+### Run summary
+- **Articles published (6):** tacsushi-shadow-hand, viloman-g1-door, omnicalib-a3-ultra, rotateit-garment, anyviewdex-leap-hand, skipvla-planner
+- **pubDate:** 2026-09-19
+- **Skipped candidates:** morning 7, 9/18 fourteen, WorMa one-still, Faraday 919 (event after slot start), Digit 5 / Helix / OM-1 recirc, business mix (D-Robotics raise, 1X 50k, Optimus steel, UBTECH takt, SoftBank–RAI), Dynamic Creatures founder still, Cuebus 21 Sep, leftover papers
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 13 posts dated 2026-09-19, including morning 7)
+- **Vision gate:** PASS — TacSushi (sushi-task grid hero + labeled Shadow Hand setup); ViLoMan (sim G1-door hero + real G1 door grid); OmniCalib (A3 Ultra pipeline hero + chest RGB-D before/after); RotateIt (spinning T-shirt hero + sim/real unfold grid); AnyViewDex (teaser with LEAP Hand hero + three-view hardware + eight objects); SkipVLA (YAM pick-place overlay hero + LIBERO soup-to-basket timeline)
+- **Social:** tweets 556; robb-x 556
+- **Build:** PASS (astro build exit 0; 569 pages; new slugs rendered)
+- **Failures:** none. Soft floor 2 met; wrote 6 of target 6. X list not usable (disclosed).
