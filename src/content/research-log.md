@@ -5446,3 +5446,72 @@ pm run verify-media:today — 0 errors, 0 warnings on 8 posts dated 2026-09-18)
 - **Social:** tweets 537; robb-x 537
 - **Build:** PASS (astro build exit 0; 550 pages; new slugs rendered)
 - **Failures:** none. Soft floor 3 met; wrote 8 of target 8. X list not usable (disclosed).
+
+## 2026-09-18 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json, startedAt 2026-09-18T14:25:05-07:00)
+- Date (Pacific): 2026-09-18
+- git pull --rebase origin main: already up to date
+- Morning already published 8 posts today (figure-helix-25-30-homes, icarus-joy-parabolic-flight, g1-roofing-slope-locomotion, dextouch-wm-human-touch, agile-wam-tactile, passage-humanoid-clutter, spirit-ai-moz1-data, workspace-models-memory). **Do not rehash.**
+- X list https://x.com/i/lists/1805786050763087967: **not usable as a curated feed**. Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: Sentio OS developer preview (Mkrcek, 18 Sep) — **SKIP: thin / morning already skipped; still no independent stills**
+- Public X: Digit 5 recirc — **SKIP: covered 9/15**
+- Public X: ugo Nova recirc — **SKIP: covered 9/16**
+- Public X: AGIBOT A3 Ultra recirc — **SKIP: covered 9/17**
+- Public X: JSK flying humanoid anti-gravity walking (IEEE RA-L + YouTube) — **SKIP this slot: held if a paper/page still lands**
+- Semantic/keyword X: Digit 5 / Optimus / Helix recirc-heavy
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Tutor Intelligence next-gen Cassie + Sonny — tutorintelligence.com 16 Sep + SiliconANGLE + each-picking page — lane: **build**
+2. **[CANDIDATE/WRITTEN]** LimX Luna 5-robot CHINA GT group dance — YouTube 17 Sep + Robostart 18 Sep + LimX newsroom — lane: **build**
+3. **[CANDIDATE/WRITTEN]** RoM-Nav G1 multi-floor mapless nav — arXiv:2609.19272 + project page — lane: **build**
+4. **[CANDIDATE/WRITTEN]** HIL-UMI robot-free VLA post-training — arXiv:2609.20659 + project page — lane: **build**
+5. **[CANDIDATE/WRITTEN]** SAM maple-seed monocopter NMPC — TechXplore 18 Sep + IEEE T-RO DOI — lane: **build**
+6. **[CANDIDATE/WRITTEN]** INSPECT gearbox view selection — arXiv:2609.20615 + GitHub — lane: **build** (morning backup; stills now confirmed)
+7. **[SKIP: already covered]** Helix 2.5 30-home; Icarus JOY; G1 roofing; DexTouch-WM; Agile-WAM; PASSAGE; Spirit Moz1; Workspace Models; Digit 5; ugo Nova; A3 Ultra service; Fingers as Legs / WUJI
+8. **[SKIP: single still / thin / recirc]** WorMa amphibious (only one usable robot still); SoftBank RAI acquisition (business); Toyota 400k robots estimate (business); Sentio OS; Figure 04 interview; Cuebus 21 Sep
+9. **[SKIP: business mix]** SoftBank–RAI CFIUS; TRR August funding
+
+### Selected for Writing (ranked) — 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | tutor-next-gen-cassie-sonny | Robb Harlan | Robotics | build |
+| 2 | limx-luna-china-gt | Shar Hendrix | Humanoids | build |
+| 3 | rom-nav-g1-stairs | Robb Harlan | Humanoids | build |
+| 4 | hil-umi-vla | Shar Hendrix | AI | build |
+| 5 | sam-maple-seed-monocopter | Robb Harlan | Robotics | build |
+| 6 | inspect-gearbox-views | Shar Hendrix | Research | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+- Tutor counted as **build**: lede and bulk are Cassie mobility + Sonny each-picking hardware/VLA, not the Series A.
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary + matching stills: **6** | Writing: **6**
+- Soft floor 2 met. Hit target 6. Did not rehash morning posts.
+
+### Notes for Future Agents
+- Do not rewrite Tutor next-gen Cassie/Sonny (16 Sep), LimX Luna CHINA GT dance, RoM-Nav G1 stairs, HIL-UMI, SAM monocopter NMPC, INSPECT gearbox views
+- Do not rewrite morning 9/18 eight: Helix 2.5, Icarus JOY, G1 roofing, DexTouch-WM, Agile-WAM, PASSAGE, Spirit Moz1, Workspace Models
+- Cuebus × Yazaki × Yamazen starts **21 Sep**
+- WorMa (NYU Tandon) uncovered if a second distinct still lands
+- JSK flying humanoid anti-gravity walking (IEEE RA-L, YouTube wmGmubDY8n4) uncovered if a paper/page still lands
+- Figure 04 / Adcock four-chapters interview still uncovered as a hardware story with distinct stills
+- SoftBank–RAI is CFIUS-stage, companies mum; business-lane only
+- IEEE Xplore 11682802 did not fetch this session; SAM numbers are from TechXplore’s report of that T-RO paper
+
+### Run summary
+- **Articles published (6):** tutor-next-gen-cassie-sonny, limx-luna-china-gt, rom-nav-g1-stairs, hil-umi-vla, sam-maple-seed-monocopter, inspect-gearbox-views
+- **pubDate:** 2026-09-18
+- **Skipped candidates:** morning 8, Digit 5 / ugo Nova / A3 Ultra recirc, WorMa one-still, SoftBank RAI business, Sentio OS, Cuebus 21 Sep
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 posts dated 2026-09-18, including morning 8)
+- **Vision gate:** PASS — Tutor (Sonny rack-pick hero + Cassie wheeled vacuum + overhead Sonny); Luna (CHINA GT five-robot grid hero + launch-kit dance poses); RoM-Nav (G1 stairwell hero + four hardware routes + architecture); HIL-UMI (four-task Franka grid hero + teaser + UMI gripper diagram); SAM (flight/wind/light-trail hero + three wing variants); INSPECT (teaser gearbox+arm hero + pipeline with robot lattice)
+- **Social:** tweets 543; robb-x 543
+- **Build:** PASS (astro build exit 0; 556 pages; new slugs rendered)
+- **Failures:** none. Soft floor 2 met; wrote 6 of target 6. X list not usable (disclosed). IEEE Xplore SAM paper did not fetch; numbers from TechXplore.
+

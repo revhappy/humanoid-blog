@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-18T16:13:34.485Z
+Generated: 2026-09-19T05:09:52.842Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -97,6 +97,28 @@ https://mechafeed.com/blog/g1-roofing-slope-locomotion/
 
 ---
 
+## HIL-UMI Fine-Tunes a VLA Without Rolling the Robot
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/hil-umi-vla/
+
+### SOLO (no link)
+
+```
+Taking the policy off the robot during data collection is the part I want copied.  Five-point TPS over HG-DAgger is modest.
+```
+
+### SOFT-LINK variant
+
+```
+Taking the policy off the robot during data collection is the part I want copied.  Five-point TPS over HG-DAgger is modest.
+
+https://mechafeed.com/blog/hil-umi-vla/
+```
+
+---
+
 ## Icarus Flies JOY Through 66 Parabolas Before an ISS Handover
 
 - Author on blog: Shar Hendrix
@@ -115,6 +137,50 @@ I am here for a robot whose first customer is a cargo bag, not a keynote.  Sixty
 I am here for a robot whose first customer is a cargo bag, not a keynote.  Sixty-six parabolas is a real systems test: arms, estimator, fans, catch-and-release.
 
 https://mechafeed.com/blog/icarus-joy-parabolic-flight/
+```
+
+---
+
+## INSPECT Learns Where to Look at a Gearbox From Smart-Glass Assistants
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/inspect-gearbox-views/
+
+### SOLO (no link)
+
+```
+A seven-point bump in “I can actually see if the gear is seated” is small and specific, which is why I trust it more than a 90% demo.  The method’s real claim is the split: don’t copy the operator’s hands, copy the camera move that revealed the answer.
+```
+
+### SOFT-LINK variant
+
+```
+A seven-point bump in “I can actually see if the gear is seated” is small and specific, which is why I trust it more than a 90% demo.  The method’s real claim is the split: don’t copy the operator’s h…
+
+https://mechafeed.com/blog/inspect-gearbox-views/
+```
+
+---
+
+## Five LimX Lunas Dance the CHINA GT Grid
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/limx-luna-china-gt/
+
+### SOLO (no link)
+
+```
+Five identical bodies keeping time on a live grid is a harder party trick than one robot hitting a split in a white cyclorama.  I still want the boring extras: how they recover when one unit drifts, who is calling the clock, and whether a mall operator can restage this…
+```
+
+### SOFT-LINK variant
+
+```
+Five identical bodies keeping time on a live grid is a harder party trick than one robot hitting a split in a white cyclorama.  I still want the boring extras: how they recover when one unit drifts, w…
+
+https://mechafeed.com/blog/limx-luna-china-gt/
 ```
 
 ---
@@ -141,6 +207,50 @@ https://mechafeed.com/blog/passage-humanoid-clutter/
 
 ---
 
+## RoM-Nav Walks a G1 Up 10 Meters of Stairs, Mapless
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/rom-nav-g1-stairs/
+
+### SOLO (no link)
+
+```
+Mapless stairs with zero reported hardware collisions is the kind of result I will actually watch twice.  The interesting number is not 92% in sim.
+```
+
+### SOFT-LINK variant
+
+```
+Mapless stairs with zero reported hardware collisions is the kind of result I will actually watch twice.  The interesting number is not 92% in sim.
+
+https://mechafeed.com/blog/rom-nav-g1-stairs/
+```
+
+---
+
+## SAM, a One-Motor Maple-Seed Flyer, Tracks Tighter Paths
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/sam-maple-seed-monocopter/
+
+### SOLO (no link)
+
+```
+I like one-motor flyers because they fail honestly.  If the controller is late, the seed just walks off the circle.
+```
+
+### SOFT-LINK variant
+
+```
+I like one-motor flyers because they fail honestly.  If the controller is late, the seed just walks off the circle.
+
+https://mechafeed.com/blog/sam-maple-seed-monocopter/
+```
+
+---
+
 ## Spirit AI Puts Moz1 on CATL Lines and Bets on Messy Human Data
 
 - Author on blog: Robb Harlan
@@ -159,6 +269,28 @@ I will remember the thousand contractors and the Moz1s at CATL before I remember
 I will remember the thousand contractors and the Moz1s at CATL before I remember “GPT-3 for robots. ” Mid-2027 is now a calendar invite.
 
 https://mechafeed.com/blog/spirit-ai-moz1-data/
+```
+
+---
+
+## Tutor’s Next Cassie Rolls, Next Sonny Picks the Aisle
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/tutor-next-gen-cassie-sonny/
+
+### SOLO (no link)
+
+```
+I care that Cassie can leave the palletizer and drive to the next job without a facilities project.  Forty days from paper to production is a number a plant manager can argue with.
+```
+
+### SOFT-LINK variant
+
+```
+I care that Cassie can leave the palletizer and drive to the next job without a facilities project.  Forty days from paper to production is a number a plant manager can argue with.
+
+https://mechafeed.com/blog/tutor-next-gen-cassie-sonny/
 ```
 
 ---

@@ -14,8 +14,8 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-18T16:13:33.643Z
-Posts: 537
+Generated: 2026-09-19T05:09:51.685Z
+Posts: 543
 
 ---
 
@@ -103,6 +103,27 @@ https://mechafeed.com/blog/g1-roofing-slope-locomotion/
 
 ---
 
+## HIL-UMI Fine-Tunes a VLA Without Rolling the Robot
+
+- **Slug:** `hil-umi-vla`
+- **Date:** 2026-09-18
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/hil-umi-vla/
+- **Chars:** 227/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=HIL-UMI%20Fine-Tunes%20a%20VLA%20Without%20Rolling%20the%20Robot%0A%0APeking%20and%20JD%E2%80%99s%20HIL-UMI%20collects%20policy-blind%20spots%20on%20a%20handheld%20UMI%20gripper%2C%205.63%C3%97%20faster%20than%20real-robot%20HG-DAgger.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fhil-umi-vla%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+HIL-UMI Fine-Tunes a VLA Without Rolling the Robot
+
+Peking and JD’s HIL-UMI collects policy-blind spots on a handheld UMI gripper, 5.63× faster than real-robot HG-DAgger.
+
+https://mechafeed.com/blog/hil-umi-vla/
+
+#AI #Humanoids
+```
+
+---
+
 ## Icarus Flies JOY Through 66 Parabolas Before an ISS Handover
 
 - **Slug:** `icarus-joy-parabolic-flight`
@@ -120,6 +141,48 @@ Brooklyn startup Icarus tested its free-flying cargo robot in Canadian zero-G, t
 https://mechafeed.com/blog/icarus-joy-parabolic-flight/
 
 #Robotics #Humanoids
+```
+
+---
+
+## INSPECT Learns Where to Look at a Gearbox From Smart-Glass Assistants
+
+- **Slug:** `inspect-gearbox-views`
+- **Date:** 2026-09-18
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/inspect-gearbox-views/
+- **Chars:** 262/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=INSPECT%20Learns%20Where%20to%20Look%20at%20a%20Gearbox%20From%20Smart-Glass%20Assistants%0A%0AKIT%E2%80%99s%20INSPECT%20lifts%20gearbox%20verifiability%20from%2034.8%25%20to%2041.7%25%20by%20copying%20view%20habits%20from%20assembly%20assistants.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Finspect-gearbox-views%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+INSPECT Learns Where to Look at a Gearbox From Smart-Glass Assistants
+
+KIT’s INSPECT lifts gearbox verifiability from 34.8% to 41.7% by copying view habits from assembly assistants.
+
+https://mechafeed.com/blog/inspect-gearbox-views/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## Five LimX Lunas Dance the CHINA GT Grid
+
+- **Slug:** `limx-luna-china-gt`
+- **Date:** 2026-09-18
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/limx-luna-china-gt/
+- **Chars:** 219/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Five%20LimX%20Lunas%20Dance%20the%20CHINA%20GT%20Grid%0A%0ALimX%20Dynamics%20put%20five%20Luna%20humanoids%20on%20the%202026%20CHINA%20GT%20opening%20grid%20for%20a%20coordinated%20group%20dance.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Flimx-luna-china-gt%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Five LimX Lunas Dance the CHINA GT Grid
+
+LimX Dynamics put five Luna humanoids on the 2026 CHINA GT opening grid for a coordinated group dance.
+
+https://mechafeed.com/blog/limx-luna-china-gt/
+
+#HumanoidRobots #Humanoids
 ```
 
 ---
@@ -145,6 +208,48 @@ https://mechafeed.com/blog/passage-humanoid-clutter/
 
 ---
 
+## RoM-Nav Walks a G1 Up 10 Meters of Stairs, Mapless
+
+- **Slug:** `rom-nav-g1-stairs`
+- **Date:** 2026-09-18
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/rom-nav-g1-stairs/
+- **Chars:** 243/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=RoM-Nav%20Walks%20a%20G1%20Up%2010%20Meters%20of%20Stairs%2C%20Mapless%0A%0ACaltech%E2%80%99s%20RoM-Nav%20kickstarts%20G1%20navigation%20from%20a%20reduced-order%20policy%2C%20then%20filters%20collisions%20on%20real%20multi-floor%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2From-nav-g1-stairs%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+RoM-Nav Walks a G1 Up 10 Meters of Stairs, Mapless
+
+Caltech’s RoM-Nav kickstarts G1 navigation from a reduced-order policy, then filters collisions on real multi-floor…
+
+https://mechafeed.com/blog/rom-nav-g1-stairs/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## SAM, a One-Motor Maple-Seed Flyer, Tracks Tighter Paths
+
+- **Slug:** `sam-maple-seed-monocopter`
+- **Date:** 2026-09-18
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/sam-maple-seed-monocopter/
+- **Chars:** 234/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=SAM%2C%20a%20One-Motor%20Maple-Seed%20Flyer%2C%20Tracks%20Tighter%20Paths%0A%0ASUTD%E2%80%99s%20SAM%20monocopter%20cuts%20tracking%20error%20up%20to%2039.5%25%20with%20predictive%20control%20and%20a%20single%20actuator.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsam-maple-seed-monocopter%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+SAM, a One-Motor Maple-Seed Flyer, Tracks Tighter Paths
+
+SUTD’s SAM monocopter cuts tracking error up to 39.5% with predictive control and a single actuator.
+
+https://mechafeed.com/blog/sam-maple-seed-monocopter/
+
+#Robotics #Humanoids
+```
+
+---
+
 ## Spirit AI Puts Moz1 on CATL Lines and Bets on Messy Human Data
 
 - **Slug:** `spirit-ai-moz1-data`
@@ -162,6 +267,27 @@ Gao Yang tells Reuters a mid-2027 spoken-to-action milestone, while tens of whee
 https://mechafeed.com/blog/spirit-ai-moz1-data/
 
 #AI #Humanoids
+```
+
+---
+
+## Tutor’s Next Cassie Rolls, Next Sonny Picks the Aisle
+
+- **Slug:** `tutor-next-gen-cassie-sonny`
+- **Date:** 2026-09-18
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/tutor-next-gen-cassie-sonny/
+- **Chars:** 253/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Tutor%E2%80%99s%20Next%20Cassie%20Rolls%2C%20Next%20Sonny%20Picks%20the%20Aisle%0A%0ATutor%20Intelligence%E2%80%99s%20second-generation%20Cassie%20and%20Sonny%20pair%20a%20mobile%20pallet%20arm%20with%20a%20dual-arm%20picker%20running%20a%204.5B%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftutor-next-gen-cassie-sonny%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Tutor’s Next Cassie Rolls, Next Sonny Picks the Aisle
+
+Tutor Intelligence’s second-generation Cassie and Sonny pair a mobile pallet arm with a dual-arm picker running a 4.5B…
+
+https://mechafeed.com/blog/tutor-next-gen-cassie-sonny/
+
+#Robotics #Humanoids
 ```
 
 ---
