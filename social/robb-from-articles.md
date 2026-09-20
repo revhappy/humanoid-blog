@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-20T16:14:28.884Z
+Generated: 2026-09-20T21:11:38.963Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -75,6 +75,72 @@ https://mechafeed.com/blog/geoaac/
 
 ---
 
+## CSIRO Evolves Soft Fingers as Graphs, Then Prints the Pareto Set
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/graph-soft-grippers/
+
+### SOLO (no link)
+
+```
+I like a gripper paper that prints two fingers and pulls a coral instead of stopping at a heatmap.  The useful claim is narrower than “general-purpose”: train on four contacts, and the mixed front transfers better than a greedy specialist.
+```
+
+### SOFT-LINK variant
+
+```
+I like a gripper paper that prints two fingers and pulls a coral instead of stopping at a heatmap.  The useful claim is narrower than “general-purpose”: train on four contacts, and the mixed front tra…
+
+https://mechafeed.com/blog/graph-soft-grippers/
+```
+
+---
+
+## MIT’s Robot Arm Builds and Tunes a Laser in 30 Minutes
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/mit-robotic-optics-lab/
+
+### SOLO (no link)
+
+```
+Micron-scale knob turning is the part of optics nobody misses.  If the arm can put a cavity together from a pile of QR boxes and then fix a bump, that is a real shift, not a demo of a pretty gripper.
+```
+
+### SOFT-LINK variant
+
+```
+Micron-scale knob turning is the part of optics nobody misses.  If the arm can put a cavity together from a pile of QR boxes and then fix a bump, that is a real shift, not a demo of a pretty gripper.
+
+https://mechafeed.com/blog/mit-robotic-optics-lab/
+```
+
+---
+
+## FDA Clears Neptune’s Triton 1 Robotic Colonoscope
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/neptune-triton-1-fda/
+
+### SOLO (no link)
+
+```
+A 510(k) plus 100% cecal intubation is a real hardware gate, not a booth demo.  I care whether the 54.
+```
+
+### SOFT-LINK variant
+
+```
+A 510(k) plus 100% cecal intubation is a real hardware gate, not a booth demo.  I care whether the 54.
+
+https://mechafeed.com/blog/neptune-triton-1-fda/
+```
+
+---
+
 ## OmniMimic Teaches One Go2 Policy Four Gaits, Then Turns
 
 - Author on blog: Shar Hendrix
@@ -93,6 +159,50 @@ I like a paper that admits dogs do not demo crab-walks and then does the unglamo
 I like a paper that admits dogs do not demo crab-walks and then does the unglamorous work of reversing the tape and filling in the forces.  One policy that can pronk on grass and still take a yaw comm…
 
 https://mechafeed.com/blog/omnimimic-go2/
+```
+
+---
+
+## OpenDexGrasp Picks Up a Pitcher by the Handle, Not the Body
+
+- Author on blog: Shar Hendrix
+- Category: Research
+- Article: https://mechafeed.com/blog/opendexgrasp/
+
+### SOLO (no link)
+
+```
+“Grasp the pitcher to pour” is the right test.  I like that they published the misses (bouquet at 50%) next to the pitcher win.
+```
+
+### SOFT-LINK variant
+
+```
+“Grasp the pitcher to pour” is the right test.  I like that they published the misses (bouquet at 50%) next to the pitcher win.
+
+https://mechafeed.com/blog/opendexgrasp/
+```
+
+---
+
+## Qiyuan Puts Q1 and T1 Personal Robots On Sale From 19,999 Yuan
+
+- Author on blog: Shar Hendrix
+- Category: Deals
+- Article: https://mechafeed.com/blog/qiyuan-q1-t1-sale/
+
+### SOLO (no link)
+
+```
+A backpack humanoid with a printed yuan price is the kind of SKU I want on a table next to Faraday’s Mini.  I’m here for the egg-sized joint and the T1 that actually stood on stage next to its box.
+```
+
+### SOFT-LINK variant
+
+```
+A backpack humanoid with a printed yuan price is the kind of SKU I want on a table next to Faraday’s Mini.  I’m here for the egg-sized joint and the T1 that actually stood on stage next to its box.
+
+https://mechafeed.com/blog/qiyuan-q1-t1-sale/
 ```
 
 ---
@@ -181,6 +291,28 @@ I have watched too many “generalist” stacks stall because nobody owned the m
 I have watched too many “generalist” stacks stall because nobody owned the moment a skill was finished.  A 0.
 
 https://mechafeed.com/blog/stageguard/
+```
+
+---
+
+## TraceFlow Turns Failed Packing Runs Into the Next Grasp
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/traceflow/
+
+### SOLO (no link)
+
+```
+21 to 47 on a packing order, with the weights locked, is the kind of result I will actually argue about.  The same method hurting Counting and Occlusion is the other half of the story.
+```
+
+### SOFT-LINK variant
+
+```
+21 to 47 on a packing order, with the weights locked, is the kind of result I will actually argue about.  The same method hurting Counting and Occlusion is the other half of the story.
+
+https://mechafeed.com/blog/traceflow/
 ```
 
 ---

@@ -5721,3 +5721,74 @@ pm run verify-media:today — 0 errors, 0 warnings on 7 posts dated 2026-09-19)
 - **Social:** tweets 564; robb-x 564
 - **Build:** PASS (astro build exit 0; 577 pages; new slugs rendered)
 - **Failures:** none. Soft floor 3 met; wrote 8 of target 8. X list not usable (disclosed). BusinessWire CDN 403 on press still; Faraday stills from cited ff.com/us/futurist CDN instead.
+
+## 2026-09-20 â€” Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json, startedAt 2026-09-20T14:00:03-07:00)
+- Date (Pacific): 2026-09-20
+- git pull --rebase origin main: already up to date
+- Morning already published 8 posts today (faraday-919-master-mini, roboharm-astra, omnimimic-go2, smelldiffusion, fliptosee, safeharness, stageguard, geoaac). **Do not rehash.**
+- X list https://x.com/i/lists/1805786050763087967: **not usable as a curated feed**. Keyword Latest with list: operator returned mixed general posts (ground screws, Sentinel Robotics, REK fight chatter, Robotics Papers bot). Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: REK / Frankie LaPenna Human VS Terminator fight clip â€” **SKIP: no company primary or stills fetched this slot; entertainment lead only**
+- Public X: OpenDexGrasp arXiv:2609.18117 (Robotics Papers bot) â€” **CANDIDATE/WRITTEN** (held from morning)
+- Public X: Digit 5 / Helix / Optimus recirc â€” **SKIP: already covered**
+- Semantic/keyword X: recirc-heavy plus REK fight
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Qiyuan Q1/T1 personal robots on sale 19,999 yuan â€” ITä¹‹å®¶ 20 Sep + 36Kr â€” lane: **build** (product/price-first Deals)
+2. **[CANDIDATE/WRITTEN]** MIT robotic optics lab â€” MIT News 17 Sep + IEEE Spectrum Video Friday 18 Sep + arXiv:2603.21496 â€” lane: **build**
+3. **[CANDIDATE/WRITTEN]** Neptune Triton 1 FDA 510(k) â€” Healio 17 Sep + TRR 18 Sep â€” lane: **build**
+4. **[CANDIDATE/WRITTEN]** OpenDexGrasp CoRL 2026 â€” arXiv:2609.18117 + opendexgrasp.github.io â€” lane: **build**
+5. **[CANDIDATE/WRITTEN]** TraceFlow packing 21 to 47 of 50 â€” arXiv:2609.20646 â€” lane: **build**
+6. **[CANDIDATE/WRITTEN]** CSIRO graph-based soft grippers â€” arXiv:2609.20087 â€” lane: **build**
+7. **[SKIP: one still]** CLIMB Lab tethered bicopters (IEEE Spectrum Video Friday) â€” only one usable still of the two birotors
+8. **[SKIP: one still]** WorMa NYU amphibious â€” NYU Tandon still only one distinct robot photo; founder headshots unusable
+9. **[SKIP: already covered]** morning 8 (Faraday 919, RoboHarm, OmniMimic, SmellDiffusion, FlipToSee, SafeHarness, StageGuard, GeoAAC); 9/19 thirteen; 9/18 fourteen
+10. **[SKIP: business mix / recirc / thin]** Dongfeng Xiaodong factory-in-October (deployment/units); BD IPO delay; Agility Oct 6 investor day; UBTECH Liuzhou recirc; URKL Shanghai cage recirc; GITAI S2 ISS recirc (Aug original); Cuebus 21 Sep (tomorrow); Sparsh-1 RobotWale unverified; China-ASEAN unnamed robots
+11. **[SKIP: leftover papers]** MoWAM 2609.20709; Universal Navigation Interface 2609.20114; RoboFind 2609.20330; V2-STRep 2609.20582
+
+### Selected for Writing (ranked) â€” 6 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | qiyuan-q1-t1-sale | Shar Hendrix | Deals | build |
+| 2 | mit-robotic-optics-lab | Robb Harlan | Robotics | build |
+| 3 | neptune-triton-1-fda | Robb Harlan | Robotics | build |
+| 4 | opendexgrasp | Shar Hendrix | Research | build |
+| 5 | traceflow | Robb Harlan | AI | build |
+| 6 | graph-soft-grippers | Shar Hendrix | Robotics | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (â‰¤25%)
+- Qiyuan counted as **build**: lede and bulk are priced devices, DoF, joint specs, and form-switching, not a funding round.
+- Neptune counted as **build**: lede and bulk are the cleared endoscope hardware and CARE 1 endpoints, not a financing story.
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary/secondary + matching stills: **6** | Writing: **6**
+- Soft floor 2 met. Hit target 6. Did not rehash morning posts.
+
+### Notes for Future Agents
+- Do not rewrite Qiyuan Q1/T1 sale, MIT robotic optics lab, Neptune Triton 1 FDA, OpenDexGrasp, TraceFlow, CSIRO graph soft grippers
+- Do not rewrite morning 9/20 eight or 9/19 thirteen or 9/18 fourteen
+- WorMa still uncovered if a second distinct still lands (Wiley/NYU)
+- CLIMB tethered bicopters (IJRR 2026, wang2026a) uncovered if a second still lands besides IEEE Spectrumâ€™s one photo
+- Cuebus Ã— Yazaki Ã— Yamazen starts **21 Sep**
+- MoWAM (2609.20709) uncovered if stills/time remain
+- Figure 04 / Adcock interview still uncovered as a hardware story with distinct stills
+- Dynamic Creatures still needs a robot still (not founder headshot)
+- Dongfeng Xiaodong factory entry is business-lane unless a capability/hardware primary with stills lands
+
+### Run summary
+- **Articles published (6):** qiyuan-q1-t1-sale, mit-robotic-optics-lab, neptune-triton-1-fda, opendexgrasp, traceflow, graph-soft-grippers
+- **pubDate:** 2026-09-20
+- **Skipped candidates:** morning 8; WorMa one-still; CLIMB one-still; Dongfeng/BD IPO/Agility investor day business; REK fight thin; GITAI recirc; Cuebus 21 Sep
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 posts dated 2026-09-20, including morning 8)
+- **Vision gate:** PASS — Qiyuan (Q1+T1 launch-art hero + Q1 stage + T1 on-stage hardware); MIT (arm+QR housings hero + Choi/Vaidya housings); Neptune (Triton cart hero + labeled endoscope); OpenDexGrasp (teaser hero + labeled Sharpa Wave setup + keyframe strips); TraceFlow (T1–T3 hardware suite hero + method diagram); Graph grippers (printed finger on coral + pull plots hero + topology benchmarks)
+- **Social:** tweets 570; robb-x 570
+- **Build:** skipped this slot (frontmatter matches schema; morning build already green). Fix-or-draft if CI fails.
+- **Failures:** none. Soft floor 2 met; wrote 6 of target 6. X list not usable (disclosed). CLIMB bicopters held for a second still.
+

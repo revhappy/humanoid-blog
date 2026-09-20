@@ -14,8 +14,8 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-20T16:14:28.048Z
-Posts: 564
+Generated: 2026-09-20T21:11:38.104Z
+Posts: 570
 
 ---
 
@@ -82,6 +82,69 @@ https://mechafeed.com/blog/geoaac/
 
 ---
 
+## CSIRO Evolves Soft Fingers as Graphs, Then Prints the Pareto Set
+
+- **Slug:** `graph-soft-grippers`
+- **Date:** 2026-09-20
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/graph-soft-grippers/
+- **Chars:** 254/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=CSIRO%20Evolves%20Soft%20Fingers%20as%20Graphs%2C%20Then%20Prints%20the%20Pareto%20Set%0A%0AA%20graph-based%20gripper%20search%20over%20four%20grasp%20cases%20yields%2089%20non-dominated%20designs.%20Two%20printed%20in%20Elastic%2050A%20match%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgraph-soft-grippers%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+CSIRO Evolves Soft Fingers as Graphs, Then Prints the Pareto Set
+
+A graph-based gripper search over four grasp cases yields 89 non-dominated designs. Two printed in Elastic 50A match…
+
+https://mechafeed.com/blog/graph-soft-grippers/
+
+#Robotics #Humanoids
+```
+
+---
+
+## MIT’s Robot Arm Builds and Tunes a Laser in 30 Minutes
+
+- **Slug:** `mit-robotic-optics-lab`
+- **Date:** 2026-09-20
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/mit-robotic-optics-lab/
+- **Chars:** 244/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=MIT%E2%80%99s%20Robot%20Arm%20Builds%20and%20Tunes%20a%20Laser%20in%2030%20Minutes%0A%0AA%207-joint%20arm%20with%20QR-coded%20optic%20housings%20assembles%20a%20tabletop%20laser%20cavity%20in%2050%20moves%2C%20then%20restabilizes%20after%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmit-robotic-optics-lab%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+MIT’s Robot Arm Builds and Tunes a Laser in 30 Minutes
+
+A 7-joint arm with QR-coded optic housings assembles a tabletop laser cavity in 50 moves, then restabilizes after…
+
+https://mechafeed.com/blog/mit-robotic-optics-lab/
+
+#Robotics #Humanoids
+```
+
+---
+
+## FDA Clears Neptune’s Triton 1 Robotic Colonoscope
+
+- **Slug:** `neptune-triton-1-fda`
+- **Date:** 2026-09-20
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/neptune-triton-1-fda/
+- **Chars:** 243/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FDA%20Clears%20Neptune%E2%80%99s%20Triton%201%20Robotic%20Colonoscope%0A%0ANeptune%20Medical%E2%80%99s%20Triton%201%20gets%20510(k)%20clearance%20for%20diagnostic%20and%20therapeutic%20colonoscopy%20after%20CARE%201%20hit%20100%25%20cecal%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fneptune-triton-1-fda%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+FDA Clears Neptune’s Triton 1 Robotic Colonoscope
+
+Neptune Medical’s Triton 1 gets 510(k) clearance for diagnostic and therapeutic colonoscopy after CARE 1 hit 100% cecal…
+
+https://mechafeed.com/blog/neptune-triton-1-fda/
+
+#Robotics #Humanoids
+```
+
+---
+
 ## OmniMimic Teaches One Go2 Policy Four Gaits, Then Turns
 
 - **Slug:** `omnimimic-go2`
@@ -97,6 +160,48 @@ OmniMimic Teaches One Go2 Policy Four Gaits, Then Turns
 Hunan University’s OmniMimic turns forward animal clips into omnidirectional trot, pace, canter, and pronk. Grid…
 
 https://mechafeed.com/blog/omnimimic-go2/
+
+#Robotics #Humanoids
+```
+
+---
+
+## OpenDexGrasp Picks Up a Pitcher by the Handle, Not the Body
+
+- **Slug:** `opendexgrasp`
+- **Date:** 2026-09-20
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/opendexgrasp/
+- **Chars:** 251/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=OpenDexGrasp%20Picks%20Up%20a%20Pitcher%20by%20the%20Handle%2C%20Not%20the%20Body%0A%0APKU%E2%80%99s%20CoRL%202026%20system%20maps%20language%20to%20a%20Sharpa%20Wave%20grasp%2C%20with%2072%25%20real-world%20success%20versus%2059%25%20for%20a%20DexGraspNet%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fopendexgrasp%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+OpenDexGrasp Picks Up a Pitcher by the Handle, Not the Body
+
+PKU’s CoRL 2026 system maps language to a Sharpa Wave grasp, with 72% real-world success versus 59% for a DexGraspNet…
+
+https://mechafeed.com/blog/opendexgrasp/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
+## Qiyuan Puts Q1 and T1 Personal Robots On Sale From 19,999 Yuan
+
+- **Slug:** `qiyuan-q1-t1-sale`
+- **Date:** 2026-09-20
+- **Category:** Deals
+- **Article:** https://mechafeed.com/blog/qiyuan-q1-t1-sale/
+- **Chars:** 252/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Qiyuan%20Puts%20Q1%20and%20T1%20Personal%20Robots%20On%20Sale%20From%2019%2C999%20Yuan%0A%0ASwancor%E2%80%99s%20Qiyuan%20brand%20prices%20an%2088%20cm%20foldable%20Q1%20and%20a%20wheel-to-quadruped%20T1%20at%2019%2C999%20yuan%2C%20with%20October%201%20shipping.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fqiyuan-q1-t1-sale%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Qiyuan Puts Q1 and T1 Personal Robots On Sale From 19,999 Yuan
+
+Swancor’s Qiyuan brand prices an 88 cm foldable Q1 and a wheel-to-quadruped T1 at 19,999 yuan, with October 1 shipping.
+
+https://mechafeed.com/blog/qiyuan-q1-t1-sale/
 
 #Robotics #Humanoids
 ```
@@ -181,6 +286,27 @@ StageGuard Distills When to Stop a Skill Into a Tiny VLM
 Huawei Noah’s Ark’s 0.8B monitor hits 96.23% transition completion on LIBERO and 18/20 on a UR5e drawer-and-plate…
 
 https://mechafeed.com/blog/stageguard/
+
+#AI #Humanoids
+```
+
+---
+
+## TraceFlow Turns Failed Packing Runs Into the Next Grasp
+
+- **Slug:** `traceflow`
+- **Date:** 2026-09-20
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/traceflow/
+- **Chars:** 231/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=TraceFlow%20Turns%20Failed%20Packing%20Runs%20Into%20the%20Next%20Grasp%0A%0AHKU%E2%80%99s%20frozen-VLA%20guide%20uses%20one%20success%2Ffail%20bit%20per%20rollout.%20Ordered%20fruit%20packing%20goes%20from%2021%2F50%20to%2047%2F50%20after%20one%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftraceflow%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+TraceFlow Turns Failed Packing Runs Into the Next Grasp
+
+HKU’s frozen-VLA guide uses one success/fail bit per rollout. Ordered fruit packing goes from 21/50 to 47/50 after one…
+
+https://mechafeed.com/blog/traceflow/
 
 #AI #Humanoids
 ```

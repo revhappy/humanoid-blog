@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T16:14:28.048Z",
+  "generatedAt": "2026-09-20T21:11:38.104Z",
   "site": "https://mechafeed.com/",
   "posts": [
     {
@@ -33,6 +33,36 @@
       "chars": 230
     },
     {
+      "id": "graph-soft-grippers",
+      "title": "CSIRO Evolves Soft Fingers as Graphs, Then Prints the Pareto Set",
+      "pubDate": "2026-09-20",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/graph-soft-grippers/",
+      "tweet": "CSIRO Evolves Soft Fingers as Graphs, Then Prints the Pareto Set\n\nA graph-based gripper search over four grasp cases yields 89 non-dominated designs. Two printed in Elastic 50A match…\n\nhttps://mechafeed.com/blog/graph-soft-grippers/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=CSIRO%20Evolves%20Soft%20Fingers%20as%20Graphs%2C%20Then%20Prints%20the%20Pareto%20Set%0A%0AA%20graph-based%20gripper%20search%20over%20four%20grasp%20cases%20yields%2089%20non-dominated%20designs.%20Two%20printed%20in%20Elastic%2050A%20match%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgraph-soft-grippers%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 254
+    },
+    {
+      "id": "mit-robotic-optics-lab",
+      "title": "MIT’s Robot Arm Builds and Tunes a Laser in 30 Minutes",
+      "pubDate": "2026-09-20",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/mit-robotic-optics-lab/",
+      "tweet": "MIT’s Robot Arm Builds and Tunes a Laser in 30 Minutes\n\nA 7-joint arm with QR-coded optic housings assembles a tabletop laser cavity in 50 moves, then restabilizes after…\n\nhttps://mechafeed.com/blog/mit-robotic-optics-lab/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=MIT%E2%80%99s%20Robot%20Arm%20Builds%20and%20Tunes%20a%20Laser%20in%2030%20Minutes%0A%0AA%207-joint%20arm%20with%20QR-coded%20optic%20housings%20assembles%20a%20tabletop%20laser%20cavity%20in%2050%20moves%2C%20then%20restabilizes%20after%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmit-robotic-optics-lab%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 244
+    },
+    {
+      "id": "neptune-triton-1-fda",
+      "title": "FDA Clears Neptune’s Triton 1 Robotic Colonoscope",
+      "pubDate": "2026-09-20",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/neptune-triton-1-fda/",
+      "tweet": "FDA Clears Neptune’s Triton 1 Robotic Colonoscope\n\nNeptune Medical’s Triton 1 gets 510(k) clearance for diagnostic and therapeutic colonoscopy after CARE 1 hit 100% cecal…\n\nhttps://mechafeed.com/blog/neptune-triton-1-fda/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=FDA%20Clears%20Neptune%E2%80%99s%20Triton%201%20Robotic%20Colonoscope%0A%0ANeptune%20Medical%E2%80%99s%20Triton%201%20gets%20510(k)%20clearance%20for%20diagnostic%20and%20therapeutic%20colonoscopy%20after%20CARE%201%20hit%20100%25%20cecal%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fneptune-triton-1-fda%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 243
+    },
+    {
       "id": "omnimimic-go2",
       "title": "OmniMimic Teaches One Go2 Policy Four Gaits, Then Turns",
       "pubDate": "2026-09-20",
@@ -41,6 +71,26 @@
       "tweet": "OmniMimic Teaches One Go2 Policy Four Gaits, Then Turns\n\nHunan University’s OmniMimic turns forward animal clips into omnidirectional trot, pace, canter, and pronk. Grid…\n\nhttps://mechafeed.com/blog/omnimimic-go2/\n\n#Robotics #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=OmniMimic%20Teaches%20One%20Go2%20Policy%20Four%20Gaits%2C%20Then%20Turns%0A%0AHunan%20University%E2%80%99s%20OmniMimic%20turns%20forward%20animal%20clips%20into%20omnidirectional%20trot%2C%20pace%2C%20canter%2C%20and%20pronk.%20Grid%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fomnimimic-go2%2F%0A%0A%23Robotics%20%23Humanoids",
       "chars": 235
+    },
+    {
+      "id": "opendexgrasp",
+      "title": "OpenDexGrasp Picks Up a Pitcher by the Handle, Not the Body",
+      "pubDate": "2026-09-20",
+      "category": "Research",
+      "url": "https://mechafeed.com/blog/opendexgrasp/",
+      "tweet": "OpenDexGrasp Picks Up a Pitcher by the Handle, Not the Body\n\nPKU’s CoRL 2026 system maps language to a Sharpa Wave grasp, with 72% real-world success versus 59% for a DexGraspNet…\n\nhttps://mechafeed.com/blog/opendexgrasp/\n\n#RoboticsResearch #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=OpenDexGrasp%20Picks%20Up%20a%20Pitcher%20by%20the%20Handle%2C%20Not%20the%20Body%0A%0APKU%E2%80%99s%20CoRL%202026%20system%20maps%20language%20to%20a%20Sharpa%20Wave%20grasp%2C%20with%2072%25%20real-world%20success%20versus%2059%25%20for%20a%20DexGraspNet%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fopendexgrasp%2F%0A%0A%23RoboticsResearch%20%23Humanoids",
+      "chars": 251
+    },
+    {
+      "id": "qiyuan-q1-t1-sale",
+      "title": "Qiyuan Puts Q1 and T1 Personal Robots On Sale From 19,999 Yuan",
+      "pubDate": "2026-09-20",
+      "category": "Deals",
+      "url": "https://mechafeed.com/blog/qiyuan-q1-t1-sale/",
+      "tweet": "Qiyuan Puts Q1 and T1 Personal Robots On Sale From 19,999 Yuan\n\nSwancor’s Qiyuan brand prices an 88 cm foldable Q1 and a wheel-to-quadruped T1 at 19,999 yuan, with October 1 shipping.\n\nhttps://mechafeed.com/blog/qiyuan-q1-t1-sale/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Qiyuan%20Puts%20Q1%20and%20T1%20Personal%20Robots%20On%20Sale%20From%2019%2C999%20Yuan%0A%0ASwancor%E2%80%99s%20Qiyuan%20brand%20prices%20an%2088%20cm%20foldable%20Q1%20and%20a%20wheel-to-quadruped%20T1%20at%2019%2C999%20yuan%2C%20with%20October%201%20shipping.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fqiyuan-q1-t1-sale%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 252
     },
     {
       "id": "roboharm-astra",
@@ -81,6 +131,16 @@
       "tweet": "StageGuard Distills When to Stop a Skill Into a Tiny VLM\n\nHuawei Noah’s Ark’s 0.8B monitor hits 96.23% transition completion on LIBERO and 18/20 on a UR5e drawer-and-plate…\n\nhttps://mechafeed.com/blog/stageguard/\n\n#AI #Humanoids",
       "intent": "https://twitter.com/intent/tweet?text=StageGuard%20Distills%20When%20to%20Stop%20a%20Skill%20Into%20a%20Tiny%20VLM%0A%0AHuawei%20Noah%E2%80%99s%20Ark%E2%80%99s%200.8B%20monitor%20hits%2096.23%25%20transition%20completion%20on%20LIBERO%20and%2018%2F20%20on%20a%20UR5e%20drawer-and-plate%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fstageguard%2F%0A%0A%23AI%20%23Humanoids",
       "chars": 228
+    },
+    {
+      "id": "traceflow",
+      "title": "TraceFlow Turns Failed Packing Runs Into the Next Grasp",
+      "pubDate": "2026-09-20",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/traceflow/",
+      "tweet": "TraceFlow Turns Failed Packing Runs Into the Next Grasp\n\nHKU’s frozen-VLA guide uses one success/fail bit per rollout. Ordered fruit packing goes from 21/50 to 47/50 after one…\n\nhttps://mechafeed.com/blog/traceflow/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=TraceFlow%20Turns%20Failed%20Packing%20Runs%20Into%20the%20Next%20Grasp%0A%0AHKU%E2%80%99s%20frozen-VLA%20guide%20uses%20one%20success%2Ffail%20bit%20per%20rollout.%20Ordered%20fruit%20packing%20goes%20from%2021%2F50%20to%2047%2F50%20after%20one%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ftraceflow%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 231
     },
     {
       "id": "anyviewdex-leap-hand",
