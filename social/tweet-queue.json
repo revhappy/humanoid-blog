@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-09-19T21:11:45.171Z",
+  "generatedAt": "2026-09-20T16:14:28.048Z",
   "site": "https://mechafeed.com/",
   "posts": [
+    {
+      "id": "faraday-919-master-mini",
+      "title": "Faraday Future Puts Master Mini On Sale at $9,990",
+      "pubDate": "2026-09-20",
+      "category": "Deals",
+      "url": "https://mechafeed.com/blog/faraday-919-master-mini/",
+      "tweet": "Faraday Future Puts Master Mini On Sale at $9,990\n\nFF’s 919 launch prices a 95 cm education humanoid from $9,990 and a full-size Futurist from $89,900, plus quadrupeds…\n\nhttps://mechafeed.com/blog/faraday-919-master-mini/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=Faraday%20Future%20Puts%20Master%20Mini%20On%20Sale%20at%20%249%2C990%0A%0AFF%E2%80%99s%20919%20launch%20prices%20a%2095%20cm%20education%20humanoid%20from%20%249%2C990%20and%20a%20full-size%20Futurist%20from%20%2489%2C900%2C%20plus%20quadrupeds%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffaraday-919-master-mini%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 243
+    },
+    {
+      "id": "fliptosee",
+      "title": "FlipToSee Flips a Snack Box So the Camera Can See the Barcode",
+      "pubDate": "2026-09-20",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/fliptosee/",
+      "tweet": "FlipToSee Flips a Snack Box So the Camera Can See the Barcode\n\nKAUST’s placement prior predicts stable support normals from one point cloud. First-proposal success hits 98.4%…\n\nhttps://mechafeed.com/blog/fliptosee/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=FlipToSee%20Flips%20a%20Snack%20Box%20So%20the%20Camera%20Can%20See%20the%20Barcode%0A%0AKAUST%E2%80%99s%20placement%20prior%20predicts%20stable%20support%20normals%20from%20one%20point%20cloud.%20First-proposal%20success%20hits%2098.4%25%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffliptosee%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 236
+    },
+    {
+      "id": "geoaac",
+      "title": "GeoAAC Lets a VLA Shorten the Chunk When the Denoise Wobbles",
+      "pubDate": "2026-09-20",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/geoaac/",
+      "tweet": "GeoAAC Lets a VLA Shorten the Chunk When the Denoise Wobbles\n\nTongji’s training-free horizon picker reads Flow Matching geometry. Real dual-arm success rises from 53.3% to 74.4%…\n\nhttps://mechafeed.com/blog/geoaac/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=GeoAAC%20Lets%20a%20VLA%20Shorten%20the%20Chunk%20When%20the%20Denoise%20Wobbles%0A%0ATongji%E2%80%99s%20training-free%20horizon%20picker%20reads%20Flow%20Matching%20geometry.%20Real%20dual-arm%20success%20rises%20from%2053.3%25%20to%2074.4%25%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fgeoaac%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 230
+    },
+    {
+      "id": "omnimimic-go2",
+      "title": "OmniMimic Teaches One Go2 Policy Four Gaits, Then Turns",
+      "pubDate": "2026-09-20",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/omnimimic-go2/",
+      "tweet": "OmniMimic Teaches One Go2 Policy Four Gaits, Then Turns\n\nHunan University’s OmniMimic turns forward animal clips into omnidirectional trot, pace, canter, and pronk. Grid…\n\nhttps://mechafeed.com/blog/omnimimic-go2/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=OmniMimic%20Teaches%20One%20Go2%20Policy%20Four%20Gaits%2C%20Then%20Turns%0A%0AHunan%20University%E2%80%99s%20OmniMimic%20turns%20forward%20animal%20clips%20into%20omnidirectional%20trot%2C%20pace%2C%20canter%2C%20and%20pronk.%20Grid%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fomnimimic-go2%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 235
+    },
+    {
+      "id": "roboharm-astra",
+      "title": "RoboHarm: GPT-6 Astra Completes 60 of 100 Unsafe Arm Tasks",
+      "pubDate": "2026-09-20",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/roboharm-astra/",
+      "tweet": "RoboHarm: GPT-6 Astra Completes 60 of 100 Unsafe Arm Tasks\n\nRobocurve’s five-scene test: Astra refused twice on safety. Claude Fable 5.1 refused 20 times, all on the doll.…\n\nhttps://mechafeed.com/blog/roboharm-astra/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=RoboHarm%3A%20GPT-6%20Astra%20Completes%2060%20of%20100%20Unsafe%20Arm%20Tasks%0A%0ARobocurve%E2%80%99s%20five-scene%20test%3A%20Astra%20refused%20twice%20on%20safety.%20Claude%20Fable%205.1%20refused%2020%20times%2C%20all%20on%20the%20doll.%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Froboharm-astra%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 232
+    },
+    {
+      "id": "safeharness",
+      "title": "SafeHarness Makes a Coding Agent Detour the Wine Bottle",
+      "pubDate": "2026-09-20",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/safeharness/",
+      "tweet": "SafeHarness Makes a Coding Agent Detour the Wine Bottle\n\nUSC’s obstacle-aware harness lifts GPT-6 on SafeLIBERO to 71.9% task success and 87.5% collision avoidance, 2.3× and…\n\nhttps://mechafeed.com/blog/safeharness/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=SafeHarness%20Makes%20a%20Coding%20Agent%20Detour%20the%20Wine%20Bottle%0A%0AUSC%E2%80%99s%20obstacle-aware%20harness%20lifts%20GPT-6%20on%20SafeLIBERO%20to%2071.9%25%20task%20success%20and%2087.5%25%20collision%20avoidance%2C%202.3%C3%97%20and%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsafeharness%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 231
+    },
+    {
+      "id": "smelldiffusion",
+      "title": "SmellDiffusion Maps a Named Gas Leak, Then Plans the Walk",
+      "pubDate": "2026-09-20",
+      "category": "Robotics",
+      "url": "https://mechafeed.com/blog/smelldiffusion/",
+      "tweet": "SmellDiffusion Maps a Named Gas Leak, Then Plans the Walk\n\nSkoltech’s sim pipeline builds an olfactory scene graph, gates a 60% source-error cut on displaced peaks, and compares…\n\nhttps://mechafeed.com/blog/smelldiffusion/\n\n#Robotics #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=SmellDiffusion%20Maps%20a%20Named%20Gas%20Leak%2C%20Then%20Plans%20the%20Walk%0A%0ASkoltech%E2%80%99s%20sim%20pipeline%20builds%20an%20olfactory%20scene%20graph%2C%20gates%20a%2060%25%20source-error%20cut%20on%20displaced%20peaks%2C%20and%20compares%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsmelldiffusion%2F%0A%0A%23Robotics%20%23Humanoids",
+      "chars": 244
+    },
+    {
+      "id": "stageguard",
+      "title": "StageGuard Distills When to Stop a Skill Into a Tiny VLM",
+      "pubDate": "2026-09-20",
+      "category": "AI",
+      "url": "https://mechafeed.com/blog/stageguard/",
+      "tweet": "StageGuard Distills When to Stop a Skill Into a Tiny VLM\n\nHuawei Noah’s Ark’s 0.8B monitor hits 96.23% transition completion on LIBERO and 18/20 on a UR5e drawer-and-plate…\n\nhttps://mechafeed.com/blog/stageguard/\n\n#AI #Humanoids",
+      "intent": "https://twitter.com/intent/tweet?text=StageGuard%20Distills%20When%20to%20Stop%20a%20Skill%20Into%20a%20Tiny%20VLM%0A%0AHuawei%20Noah%E2%80%99s%20Ark%E2%80%99s%200.8B%20monitor%20hits%2096.23%25%20transition%20completion%20on%20LIBERO%20and%2018%2F20%20on%20a%20UR5e%20drawer-and-plate%E2%80%A6%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fstageguard%2F%0A%0A%23AI%20%23Humanoids",
+      "chars": 228
+    },
     {
       "id": "anyviewdex-leap-hand",
       "title": "AnyViewDex Grasps From Uncalibrated RGB, No Depth at Test Time",

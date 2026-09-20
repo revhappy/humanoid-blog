@@ -5650,3 +5650,74 @@ pm run verify-media:today — 0 errors, 0 warnings on 7 posts dated 2026-09-19)
 - **Social:** tweets 556; robb-x 556
 - **Build:** PASS (astro build exit 0; 569 pages; new slugs rendered)
 - **Failures:** none. Soft floor 2 met; wrote 6 of target 6. X list not usable (disclosed).
+
+## 2026-09-20 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json, startedAt 2026-09-20T09:00:04-07:00)
+- Date (Pacific): 2026-09-20
+- git pull --rebase origin main: already up to date
+- Last published: 2026-09-19 afternoon (tacsushi-shadow-hand, viloman-g1-door, omnicalib-a3-ultra, rotateit-garment, anyviewdex-leap-hand, skipvla-planner) plus morning 7. **Do not rehash.** No 2026-09-20 posts before this run.
+- X list https://x.com/i/lists/1805786050763087967: **not usable as a curated feed**. `list:` Latest returned mixed general posts (NHTSA/Tesla, agtech rover, OpenDexGrasp bot). Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword/semantic + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X: OpenDexGrasp arXiv:2609.18117 (Robotics Papers bot) — **SKIP this slot**: held; 8 stronger stills already filled the quota
+- Public X: ugo Nova recirc — **SKIP: covered 9/16**
+- Public X: Digit 5 / Helix / Optimus recirc — **SKIP: already covered**
+- Semantic/keyword X: recirc-heavy
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Faraday Future 919 launch — Master Mini $9,990, Futurist $89,900/$129,900 — Morningstar BusinessWire reprint + ff.com/us/futurist + YouTube 0KZGgyrsUcU — lane: **build** (product/price-first Deals)
+2. **[CANDIDATE/WRITTEN]** RoboHarm GPT-6 Astra unsafe-instruction test — robocurve.org/roboharm + THE DECODER + Humanoids Daily — lane: **build**
+3. **[CANDIDATE/WRITTEN]** OmniMimic Go2 four-gait omnidirectional — arXiv:2609.20566 + omnimimic.github.io — lane: **build**
+4. **[CANDIDATE/WRITTEN]** SmellDiffusion olfactory scene graph — arXiv:2609.20624 + GitHub Olfsg — lane: **build**
+5. **[CANDIDATE/WRITTEN]** FlipToSee stable-placement prior — arXiv:2609.20078 — lane: **build**
+6. **[CANDIDATE/WRITTEN]** SafeHarness coding-agent obstacle tools — arXiv:2609.20822 — lane: **build**
+7. **[CANDIDATE/WRITTEN]** StageGuard stage-transition VLM — arXiv:2609.20791 — lane: **build**
+8. **[CANDIDATE/WRITTEN]** GeoAAC adaptive action chunking — arXiv:2609.20776 — lane: **build**
+9. **[SKIP: one still / leftover]** WorMa NYU amphibious — TechXplore 17 Sep + NYU Tandon 16 Sep + DOI 10.1002/adrr.70163 — still only one distinct robot photo at usable size
+10. **[SKIP: already covered]** 9/19 morning 7 + afternoon 6; 9/18 morning 8 + afternoon 6; Digit 5; Helix 2.5; OM-1; Fingers as Legs; ugo Nova; A3 Ultra service; Spirit Moz1 Reuters-day; Workspace Models; SkipVLA; gpt6-astra-robot-arms (capability tests — RoboHarm is a distinct safety benchmark)
+11. **[SKIP: business mix / recirc / thin]** Boston Dynamics 2027 IPO delay (Reuters 14 Sep, recirc 20 Sep); Spirit AI 2027 recirc of 9/18 Moz1 story; URKL Shanghai cage (EngineAI URKL already covered); China-ASEAN Expo unnamed robots; Sparsh-1 / Unitree India pricing (RobotWale unverified); Cuebus 21 Sep (tomorrow)
+12. **[SKIP: leftover papers / stills]** OpenDexGrasp 2609.18117; Graph-based soft grippers 2609.20087; TraceFlow; MoWAM; IEEE Spectrum Video Friday dual-birotor
+
+### Selected for Writing (ranked) — 8 articles
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | faraday-919-master-mini | Shar Hendrix | Deals | build |
+| 2 | roboharm-astra | Robb Harlan | AI | build |
+| 3 | omnimimic-go2 | Shar Hendrix | Robotics | build |
+| 4 | smelldiffusion | Robb Harlan | Robotics | build |
+| 5 | fliptosee | Shar Hendrix | Robotics | build |
+| 6 | safeharness | Robb Harlan | AI | build |
+| 7 | stageguard | Shar Hendrix | AI | build |
+| 8 | geoaac | Robb Harlan | AI | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+- Faraday counted as **build**: lede and bulk are priced devices, DoF, battery, and solution SKUs, not the Q2 margin sentence.
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary/secondary + matching stills: **8** | Writing: **8**
+- Soft floor 3 met. Hit target 8.
+
+### Notes for Future Agents
+- Do not rewrite Faraday 919 Master Mini/Futurist sale, RoboHarm, OmniMimic Go2, SmellDiffusion, FlipToSee, SafeHarness, StageGuard, GeoAAC
+- Do not rewrite 9/19 thirteen or 9/18 fourteen
+- WorMa still uncovered if a second distinct still lands (Wiley/NYU)
+- Cuebus × Yazaki × Yamazen starts **21 Sep**
+- OpenDexGrasp (arXiv:2609.18117, CoRL 2026) uncovered if a project-page still lands
+- Figure 04 / Adcock interview still uncovered as a hardware story with distinct stills
+- Dynamic Creatures still needs a robot still (not founder headshot)
+- BD IPO delay is business-lane only; skip unless the batch has room
+
+### Run summary
+- **Articles published (8):** faraday-919-master-mini, roboharm-astra, omnimimic-go2, smelldiffusion, fliptosee, safeharness, stageguard, geoaac
+- **pubDate:** 2026-09-20
+- **Skipped candidates:** WorMa one-still; OpenDexGrasp; BD IPO / Spirit recirc / URKL / China-ASEAN unnamed; 9/19 and 9/18 posts; Cuebus 21 Sep
+- **X list accessible?** N (disclosed; public X + web)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 8 posts dated 2026-09-20)
+- **Vision gate:** PASS — Faraday (919 lineup hero + Futurist studio); RoboHarm (five-scene grid hero + bleach/ammonia table); OmniMimic (Go2 four-gait hardware hero + framework diagram); SmellDiffusion (planner path plot hero + pipeline); FlipToSee (Haribo barcode regrasp hero + L-block sequence); SafeHarness (wine-bottle detour sim hero + teaser diagram); StageGuard (UR5e/Piper hardware hero + distillation diagram); GeoAAC (real dual-arm tasks hero + OpenDrawer chunk plot)
+- **Social:** tweets 564; robb-x 564
+- **Build:** PASS (astro build exit 0; 577 pages; new slugs rendered)
+- **Failures:** none. Soft floor 3 met; wrote 8 of target 8. X list not usable (disclosed). BusinessWire CDN 403 on press still; Faraday stills from cited ff.com/us/futurist CDN instead.

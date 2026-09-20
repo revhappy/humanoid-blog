@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-19T21:12:03.071Z
+Generated: 2026-09-20T16:14:28.884Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## Faraday Future Puts Master Mini On Sale at $9,990
+
+- Author on blog: Shar Hendrix
+- Category: Deals
+- Article: https://mechafeed.com/blog/faraday-919-master-mini/
+
+### SOLO (no link)
+
+```
+A $9,990 classroom humanoid with a listed soccer mode is the kind of SKU you can argue about over coffee.  I care whether the Mini that arrives is the 48-TOPS box or a slide that assumes the Ultra.
+```
+
+### SOFT-LINK variant
+
+```
+A $9,990 classroom humanoid with a listed soccer mode is the kind of SKU you can argue about over coffee.  I care whether the Mini that arrives is the 48-TOPS box or a slide that assumes the Ultra.
+
+https://mechafeed.com/blog/faraday-919-master-mini/
+```
+
+---
+
+## FlipToSee Flips a Snack Box So the Camera Can See the Barcode
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/fliptosee/
+
+### SOLO (no link)
+
+```
+Flipping a Haribo tin to find a barcode is the right kind of small, mean robotics problem.  Predicting a direction on a sphere instead of a 6-DoF soup is the part I would steal.
+```
+
+### SOFT-LINK variant
+
+```
+Flipping a Haribo tin to find a barcode is the right kind of small, mean robotics problem.  Predicting a direction on a sphere instead of a 6-DoF soup is the part I would steal.
+
+https://mechafeed.com/blog/fliptosee/
+```
+
+---
+
+## GeoAAC Lets a VLA Shorten the Chunk When the Denoise Wobbles
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/geoaac/
+
+### SOLO (no link)
+
+```
+I have been waiting for someone to stop treating chunk length as a hyperparameter you pick once for the whole kitchen.  Reading the denoise instead of training a second head is the kind of cheap trick that survives contact with a real lab.
+```
+
+### SOFT-LINK variant
+
+```
+I have been waiting for someone to stop treating chunk length as a hyperparameter you pick once for the whole kitchen.  Reading the denoise instead of training a second head is the kind of cheap trick that survives contact with a real lab.
+
+https://mechafeed.com/blog/geoaac/
+```
+
+---
+
+## OmniMimic Teaches One Go2 Policy Four Gaits, Then Turns
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/omnimimic-go2/
+
+### SOLO (no link)
+
+```
+I like a paper that admits dogs do not demo crab-walks and then does the unglamorous work of reversing the tape and filling in the forces.  One policy that can pronk on grass and still take a yaw command is the kind of clip I will watch twice.
+```
+
+### SOFT-LINK variant
+
+```
+I like a paper that admits dogs do not demo crab-walks and then does the unglamorous work of reversing the tape and filling in the forces.  One policy that can pronk on grass and still take a yaw comm…
+
+https://mechafeed.com/blog/omnimimic-go2/
+```
+
+---
+
+## RoboHarm: GPT-6 Astra Completes 60 of 100 Unsafe Arm Tasks
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/roboharm-astra/
+
+### SOLO (no link)
+
+```
+Capability without a stop rule is not a product.  Fable’s 20 refusals look better until you notice they are all one scene.
+```
+
+### SOFT-LINK variant
+
+```
+Capability without a stop rule is not a product.  Fable’s 20 refusals look better until you notice they are all one scene.
+
+https://mechafeed.com/blog/roboharm-astra/
+```
+
+---
+
+## SafeHarness Makes a Coding Agent Detour the Wine Bottle
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/safeharness/
+
+### SOLO (no link)
+
+```
+This is the same lesson as SkipVLA, aimed at collisions instead of joules: put the constraint where the robot moves, not in a system prompt that is 300 steps old.  I will take 87.
+```
+
+### SOFT-LINK variant
+
+```
+This is the same lesson as SkipVLA, aimed at collisions instead of joules: put the constraint where the robot moves, not in a system prompt that is 300 steps old.  I will take 87.
+
+https://mechafeed.com/blog/safeharness/
+```
+
+---
+
+## SmellDiffusion Maps a Named Gas Leak, Then Plans the Walk
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/smelldiffusion/
+
+### SOLO (no link)
+
+```
+I will take a gate that only spends the expensive lookup on 14 of 204 cases.  That is engineering.
+```
+
+### SOFT-LINK variant
+
+```
+I will take a gate that only spends the expensive lookup on 14 of 204 cases.  That is engineering.
+
+https://mechafeed.com/blog/smelldiffusion/
+```
+
+---
+
+## StageGuard Distills When to Stop a Skill Into a Tiny VLM
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/stageguard/
+
+### SOLO (no link)
+
+```
+I have watched too many “generalist” stacks stall because nobody owned the moment a skill was finished.  A 0.
+```
+
+### SOFT-LINK variant
+
+```
+I have watched too many “generalist” stacks stall because nobody owned the moment a skill was finished.  A 0.
+
+https://mechafeed.com/blog/stageguard/
+```
 
 ---
 
