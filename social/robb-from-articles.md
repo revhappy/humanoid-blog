@@ -3,7 +3,7 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-21T16:43:37.693Z
+Generated: 2026-09-21T21:14:33.823Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
 
@@ -75,6 +75,28 @@ https://mechafeed.com/blog/boston-dynamics-rmac-atlas/
 
 ---
 
+## DEXTERA Builds a Dexterous Policy from One Photo
+
+- Author on blog: Robb Harlan
+- Category: Research
+- Article: https://mechafeed.com/blog/dextera-single-image-hands/
+
+### SOLO (no link)
+
+```
+One photo is a cheap way to get a scene into a simulator.  It is not a cheap way to get a hand that works.
+```
+
+### SOFT-LINK variant
+
+```
+One photo is a cheap way to get a scene into a simulator.  It is not a cheap way to get a hand that works.
+
+https://mechafeed.com/blog/dextera-single-image-hands/
+```
+
+---
+
 ## FootQuery Looks Up the Stair Step the G1 Can No Longer See
 
 - Author on blog: Robb Harlan
@@ -119,6 +141,28 @@ https://mechafeed.com/blog/foretac-vla/
 
 ---
 
+## A G1 and a Go2 Learn When a Penalty Kick Is Already Decided
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/g1-go2-penalty-commitment/
+
+### SOLO (no link)
+
+```
+The fun part is two robots on a small pitch.  The useful part is the timing.
+```
+
+### SOFT-LINK variant
+
+```
+The fun part is two robots on a small pitch.  The useful part is the timing.
+
+https://mechafeed.com/blog/g1-go2-penalty-commitment/
+```
+
+---
+
 ## A G1 Ducks and Crawls Through Clutter It Learned in VR
 
 - Author on blog: Shar Hendrix
@@ -141,6 +185,50 @@ https://mechafeed.com/blog/mtc-g1-clutter/
 
 ---
 
+## PIVOT Lets a Warthog Ask GPT-5 When the Map Says Stop
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/pivot-warthog-offroad/
+
+### SOLO (no link)
+
+```
+Calling a language model on every frame is how you burn time and trust.  Calling it when the geometric planner is already empty is a saner split.
+```
+
+### SOFT-LINK variant
+
+```
+Calling a language model on every frame is how you burn time and trust.  Calling it when the geometric planner is already empty is a saner split.
+
+https://mechafeed.com/blog/pivot-warthog-offroad/
+```
+
+---
+
+## Two G1s and a Person Carry the Same Table
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/sage-g1-table-carry/
+
+### SOLO (no link)
+
+```
+A filter that removes almost every collision and also loses success is the usual safety tax.  I care more that they measured that tax than that they named the layers.
+```
+
+### SOFT-LINK variant
+
+```
+A filter that removes almost every collision and also loses success is the usual safety tax.  I care more that they measured that tax than that they named the layers.
+
+https://mechafeed.com/blog/sage-g1-table-carry/
+```
+
+---
+
 ## An Origami Arm Shakes a Box to Find the Hidden Weight
 
 - Author on blog: Shar Hendrix
@@ -159,6 +247,50 @@ Kids already do this with a present.  The interesting part is that the arm is th
 Kids already do this with a present.  The interesting part is that the arm is the sensor.
 
 https://mechafeed.com/blog/shake-to-learn-origami-arm/
+```
+
+---
+
+## Unitree Dex5-S Is a 22-DoF Hand from $6,500
+
+- Author on blog: Shar Hendrix
+- Category: Deals
+- Article: https://mechafeed.com/blog/unitree-dex5-s-hand/
+
+### SOLO (no link)
+
+```
+A priced hand with a motor count and a palm-camera port is more useful than another humanoid teaser.  I want this one on a wrist, repeating a job, not posed against a black background.
+```
+
+### SOFT-LINK variant
+
+```
+A priced hand with a motor count and a palm-camera port is more useful than another humanoid teaser.  I want this one on a wrist, repeating a job, not posed against a black background.
+
+https://mechafeed.com/blog/unitree-dex5-s-hand/
+```
+
+---
+
+## VLA-Feedback Corrects the Action Before the Chunk Finishes
+
+- Author on blog: Shar Hendrix
+- Category: AI
+- Article: https://mechafeed.com/blog/vla-feedback-franka/
+
+### SOLO (no link)
+
+```
+Open-loop chunks are fine when the world waits.  A cup on a string does not wait, and neither does a can that is already rolling.
+```
+
+### SOFT-LINK variant
+
+```
+Open-loop chunks are fine when the world waits.  A cup on a string does not wait, and neither does a can that is already rolling.
+
+https://mechafeed.com/blog/vla-feedback-franka/
 ```
 
 ---

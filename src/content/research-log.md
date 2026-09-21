@@ -5862,3 +5862,65 @@ pm run verify-media:today — 0 errors, 0 warnings on 7 posts dated 2026-09-19)
 - **Build:** PASS (astro build exit 0; 591 pages; new slugs rendered)
 - **Failures:** none. TRR 403, so RMAC secondary is A3, not The Robot Report. X list not usable (disclosed). Soft floor 3 met; wrote 8 of target 8.
 
+
+## 2026-09-21 — Daily Scheduled Pipeline (Afternoon)
+
+### Preflight
+- Slot: **Afternoon** | Target: 6 | Hard max: 6 | Soft floor: 2 (from logs/pipeline-slot.json, startedAt 2026-09-21T14:00:05-07:00)
+- Date (Pacific): 2026-09-21
+- git pull --rebase origin main: already up to date
+- Morning already published 8 posts today (boston-dynamics-rmac-atlas, mtc-g1-clutter, aerove-pipeline-drone, foretac-vla, shake-to-learn-origami-arm, when-to-waddle-penguin-biped, bistable-suction-wall-climber, footquery-g1-stairs). **Do not rehash.**
+- X list https://x.com/i/lists/1805786050763087967: **not usable**. Fetch returned an X error page, not the list. Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword search + web + the September 21 cs.RO new list.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X keyword since 2026-09-19: recirc and general AI posts, not a list-native robotics lead that became an article
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Unitree Dex5-S hand, Sept 21 — YouTube LAT2RIKjhTo + Humanoids Daily + IT Home — lane: **build** (priced hand, Deals)
+2. **[CANDIDATE/WRITTEN]** PIVOT Warthog off-road, GPT-5 fallback — arXiv:2609.20983 — lane: **build**
+3. **[CANDIDATE/WRITTEN]** VLA-Feedback Franka — arXiv:2609.21022 + vla-feedback.github.io — lane: **build**
+4. **[CANDIDATE/WRITTEN]** DEXTERA one-image dexterous hands — arXiv:2609.21045 — lane: **build**
+5. **[CANDIDATE/WRITTEN]** G1 vs Go2 penalty commitment — arXiv:2609.21100 — lane: **build**
+6. **[CANDIDATE/WRITTEN]** SAGE two G1s + human table carry — arXiv:2609.21130 — lane: **build**
+7. **[SKIP: already covered]** Morning 8 (RMAC, MTC, AeRove, ForeTac, Shake-to-Learn, When to Waddle, bistable wall climber, FootQuery); 9/20 fourteen
+8. **[SKIP: business lane / not needed]** IFR ~7,000 humanoid sales (Reuters/Izvestia); China humanoid IPO slowdown (Reuters); SoftBank / Raibert institute (reported, business)
+9. **[SKIP: unverified / thin]** Sparsh-1 (RobotWale only, already flagged); Cuebus start without a same-day result
+10. **[SKIP: held]** WorMa second still; Dynamic Creatures robot still
+
+### Selected for Writing (ranked)
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | unitree-dex5-s-hand | Shar Hendrix | Deals | build |
+| 2 | pivot-warthog-offroad | Robb Harlan | Robotics | build |
+| 3 | vla-feedback-franka | Shar Hendrix | AI | build |
+| 4 | dextera-single-image-hands | Robb Harlan | Research | build |
+| 5 | g1-go2-penalty-commitment | Shar Hendrix | Humanoids | build |
+| 6 | sage-g1-table-carry | Robb Harlan | Humanoids | build |
+
+### Mix check
+- Build/innovate: 6 | Business/industry: 0 | Business share: 0% (≤25%)
+- Dex5-S counted as **build**: lede and bulk are the hand, degrees of freedom, price, and the spec sheet, not a funding or IPO story.
+
+### Volume note
+- Slot: Afternoon | Target: 6 | Hard max: 6 | Soft floor: 2 | Solid candidates with primary + second URL and matching stills: **6** | Writing: **6**
+- Soft floor 2 met. Hit target 6. Did not rehash morning posts.
+
+### Notes for Future Agents
+- Do not rewrite Dex5-S, PIVOT, VLA-Feedback, DEXTERA, G1/Go2 penalty commitment, or SAGE
+- Do not rewrite morning 9/21 eight or 9/20 fourteen
+- Penalty project page https://chris-ruizegeng.github.io/penaltykick/ returned GitHub Pages 404 this session
+- PIVOT figure caption links a placeholder video URL, not a public clip
+- IFR 7,000 and China IPO slowdown are business-lane only
+- WorMa and Dynamic Creatures still need a second / non-founder still
+
+### Run summary
+- **Articles published (6):** unitree-dex5-s-hand, pivot-warthog-offroad, vla-feedback-franka, dextera-single-image-hands, g1-go2-penalty-commitment, sage-g1-table-carry
+- **pubDate:** 2026-09-21
+- **Skipped candidates:** morning 8; IFR sales count; China IPO slowdown; SoftBank/RAI; Sparsh-1; Cuebus reprint; WorMa; Dynamic Creatures
+- **X list accessible?** N (error page; public X + web + arXiv new list)
+- **Media verify:** PASS (`npm run verify-media:today` — 0 errors, 0 warnings on 14 posts dated 2026-09-21, including morning 8)
+- **Vision gate:** confirmed — Dex5-S (product render of the hand; IT Home spec sheet with both hands and the parameter table); PIVOT (Warthog in grass/branches with costmaps; 1,277 m route map); VLA-Feedback (Franka bread/cup/can hardware; simulation sequences); DEXTERA (KUKA+LEAP and OpenArm+BrainCo setups; tray and bowl replays); penalty (G1 kick and Go2 along the goal, plus commitment plots); SAGE (lab carry photo grid; two G1s and a person with Vicon paths). Rejected unused YouTube marionette poster as the hero in favor of the hand render plus the spec sheet.
+- **Social:** tweets 584; robb-x 584
+- **Build:** PASS (astro build exit 0; 597 pages; new slugs rendered)
+- **Failures:** none. X list not usable (disclosed). Soft floor 2 met; wrote 6 of target 6.

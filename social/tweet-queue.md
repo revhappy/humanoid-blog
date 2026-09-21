@@ -14,8 +14,8 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-21T16:43:36.153Z
-Posts: 578
+Generated: 2026-09-21T21:14:33.197Z
+Posts: 584
 
 ---
 
@@ -82,6 +82,27 @@ https://mechafeed.com/blog/boston-dynamics-rmac-atlas/
 
 ---
 
+## DEXTERA Builds a Dexterous Policy from One Photo
+
+- **Slug:** `dextera-single-image-hands`
+- **Date:** 2026-09-21
+- **Category:** Research
+- **Article:** https://mechafeed.com/blog/dextera-single-image-hands/
+- **Chars:** 246/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=DEXTERA%20Builds%20a%20Dexterous%20Policy%20from%20One%20Photo%0A%0ADEXTERA%20turns%20one%20RGB%20photo%20into%20a%20dexterous-hand%20sim.%20Mixing%20in%20real%20data%20lifted%20success%20from%2029.2%25%20to%2061.9%25.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fdextera-single-image-hands%2F%0A%0A%23RoboticsResearch%20%23Humanoids)
+
+```
+DEXTERA Builds a Dexterous Policy from One Photo
+
+DEXTERA turns one RGB photo into a dexterous-hand sim. Mixing in real data lifted success from 29.2% to 61.9%.
+
+https://mechafeed.com/blog/dextera-single-image-hands/
+
+#RoboticsResearch #Humanoids
+```
+
+---
+
 ## FootQuery Looks Up the Stair Step the G1 Can No Longer See
 
 - **Slug:** `footquery-g1-stairs`
@@ -124,6 +145,27 @@ https://mechafeed.com/blog/foretac-vla/
 
 ---
 
+## A G1 and a Go2 Learn When a Penalty Kick Is Already Decided
+
+- **Slug:** `g1-go2-penalty-commitment`
+- **Date:** 2026-09-21
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/g1-go2-penalty-commitment/
+- **Chars:** 262/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20G1%20and%20a%20Go2%20Learn%20When%20a%20Penalty%20Kick%20Is%20Already%20Decided%0A%0ACMU%20researchers%20pit%20a%20Unitree%20G1%20shooter%20against%20a%20Go2%20keeper.%20A%20better%20read%20lifted%20the%20save%20rate%20from%200.240%20to%200.472.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fg1-go2-penalty-commitment%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+A G1 and a Go2 Learn When a Penalty Kick Is Already Decided
+
+CMU researchers pit a Unitree G1 shooter against a Go2 keeper. A better read lifted the save rate from 0.240 to 0.472.
+
+https://mechafeed.com/blog/g1-go2-penalty-commitment/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
 ## A G1 Ducks and Crawls Through Clutter It Learned in VR
 
 - **Slug:** `mtc-g1-clutter`
@@ -139,6 +181,48 @@ A G1 Ducks and Crawls Through Clutter It Learned in VR
 George Mason's MTC retargets VR demos onto a Unitree G1 that ducks, crawls, and side-steps real obstacles.
 
 https://mechafeed.com/blog/mtc-g1-clutter/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## PIVOT Lets a Warthog Ask GPT-5 When the Map Says Stop
+
+- **Slug:** `pivot-warthog-offroad`
+- **Date:** 2026-09-21
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/pivot-warthog-offroad/
+- **Chars:** 242/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=PIVOT%20Lets%20a%20Warthog%20Ask%20GPT-5%20When%20the%20Map%20Says%20Stop%0A%0AOn%20a%20Clearpath%20Warthog%2C%20PIVOT%20calls%20GPT-5%20only%20after%20geometry%20planning%20fails%2C%20and%20autonomy%20rose%20from%2059.6%25%20to%2097%25.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fpivot-warthog-offroad%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+PIVOT Lets a Warthog Ask GPT-5 When the Map Says Stop
+
+On a Clearpath Warthog, PIVOT calls GPT-5 only after geometry planning fails, and autonomy rose from 59.6% to 97%.
+
+https://mechafeed.com/blog/pivot-warthog-offroad/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Two G1s and a Person Carry the Same Table
+
+- **Slug:** `sage-g1-table-carry`
+- **Date:** 2026-09-21
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/sage-g1-table-carry/
+- **Chars:** 239/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Two%20G1s%20and%20a%20Person%20Carry%20the%20Same%20Table%0A%0ASAGE%20puts%20two%20Unitree%20G1s%20and%20a%20person%20on%20one%20carry.%20In%20simulation%20it%20reports%2071%25%20success%20and%20very%20few%20collision%20steps.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fsage-g1-table-carry%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Two G1s and a Person Carry the Same Table
+
+SAGE puts two Unitree G1s and a person on one carry. In simulation it reports 71% success and very few collision steps.
+
+https://mechafeed.com/blog/sage-g1-table-carry/
 
 #HumanoidRobots #Humanoids
 ```
@@ -162,6 +246,48 @@ Virginia Tech's soft arm shakes a sealed object, reads the ringdown, and regrasp
 https://mechafeed.com/blog/shake-to-learn-origami-arm/
 
 #Robotics #Humanoids
+```
+
+---
+
+## Unitree Dex5-S Is a 22-DoF Hand from $6,500
+
+- **Slug:** `unitree-dex5-s-hand`
+- **Date:** 2026-09-21
+- **Category:** Deals
+- **Article:** https://mechafeed.com/blog/unitree-dex5-s-hand/
+- **Chars:** 203/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Unitree%20Dex5-S%20Is%20a%2022-DoF%20Hand%20from%20%246%2C500%0A%0AUnitree's%20Dex5-S%20is%20a%20near-human-size%2022-DoF%20hand%20from%20%246%2C500%2C%20or%2039%2C900%20yuan%20in%20China.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Funitree-dex5-s-hand%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Unitree Dex5-S Is a 22-DoF Hand from $6,500
+
+Unitree's Dex5-S is a near-human-size 22-DoF hand from $6,500, or 39,900 yuan in China.
+
+https://mechafeed.com/blog/unitree-dex5-s-hand/
+
+#Robotics #Humanoids
+```
+
+---
+
+## VLA-Feedback Corrects the Action Before the Chunk Finishes
+
+- **Slug:** `vla-feedback-franka`
+- **Date:** 2026-09-21
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/vla-feedback-franka/
+- **Chars:** 229/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=VLA-Feedback%20Corrects%20the%20Action%20Before%20the%20Chunk%20Finishes%0A%0AVLA-Feedback%20fixes%20diffusion%20actions%20with%20a%20new%20camera%20frame.%20On%20a%20Franka%2C%20success%20rose%20from%2051%25%20to%2073%25.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fvla-feedback-franka%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+VLA-Feedback Corrects the Action Before the Chunk Finishes
+
+VLA-Feedback fixes diffusion actions with a new camera frame. On a Franka, success rose from 51% to 73%.
+
+https://mechafeed.com/blog/vla-feedback-franka/
+
+#AI #Humanoids
 ```
 
 ---
