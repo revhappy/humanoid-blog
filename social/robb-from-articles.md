@@ -3,9 +3,185 @@
 Generated from each post’s **A Human’s Take** — organic SOLO / SOFT-LINK seeds.
 Edit before posting. Prefer no link; soft-link only when the take needs the full piece.
 
-Generated: 2026-09-20T21:11:38.963Z
+Generated: 2026-09-21T16:43:37.693Z
 
 See also: `ROBB-ON-X.md` (voice) · `robb-organic-queue.md` (hand-tuned starter)
+
+---
+
+## AeRove Rolls on Its Prop Guards, Then Hops the Obstacle
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/aerove-pipeline-drone/
+
+### SOLO (no link)
+
+```
+Using the thing that usually wastes energy as the wheel is the kind of hardware joke I want more of.  Two amps of story, not twenty.
+```
+
+### SOFT-LINK variant
+
+```
+Using the thing that usually wastes energy as the wheel is the kind of hardware joke I want more of.  Two amps of story, not twenty.
+
+https://mechafeed.com/blog/aerove-pipeline-drone/
+```
+
+---
+
+## Bistable Suction Cups Let a Small Robot Tow 7.9 kg Up the Wall
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/bistable-suction-wall-climber/
+
+### SOLO (no link)
+
+```
+Passive grip is the right argument against a vacuum pump that has to stay on just so the robot does not fall off.  A 2.
+```
+
+### SOFT-LINK variant
+
+```
+Passive grip is the right argument against a vacuum pump that has to stay on just so the robot does not fall off.  A 2.
+
+https://mechafeed.com/blog/bistable-suction-wall-climber/
+```
+
+---
+
+## Atlas Is Training on Real Hyundai Parts in Savannah
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/boston-dynamics-rmac-atlas/
+
+### SOLO (no link)
+
+```
+A training hall next to a car plant is the right shape of problem.  Sequencing racks is boring, measurable, and full of the edge cases a demo stage never has.
+```
+
+### SOFT-LINK variant
+
+```
+A training hall next to a car plant is the right shape of problem.  Sequencing racks is boring, measurable, and full of the edge cases a demo stage never has.
+
+https://mechafeed.com/blog/boston-dynamics-rmac-atlas/
+```
+
+---
+
+## FootQuery Looks Up the Stair Step the G1 Can No Longer See
+
+- Author on blog: Robb Harlan
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/footquery-g1-stairs/
+
+### SOLO (no link)
+
+```
+Most "perceptive locomotion" papers show the robot looking at the obstacle it is about to hit.  The failure mode I actually see on stairs is the opposite.
+```
+
+### SOFT-LINK variant
+
+```
+Most "perceptive locomotion" papers show the robot looking at the obstacle it is about to hit.  The failure mode I actually see on stairs is the opposite.
+
+https://mechafeed.com/blog/footquery-g1-stairs/
+```
+
+---
+
+## ForeTac-VLA Guesses the Next Touch Before the Gripper Commits
+
+- Author on blog: Robb Harlan
+- Category: AI
+- Article: https://mechafeed.com/blog/foretac-vla/
+
+### SOLO (no link)
+
+```
+Vision policies fail in the half-second when the fingers are already on the part and the camera still thinks everything is aligned.  Forecasting the tactile image is a concrete way to admit that.
+```
+
+### SOFT-LINK variant
+
+```
+Vision policies fail in the half-second when the fingers are already on the part and the camera still thinks everything is aligned.  Forecasting the tactile image is a concrete way to admit that.
+
+https://mechafeed.com/blog/foretac-vla/
+```
+
+---
+
+## A G1 Ducks and Crawls Through Clutter It Learned in VR
+
+- Author on blog: Shar Hendrix
+- Category: Humanoids
+- Article: https://mechafeed.com/blog/mtc-g1-clutter/
+
+### SOLO (no link)
+
+```
+I like that the training world is fake and the test robot is not.  Five-out-of-five ducks on a real G1 is a cleaner receipt than another sim montage.
+```
+
+### SOFT-LINK variant
+
+```
+I like that the training world is fake and the test robot is not.  Five-out-of-five ducks on a real G1 is a cleaner receipt than another sim montage.
+
+https://mechafeed.com/blog/mtc-g1-clutter/
+```
+
+---
+
+## An Origami Arm Shakes a Box to Find the Hidden Weight
+
+- Author on blog: Shar Hendrix
+- Category: Robotics
+- Article: https://mechafeed.com/blog/shake-to-learn-origami-arm/
+
+### SOLO (no link)
+
+```
+Kids already do this with a present.  The interesting part is that the arm is the sensor.
+```
+
+### SOFT-LINK variant
+
+```
+Kids already do this with a present.  The interesting part is that the arm is the sensor.
+
+https://mechafeed.com/blog/shake-to-learn-origami-arm/
+```
+
+---
+
+## This Biped Waddles Faster When the Floor Gets Slippery
+
+- Author on blog: Robb Harlan
+- Category: Robotics
+- Article: https://mechafeed.com/blog/when-to-waddle-penguin-biped/
+
+### SOLO (no link)
+
+```
+The useful sentence is not "penguins are efficient. " It is that the same body wants a different gait when mu changes from 0.
+```
+
+### SOFT-LINK variant
+
+```
+The useful sentence is not "penguins are efficient. " It is that the same body wants a different gait when mu changes from 0.
+
+https://mechafeed.com/blog/when-to-waddle-penguin-biped/
+```
 
 ---
 

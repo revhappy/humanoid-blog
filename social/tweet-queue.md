@@ -14,8 +14,176 @@ Auto-generated from blog frontmatter. **No X API required.**
 - **Easiest:** point Buffer/Typefully/RSS.app at `https://mechafeed.com/rss.xml`
 - **API:** only if you want fully unattended posts — costs money and needs a developer app (not required)
 
-Generated: 2026-09-20T21:11:38.104Z
-Posts: 570
+Generated: 2026-09-21T16:43:36.153Z
+Posts: 578
+
+---
+
+## AeRove Rolls on Its Prop Guards, Then Hops the Obstacle
+
+- **Slug:** `aerove-pipeline-drone`
+- **Date:** 2026-09-21
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/aerove-pipeline-drone/
+- **Chars:** 245/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=AeRove%20Rolls%20on%20Its%20Prop%20Guards%2C%20Then%20Hops%20the%20Obstacle%0A%0ANJIT's%20AeRove%20uses%20propeller%20guards%20as%20wheels%2C%20flips%20between%20drive%20and%20flight%20in%20200%20ms%2C%20and%20inspects%20a%20steel%20pipe.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Faerove-pipeline-drone%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+AeRove Rolls on Its Prop Guards, Then Hops the Obstacle
+
+NJIT's AeRove uses propeller guards as wheels, flips between drive and flight in 200 ms, and inspects a steel pipe.
+
+https://mechafeed.com/blog/aerove-pipeline-drone/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Bistable Suction Cups Let a Small Robot Tow 7.9 kg Up the Wall
+
+- **Slug:** `bistable-suction-wall-climber`
+- **Date:** 2026-09-21
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/bistable-suction-wall-climber/
+- **Chars:** 263/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Bistable%20Suction%20Cups%20Let%20a%20Small%20Robot%20Tow%207.9%20kg%20Up%20the%20Wall%0A%0AA%20University%20of%20Michigan%20climber%20sticks%20with%20passive%20bistable%20cups%20and%20tows%207.940%20kg%20on%20glass%2C%20wood%2C%20metal%2C%20and%20paint.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fbistable-suction-wall-climber%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+Bistable Suction Cups Let a Small Robot Tow 7.9 kg Up the Wall
+
+A University of Michigan climber sticks with passive bistable cups and tows 7.940 kg on glass, wood, metal, and paint.
+
+https://mechafeed.com/blog/bistable-suction-wall-climber/
+
+#Robotics #Humanoids
+```
+
+---
+
+## Atlas Is Training on Real Hyundai Parts in Savannah
+
+- **Slug:** `boston-dynamics-rmac-atlas`
+- **Date:** 2026-09-21
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/boston-dynamics-rmac-atlas/
+- **Chars:** 244/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=Atlas%20Is%20Training%20on%20Real%20Hyundai%20Parts%20in%20Savannah%0A%0ABoston%20Dynamics%20opened%20a%20Savannah%20center%20where%20Atlas%20practices%20sequencing%20parts%20beside%20Hyundai's%20Metaplant.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fboston-dynamics-rmac-atlas%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+Atlas Is Training on Real Hyundai Parts in Savannah
+
+Boston Dynamics opened a Savannah center where Atlas practices sequencing parts beside Hyundai's Metaplant.
+
+https://mechafeed.com/blog/boston-dynamics-rmac-atlas/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## FootQuery Looks Up the Stair Step the G1 Can No Longer See
+
+- **Slug:** `footquery-g1-stairs`
+- **Date:** 2026-09-21
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/footquery-g1-stairs/
+- **Chars:** 239/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=FootQuery%20Looks%20Up%20the%20Stair%20Step%20the%20G1%20Can%20No%20Longer%20See%0A%0AA%20Tsinghua%20policy%20predicts%20each%20G1%20foot's%20next%20touchdown%20and%20pulls%20that%20patch%20from%20older%20depth%20frames.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Ffootquery-g1-stairs%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+FootQuery Looks Up the Stair Step the G1 Can No Longer See
+
+A Tsinghua policy predicts each G1 foot's next touchdown and pulls that patch from older depth frames.
+
+https://mechafeed.com/blog/footquery-g1-stairs/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## ForeTac-VLA Guesses the Next Touch Before the Gripper Commits
+
+- **Slug:** `foretac-vla`
+- **Date:** 2026-09-21
+- **Category:** AI
+- **Article:** https://mechafeed.com/blog/foretac-vla/
+- **Chars:** 215/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=ForeTac-VLA%20Guesses%20the%20Next%20Touch%20Before%20the%20Gripper%20Commits%0A%0AA%20Texas%20A%26M%20model%20forecasts%20tactile%20frames%20and%20reaches%2095%25%20on%20peg%2C%20chip%2C%20cap%2C%20and%20wiping%20tasks.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fforetac-vla%2F%0A%0A%23AI%20%23Humanoids)
+
+```
+ForeTac-VLA Guesses the Next Touch Before the Gripper Commits
+
+A Texas A&M model forecasts tactile frames and reaches 95% on peg, chip, cap, and wiping tasks.
+
+https://mechafeed.com/blog/foretac-vla/
+
+#AI #Humanoids
+```
+
+---
+
+## A G1 Ducks and Crawls Through Clutter It Learned in VR
+
+- **Slug:** `mtc-g1-clutter`
+- **Date:** 2026-09-21
+- **Category:** Humanoids
+- **Article:** https://mechafeed.com/blog/mtc-g1-clutter/
+- **Chars:** 234/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=A%20G1%20Ducks%20and%20Crawls%20Through%20Clutter%20It%20Learned%20in%20VR%0A%0AGeorge%20Mason's%20MTC%20retargets%20VR%20demos%20onto%20a%20Unitree%20G1%20that%20ducks%2C%20crawls%2C%20and%20side-steps%20real%20obstacles.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fmtc-g1-clutter%2F%0A%0A%23HumanoidRobots%20%23Humanoids)
+
+```
+A G1 Ducks and Crawls Through Clutter It Learned in VR
+
+George Mason's MTC retargets VR demos onto a Unitree G1 that ducks, crawls, and side-steps real obstacles.
+
+https://mechafeed.com/blog/mtc-g1-clutter/
+
+#HumanoidRobots #Humanoids
+```
+
+---
+
+## An Origami Arm Shakes a Box to Find the Hidden Weight
+
+- **Slug:** `shake-to-learn-origami-arm`
+- **Date:** 2026-09-21
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/shake-to-learn-origami-arm/
+- **Chars:** 238/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=An%20Origami%20Arm%20Shakes%20a%20Box%20to%20Find%20the%20Hidden%20Weight%0A%0AVirginia%20Tech's%20soft%20arm%20shakes%20a%20sealed%20object%2C%20reads%20the%20ringdown%2C%20and%20regrasps%20toward%20the%20hidden%20mass.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fshake-to-learn-origami-arm%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+An Origami Arm Shakes a Box to Find the Hidden Weight
+
+Virginia Tech's soft arm shakes a sealed object, reads the ringdown, and regrasps toward the hidden mass.
+
+https://mechafeed.com/blog/shake-to-learn-origami-arm/
+
+#Robotics #Humanoids
+```
+
+---
+
+## This Biped Waddles Faster When the Floor Gets Slippery
+
+- **Slug:** `when-to-waddle-penguin-biped`
+- **Date:** 2026-09-21
+- **Category:** Robotics
+- **Article:** https://mechafeed.com/blog/when-to-waddle-penguin-biped/
+- **Chars:** 245/280
+- **Post on X:** [Open compose](https://twitter.com/intent/tweet?text=This%20Biped%20Waddles%20Faster%20When%20the%20Floor%20Gets%20Slippery%0A%0AA%2054%20cm%2C%20five-motor%20biped%20from%20CMU%20walks%20faster%20on%20slippery%20plastic%20when%20its%20torso%20rolls%20over%20the%20stance%20leg.%0A%0Ahttps%3A%2F%2Fmechafeed.com%2Fblog%2Fwhen-to-waddle-penguin-biped%2F%0A%0A%23Robotics%20%23Humanoids)
+
+```
+This Biped Waddles Faster When the Floor Gets Slippery
+
+A 54 cm, five-motor biped from CMU walks faster on slippery plastic when its torso rolls over the stance leg.
+
+https://mechafeed.com/blog/when-to-waddle-penguin-biped/
+
+#Robotics #Humanoids
+```
 
 ---
 

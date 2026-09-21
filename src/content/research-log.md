@@ -5792,3 +5792,73 @@ pm run verify-media:today — 0 errors, 0 warnings on 7 posts dated 2026-09-19)
 - **Build:** skipped this slot (frontmatter matches schema; morning build already green). Fix-or-draft if CI fails.
 - **Failures:** none. Soft floor 2 met; wrote 6 of target 6. X list not usable (disclosed). CLIMB bicopters held for a second still.
 
+
+## 2026-09-21 — Daily Scheduled Pipeline (Morning)
+
+### Preflight
+- Slot: **Morning** | Target: 8 | Hard max: 8 | Soft floor: 3 (from logs/pipeline-slot.json, startedAt 2026-09-21T09:25:45-07:00)
+- Date (Pacific): 2026-09-21
+- git pull --rebase origin main: already up to date
+- Last published: 2026-09-20 afternoon (qiyuan-q1-t1-sale, mit-robotic-optics-lab, neptune-triton-1-fda, opendexgrasp, traceflow, graph-soft-grippers) plus morning 8. **Do not rehash.** No 2026-09-21 posts before this run.
+- X list https://x.com/i/lists/1805786050763087967: **not usable**. Fetch returned an X error page, not the list. Owner lists at x.com/robbs2k/lists not loaded. Disclosed here; proceeded with public X keyword search + web.
+
+### X List Scan
+- Curated list feed **not usable** this session (disclosed above)
+- Public X keyword (since 2026-09-19): recirc and unsourced booth clips (unnamed conveyor humanoid, 1X 50k / China IPO chatter, Skild one-demo claim without a primary). No list-native lead became an article.
+- Public X did not surface the Boston Dynamics RMAC release ahead of the web scan.
+
+### Web Search Findings
+1. **[CANDIDATE/WRITTEN]** Boston Dynamics RMAC at Hyundai Metaplant America, Savannah, Sept 21 — bostondynamics.com press + A3 automate.org — lane: **build** (training cell and sequencing task; unit targets are one paragraph of context, not the lede)
+2. **[CANDIDATE/WRITTEN]** MTC VR-to-G1 clutter locomotion — arXiv:2609.21107 (submitted 17 Sep, on the 21 Sep cs.RO new list) — lane: **build**
+3. **[CANDIDATE/WRITTEN]** AeRove pipe-rolling / flying drone — arXiv:2609.20965 — lane: **build**
+4. **[CANDIDATE/WRITTEN]** ForeTac-VLA tactile forecast, 95% on four tasks — arXiv:2609.20980 + foretac-vla.github.io — lane: **build**
+5. **[CANDIDATE/WRITTEN]** Shake-to-learn origami reservoir arm — arXiv:2609.20970 — lane: **build**
+6. **[CANDIDATE/WRITTEN]** When to Waddle penguin biped on low friction — arXiv:2609.21185 — lane: **build**
+7. **[CANDIDATE/WRITTEN]** Michigan bistable suction wall climber, 7.940 kg tow — arXiv:2609.21584 + project page + YouTube xeWG5IHMbxI — lane: **build**
+8. **[CANDIDATE/WRITTEN]** FootQuery depth-history footholds on G1 — arXiv:2609.21447 — lane: **build**
+9. **[SKIP: already covered]** Faraday 919 / Master Mini (9/20); Helix 2.5; Digit 5; XPENG IRON line walk-off; OpenDexGrasp; Figure 04 interview (no specs)
+10. **[SKIP: unverified / thin]** Sparsh-1 Bengaluru prototype (RobotWale only; prior log already flagged RobotWale pricing as unverified)
+11. **[SKIP: business lane / not needed]** IFR ~7,000 humanoid sales 2025; Hyundai Czech Atlas interest (no date, count, or task); China IPO slowdown chatter; 1X 50k NEO
+12. **[SKIP: announced 9/10, start date only]** Cuebus x Yazaki x Yamazen demo calendar start 21 Sep — no new same-day result, stills, or named humanoid model beyond the September 10 release
+13. **[SKIP: TRR 403]** The Robot Report RMAC page returned 403; Jackowski "behavior factory" / UMI details from search snippets were not used
+14. **[SKIP: held again]** WorMa second still still not in hand; Dynamic Creatures still not given a robot still from a fetched story page this run
+
+### Selected for Writing (ranked)
+| # | slug | author | category | lane |
+|---|------|--------|----------|------|
+| 1 | boston-dynamics-rmac-atlas | Robb Harlan | Humanoids | build |
+| 2 | mtc-g1-clutter | Shar Hendrix | Humanoids | build |
+| 3 | aerove-pipeline-drone | Shar Hendrix | Robotics | build |
+| 4 | foretac-vla | Robb Harlan | AI | build |
+| 5 | shake-to-learn-origami-arm | Shar Hendrix | Robotics | build |
+| 6 | when-to-waddle-penguin-biped | Robb Harlan | Robotics | build |
+| 7 | bistable-suction-wall-climber | Shar Hendrix | Robotics | build |
+| 8 | footquery-g1-stairs | Robb Harlan | Humanoids | build |
+
+### Mix check
+- Build/innovate: 8 | Business/industry: 0 | Business share: 0% (≤25%)
+- RMAC counted as **build**: lede and bulk are the Savannah training cell, the sequencing task, and the teleop photo. The 25,000-unit and 30,000-a-year lines are one sourced paragraph, not the story.
+
+### Volume note
+- Slot: Morning | Target: 8 | Hard max: 8 | Soft floor: 3 | Solid candidates with primary + second URL and matching stills: **8** | Writing: **8**
+- Soft floor 3 met. Hit target 8. Did not rehash 9/20 or 9/19 posts.
+
+### Notes for Future Agents
+- Do not rewrite RMAC opening, MTC, AeRove, ForeTac-VLA, Shake-to-Learn, When to Waddle, bistable wall climber, or FootQuery
+- Do not rewrite 9/20 fourteen or 9/19 thirteen
+- Cuebus x Yazaki x Yamazen still needs a same-day result (named humanoid, footage, or measured handoff), not a reprint of the Sept 10 release
+- WorMa and Dynamic Creatures still need a second / non-founder still
+- Czech Atlas interest is thin until a date, count, or task is published
+- The Robot Report blocked this session (403) on the RMAC URL
+
+### Run summary
+- **Articles published (8):** boston-dynamics-rmac-atlas, mtc-g1-clutter, aerove-pipeline-drone, foretac-vla, shake-to-learn-origami-arm, when-to-waddle-penguin-biped, bistable-suction-wall-climber, footquery-g1-stairs
+- **pubDate:** 2026-09-21
+- **Skipped candidates:** Sparsh-1 (single unverified outlet), IFR sales count, Czech Atlas interest, Cuebus start-without-new-result, Faraday/IRON/OpenDexGrasp/Helix recirc, WorMa, Dynamic Creatures
+- **X list accessible?** N (error page; public X + web)
+- **Media verify:** PASS (`node scripts/verify-article-media.mjs --today` — 0 errors, 0 warnings on 8 posts dated 2026-09-21)
+- **Vision gate:** confirmed before write — RMAC (Atlas fleet at a blue vehicle + headset trainer with Atlas in a cell); MTC (real G1 side-step and step-over strip, VR-to-policy diagram, W=1 vs W=80 squeeze); AeRove (guard-as-wheel transition on a duct + flight/rover pair); ForeTac (UR7e tactile bench + four-task grid); Shake-to-learn (method figure + labeled origami arm); Waddle (Pengu hardware + six-config gait grid); Wall climber (glass/wood/steel/paint/whiteboard/underside + cup pull-off rig); FootQuery (outdoor G1 route + stair depth-history figure). Rejected unused CMYK energy-well diagram (wall-climb-bistable-2.jpg), not published.
+- **Social:** tweets 578; robb-x 578
+- **Build:** PASS (astro build exit 0; 591 pages; new slugs rendered)
+- **Failures:** none. TRR 403, so RMAC secondary is A3, not The Robot Report. X list not usable (disclosed). Soft floor 3 met; wrote 8 of target 8.
+
